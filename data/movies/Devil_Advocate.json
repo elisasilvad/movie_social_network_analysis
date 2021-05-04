@@ -1,0 +1,1427 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "BOY",
+        "target": "KEVIN",
+        "weight": 2
+      },
+      {
+        "source": "MAN #1",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "MAN #1",
+        "target": "MAN #2",
+        "weight": 1
+      },
+      {
+        "source": "MAN #1",
+        "target": "MARY ANN",
+        "weight": 1
+      },
+      {
+        "source": "BARBARA",
+        "target": "JUDGE",
+        "weight": 2
+      },
+      {
+        "source": "BARBARA",
+        "target": "PROSECUTOR",
+        "weight": 2
+      },
+      {
+        "source": "BARBARA",
+        "target": "MARY ANN",
+        "weight": 1
+      },
+      {
+        "source": "BARBARA",
+        "target": "KEVIN",
+        "weight": 1
+      },
+      {
+        "source": "JUDGE SKLAR",
+        "target": "KEVIN",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER",
+        "target": "WEAVER",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER",
+        "target": "REPORTER #2",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER",
+        "target": "MARY ANN",
+        "weight": 2
+      },
+      {
+        "source": "REPORTER",
+        "target": "REPORTER #3",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER",
+        "target": "KEVIN",
+        "weight": 4
+      },
+      {
+        "source": "REPORTER",
+        "target": "LAWYER #1",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER",
+        "target": "BARZOON",
+        "weight": 1
+      },
+      {
+        "source": "PROSECUTOR",
+        "target": "JUDGE",
+        "weight": 2
+      },
+      {
+        "source": "PROSECUTOR",
+        "target": "MARY ANN",
+        "weight": 1
+      },
+      {
+        "source": "PROSECUTOR",
+        "target": "KEVIN",
+        "weight": 1
+      },
+      {
+        "source": "FEENEY",
+        "target": "MILTON",
+        "weight": 1
+      },
+      {
+        "source": "FEENEY",
+        "target": "MRS LOMAX",
+        "weight": 1
+      },
+      {
+        "source": "FEENEY",
+        "target": "MARY ANN",
+        "weight": 1
+      },
+      {
+        "source": "FEENEY",
+        "target": "KEVIN",
+        "weight": 2
+      },
+      {
+        "source": "HEATH",
+        "target": "MILTON",
+        "weight": 1
+      },
+      {
+        "source": "HEATH",
+        "target": "MELISSA",
+        "weight": 1
+      },
+      {
+        "source": "HEATH",
+        "target": "PAM",
+        "weight": 2
+      },
+      {
+        "source": "HEATH",
+        "target": "KEVIN",
+        "weight": 5
+      },
+      {
+        "source": "HEATH",
+        "target": "LAWYER #1",
+        "weight": 1
+      },
+      {
+        "source": "HEATH",
+        "target": "JACKIE",
+        "weight": 2
+      },
+      {
+        "source": "HEATH",
+        "target": "CHRISTABELLA",
+        "weight": 1
+      },
+      {
+        "source": "HEATH",
+        "target": "MARY ANN",
+        "weight": 1
+      },
+      {
+        "source": "HEATH",
+        "target": "MEISEL",
+        "weight": 1
+      },
+      {
+        "source": "HEATH",
+        "target": "BARZOON",
+        "weight": 1
+      },
+      {
+        "source": "MOYEZ",
+        "target": "MILTON",
+        "weight": 1
+      },
+      {
+        "source": "MOYEZ",
+        "target": "KEVIN",
+        "weight": 1
+      },
+      {
+        "source": "MAN #2",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "MAN #2",
+        "target": "MARY ANN",
+        "weight": 1
+      },
+      {
+        "source": "OLD MAN",
+        "target": "BARZOON",
+        "weight": 1
+      },
+      {
+        "source": "WEAVER",
+        "target": "REPORTER #2",
+        "weight": 1
+      },
+      {
+        "source": "WEAVER",
+        "target": "REPORTER #3",
+        "weight": 1
+      },
+      {
+        "source": "WEAVER",
+        "target": "KEVIN",
+        "weight": 2
+      },
+      {
+        "source": "WEAVER",
+        "target": "WOMAN JUDGE",
+        "weight": 1
+      },
+      {
+        "source": "WEAVER",
+        "target": "BARZOON",
+        "weight": 1
+      },
+      {
+        "source": "MEISEL",
+        "target": "KEVIN",
+        "weight": 1
+      },
+      {
+        "source": "PAM",
+        "target": "MELISSA",
+        "weight": 1
+      },
+      {
+        "source": "PAM",
+        "target": "KEVIN",
+        "weight": 5
+      },
+      {
+        "source": "PAM",
+        "target": "LAWYER #1",
+        "weight": 1
+      },
+      {
+        "source": "PAM",
+        "target": "MRS LOMAX",
+        "weight": 1
+      },
+      {
+        "source": "PAM",
+        "target": "CHRISTABELLA",
+        "weight": 2
+      },
+      {
+        "source": "PAM",
+        "target": "MARY ANN",
+        "weight": 1
+      },
+      {
+        "source": "KEVIN",
+        "target": "CHINESE MAN",
+        "weight": 1
+      },
+      {
+        "source": "KEVIN",
+        "target": "JUDGE",
+        "weight": 2
+      },
+      {
+        "source": "KEVIN",
+        "target": "JACKIE",
+        "weight": 3
+      },
+      {
+        "source": "KEVIN",
+        "target": "CHRISTABELLA",
+        "weight": 7
+      },
+      {
+        "source": "KEVIN",
+        "target": "ORDERLY #1",
+        "weight": 2
+      },
+      {
+        "source": "KEVIN",
+        "target": "THERAPIST",
+        "weight": 1
+      },
+      {
+        "source": "KEVIN",
+        "target": "GETTYS",
+        "weight": 1
+      },
+      {
+        "source": "KEVIN",
+        "target": "DIANA",
+        "weight": 1
+      },
+      {
+        "source": "KEVIN",
+        "target": "BAILIFF",
+        "weight": 1
+      },
+      {
+        "source": "KEVIN",
+        "target": "JUDGE POE",
+        "weight": 2
+      },
+      {
+        "source": "KEVIN",
+        "target": "TECHNICIAN",
+        "weight": 1
+      },
+      {
+        "source": "KEVIN",
+        "target": "MRS LOMAX",
+        "weight": 6
+      },
+      {
+        "source": "KEVIN",
+        "target": "JUNKIE",
+        "weight": 1
+      },
+      {
+        "source": "KEVIN",
+        "target": "CULLEN",
+        "weight": 3
+      },
+      {
+        "source": "KEVIN",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "KEVIN",
+        "target": "MILTON",
+        "weight": 13
+      },
+      {
+        "source": "KEVIN",
+        "target": "REPORTER #2",
+        "weight": 1
+      },
+      {
+        "source": "KEVIN",
+        "target": "BARZOON",
+        "weight": 3
+      },
+      {
+        "source": "KEVIN",
+        "target": "REPORTER #3",
+        "weight": 1
+      },
+      {
+        "source": "KEVIN",
+        "target": "BIG GUY",
+        "weight": 1
+      },
+      {
+        "source": "KEVIN",
+        "target": "LAWYER #1",
+        "weight": 1
+      },
+      {
+        "source": "KEVIN",
+        "target": "MELISSA",
+        "weight": 2
+      },
+      {
+        "source": "KEVIN",
+        "target": "DANCER",
+        "weight": 1
+      },
+      {
+        "source": "KEVIN",
+        "target": "MARY ANN",
+        "weight": 14
+      },
+      {
+        "source": "KEVIN",
+        "target": "GISELLE",
+        "weight": 1
+      },
+      {
+        "source": "JUDGE",
+        "target": "BAILIFF",
+        "weight": 1
+      },
+      {
+        "source": "JUDGE",
+        "target": "MARY ANN",
+        "weight": 1
+      },
+      {
+        "source": "JACKIE",
+        "target": "DIANA",
+        "weight": 2
+      },
+      {
+        "source": "JACKIE",
+        "target": "MILTON",
+        "weight": 1
+      },
+      {
+        "source": "JACKIE",
+        "target": "CHRISTABELLA",
+        "weight": 1
+      },
+      {
+        "source": "JACKIE",
+        "target": "MARY ANN",
+        "weight": 2
+      },
+      {
+        "source": "CHRISTABELLA",
+        "target": "LAWYER #2",
+        "weight": 1
+      },
+      {
+        "source": "CHRISTABELLA",
+        "target": "GISELLE",
+        "weight": 1
+      },
+      {
+        "source": "CHRISTABELLA",
+        "target": "MILTON",
+        "weight": 5
+      },
+      {
+        "source": "CHRISTABELLA",
+        "target": "MELISSA",
+        "weight": 1
+      },
+      {
+        "source": "CHRISTABELLA",
+        "target": "BARZOON",
+        "weight": 1
+      },
+      {
+        "source": "CHRISTABELLA",
+        "target": "LAWYER #1",
+        "weight": 1
+      },
+      {
+        "source": "CHRISTABELLA",
+        "target": "MRS LOMAX",
+        "weight": 1
+      },
+      {
+        "source": "CHRISTABELLA",
+        "target": "MARY ANN",
+        "weight": 1
+      },
+      {
+        "source": "ORDERLY #1",
+        "target": "MRS LOMAX",
+        "weight": 1
+      },
+      {
+        "source": "THERAPIST",
+        "target": "CULLEN",
+        "weight": 1
+      },
+      {
+        "source": "DIANA",
+        "target": "MILTON",
+        "weight": 1
+      },
+      {
+        "source": "DIANA",
+        "target": "MARY ANN",
+        "weight": 2
+      },
+      {
+        "source": "DIANA",
+        "target": "BARZOON",
+        "weight": 1
+      },
+      {
+        "source": "BAILIFF",
+        "target": "MARY ANN",
+        "weight": 1
+      },
+      {
+        "source": "MRS LOMAX",
+        "target": "MILTON",
+        "weight": 1
+      },
+      {
+        "source": "MRS LOMAX",
+        "target": "MARY ANN",
+        "weight": 2
+      },
+      {
+        "source": "MRS LOMAX",
+        "target": "GISELLE",
+        "weight": 1
+      },
+      {
+        "source": "DON KING",
+        "target": "MILTON",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN JUDGE",
+        "target": "BARZOON",
+        "weight": 1
+      },
+      {
+        "source": "CULLEN",
+        "target": "MILTON",
+        "weight": 1
+      },
+      {
+        "source": "CULLEN",
+        "target": "BARZOON",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "MARY ANN",
+        "weight": 1
+      },
+      {
+        "source": "MILTON",
+        "target": "GISELLE",
+        "weight": 1
+      },
+      {
+        "source": "MILTON",
+        "target": "BARZOON",
+        "weight": 3
+      },
+      {
+        "source": "MILTON",
+        "target": "BIG GUY",
+        "weight": 1
+      },
+      {
+        "source": "MILTON",
+        "target": "LAWYER #1",
+        "weight": 1
+      },
+      {
+        "source": "MILTON",
+        "target": "CHINESE MAN",
+        "weight": 1
+      },
+      {
+        "source": "MILTON",
+        "target": "LAWYER #2",
+        "weight": 1
+      },
+      {
+        "source": "MILTON",
+        "target": "MARY ANN",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER #2",
+        "target": "BARZOON",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER #2",
+        "target": "REPORTER #3",
+        "weight": 1
+      },
+      {
+        "source": "BARZOON",
+        "target": "LAWYER #2",
+        "weight": 1
+      },
+      {
+        "source": "BARZOON",
+        "target": "REPORTER #3",
+        "weight": 1
+      },
+      {
+        "source": "BARZOON",
+        "target": "LAWYER #1",
+        "weight": 1
+      },
+      {
+        "source": "BARZOON",
+        "target": "MARY ANN",
+        "weight": 1
+      },
+      {
+        "source": "LAWYER #1",
+        "target": "MELISSA",
+        "weight": 1
+      },
+      {
+        "source": "LAWYER #1",
+        "target": "LAWYER #2",
+        "weight": 1
+      },
+      {
+        "source": "LAWYER #1",
+        "target": "MARY ANN",
+        "weight": 1
+      },
+      {
+        "source": "MARY ANN",
+        "target": "GISELLE",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "BOY",
+        "name": "BOY",
+        "color": "#F2A468",
+        "group": 4,
+        "degree": 1,
+        "pagerank": 0.007439959858059196,
+        "object_id": "1529503",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.119047619047619,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAN #1",
+        "name": "MAN #1",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.01166010652838108,
+        "object_id": "1530710",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.4523809523809526,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BARBARA",
+        "name": "BARBARA",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.016651635593743382,
+        "object_id": "1527539",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JUDGE SKLAR",
+        "name": "JUDGE SKLAR",
+        "color": "#F2A468",
+        "group": 4,
+        "degree": 1,
+        "pagerank": 0.005464165975541226,
+        "object_id": "1529824",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.119047619047619,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REPORTER",
+        "name": "REPORTER",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 7,
+        "pagerank": 0.02669103129149684,
+        "object_id": "1527759",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8571428571428572,
+        "betweenness centrality": 3.499999999999999,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PROSECUTOR",
+        "name": "PROSECUTOR",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.016651635593743382,
+        "object_id": "1527544",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FEENEY",
+        "name": "FEENEY",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.013212591312720531,
+        "object_id": "1532361",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9523809523809523,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HEATH",
+        "name": "HEATH",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 10,
+        "pagerank": 0.03605901642539576,
+        "object_id": "1528160",
+        "triangles": 28,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7619047619047619,
+        "betweenness centrality": 10.392857142857142,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MOYEZ",
+        "name": "MOYEZ",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.007400713381829971,
+        "object_id": "1529545",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0476190476190474,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAN #2",
+        "name": "MAN #2",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.01166010652838108,
+        "object_id": "1530718",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.4523809523809526,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OLD MAN",
+        "name": "OLD MAN",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.005607745466274409,
+        "object_id": "1533539",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.619047619047619,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WEAVER",
+        "name": "WEAVER",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 6,
+        "pagerank": 0.019981505295017844,
+        "object_id": "1532750",
+        "triangles": 11,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9285714285714286,
+        "betweenness centrality": 10.492857142857142,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MEISEL",
+        "name": "MEISEL",
+        "color": "#F2A468",
+        "group": 4,
+        "degree": 2,
+        "pagerank": 0.007379768552719422,
+        "object_id": "1528451",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0952380952380953,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PAM",
+        "name": "PAM",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 7,
+        "pagerank": 0.02882946991559072,
+        "object_id": "1529360",
+        "triangles": 17,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9047619047619047,
+        "betweenness centrality": 1.2666666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KEVIN",
+        "name": "KEVIN",
+        "color": "#F2A468",
+        "group": 4,
+        "degree": 36,
+        "pagerank": 0.2231402400986491,
+        "object_id": "1527699",
+        "triangles": 71,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.1428571428571428,
+        "betweenness centrality": 534.8357142857143,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JUDGE",
+        "name": "JUDGE",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 5,
+        "pagerank": 0.02150860402520865,
+        "object_id": "1527695",
+        "triangles": 8,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9761904761904763,
+        "betweenness centrality": 0.6666666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JACKIE",
+        "name": "JACKIE",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 6,
+        "pagerank": 0.024976838878123554,
+        "object_id": "1529114",
+        "triangles": 13,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9047619047619047,
+        "betweenness centrality": 0.4,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CHRISTABELLA",
+        "name": "CHRISTABELLA",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 12,
+        "pagerank": 0.04935781216366664,
+        "object_id": "1529265",
+        "triangles": 38,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7142857142857142,
+        "betweenness centrality": 15.276190476190477,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ORDERLY #1",
+        "name": "ORDERLY #1",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.009377282073098143,
+        "object_id": "1534764",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0952380952380953,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THERAPIST",
+        "name": "THERAPIST",
+        "color": "#F2A468",
+        "group": 4,
+        "degree": 2,
+        "pagerank": 0.00784489996130583,
+        "object_id": "1532305",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0952380952380953,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GETTYS",
+        "name": "GETTYS",
+        "color": "#F2A468",
+        "group": 4,
+        "degree": 1,
+        "pagerank": 0.005464165975541226,
+        "object_id": "1527716",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.119047619047619,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DIANA",
+        "name": "DIANA",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.01717761091869713,
+        "object_id": "1530218",
+        "triangles": 9,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.880952380952381,
+        "betweenness centrality": 0.47619047619047616,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BAILIFF",
+        "name": "BAILIFF",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.009648236208296676,
+        "object_id": "1535730",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0238095238095237,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JUDGE POE",
+        "name": "JUDGE POE",
+        "color": "#F2A468",
+        "group": 4,
+        "degree": 1,
+        "pagerank": 0.007439959858059196,
+        "object_id": "1533109",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.119047619047619,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TECHNICIAN",
+        "name": "TECHNICIAN",
+        "color": "#F2A468",
+        "group": 4,
+        "degree": 1,
+        "pagerank": 0.005464165975541226,
+        "object_id": "1533219",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.119047619047619,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MRS LOMAX",
+        "name": "MRS LOMAX",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 8,
+        "pagerank": 0.03190948381097354,
+        "object_id": "1528266",
+        "triangles": 17,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8571428571428572,
+        "betweenness centrality": 5.916666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DON KING",
+        "name": "DON KING",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.005424919499312002,
+        "object_id": "1531941",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.5714285714285716,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WOMAN JUDGE",
+        "name": "WOMAN JUDGE",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.008034017586225656,
+        "object_id": "1532763",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.5952380952380953,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JUNKIE",
+        "name": "JUNKIE",
+        "color": "#F2A468",
+        "group": 4,
+        "degree": 1,
+        "pagerank": 0.005464165975541226,
+        "object_id": "1529438",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.119047619047619,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CULLEN",
+        "name": "CULLEN",
+        "color": "#F2A468",
+        "group": 4,
+        "degree": 4,
+        "pagerank": 0.0168057102636421,
+        "object_id": "1530951",
+        "triangles": 4,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9523809523809523,
+        "betweenness centrality": 2.6666666666666665,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WOMAN",
+        "name": "WOMAN",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.013970915699907951,
+        "object_id": "1529479",
+        "triangles": 4,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 14.666666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MILTON",
+        "name": "MILTON",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 17,
+        "pagerank": 0.07974303843214453,
+        "object_id": "1528779",
+        "triangles": 41,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.5952380952380953,
+        "betweenness centrality": 86.87619047619049,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CHINESE MAN",
+        "name": "CHINESE MAN",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.007400713381829972,
+        "object_id": "1530051",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0476190476190474,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REPORTER #2",
+        "name": "REPORTER #2",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.01454488100416487,
+        "object_id": "1532873",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9523809523809523,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BARZOON",
+        "name": "BARZOON",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 15,
+        "pagerank": 0.04737461511090773,
+        "object_id": "1529253",
+        "triangles": 36,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.6428571428571428,
+        "betweenness centrality": 96.15714285714284,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REPORTER #3",
+        "name": "REPORTER #3",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.014544881004164872,
+        "object_id": "1532880",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9523809523809523,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BIG GUY",
+        "name": "BIG GUY",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.007400713381829972,
+        "object_id": "1531839",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0476190476190474,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LAWYER #1",
+        "name": "LAWYER #1",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 10,
+        "pagerank": 0.0236596670431663,
+        "object_id": "1528112",
+        "triangles": 29,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7619047619047619,
+        "betweenness centrality": 10.8,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MELISSA",
+        "name": "MELISSA",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.015075640713140704,
+        "object_id": "1531661",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DANCER",
+        "name": "DANCER",
+        "color": "#F2A468",
+        "group": 4,
+        "degree": 1,
+        "pagerank": 0.005464165975541226,
+        "object_id": "1532017",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.119047619047619,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LAWYER #2",
+        "name": "LAWYER #2",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.011379424351160058,
+        "object_id": "1529242",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.3095238095238093,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MARY ANN",
+        "name": "MARY ANN",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 20,
+        "pagerank": 0.08265292470550911,
+        "object_id": "1528097",
+        "triangles": 53,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.5238095238095237,
+        "betweenness centrality": 118.60952380952381,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GISELLE",
+        "name": "GISELLE",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.01306085420575611,
+        "object_id": "1532455",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9285714285714286,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": 109.4786,
+        "y": -9.175186,
+        "name": "BOY"
+      },
+      {
+        "x": -76.82074,
+        "y": -241.3754,
+        "name": "MAN #1"
+      },
+      {
+        "x": -18.93788,
+        "y": -254.48645,
+        "name": "BARBARA"
+      },
+      {
+        "x": -137.5371,
+        "y": -163.7433,
+        "name": "JUDGE SKLAR"
+      },
+      {
+        "x": -87.107216,
+        "y": -19.542063,
+        "name": "REPORTER"
+      },
+      {
+        "x": 21.215708,
+        "y": -260.94623,
+        "name": "PROSECUTOR"
+      },
+      {
+        "x": 82.93561,
+        "y": 21.766253,
+        "name": "FEENEY"
+      },
+      {
+        "x": 87.284035,
+        "y": -67.06487,
+        "name": "HEATH"
+      },
+      {
+        "x": -25.65257,
+        "y": 125.54962,
+        "name": "MOYEZ"
+      },
+      {
+        "x": -66.14051,
+        "y": -280.50967,
+        "name": "MAN #2"
+      },
+      {
+        "x": -126.67991,
+        "y": 177.94511,
+        "name": "OLD MAN"
+      },
+      {
+        "x": -146.36453,
+        "y": 57.04735,
+        "name": "WEAVER"
+      },
+      {
+        "x": -51.158607,
+        "y": -159.12799,
+        "name": "MEISEL"
+      },
+      {
+        "x": 80.31278,
+        "y": -109.784485,
+        "name": "PAM"
+      },
+      {
+        "x": 10.530882,
+        "y": -49.48366,
+        "name": "KEVIN"
+      },
+      {
+        "x": -28.177744,
+        "y": -207.4304,
+        "name": "JUDGE"
+      },
+      {
+        "x": 124.743965,
+        "y": -39.711514,
+        "name": "JACKIE"
+      },
+      {
+        "x": 67.22278,
+        "y": -15.339152,
+        "name": "CHRISTABELLA"
+      },
+      {
+        "x": -90.565125,
+        "y": -86.24242,
+        "name": "ORDERLY #1"
+      },
+      {
+        "x": 106.65733,
+        "y": 126.33735,
+        "name": "THERAPIST"
+      },
+      {
+        "x": 188.92738,
+        "y": -124.86533,
+        "name": "GETTYS"
+      },
+      {
+        "x": 132.86621,
+        "y": 15.150953,
+        "name": "DIANA"
+      },
+      {
+        "x": -96.04196,
+        "y": -158.58984,
+        "name": "BAILIFF"
+      },
+      {
+        "x": -54.24373,
+        "y": -121.123146,
+        "name": "JUDGE POE"
+      },
+      {
+        "x": 134.36604,
+        "y": -199.8855,
+        "name": "TECHNICIAN"
+      },
+      {
+        "x": -34.362156,
+        "y": -84.05611,
+        "name": "MRS LOMAX"
+      },
+      {
+        "x": 184.72595,
+        "y": 58.4051,
+        "name": "DON KING"
+      },
+      {
+        "x": -190.25871,
+        "y": 119.34748,
+        "name": "WOMAN JUDGE"
+      },
+      {
+        "x": 77.75249,
+        "y": -208.98488,
+        "name": "JUNKIE"
+      },
+      {
+        "x": 13.024542,
+        "y": 86.56217,
+        "name": "CULLEN"
+      },
+      {
+        "x": 13.532446,
+        "y": -222.31635,
+        "name": "WOMAN"
+      },
+      {
+        "x": 23.150316,
+        "y": 28.374866,
+        "name": "MILTON"
+      },
+      {
+        "x": 62.051548,
+        "y": 121.475876,
+        "name": "CHINESE MAN"
+      },
+      {
+        "x": -191.9967,
+        "y": 38.429893,
+        "name": "REPORTER #2"
+      },
+      {
+        "x": -56.242783,
+        "y": 70.38821,
+        "name": "BARZOON"
+      },
+      {
+        "x": -172.3007,
+        "y": -4.2037015,
+        "name": "REPORTER #3"
+      },
+      {
+        "x": -92.6461,
+        "y": 26.759823,
+        "name": "BIG GUY"
+      },
+      {
+        "x": 85.38577,
+        "y": 67.512856,
+        "name": "LAWYER #1"
+      },
+      {
+        "x": 137.65932,
+        "y": -104.59751,
+        "name": "MELISSA"
+      },
+      {
+        "x": 150.52423,
+        "y": -164.77644,
+        "name": "DANCER"
+      },
+      {
+        "x": 27.206419,
+        "y": 148.70299,
+        "name": "LAWYER #2"
+      },
+      {
+        "x": 19.152054,
+        "y": -120.75484,
+        "name": "MARY ANN"
+      },
+      {
+        "x": 159.87314,
+        "y": -66.07515,
+        "name": "GISELLE"
+      }
+    ]
+  }
+}

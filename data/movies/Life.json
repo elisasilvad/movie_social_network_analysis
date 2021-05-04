@@ -1,0 +1,2134 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "LEON",
+        "target": "CHAPLAIN",
+        "weight": 1
+      },
+      {
+        "source": "LEON",
+        "target": "BURKE",
+        "weight": 1
+      },
+      {
+        "source": "LEON",
+        "target": "NURSE HUMPHRIES",
+        "weight": 1
+      },
+      {
+        "source": "LEON",
+        "target": "JAKE",
+        "weight": 2
+      },
+      {
+        "source": "LEON",
+        "target": "WILLIE",
+        "weight": 2
+      },
+      {
+        "source": "BARKEEP",
+        "target": "CLAUDE",
+        "weight": 1
+      },
+      {
+        "source": "BARKEEP",
+        "target": "COCKTAIL WAITRESS",
+        "weight": 1
+      },
+      {
+        "source": "BARKEEP",
+        "target": "RAY",
+        "weight": 1
+      },
+      {
+        "source": "BARKEEP",
+        "target": "DAISY",
+        "weight": 1
+      },
+      {
+        "source": "BARKEEP",
+        "target": "BOUNCER",
+        "weight": 1
+      },
+      {
+        "source": "BULLETHEAD",
+        "target": "CLAUDE",
+        "weight": 1
+      },
+      {
+        "source": "BULLETHEAD",
+        "target": "DAISY",
+        "weight": 1
+      },
+      {
+        "source": "BULLETHEAD",
+        "target": "BOUNCER",
+        "weight": 1
+      },
+      {
+        "source": "BULLETHEAD",
+        "target": "WAITER",
+        "weight": 1
+      },
+      {
+        "source": "BULLETHEAD",
+        "target": "RAY",
+        "weight": 2
+      },
+      {
+        "source": "BULLETHEAD",
+        "target": "SPANKY",
+        "weight": 1
+      },
+      {
+        "source": "DOCTOR",
+        "target": "ABERNATHY",
+        "weight": 1
+      },
+      {
+        "source": "OMITTED",
+        "target": "RAY",
+        "weight": 1
+      },
+      {
+        "source": "OMITTED",
+        "target": "GANG BANGER #2",
+        "weight": 1
+      },
+      {
+        "source": "OMITTED",
+        "target": "DILLARD",
+        "weight": 1
+      },
+      {
+        "source": "OMITTED",
+        "target": "GANG BANGER #1",
+        "weight": 1
+      },
+      {
+        "source": "OMITTED",
+        "target": "CLAUDE",
+        "weight": 1
+      },
+      {
+        "source": "OMITTED",
+        "target": "NURSE HUMPHRIES",
+        "weight": 1
+      },
+      {
+        "source": "OMITTED",
+        "target": "WILLIE",
+        "weight": 1
+      },
+      {
+        "source": "MAMA",
+        "target": "BILLY",
+        "weight": 1
+      },
+      {
+        "source": "MAMA",
+        "target": "CLAUDE",
+        "weight": 1
+      },
+      {
+        "source": "MAMA",
+        "target": "RAY",
+        "weight": 1
+      },
+      {
+        "source": "BOUNCER",
+        "target": "WAITER",
+        "weight": 1
+      },
+      {
+        "source": "BOUNCER",
+        "target": "CLAUDE",
+        "weight": 2
+      },
+      {
+        "source": "BOUNCER",
+        "target": "DAISY",
+        "weight": 2
+      },
+      {
+        "source": "BOUNCER",
+        "target": "RAY",
+        "weight": 1
+      },
+      {
+        "source": "BOUNCER",
+        "target": "COCKTAIL WAITRESS",
+        "weight": 1
+      },
+      {
+        "source": "HOPPIN' BOB",
+        "target": "RAY",
+        "weight": 5
+      },
+      {
+        "source": "HOPPIN' BOB",
+        "target": "DAISY",
+        "weight": 1
+      },
+      {
+        "source": "HOPPIN' BOB",
+        "target": "BISCUIT",
+        "weight": 3
+      },
+      {
+        "source": "HOPPIN' BOB",
+        "target": "OLD GUY",
+        "weight": 1
+      },
+      {
+        "source": "HOPPIN' BOB",
+        "target": "WILLIE",
+        "weight": 3
+      },
+      {
+        "source": "HOPPIN' BOB",
+        "target": "MAMA GIBSON",
+        "weight": 1
+      },
+      {
+        "source": "HOPPIN' BOB",
+        "target": "COOKIE",
+        "weight": 2
+      },
+      {
+        "source": "HOPPIN' BOB",
+        "target": "POKER FACE",
+        "weight": 3
+      },
+      {
+        "source": "HOPPIN' BOB",
+        "target": "CLAUDE",
+        "weight": 5
+      },
+      {
+        "source": "HOPPIN' BOB",
+        "target": "GOLDMOUTH",
+        "weight": 2
+      },
+      {
+        "source": "HOPPIN' BOB",
+        "target": "JANGLE LEG",
+        "weight": 2
+      },
+      {
+        "source": "HOPPIN' BOB",
+        "target": "LONG",
+        "weight": 1
+      },
+      {
+        "source": "HOPPIN' BOB",
+        "target": "DILLARD",
+        "weight": 6
+      },
+      {
+        "source": "HOPPIN' BOB",
+        "target": "ACROSS THE YARD",
+        "weight": 1
+      },
+      {
+        "source": "TOM",
+        "target": "COOKIE",
+        "weight": 1
+      },
+      {
+        "source": "TOM",
+        "target": "RAY",
+        "weight": 1
+      },
+      {
+        "source": "TOM",
+        "target": "GOLDMOUTH",
+        "weight": 1
+      },
+      {
+        "source": "TOM",
+        "target": "BISCUIT",
+        "weight": 1
+      },
+      {
+        "source": "TOM",
+        "target": "CLAUDE",
+        "weight": 1
+      },
+      {
+        "source": "TOM",
+        "target": "MRS ABERNATHY",
+        "weight": 1
+      },
+      {
+        "source": "TOM",
+        "target": "POKER FACE",
+        "weight": 1
+      },
+      {
+        "source": "TOM",
+        "target": "ABERNATHY",
+        "weight": 1
+      },
+      {
+        "source": "GANG BANGER #2",
+        "target": "CLAUDE",
+        "weight": 1
+      },
+      {
+        "source": "GANG BANGER #2",
+        "target": "GANG BANGER #1",
+        "weight": 1
+      },
+      {
+        "source": "GANG BANGER #2",
+        "target": "RAY",
+        "weight": 1
+      },
+      {
+        "source": "GANG BANGER #2",
+        "target": "NURSE HUMPHRIES",
+        "weight": 1
+      },
+      {
+        "source": "GANG BANGER #2",
+        "target": "WILLIE",
+        "weight": 1
+      },
+      {
+        "source": "BAG MAN #2",
+        "target": "BAG MAN #1",
+        "weight": 1
+      },
+      {
+        "source": "BAG MAN #2",
+        "target": "CLAUDE",
+        "weight": 1
+      },
+      {
+        "source": "ATTENDENT",
+        "target": "CLAUDE",
+        "weight": 1
+      },
+      {
+        "source": "ATTENDENT",
+        "target": "RAY",
+        "weight": 1
+      },
+      {
+        "source": "COCKTAIL WAITRESS",
+        "target": "CLAUDE",
+        "weight": 1
+      },
+      {
+        "source": "COCKTAIL WAITRESS",
+        "target": "RAY",
+        "weight": 1
+      },
+      {
+        "source": "COCKTAIL WAITRESS",
+        "target": "DAISY",
+        "weight": 1
+      },
+      {
+        "source": "FIRE INSPECTOR",
+        "target": "BURKE",
+        "weight": 1
+      },
+      {
+        "source": "GANG BANGER #1",
+        "target": "CLAUDE",
+        "weight": 1
+      },
+      {
+        "source": "GANG BANGER #1",
+        "target": "RAY",
+        "weight": 1
+      },
+      {
+        "source": "GANG BANGER #1",
+        "target": "NURSE HUMPHRIES",
+        "weight": 1
+      },
+      {
+        "source": "GANG BANGER #1",
+        "target": "WILLIE",
+        "weight": 1
+      },
+      {
+        "source": "TRUSTY",
+        "target": "CLAUDE",
+        "weight": 2
+      },
+      {
+        "source": "TRUSTY",
+        "target": "POKER FACE",
+        "weight": 1
+      },
+      {
+        "source": "TRUSTY",
+        "target": "BISCUIT",
+        "weight": 1
+      },
+      {
+        "source": "TRUSTY",
+        "target": "RAY",
+        "weight": 1
+      },
+      {
+        "source": "TRUSTY",
+        "target": "DILLARD",
+        "weight": 1
+      },
+      {
+        "source": "TRUSTY",
+        "target": "WILLIE",
+        "weight": 1
+      },
+      {
+        "source": "COOKIE",
+        "target": "RAY",
+        "weight": 5
+      },
+      {
+        "source": "COOKIE",
+        "target": "WILLIE",
+        "weight": 4
+      },
+      {
+        "source": "COOKIE",
+        "target": "BISCUIT",
+        "weight": 4
+      },
+      {
+        "source": "COOKIE",
+        "target": "MRS ABERNATHY",
+        "weight": 1
+      },
+      {
+        "source": "COOKIE",
+        "target": "BLOCKER",
+        "weight": 1
+      },
+      {
+        "source": "COOKIE",
+        "target": "MAMA GIBSON",
+        "weight": 1
+      },
+      {
+        "source": "COOKIE",
+        "target": "CLAUDE",
+        "weight": 4
+      },
+      {
+        "source": "COOKIE",
+        "target": "POKER FACE",
+        "weight": 4
+      },
+      {
+        "source": "COOKIE",
+        "target": "JANGLE LEG",
+        "weight": 3
+      },
+      {
+        "source": "COOKIE",
+        "target": "DILLARD",
+        "weight": 1
+      },
+      {
+        "source": "COOKIE",
+        "target": "ABERNATHY",
+        "weight": 1
+      },
+      {
+        "source": "COOKIE",
+        "target": "GOLDMOUTH",
+        "weight": 5
+      },
+      {
+        "source": "COOKIE",
+        "target": "ACROSS THE YARD",
+        "weight": 1
+      },
+      {
+        "source": "OVER",
+        "target": "DILLARD",
+        "weight": 1
+      },
+      {
+        "source": "CLAUDE",
+        "target": "WILLIE",
+        "weight": 6
+      },
+      {
+        "source": "CLAUDE",
+        "target": "JANGLE LEG",
+        "weight": 3
+      },
+      {
+        "source": "CLAUDE",
+        "target": "SLIM",
+        "weight": 1
+      },
+      {
+        "source": "CLAUDE",
+        "target": "ACROSS THE YARD",
+        "weight": 1
+      },
+      {
+        "source": "CLAUDE",
+        "target": "DEPUTY",
+        "weight": 1
+      },
+      {
+        "source": "CLAUDE",
+        "target": "POKER FACE",
+        "weight": 6
+      },
+      {
+        "source": "CLAUDE",
+        "target": "WILKINS",
+        "weight": 4
+      },
+      {
+        "source": "CLAUDE",
+        "target": "BILLY",
+        "weight": 1
+      },
+      {
+        "source": "CLAUDE",
+        "target": "WAITRESS",
+        "weight": 1
+      },
+      {
+        "source": "CLAUDE",
+        "target": "JUDGE",
+        "weight": 1
+      },
+      {
+        "source": "CLAUDE",
+        "target": "BISCUIT",
+        "weight": 7
+      },
+      {
+        "source": "CLAUDE",
+        "target": "WINSTON",
+        "weight": 1
+      },
+      {
+        "source": "CLAUDE",
+        "target": "MRS ABERNATHY",
+        "weight": 1
+      },
+      {
+        "source": "CLAUDE",
+        "target": "BLOCKER",
+        "weight": 2
+      },
+      {
+        "source": "CLAUDE",
+        "target": "MAMA GIBSON",
+        "weight": 1
+      },
+      {
+        "source": "CLAUDE",
+        "target": "YVETTE",
+        "weight": 1
+      },
+      {
+        "source": "CLAUDE",
+        "target": "WAITER",
+        "weight": 1
+      },
+      {
+        "source": "CLAUDE",
+        "target": "GOLDMOUTH",
+        "weight": 3
+      },
+      {
+        "source": "CLAUDE",
+        "target": "SYLVIA",
+        "weight": 1
+      },
+      {
+        "source": "CLAUDE",
+        "target": "BAG MAN #1",
+        "weight": 1
+      },
+      {
+        "source": "CLAUDE",
+        "target": "RAY",
+        "weight": 26
+      },
+      {
+        "source": "CLAUDE",
+        "target": "DAISY",
+        "weight": 3
+      },
+      {
+        "source": "CLAUDE",
+        "target": "INSERT TIME PASSAGE",
+        "weight": 2
+      },
+      {
+        "source": "CLAUDE",
+        "target": "PIKE",
+        "weight": 2
+      },
+      {
+        "source": "CLAUDE",
+        "target": "ABERNATHY",
+        "weight": 2
+      },
+      {
+        "source": "CLAUDE",
+        "target": "MAN WITH LANTERN",
+        "weight": 1
+      },
+      {
+        "source": "CLAUDE",
+        "target": "DILLARD",
+        "weight": 5
+      },
+      {
+        "source": "CLAUDE",
+        "target": "NURSE HUMPHRIES",
+        "weight": 1
+      },
+      {
+        "source": "CLAUDE",
+        "target": "SPANKY",
+        "weight": 1
+      },
+      {
+        "source": "CLAUDE",
+        "target": "DOWN ON THE FIELD",
+        "weight": 1
+      },
+      {
+        "source": "ACROSS THE YARD",
+        "target": "POKER FACE",
+        "weight": 1
+      },
+      {
+        "source": "ACROSS THE YARD",
+        "target": "BISCUIT",
+        "weight": 1
+      },
+      {
+        "source": "ACROSS THE YARD",
+        "target": "DILLARD",
+        "weight": 1
+      },
+      {
+        "source": "ACROSS THE YARD",
+        "target": "GOLDMOUTH",
+        "weight": 1
+      },
+      {
+        "source": "ACROSS THE YARD",
+        "target": "RAY",
+        "weight": 1
+      },
+      {
+        "source": "ACROSS THE YARD",
+        "target": "MAMA GIBSON",
+        "weight": 1
+      },
+      {
+        "source": "ACROSS THE YARD",
+        "target": "WILLIE",
+        "weight": 1
+      },
+      {
+        "source": "ACROSS THE YARD",
+        "target": "YVETTE",
+        "weight": 1
+      },
+      {
+        "source": "DEPUTY",
+        "target": "RAY",
+        "weight": 1
+      },
+      {
+        "source": "DEPUTY",
+        "target": "PIKE",
+        "weight": 1
+      },
+      {
+        "source": "POKER FACE",
+        "target": "RAY",
+        "weight": 6
+      },
+      {
+        "source": "POKER FACE",
+        "target": "BISCUIT",
+        "weight": 5
+      },
+      {
+        "source": "POKER FACE",
+        "target": "BLOCKER",
+        "weight": 1
+      },
+      {
+        "source": "POKER FACE",
+        "target": "MRS ABERNATHY",
+        "weight": 1
+      },
+      {
+        "source": "POKER FACE",
+        "target": "WILLIE",
+        "weight": 5
+      },
+      {
+        "source": "POKER FACE",
+        "target": "MAMA GIBSON",
+        "weight": 1
+      },
+      {
+        "source": "POKER FACE",
+        "target": "JANGLE LEG",
+        "weight": 3
+      },
+      {
+        "source": "POKER FACE",
+        "target": "DILLARD",
+        "weight": 3
+      },
+      {
+        "source": "POKER FACE",
+        "target": "ABERNATHY",
+        "weight": 2
+      },
+      {
+        "source": "POKER FACE",
+        "target": "GOLDMOUTH",
+        "weight": 4
+      },
+      {
+        "source": "SYLVIA",
+        "target": "RAY",
+        "weight": 1
+      },
+      {
+        "source": "SYLVIA",
+        "target": "WINSTON",
+        "weight": 1
+      },
+      {
+        "source": "SYLVIA",
+        "target": "WAITRESS",
+        "weight": 1
+      },
+      {
+        "source": "BILLY",
+        "target": "RAY",
+        "weight": 1
+      },
+      {
+        "source": "WAITRESS",
+        "target": "RAY",
+        "weight": 1
+      },
+      {
+        "source": "WAITRESS",
+        "target": "WINSTON",
+        "weight": 1
+      },
+      {
+        "source": "JUDGE",
+        "target": "RAY",
+        "weight": 1
+      },
+      {
+        "source": "BISCUIT",
+        "target": "RAY",
+        "weight": 7
+      },
+      {
+        "source": "BISCUIT",
+        "target": "MRS ABERNATHY",
+        "weight": 1
+      },
+      {
+        "source": "BISCUIT",
+        "target": "WILLIE",
+        "weight": 4
+      },
+      {
+        "source": "BISCUIT",
+        "target": "MAMA GIBSON",
+        "weight": 1
+      },
+      {
+        "source": "BISCUIT",
+        "target": "JANGLE LEG",
+        "weight": 4
+      },
+      {
+        "source": "BISCUIT",
+        "target": "DILLARD",
+        "weight": 1
+      },
+      {
+        "source": "BISCUIT",
+        "target": "GOLDMOUTH",
+        "weight": 4
+      },
+      {
+        "source": "BISCUIT",
+        "target": "ABERNATHY",
+        "weight": 1
+      },
+      {
+        "source": "WINSTON",
+        "target": "RAY",
+        "weight": 1
+      },
+      {
+        "source": "WINSTON",
+        "target": "PIKE",
+        "weight": 1
+      },
+      {
+        "source": "MRS ABERNATHY",
+        "target": "GOLDMOUTH",
+        "weight": 1
+      },
+      {
+        "source": "MRS ABERNATHY",
+        "target": "DOWN ON THE FIELD",
+        "weight": 1
+      },
+      {
+        "source": "MRS ABERNATHY",
+        "target": "RAY",
+        "weight": 1
+      },
+      {
+        "source": "MRS ABERNATHY",
+        "target": "ABERNATHY",
+        "weight": 1
+      },
+      {
+        "source": "BLOCKER",
+        "target": "RAY",
+        "weight": 2
+      },
+      {
+        "source": "BLOCKER",
+        "target": "DILLARD",
+        "weight": 1
+      },
+      {
+        "source": "BLOCKER",
+        "target": "INSERT TIME PASSAGE",
+        "weight": 1
+      },
+      {
+        "source": "MAMA GIBSON",
+        "target": "WILLIE",
+        "weight": 1
+      },
+      {
+        "source": "MAMA GIBSON",
+        "target": "RAY",
+        "weight": 2
+      },
+      {
+        "source": "MAMA GIBSON",
+        "target": "GOLDMOUTH",
+        "weight": 1
+      },
+      {
+        "source": "MAMA GIBSON",
+        "target": "DILLARD",
+        "weight": 1
+      },
+      {
+        "source": "CHAPLAIN",
+        "target": "NURSE HUMPHRIES",
+        "weight": 1
+      },
+      {
+        "source": "CHAPLAIN",
+        "target": "JAKE",
+        "weight": 1
+      },
+      {
+        "source": "CHAPLAIN",
+        "target": "WILLIE",
+        "weight": 1
+      },
+      {
+        "source": "CHAPLAIN",
+        "target": "BURKE",
+        "weight": 1
+      },
+      {
+        "source": "WILLIE",
+        "target": "YVETTE",
+        "weight": 1
+      },
+      {
+        "source": "WILLIE",
+        "target": "JANGLE LEG",
+        "weight": 4
+      },
+      {
+        "source": "WILLIE",
+        "target": "BURKE",
+        "weight": 1
+      },
+      {
+        "source": "WILLIE",
+        "target": "GOLDMOUTH",
+        "weight": 4
+      },
+      {
+        "source": "WILLIE",
+        "target": "JAKE",
+        "weight": 3
+      },
+      {
+        "source": "WILLIE",
+        "target": "ABERNATHY",
+        "weight": 2
+      },
+      {
+        "source": "WILLIE",
+        "target": "RAY",
+        "weight": 6
+      },
+      {
+        "source": "WILLIE",
+        "target": "DILLARD",
+        "weight": 3
+      },
+      {
+        "source": "WILLIE",
+        "target": "NURSE HUMPHRIES",
+        "weight": 1
+      },
+      {
+        "source": "JANGLE LEG",
+        "target": "RAY",
+        "weight": 3
+      },
+      {
+        "source": "JANGLE LEG",
+        "target": "GOLDMOUTH",
+        "weight": 2
+      },
+      {
+        "source": "JANGLE LEG",
+        "target": "ABERNATHY",
+        "weight": 1
+      },
+      {
+        "source": "WAITER",
+        "target": "RAY",
+        "weight": 1
+      },
+      {
+        "source": "WAITER",
+        "target": "DAISY",
+        "weight": 1
+      },
+      {
+        "source": "BURKE",
+        "target": "JAKE",
+        "weight": 1
+      },
+      {
+        "source": "BURKE",
+        "target": "NURSE HUMPHRIES",
+        "weight": 1
+      },
+      {
+        "source": "MAE ROSE",
+        "target": "DILLARD",
+        "weight": 1
+      },
+      {
+        "source": "MAE ROSE",
+        "target": "ABERNATHY",
+        "weight": 1
+      },
+      {
+        "source": "GOLDMOUTH",
+        "target": "RAY",
+        "weight": 3
+      },
+      {
+        "source": "GOLDMOUTH",
+        "target": "DILLARD",
+        "weight": 1
+      },
+      {
+        "source": "GOLDMOUTH",
+        "target": "ABERNATHY",
+        "weight": 1
+      },
+      {
+        "source": "WILKINS",
+        "target": "RAY",
+        "weight": 2
+      },
+      {
+        "source": "WILKINS",
+        "target": "PIKE",
+        "weight": 3
+      },
+      {
+        "source": "WILKINS",
+        "target": "DEPUTY #1",
+        "weight": 1
+      },
+      {
+        "source": "JAKE",
+        "target": "NURSE HUMPHRIES",
+        "weight": 1
+      },
+      {
+        "source": "DAISY",
+        "target": "RAY",
+        "weight": 2
+      },
+      {
+        "source": "INSERT TIME PASSAGE",
+        "target": "RAY",
+        "weight": 1
+      },
+      {
+        "source": "INSERT TIME PASSAGE",
+        "target": "DILLARD",
+        "weight": 2
+      },
+      {
+        "source": "INSERT TIME PASSAGE",
+        "target": "ABERNATHY",
+        "weight": 1
+      },
+      {
+        "source": "PIKE",
+        "target": "RAY",
+        "weight": 2
+      },
+      {
+        "source": "NURSE HUMPHRIES",
+        "target": "RAY",
+        "weight": 1
+      },
+      {
+        "source": "ABERNATHY",
+        "target": "RAY",
+        "weight": 1
+      },
+      {
+        "source": "ABERNATHY",
+        "target": "DILLARD",
+        "weight": 3
+      },
+      {
+        "source": "MAN WITH LANTERN",
+        "target": "RAY",
+        "weight": 1
+      },
+      {
+        "source": "OLD GUY",
+        "target": "DILLARD",
+        "weight": 1
+      },
+      {
+        "source": "SLIM",
+        "target": "RAY",
+        "weight": 1
+      },
+      {
+        "source": "RAY",
+        "target": "DILLARD",
+        "weight": 5
+      },
+      {
+        "source": "RAY",
+        "target": "SPANKY",
+        "weight": 1
+      },
+      {
+        "source": "RAY",
+        "target": "YVETTE",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "LEON",
+        "name": "LEON",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.012324700769971506,
+        "object_id": "3087708",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5090909090909093,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BARKEEP",
+        "name": "BARKEEP",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.00859637707671406,
+        "object_id": "3087846",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1272727272727274,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BULLETHEAD",
+        "name": "BULLETHEAD",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 6,
+        "pagerank": 0.011246990731536033,
+        "object_id": "3088055",
+        "triangles": 12,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.109090909090909,
+        "betweenness centrality": 0.9999999999999999,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOCTOR",
+        "name": "DOCTOR",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.0037650355217351723,
+        "object_id": "3092149",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.7818181818181817,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OMITTED",
+        "name": "OMITTED",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 7,
+        "pagerank": 0.010644022871952319,
+        "object_id": "3091303",
+        "triangles": 18,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9454545454545455,
+        "betweenness centrality": 2.3571428571428568,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAMA",
+        "name": "MAMA",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.006474970694703641,
+        "object_id": "3088628",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1636363636363636,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BOUNCER",
+        "name": "BOUNCER",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 7,
+        "pagerank": 0.013760610663655009,
+        "object_id": "3087783",
+        "triangles": 17,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.090909090909091,
+        "betweenness centrality": 1.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HOPPIN' BOB",
+        "name": "HOPPIN' BOB",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 14,
+        "pagerank": 0.039765806440992715,
+        "object_id": "3089488",
+        "triangles": 55,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8,
+        "betweenness centrality": 82.21434676434679,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TOM",
+        "name": "TOM",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 8,
+        "pagerank": 0.010310200284448496,
+        "object_id": "3091932",
+        "triangles": 28,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.036363636363636,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GANG BANGER #2",
+        "name": "GANG BANGER #2",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.009586485756990452,
+        "object_id": "3093915",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.018181818181818,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BAG MAN #2",
+        "name": "BAG MAN #2",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.006391736621573849,
+        "object_id": "3087934",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1818181818181817,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ATTENDENT",
+        "name": "ATTENDENT",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.004640420120289297,
+        "object_id": "3087984",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1818181818181817,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COCKTAIL WAITRESS",
+        "name": "COCKTAIL WAITRESS",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.00859637707671406,
+        "object_id": "3087832",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1272727272727274,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FIRE INSPECTOR",
+        "name": "FIRE INSPECTOR",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 1,
+        "pagerank": 0.004585808233102674,
+        "object_id": "3094101",
+        "triangles": 0,
+        "eccentricity": 5.0,
+        "closeness centrality": 3.4727272727272727,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GANG BANGER #1",
+        "name": "GANG BANGER #1",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.009586485756990452,
+        "object_id": "3093896",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.018181818181818,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LONG",
+        "name": "LONG",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.0036174579516346315,
+        "object_id": "3089517",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.7818181818181817,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TRUSTY",
+        "name": "TRUSTY",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 6,
+        "pagerank": 0.00926404777781384,
+        "object_id": "3092430",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9636363636363636,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COOKIE",
+        "name": "COOKIE",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 15,
+        "pagerank": 0.03828459060419563,
+        "object_id": "3089797",
+        "triangles": 77,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7636363636363637,
+        "betweenness centrality": 8.509279609279607,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OVER",
+        "name": "OVER",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.0036704958419040415,
+        "object_id": "3089409",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.690909090909091,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CLAUDE",
+        "name": "CLAUDE",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 44,
+        "pagerank": 0.1301572502116617,
+        "object_id": "3087869",
+        "triangles": 145,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.2181818181818183,
+        "betweenness centrality": 590.0846764346765,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ACROSS THE YARD",
+        "name": "ACROSS THE YARD",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 11,
+        "pagerank": 0.013322127845071254,
+        "object_id": "3090210",
+        "triangles": 48,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8545454545454545,
+        "betweenness centrality": 2.642857142857143,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DEPUTY",
+        "name": "DEPUTY",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.005957783018318292,
+        "object_id": "3089275",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1636363636363636,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "POKER FACE",
+        "name": "POKER FACE",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 16,
+        "pagerank": 0.047301233087490284,
+        "object_id": "3089646",
+        "triangles": 82,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7454545454545454,
+        "betweenness centrality": 10.792612942612942,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SYLVIA",
+        "name": "SYLVIA",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.00790381894045287,
+        "object_id": "3088871",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1454545454545455,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BILLY",
+        "name": "BILLY",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.006474970694703641,
+        "object_id": "3088614",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1636363636363636,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WAITRESS",
+        "name": "WAITRESS",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.00790381894045287,
+        "object_id": "3088998",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1454545454545455,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JUDGE",
+        "name": "JUDGE",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.004640420120289297,
+        "object_id": "3089371",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1818181818181817,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BISCUIT",
+        "name": "BISCUIT",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 15,
+        "pagerank": 0.04503897842966309,
+        "object_id": "3089639",
+        "triangles": 78,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7636363636363637,
+        "betweenness centrality": 7.3449938949938955,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WINSTON",
+        "name": "WINSTON",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.009316875029598985,
+        "object_id": "3088948",
+        "triangles": 8,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1272727272727274,
+        "betweenness centrality": 0.6666666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MRS ABERNATHY",
+        "name": "MRS ABERNATHY",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 9,
+        "pagerank": 0.012299644463143545,
+        "object_id": "3091927",
+        "triangles": 29,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.018181818181818,
+        "betweenness centrality": 4.333333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BLOCKER",
+        "name": "BLOCKER",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 6,
+        "pagerank": 0.010498692739979401,
+        "object_id": "3091977",
+        "triangles": 13,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0545454545454547,
+        "betweenness centrality": 0.4,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAMA GIBSON",
+        "name": "MAMA GIBSON",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 10,
+        "pagerank": 0.012916424902148588,
+        "object_id": "3090290",
+        "triangles": 45,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8727272727272728,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CHAPLAIN",
+        "name": "CHAPLAIN",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.009802018602793481,
+        "object_id": "3087677",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5090909090909093,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WILLIE",
+        "name": "WILLIE",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 22,
+        "pagerank": 0.061194961081017074,
+        "object_id": "3087705",
+        "triangles": 93,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.6181818181818182,
+        "betweenness centrality": 196.88253968253974,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JANGLE LEG",
+        "name": "JANGLE LEG",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 9,
+        "pagerank": 0.0255005486103965,
+        "object_id": "3089724",
+        "triangles": 35,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8909090909090909,
+        "betweenness centrality": 0.4444444444444444,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WAITER",
+        "name": "WAITER",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.008500696720032985,
+        "object_id": "3088078",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1272727272727274,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BURKE",
+        "name": "BURKE",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.013459993231303391,
+        "object_id": "3087686",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.4909090909090907,
+        "betweenness centrality": 54.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAE ROSE",
+        "name": "MAE ROSE",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.004756959935067785,
+        "object_id": "3091236",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.6,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GOLDMOUTH",
+        "name": "GOLDMOUTH",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 14,
+        "pagerank": 0.033360523170093345,
+        "object_id": "3090006",
+        "triangles": 73,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7818181818181817,
+        "betweenness centrality": 5.311660561660561,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WILKINS",
+        "name": "WILKINS",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.015978960847094752,
+        "object_id": "3093142",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1272727272727274,
+        "betweenness centrality": 54.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOWN ON THE FIELD",
+        "name": "DOWN ON THE FIELD",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.004836844329056152,
+        "object_id": "3092051",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1818181818181817,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BAG MAN #1",
+        "name": "BAG MAN #1",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.006391736621573849,
+        "object_id": "3087930",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1818181818181817,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JAKE",
+        "name": "JAKE",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.013399410739506115,
+        "object_id": "3087701",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5090909090909093,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DEPUTY #1",
+        "name": "DEPUTY #1",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.004036764835456433,
+        "object_id": "3093711",
+        "triangles": 0,
+        "eccentricity": 5.0,
+        "closeness centrality": 3.109090909090909,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DAISY",
+        "name": "DAISY",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 8,
+        "pagerank": 0.01687057957777334,
+        "object_id": "3087874",
+        "triangles": 19,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.036363636363636,
+        "betweenness centrality": 5.333333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "INSERT TIME PASSAGE",
+        "name": "INSERT TIME PASSAGE",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 5,
+        "pagerank": 0.009822868325677067,
+        "object_id": "3091653",
+        "triangles": 9,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0545454545454547,
+        "betweenness centrality": 0.3333333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PIKE",
+        "name": "PIKE",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.013948720660936194,
+        "object_id": "3089030",
+        "triangles": 7,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.109090909090909,
+        "betweenness centrality": 1.6666666666666665,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NURSE HUMPHRIES",
+        "name": "NURSE HUMPHRIES",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 10,
+        "pagerank": 0.01607304594542099,
+        "object_id": "3087693",
+        "triangles": 25,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9272727272727272,
+        "betweenness centrality": 74.81746031746032,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ABERNATHY",
+        "name": "ABERNATHY",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 14,
+        "pagerank": 0.02428644023361623,
+        "object_id": "3091243",
+        "triangles": 52,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8,
+        "betweenness centrality": 82.3943223443223,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAN WITH LANTERN",
+        "name": "MAN WITH LANTERN",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.004640420120289297,
+        "object_id": "3089192",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1818181818181817,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OLD GUY",
+        "name": "OLD GUY",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.004609382364967244,
+        "object_id": "3091753",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.618181818181818,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SLIM",
+        "name": "SLIM",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.004640420120289297,
+        "object_id": "3088744",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1818181818181817,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RAY",
+        "name": "RAY",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 41,
+        "pagerank": 0.11809308878584313,
+        "object_id": "3087787",
+        "triangles": 143,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.2727272727272727,
+        "betweenness centrality": 437.4180097680098,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SPANKY",
+        "name": "SPANKY",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.006006111490598319,
+        "object_id": "3088182",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1636363636363636,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DILLARD",
+        "name": "DILLARD",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 18,
+        "pagerank": 0.04434612232778122,
+        "object_id": "3089411",
+        "triangles": 70,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.709090909090909,
+        "betweenness centrality": 121.0523199023199,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "YVETTE",
+        "name": "YVETTE",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.00659872210352417,
+        "object_id": "3092844",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0545454545454547,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": -286.6824,
+        "y": -158.00789,
+        "name": "LEON"
+      },
+      {
+        "x": -203.43121,
+        "y": 74.68895,
+        "name": "BARKEEP"
+      },
+      {
+        "x": -124.59937,
+        "y": 149.4035,
+        "name": "BULLETHEAD"
+      },
+      {
+        "x": 306.45166,
+        "y": -56.48892,
+        "name": "DOCTOR"
+      },
+      {
+        "x": -117.13023,
+        "y": -161.98335,
+        "name": "OMITTED"
+      },
+      {
+        "x": 180.09901,
+        "y": 133.27138,
+        "name": "MAMA"
+      },
+      {
+        "x": -162.5333,
+        "y": 109.17389,
+        "name": "BOUNCER"
+      },
+      {
+        "x": 103.75317,
+        "y": -58.11299,
+        "name": "HOPPIN' BOB"
+      },
+      {
+        "x": 178.00775,
+        "y": -186.72743,
+        "name": "TOM"
+      },
+      {
+        "x": -165.04584,
+        "y": -167.66812,
+        "name": "GANG BANGER #2"
+      },
+      {
+        "x": 162.75784,
+        "y": 232.90903,
+        "name": "BAG MAN #2"
+      },
+      {
+        "x": 38.436153,
+        "y": 140.70224,
+        "name": "ATTENDENT"
+      },
+      {
+        "x": -169.54501,
+        "y": 44.8923,
+        "name": "COCKTAIL WAITRESS"
+      },
+      {
+        "x": -463.21442,
+        "y": -42.57238,
+        "name": "FIRE INSPECTOR"
+      },
+      {
+        "x": -170.50244,
+        "y": -108.73753,
+        "name": "GANG BANGER #1"
+      },
+      {
+        "x": 300.91025,
+        "y": -90.04652,
+        "name": "LONG"
+      },
+      {
+        "x": -88.81499,
+        "y": -33.24877,
+        "name": "TRUSTY"
+      },
+      {
+        "x": 80.03775,
+        "y": -113.8283,
+        "name": "COOKIE"
+      },
+      {
+        "x": -171.46405,
+        "y": -8.510733,
+        "name": "OVER"
+      },
+      {
+        "x": 29.75666,
+        "y": 32.406353,
+        "name": "CLAUDE"
+      },
+      {
+        "x": 192.8187,
+        "y": -17.850351,
+        "name": "ACROSS THE YARD"
+      },
+      {
+        "x": 51.931152,
+        "y": 181.98189,
+        "name": "DEPUTY"
+      },
+      {
+        "x": 57.154297,
+        "y": -70.06115,
+        "name": "POKER FACE"
+      },
+      {
+        "x": 6.849916,
+        "y": 231.6987,
+        "name": "SYLVIA"
+      },
+      {
+        "x": 224.40907,
+        "y": 58.008614,
+        "name": "BILLY"
+      },
+      {
+        "x": -29.96451,
+        "y": 256.28183,
+        "name": "WAITRESS"
+      },
+      {
+        "x": 157.42488,
+        "y": 99.479126,
+        "name": "JUDGE"
+      },
+      {
+        "x": 19.649382,
+        "y": -88.08941,
+        "name": "BISCUIT"
+      },
+      {
+        "x": -51.733837,
+        "y": 218.30467,
+        "name": "WINSTON"
+      },
+      {
+        "x": 122.22394,
+        "y": -226.47841,
+        "name": "MRS ABERNATHY"
+      },
+      {
+        "x": 142.25307,
+        "y": 33.0978,
+        "name": "BLOCKER"
+      },
+      {
+        "x": 167.21172,
+        "y": -75.5862,
+        "name": "MAMA GIBSON"
+      },
+      {
+        "x": -319.75162,
+        "y": -120.61008,
+        "name": "CHAPLAIN"
+      },
+      {
+        "x": -45.77968,
+        "y": -102.654175,
+        "name": "WILLIE"
+      },
+      {
+        "x": 9.0719385,
+        "y": -132.78627,
+        "name": "JANGLE LEG"
+      },
+      {
+        "x": -177.93546,
+        "y": 161.21683,
+        "name": "WAITER"
+      },
+      {
+        "x": -367.4012,
+        "y": -128.91121,
+        "name": "BURKE"
+      },
+      {
+        "x": 74.467026,
+        "y": -251.24815,
+        "name": "MAE ROSE"
+      },
+      {
+        "x": 55.25735,
+        "y": -153.1709,
+        "name": "GOLDMOUTH"
+      },
+      {
+        "x": -27.23104,
+        "y": 78.24908,
+        "name": "WILKINS"
+      },
+      {
+        "x": 170.6752,
+        "y": -257.3339,
+        "name": "DOWN ON THE FIELD"
+      },
+      {
+        "x": 126.55772,
+        "y": 247.74309,
+        "name": "BAG MAN #1"
+      },
+      {
+        "x": -252.74287,
+        "y": -117.714966,
+        "name": "JAKE"
+      },
+      {
+        "x": 5.6750407,
+        "y": -204.14659,
+        "name": "DEPUTY #1"
+      },
+      {
+        "x": -107.98057,
+        "y": 83.61204,
+        "name": "DAISY"
+      },
+      {
+        "x": 123.920235,
+        "y": 69.45278,
+        "name": "INSERT TIME PASSAGE"
+      },
+      {
+        "x": -24.137705,
+        "y": 132.71594,
+        "name": "PIKE"
+      },
+      {
+        "x": -231.56213,
+        "y": -167.22815,
+        "name": "NURSE HUMPHRIES"
+      },
+      {
+        "x": 142.72005,
+        "y": -137.10965,
+        "name": "ABERNATHY"
+      },
+      {
+        "x": 1.6783929,
+        "y": 166.48819,
+        "name": "MAN WITH LANTERN"
+      },
+      {
+        "x": 226.38147,
+        "y": 90.0117,
+        "name": "OLD GUY"
+      },
+      {
+        "x": 212.50699,
+        "y": -64.7028,
+        "name": "SLIM"
+      },
+      {
+        "x": -11.017484,
+        "y": -11.627503,
+        "name": "RAY"
+      },
+      {
+        "x": -80.025764,
+        "y": 164.3411,
+        "name": "SPANKY"
+      },
+      {
+        "x": 94.59861,
+        "y": -13.29442,
+        "name": "DILLARD"
+      },
+      {
+        "x": 103.3052,
+        "y": 112.792274,
+        "name": "YVETTE"
+      }
+    ]
+  }
+}

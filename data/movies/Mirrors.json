@@ -1,0 +1,729 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "LARRY",
+        "target": "BEN",
+        "weight": 3
+      },
+      {
+        "source": "LARRY",
+        "target": "AMY",
+        "weight": 1
+      },
+      {
+        "source": "LARRY",
+        "target": "POLICE INSPECTOR OS",
+        "weight": 1
+      },
+      {
+        "source": "DAISY",
+        "target": "BEN",
+        "weight": 3
+      },
+      {
+        "source": "DAISY",
+        "target": "AMY'S REFLECTION",
+        "weight": 1
+      },
+      {
+        "source": "DAISY",
+        "target": "MICHAEL",
+        "weight": 4
+      },
+      {
+        "source": "DAISY",
+        "target": "AMY",
+        "weight": 5
+      },
+      {
+        "source": "DAISY",
+        "target": "ROSA",
+        "weight": 1
+      },
+      {
+        "source": "ROBERT",
+        "target": "BEN",
+        "weight": 1
+      },
+      {
+        "source": "AMY'S REFLECTION",
+        "target": "AMY",
+        "weight": 1
+      },
+      {
+        "source": "MICHAEL",
+        "target": "BEN",
+        "weight": 3
+      },
+      {
+        "source": "MICHAEL",
+        "target": "AMY",
+        "weight": 3
+      },
+      {
+        "source": "MICHAEL",
+        "target": "ROSA",
+        "weight": 1
+      },
+      {
+        "source": "DELIVERYMAN",
+        "target": "BEN",
+        "weight": 1
+      },
+      {
+        "source": "SISTER ANNA",
+        "target": "BEN",
+        "weight": 1
+      },
+      {
+        "source": "SISTER ANNA",
+        "target": "ANNA",
+        "weight": 1
+      },
+      {
+        "source": "SISTER ANNA",
+        "target": "SISTER",
+        "weight": 1
+      },
+      {
+        "source": "JIMMY",
+        "target": "BEN",
+        "weight": 1
+      },
+      {
+        "source": "JIMMY",
+        "target": "JIMMY'S MOTHER",
+        "weight": 1
+      },
+      {
+        "source": "JIMMY",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "SISTER",
+        "target": "BEN",
+        "weight": 2
+      },
+      {
+        "source": "SISTER",
+        "target": "ANNA",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "BEN",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "LORENZO",
+        "weight": 1
+      },
+      {
+        "source": "DR MORRIS",
+        "target": "BEN",
+        "weight": 2
+      },
+      {
+        "source": "DR MORRIS",
+        "target": "TERRENCE",
+        "weight": 1
+      },
+      {
+        "source": "ANNA",
+        "target": "BEN",
+        "weight": 4
+      },
+      {
+        "source": "TERRENCE",
+        "target": "BEN",
+        "weight": 1
+      },
+      {
+        "source": "YOUNG DOCTOR",
+        "target": "BEN",
+        "weight": 1
+      },
+      {
+        "source": "YOUNG DOCTOR",
+        "target": "AMY",
+        "weight": 1
+      },
+      {
+        "source": "YOUNG DOCTOR",
+        "target": "GARY",
+        "weight": 1
+      },
+      {
+        "source": "GARY",
+        "target": "BEN",
+        "weight": 1
+      },
+      {
+        "source": "GARY",
+        "target": "AMY",
+        "weight": 1
+      },
+      {
+        "source": "ROSA",
+        "target": "BEN",
+        "weight": 1
+      },
+      {
+        "source": "ROSA",
+        "target": "AMY",
+        "weight": 1
+      },
+      {
+        "source": "AMY OS",
+        "target": "BEN",
+        "weight": 1
+      },
+      {
+        "source": "LORENZO",
+        "target": "BEN",
+        "weight": 3
+      },
+      {
+        "source": "LORENZO",
+        "target": "LORENZO JR",
+        "weight": 1
+      },
+      {
+        "source": "JIMMY'S MOTHER",
+        "target": "BEN",
+        "weight": 1
+      },
+      {
+        "source": "JIMMY'S MOTHER",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "AMY",
+        "target": "BEN",
+        "weight": 9
+      },
+      {
+        "source": "BEN",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "BEN",
+        "target": "LORENZO JR",
+        "weight": 1
+      },
+      {
+        "source": "BEN",
+        "target": "MRS LEWIS",
+        "weight": 1
+      },
+      {
+        "source": "BEN",
+        "target": "ANGELA",
+        "weight": 4
+      }
+    ],
+    "nodes": [
+      {
+        "id": "LARRY",
+        "name": "LARRY",
+        "color": "#F2A468",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.03558864952967729,
+        "object_id": "3494124",
+        "triangles": 1,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.88,
+        "betweenness centrality": 24.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DAISY",
+        "name": "DAISY",
+        "color": "#5E3C99",
+        "group": 4,
+        "degree": 5,
+        "pagerank": 0.07265261524905695,
+        "object_id": "3494899",
+        "triangles": 7,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.84,
+        "betweenness centrality": 9.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ROBERT",
+        "name": "ROBERT",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.01085976791076324,
+        "object_id": "3498573",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.04,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "AMY'S REFLECTION",
+        "name": "AMY'S REFLECTION",
+        "color": "#5E3C99",
+        "group": 4,
+        "degree": 2,
+        "pagerank": 0.014681843989492589,
+        "object_id": "3499330",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.6,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MICHAEL",
+        "name": "MICHAEL",
+        "color": "#5E3C99",
+        "group": 4,
+        "degree": 4,
+        "pagerank": 0.057332791630245496,
+        "object_id": "3494894",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.88,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DELIVERYMAN",
+        "name": "DELIVERYMAN",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.01085976791076324,
+        "object_id": "3495649",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.04,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SISTER ANNA",
+        "name": "SISTER ANNA",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.022160243172013785,
+        "object_id": "3498872",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.96,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JIMMY",
+        "name": "JIMMY",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.02506153427054547,
+        "object_id": "3498515",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.96,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SISTER",
+        "name": "SISTER",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.027653104700827637,
+        "object_id": "3498775",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.96,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAN",
+        "name": "MAN",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.016875370349126496,
+        "object_id": "3493930",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DR MORRIS",
+        "name": "DR MORRIS",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.023381289604501324,
+        "object_id": "3497464",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANNA",
+        "name": "ANNA",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.03828646407058702,
+        "object_id": "3498937",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.96,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TERRENCE",
+        "name": "TERRENCE",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.017484657659280808,
+        "object_id": "3497551",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "POLICE INSPECTOR OS",
+        "name": "POLICE INSPECTOR OS",
+        "color": "#F2A468",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.01181955511312719,
+        "object_id": "3496867",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.84,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "YOUNG DOCTOR",
+        "name": "YOUNG DOCTOR",
+        "color": "#5E3C99",
+        "group": 4,
+        "degree": 3,
+        "pagerank": 0.02143446499919819,
+        "object_id": "3495954",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.92,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GARY",
+        "name": "GARY",
+        "color": "#5E3C99",
+        "group": 4,
+        "degree": 3,
+        "pagerank": 0.02143446499919819,
+        "object_id": "3496033",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.92,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ROSA",
+        "name": "ROSA",
+        "color": "#5E3C99",
+        "group": 4,
+        "degree": 4,
+        "pagerank": 0.0242026627994669,
+        "object_id": "3494981",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.88,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "AMY OS",
+        "name": "AMY OS",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.01085976791076324,
+        "object_id": "3498240",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.04,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LORENZO",
+        "name": "LORENZO",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.0353849693894394,
+        "object_id": "3494393",
+        "triangles": 2,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.96,
+        "betweenness centrality": 0.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JIMMY'S MOTHER",
+        "name": "JIMMY'S MOTHER",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.02506153427054547,
+        "object_id": "3498537",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.96,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "AMY",
+        "name": "AMY",
+        "color": "#5E3C99",
+        "group": 4,
+        "degree": 8,
+        "pagerank": 0.11650943035749312,
+        "object_id": "3494313",
+        "triangles": 11,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.68,
+        "betweenness centrality": 21.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BEN",
+        "name": "BEN",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 23,
+        "pagerank": 0.28148699824809104,
+        "object_id": "3494047",
+        "triangles": 19,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.08,
+        "betweenness centrality": 262.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LORENZO JR",
+        "name": "LORENZO JR",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.016875370349126496,
+        "object_id": "3494584",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WOMAN",
+        "name": "WOMAN",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.025061534270545475,
+        "object_id": "3498512",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.96,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MRS LEWIS",
+        "name": "MRS LEWIS",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.01085976791076324,
+        "object_id": "3496301",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.04,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANGELA",
+        "name": "ANGELA",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.02613137933536065,
+        "object_id": "3494044",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.04,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": 36.265385,
+        "y": -77.03858,
+        "name": "LARRY"
+      },
+      {
+        "x": -80.00266,
+        "y": 28.613573,
+        "name": "DAISY"
+      },
+      {
+        "x": 0.27536216,
+        "y": -167.3392,
+        "name": "ROBERT"
+      },
+      {
+        "x": -134.87498,
+        "y": 55.984673,
+        "name": "AMY'S REFLECTION"
+      },
+      {
+        "x": -44.3969,
+        "y": 21.087055,
+        "name": "MICHAEL"
+      },
+      {
+        "x": -133.19554,
+        "y": -114.78772,
+        "name": "DELIVERYMAN"
+      },
+      {
+        "x": 84.001854,
+        "y": 33.274673,
+        "name": "SISTER ANNA"
+      },
+      {
+        "x": -62.88058,
+        "y": 138.36652,
+        "name": "JIMMY"
+      },
+      {
+        "x": 72.69035,
+        "y": -11.031147,
+        "name": "SISTER"
+      },
+      {
+        "x": -94.5614,
+        "y": -99.46114,
+        "name": "MAN"
+      },
+      {
+        "x": -66.80901,
+        "y": -123.176414,
+        "name": "DR MORRIS"
+      },
+      {
+        "x": 32.42299,
+        "y": -3.1113646,
+        "name": "ANNA"
+      },
+      {
+        "x": -94.3389,
+        "y": -156.78777,
+        "name": "TERRENCE"
+      },
+      {
+        "x": 110.162186,
+        "y": -117.3798,
+        "name": "POLICE INSPECTOR OS"
+      },
+      {
+        "x": -147.4966,
+        "y": -50.045055,
+        "name": "YOUNG DOCTOR"
+      },
+      {
+        "x": -151.66298,
+        "y": -8.539117,
+        "name": "GARY"
+      },
+      {
+        "x": -6.1590905,
+        "y": 42.707214,
+        "name": "ROSA"
+      },
+      {
+        "x": -41.504486,
+        "y": -159.64034,
+        "name": "AMY OS"
+      },
+      {
+        "x": -26.407425,
+        "y": -109.887825,
+        "name": "LORENZO"
+      },
+      {
+        "x": -21.049189,
+        "y": 117.47436,
+        "name": "JIMMY'S MOTHER"
+      },
+      {
+        "x": -76.78884,
+        "y": -12.971834,
+        "name": "AMY"
+      },
+      {
+        "x": -27.464825,
+        "y": -40.10306,
+        "name": "BEN"
+      },
+      {
+        "x": 18.500673,
+        "y": -134.24014,
+        "name": "LORENZO JR"
+      },
+      {
+        "x": -65.37991,
+        "y": 99.173996,
+        "name": "WOMAN"
+      },
+      {
+        "x": 80.148155,
+        "y": -60.106728,
+        "name": "MRS LEWIS"
+      },
+      {
+        "x": 1.5591857,
+        "y": -71.30976,
+        "name": "ANGELA"
+      }
+    ]
+  }
+}

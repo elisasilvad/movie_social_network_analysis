@@ -1,0 +1,1071 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "MAN #4",
+        "target": "LOTTE",
+        "weight": 1
+      },
+      {
+        "source": "MAN #4",
+        "target": "LESTER",
+        "weight": 1
+      },
+      {
+        "source": "MAN #4",
+        "target": "MAN #3",
+        "weight": 1
+      },
+      {
+        "source": "MAN #4",
+        "target": "MAN #2",
+        "weight": 1
+      },
+      {
+        "source": "MAN #4",
+        "target": "WOMAN #1",
+        "weight": 1
+      },
+      {
+        "source": "PETER",
+        "target": "LOTTE",
+        "weight": 1
+      },
+      {
+        "source": "PETER",
+        "target": "GLORIA",
+        "weight": 1
+      },
+      {
+        "source": "PETER",
+        "target": "CRAIG",
+        "weight": 1
+      },
+      {
+        "source": "WAITER MALKOVICH",
+        "target": "MALKOVICH",
+        "weight": 1
+      },
+      {
+        "source": "WAITER MALKOVICH",
+        "target": "GIRL MALKOVICH",
+        "weight": 1
+      },
+      {
+        "source": "GIRL MALKOVICH",
+        "target": "MALKOVICH",
+        "weight": 1
+      },
+      {
+        "source": "HARRY S TRUMAN PUPPET",
+        "target": "MALKOVICH",
+        "weight": 1
+      },
+      {
+        "source": "HARRY S TRUMAN PUPPET",
+        "target": "FLEMMER",
+        "weight": 1
+      },
+      {
+        "source": "CHARLES NELSON REILLY",
+        "target": "TV ANNOUNCER",
+        "weight": 1
+      },
+      {
+        "source": "CHARLES NELSON REILLY",
+        "target": "CRAIG",
+        "weight": 1
+      },
+      {
+        "source": "FLORIS",
+        "target": "LOTTE",
+        "weight": 1
+      },
+      {
+        "source": "FLORIS",
+        "target": "LESTER",
+        "weight": 2
+      },
+      {
+        "source": "FLORIS",
+        "target": "MALKOVICH",
+        "weight": 1
+      },
+      {
+        "source": "FLORIS",
+        "target": "CRAIG",
+        "weight": 3
+      },
+      {
+        "source": "USHER",
+        "target": "LESTER",
+        "weight": 1
+      },
+      {
+        "source": "USHER",
+        "target": "MANTINI",
+        "weight": 1
+      },
+      {
+        "source": "USHER",
+        "target": "ANNOUNCER",
+        "weight": 1
+      },
+      {
+        "source": "ELIJAH",
+        "target": "LOTTE",
+        "weight": 2
+      },
+      {
+        "source": "ELIJAH",
+        "target": "PARROT",
+        "weight": 1
+      },
+      {
+        "source": "MAN #3",
+        "target": "LOTTE",
+        "weight": 1
+      },
+      {
+        "source": "MAN #3",
+        "target": "WOMAN #1",
+        "weight": 1
+      },
+      {
+        "source": "MAN #3",
+        "target": "MAN #2",
+        "weight": 1
+      },
+      {
+        "source": "MAN #3",
+        "target": "LESTER",
+        "weight": 1
+      },
+      {
+        "source": "LESTER ON FILM",
+        "target": "LOTTE",
+        "weight": 1
+      },
+      {
+        "source": "LESTER ON FILM",
+        "target": "LESTER",
+        "weight": 1
+      },
+      {
+        "source": "ANNOUNCER",
+        "target": "LESTER",
+        "weight": 1
+      },
+      {
+        "source": "ANNOUNCER",
+        "target": "MANTINI",
+        "weight": 1
+      },
+      {
+        "source": "PARROT",
+        "target": "LOTTE",
+        "weight": 2
+      },
+      {
+        "source": "PARROT",
+        "target": "MAXINE",
+        "weight": 1
+      },
+      {
+        "source": "PARROT",
+        "target": "NEIGHBOR",
+        "weight": 1
+      },
+      {
+        "source": "PARROT",
+        "target": "CRAIG",
+        "weight": 1
+      },
+      {
+        "source": "LESTER",
+        "target": "FLEMMER",
+        "weight": 2
+      },
+      {
+        "source": "LESTER",
+        "target": "MAXINE",
+        "weight": 2
+      },
+      {
+        "source": "LESTER",
+        "target": "DIRECTOR",
+        "weight": 1
+      },
+      {
+        "source": "LESTER",
+        "target": "CRAIG",
+        "weight": 5
+      },
+      {
+        "source": "LESTER",
+        "target": "MAN #2",
+        "weight": 2
+      },
+      {
+        "source": "LESTER",
+        "target": "WOMAN #1",
+        "weight": 1
+      },
+      {
+        "source": "LESTER",
+        "target": "MANTINI",
+        "weight": 1
+      },
+      {
+        "source": "LESTER",
+        "target": "MALKOVICH",
+        "weight": 1
+      },
+      {
+        "source": "LESTER",
+        "target": "LOTTE",
+        "weight": 6
+      },
+      {
+        "source": "LESTER",
+        "target": "DISCIPLES OF MALKOVICH",
+        "weight": 1
+      },
+      {
+        "source": "CABBIE",
+        "target": "MALKOVICH",
+        "weight": 1
+      },
+      {
+        "source": "CABBIE",
+        "target": "CRAIG",
+        "weight": 1
+      },
+      {
+        "source": "DISCIPLES OF MALKOVICH",
+        "target": "LOTTE",
+        "weight": 1
+      },
+      {
+        "source": "NEIGHBOR",
+        "target": "LOTTE",
+        "weight": 2
+      },
+      {
+        "source": "NEIGHBOR",
+        "target": "MAXINE",
+        "weight": 1
+      },
+      {
+        "source": "NEIGHBOR",
+        "target": "CRAIG",
+        "weight": 2
+      },
+      {
+        "source": "GLORIA",
+        "target": "LOTTE",
+        "weight": 1
+      },
+      {
+        "source": "GLORIA",
+        "target": "CRAIG",
+        "weight": 1
+      },
+      {
+        "source": "GUY",
+        "target": "LOTTE",
+        "weight": 1
+      },
+      {
+        "source": "GUY",
+        "target": "MALKOVICH",
+        "weight": 1
+      },
+      {
+        "source": "GUY",
+        "target": "MAXINE",
+        "weight": 1
+      },
+      {
+        "source": "ERROLL",
+        "target": "MAXINE",
+        "weight": 1
+      },
+      {
+        "source": "ERROLL",
+        "target": "CRAIG",
+        "weight": 1
+      },
+      {
+        "source": "MOTORIST",
+        "target": "MALKOVICH",
+        "weight": 1
+      },
+      {
+        "source": "MOTORIST",
+        "target": "CRAIG",
+        "weight": 1
+      },
+      {
+        "source": "FAT MAN",
+        "target": "MALKOVICH",
+        "weight": 1
+      },
+      {
+        "source": "FAT MAN",
+        "target": "CRAIG",
+        "weight": 1
+      },
+      {
+        "source": "KEVIN BACON",
+        "target": "MALKOVICH",
+        "weight": 1
+      },
+      {
+        "source": "TV ANNOUNCER",
+        "target": "CRAIG",
+        "weight": 1
+      },
+      {
+        "source": "MAN #2",
+        "target": "LOTTE",
+        "weight": 2
+      },
+      {
+        "source": "MAN #2",
+        "target": "WOMAN #1",
+        "weight": 1
+      },
+      {
+        "source": "MAXINE",
+        "target": "FLEMMER",
+        "weight": 1
+      },
+      {
+        "source": "MAXINE",
+        "target": "MALKOVICH",
+        "weight": 8
+      },
+      {
+        "source": "MAXINE",
+        "target": "AGENT",
+        "weight": 1
+      },
+      {
+        "source": "MAXINE",
+        "target": "LOTTE",
+        "weight": 6
+      },
+      {
+        "source": "MAXINE",
+        "target": "MANTINI",
+        "weight": 1
+      },
+      {
+        "source": "MAXINE",
+        "target": "CRAIG",
+        "weight": 12
+      },
+      {
+        "source": "FLEMMER",
+        "target": "MALKOVICH",
+        "weight": 1
+      },
+      {
+        "source": "FLEMMER",
+        "target": "MANTINI",
+        "weight": 1
+      },
+      {
+        "source": "FLEMMER",
+        "target": "CRAIG",
+        "weight": 1
+      },
+      {
+        "source": "MANTINI",
+        "target": "MALKOVICH",
+        "weight": 1
+      },
+      {
+        "source": "MALKOVICH",
+        "target": "LOTTE",
+        "weight": 4
+      },
+      {
+        "source": "MALKOVICH",
+        "target": "AGENT",
+        "weight": 1
+      },
+      {
+        "source": "MALKOVICH",
+        "target": "CRAIG",
+        "weight": 5
+      },
+      {
+        "source": "LOTTE",
+        "target": "CRAIG",
+        "weight": 14
+      },
+      {
+        "source": "LOTTE",
+        "target": "WOMAN #1",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN #1",
+        "target": "CRAIG",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "MAN #4",
+        "name": "MAN #4",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.01876379308596049,
+        "object_id": "685024",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1818181818181817,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PETER",
+        "name": "PETER",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.013111949202764886,
+        "object_id": "681340",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1818181818181817,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WAITER MALKOVICH",
+        "name": "WAITER MALKOVICH",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.012581270436082,
+        "object_id": "684214",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.4545454545454546,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GIRL MALKOVICH",
+        "name": "GIRL MALKOVICH",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.012581270436082,
+        "object_id": "684207",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.4545454545454546,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HARRY S TRUMAN PUPPET",
+        "name": "HARRY S TRUMAN PUPPET",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.010312884317995595,
+        "object_id": "685781",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.4545454545454546,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CHARLES NELSON REILLY",
+        "name": "CHARLES NELSON REILLY",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.012027176684938416,
+        "object_id": "680579",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.4242424242424243,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FLORIS",
+        "name": "FLORIS",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.022641297614658475,
+        "object_id": "680860",
+        "triangles": 6,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.878787878787879,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "USHER",
+        "name": "USHER",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.014632101649899412,
+        "object_id": "685310",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.4242424242424243,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ELIJAH",
+        "name": "ELIJAH",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.012294883260588259,
+        "object_id": "685740",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.4242424242424243,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAN #3",
+        "name": "MAN #3",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.01876379308596049,
+        "object_id": "685017",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1818181818181817,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LESTER ON FILM",
+        "name": "LESTER ON FILM",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.009600493743938034,
+        "object_id": "684597",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.272727272727273,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANNOUNCER",
+        "name": "ANNOUNCER",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.014632101649899412,
+        "object_id": "685283",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.4242424242424243,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PARROT",
+        "name": "PARROT",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.02061472245133092,
+        "object_id": "681265",
+        "triangles": 7,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0606060606060606,
+        "betweenness centrality": 4.916666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LESTER",
+        "name": "LESTER",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 16,
+        "pagerank": 0.09236864098832132,
+        "object_id": "680930",
+        "triangles": 31,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.5151515151515151,
+        "betweenness centrality": 135.30476190476193,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CABBIE",
+        "name": "CABBIE",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.009737602176711883,
+        "object_id": "682265",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.212121212121212,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DISCIPLES OF MALKOVICH",
+        "name": "DISCIPLES OF MALKOVICH",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.009600493743938034,
+        "object_id": "683299",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.272727272727273,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NEIGHBOR",
+        "name": "NEIGHBOR",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.019756647689292348,
+        "object_id": "681282",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.090909090909091,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GLORIA",
+        "name": "GLORIA",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.013111949202764886,
+        "object_id": "681365",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1818181818181817,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GUY",
+        "name": "GUY",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.012169315566266927,
+        "object_id": "682940",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0606060606060606,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ERROLL",
+        "name": "ERROLL",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.009369715457272627,
+        "object_id": "683143",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.3333333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MOTORIST",
+        "name": "MOTORIST",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.009737602176711883,
+        "object_id": "684297",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.212121212121212,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FAT MAN",
+        "name": "FAT MAN",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.009737602176711883,
+        "object_id": "684084",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.212121212121212,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KEVIN BACON",
+        "name": "KEVIN BACON",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 1,
+        "pagerank": 0.0072337884993980694,
+        "object_id": "684003",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.484848484848485,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TV ANNOUNCER",
+        "name": "TV ANNOUNCER",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.012027176684938416,
+        "object_id": "680568",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.4242424242424243,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAN #2",
+        "name": "MAN #2",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.024203373054025926,
+        "object_id": "684749",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1818181818181817,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAXINE",
+        "name": "MAXINE",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 11,
+        "pagerank": 0.10104957397676224,
+        "object_id": "681222",
+        "triangles": 21,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.6666666666666667,
+        "betweenness centrality": 41.7047619047619,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FLEMMER",
+        "name": "FLEMMER",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.025356639713386114,
+        "object_id": "685154",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8484848484848484,
+        "betweenness centrality": 9.569047619047618,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MANTINI",
+        "name": "MANTINI",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 6,
+        "pagerank": 0.023766264300255094,
+        "object_id": "685316",
+        "triangles": 9,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9696969696969697,
+        "betweenness centrality": 12.466666666666667,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MALKOVICH",
+        "name": "MALKOVICH",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 16,
+        "pagerank": 0.09960086665512824,
+        "object_id": "682258",
+        "triangles": 23,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.5151515151515151,
+        "betweenness centrality": 160.7714285714286,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LOTTE",
+        "name": "LOTTE",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 17,
+        "pagerank": 0.1372066326742579,
+        "object_id": "680469",
+        "triangles": 33,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.4848484848484849,
+        "betweenness centrality": 121.82380952380952,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DIRECTOR",
+        "name": "DIRECTOR",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.007119103751145637,
+        "object_id": "684966",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.484848484848485,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WOMAN #1",
+        "name": "WOMAN #1",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 6,
+        "pagerank": 0.021422545739031365,
+        "object_id": "680816",
+        "triangles": 12,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9696969696969697,
+        "betweenness centrality": 5.4,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "AGENT",
+        "name": "AGENT",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.00968792557347453,
+        "object_id": "684852",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.3636363636363638,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CRAIG",
+        "name": "CRAIG",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 17,
+        "pagerank": 0.15317880258010627,
+        "object_id": "680477",
+        "triangles": 27,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.4848484848484849,
+        "betweenness centrality": 148.04285714285714,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": -106.28043,
+        "y": 173.33072,
+        "name": "MAN #4"
+      },
+      {
+        "x": -210.7859,
+        "y": -28.867462,
+        "name": "PETER"
+      },
+      {
+        "x": -85.685104,
+        "y": -228.29846,
+        "name": "WAITER MALKOVICH"
+      },
+      {
+        "x": -47.07015,
+        "y": -236.86658,
+        "name": "GIRL MALKOVICH"
+      },
+      {
+        "x": 99.46538,
+        "y": -11.658385,
+        "name": "HARRY S TRUMAN PUPPET"
+      },
+      {
+        "x": -225.0635,
+        "y": -113.625145,
+        "name": "CHARLES NELSON REILLY"
+      },
+      {
+        "x": -20.564178,
+        "y": -10.702406,
+        "name": "FLORIS"
+      },
+      {
+        "x": 163.17226,
+        "y": -12.811084,
+        "name": "USHER"
+      },
+      {
+        "x": -119.6385,
+        "y": 76.89675,
+        "name": "ELIJAH"
+      },
+      {
+        "x": -57.480045,
+        "y": 188.298,
+        "name": "MAN #3"
+      },
+      {
+        "x": 9.9239855,
+        "y": 105.18818,
+        "name": "LESTER ON FILM"
+      },
+      {
+        "x": 148.47461,
+        "y": 27.824331,
+        "name": "ANNOUNCER"
+      },
+      {
+        "x": -159.39552,
+        "y": 37.930912,
+        "name": "PARROT"
+      },
+      {
+        "x": -35.078285,
+        "y": 41.068718,
+        "name": "LESTER"
+      },
+      {
+        "x": -5.8161445,
+        "y": -162.40643,
+        "name": "CABBIE"
+      },
+      {
+        "x": 32.578854,
+        "y": -86.55936,
+        "name": "DISCIPLES OF MALKOVICH"
+      },
+      {
+        "x": -158.45087,
+        "y": -19.252779,
+        "name": "NEIGHBOR"
+      },
+      {
+        "x": -216.07697,
+        "y": 14.675001,
+        "name": "GLORIA"
+      },
+      {
+        "x": 25.796604,
+        "y": 12.834788,
+        "name": "GUY"
+      },
+      {
+        "x": -114.51215,
+        "y": -120.85214,
+        "name": "ERROLL"
+      },
+      {
+        "x": -58.185127,
+        "y": -164.9871,
+        "name": "MOTORIST"
+      },
+      {
+        "x": 17.372515,
+        "y": -60.09033,
+        "name": "FAT MAN"
+      },
+      {
+        "x": -129.12138,
+        "y": -165.72359,
+        "name": "KEVIN BACON"
+      },
+      {
+        "x": -246.21071,
+        "y": -80.885826,
+        "name": "TV ANNOUNCER"
+      },
+      {
+        "x": -91.5531,
+        "y": 122.608925,
+        "name": "MAN #2"
+      },
+      {
+        "x": -49.90166,
+        "y": -46.89597,
+        "name": "MAXINE"
+      },
+      {
+        "x": 51.569687,
+        "y": -24.343042,
+        "name": "FLEMMER"
+      },
+      {
+        "x": 109.146645,
+        "y": -53.42201,
+        "name": "MANTINI"
+      },
+      {
+        "x": -31.402641,
+        "y": -96.5751,
+        "name": "MALKOVICH"
+      },
+      {
+        "x": -90.50441,
+        "y": 16.410206,
+        "name": "LOTTE"
+      },
+      {
+        "x": -155.2033,
+        "y": 109.17456,
+        "name": "DIRECTOR"
+      },
+      {
+        "x": -46.896065,
+        "y": 138.4191,
+        "name": "WOMAN #1"
+      },
+      {
+        "x": 48.66877,
+        "y": -134.74634,
+        "name": "AGENT"
+      },
+      {
+        "x": -95.381836,
+        "y": -38.563503,
+        "name": "CRAIG"
+      }
+    ]
+  }
+}

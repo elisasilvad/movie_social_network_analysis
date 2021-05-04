@@ -1,0 +1,2106 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "THE SECOND GUNMAN",
+        "target": "THE HELICOPTER",
+        "weight": 1
+      },
+      {
+        "source": "THE SECOND GUNMAN",
+        "target": "DEAKINS AND THE GUNMAN",
+        "weight": 1
+      },
+      {
+        "source": "THE SECOND GUNMAN",
+        "target": "DEAKINS",
+        "weight": 1
+      },
+      {
+        "source": "THE SECOND GUNMAN",
+        "target": "SHEPPARD",
+        "weight": 1
+      },
+      {
+        "source": "THE SECOND GUNMAN",
+        "target": "TERRY",
+        "weight": 1
+      },
+      {
+        "source": "THE SECOND GUNMAN",
+        "target": "HALE",
+        "weight": 1
+      },
+      {
+        "source": "THE SECOND GUNMAN",
+        "target": "HALE AND TERRY",
+        "weight": 1
+      },
+      {
+        "source": "CREELEY",
+        "target": "GILES",
+        "weight": 1
+      },
+      {
+        "source": "CREELEY",
+        "target": "CU COMPUTER SCREEN",
+        "weight": 1
+      },
+      {
+        "source": "CREELEY",
+        "target": "CHAIRMAN",
+        "weight": 1
+      },
+      {
+        "source": "CREELEY",
+        "target": "ASSISTANT",
+        "weight": 1
+      },
+      {
+        "source": "CREELEY",
+        "target": "BAIRD",
+        "weight": 3
+      },
+      {
+        "source": "THE GHOST",
+        "target": "TERRY",
+        "weight": 1
+      },
+      {
+        "source": "JOHNSON",
+        "target": "THE SOCK",
+        "weight": 1
+      },
+      {
+        "source": "JOHNSON",
+        "target": "MCKELLAR",
+        "weight": 1
+      },
+      {
+        "source": "JOHNSON",
+        "target": "HALE",
+        "weight": 1
+      },
+      {
+        "source": "JOHNSON",
+        "target": "KELLY",
+        "weight": 1
+      },
+      {
+        "source": "JOHNSON",
+        "target": "BULLETS",
+        "weight": 1
+      },
+      {
+        "source": "JOHNSON",
+        "target": "HALE AND TERRY",
+        "weight": 1
+      },
+      {
+        "source": "JOHNSON",
+        "target": "PRITCHETT",
+        "weight": 2
+      },
+      {
+        "source": "JOHNSON",
+        "target": "NOVACEK",
+        "weight": 1
+      },
+      {
+        "source": "JOHNSON",
+        "target": "DEAKINS",
+        "weight": 2
+      },
+      {
+        "source": "JOHNSON",
+        "target": "TERRY",
+        "weight": 1
+      },
+      {
+        "source": "JOHNSON",
+        "target": "KELLY AND JOHNSON",
+        "weight": 1
+      },
+      {
+        "source": "JOHNSON",
+        "target": "BAKER",
+        "weight": 1
+      },
+      {
+        "source": "JOHNSON",
+        "target": "INSERT - ECU NUKE TIMER",
+        "weight": 1
+      },
+      {
+        "source": "THE HELICOPTER",
+        "target": "DEAKINS AND THE GUNMAN",
+        "weight": 1
+      },
+      {
+        "source": "THE HELICOPTER",
+        "target": "NOVACEK",
+        "weight": 1
+      },
+      {
+        "source": "THE HELICOPTER",
+        "target": "HALE",
+        "weight": 2
+      },
+      {
+        "source": "THE HELICOPTER",
+        "target": "HALE AND DEAKINS",
+        "weight": 1
+      },
+      {
+        "source": "THE HELICOPTER",
+        "target": "THE TAIL SECTION",
+        "weight": 1
+      },
+      {
+        "source": "THE HELICOPTER",
+        "target": "HALE AND TERRY",
+        "weight": 2
+      },
+      {
+        "source": "THE HELICOPTER",
+        "target": "SHEPPARD",
+        "weight": 1
+      },
+      {
+        "source": "THE HELICOPTER",
+        "target": "DEAKINS",
+        "weight": 1
+      },
+      {
+        "source": "THE HELICOPTER",
+        "target": "THE TRUCK",
+        "weight": 1
+      },
+      {
+        "source": "THE HELICOPTER",
+        "target": "TERRY",
+        "weight": 1
+      },
+      {
+        "source": "THE HELICOPTER",
+        "target": "TERRY AND HALE",
+        "weight": 1
+      },
+      {
+        "source": "THE HELICOPTER",
+        "target": "THE PILOT",
+        "weight": 1
+      },
+      {
+        "source": "THE NEST HELICOPTER",
+        "target": "DEAKINS",
+        "weight": 1
+      },
+      {
+        "source": "THE NEST HELICOPTER",
+        "target": "PRITCHETT",
+        "weight": 1
+      },
+      {
+        "source": "BAKER",
+        "target": "WANDA",
+        "weight": 1
+      },
+      {
+        "source": "BAKER",
+        "target": "MCKELLAR",
+        "weight": 1
+      },
+      {
+        "source": "BAKER",
+        "target": "HALE",
+        "weight": 1
+      },
+      {
+        "source": "BAKER",
+        "target": "HEADLIGHTS",
+        "weight": 1
+      },
+      {
+        "source": "BAKER",
+        "target": "KELLY",
+        "weight": 1
+      },
+      {
+        "source": "BAKER",
+        "target": "JIM",
+        "weight": 1
+      },
+      {
+        "source": "BAKER",
+        "target": "RANGER",
+        "weight": 1
+      },
+      {
+        "source": "BAKER",
+        "target": "PRITCHETT",
+        "weight": 2
+      },
+      {
+        "source": "BAKER",
+        "target": "NOVACEK",
+        "weight": 1
+      },
+      {
+        "source": "BAKER",
+        "target": "DEAKINS",
+        "weight": 1
+      },
+      {
+        "source": "BAKER",
+        "target": "HALE AND TERRY",
+        "weight": 1
+      },
+      {
+        "source": "BAKER",
+        "target": "TERRY",
+        "weight": 1
+      },
+      {
+        "source": "DEAKINS' HAND",
+        "target": "HALE AND DEAKINS",
+        "weight": 1
+      },
+      {
+        "source": "TERRY'S HAND",
+        "target": "TERRY AND MAX",
+        "weight": 1
+      },
+      {
+        "source": "TERRY'S HAND",
+        "target": "MAX",
+        "weight": 1
+      },
+      {
+        "source": "TERRY'S HAND",
+        "target": "TERRY",
+        "weight": 1
+      },
+      {
+        "source": "ECU NUKE TIMER",
+        "target": "KELLY",
+        "weight": 2
+      },
+      {
+        "source": "ECU NUKE TIMER",
+        "target": "HALE AND DEAKINS",
+        "weight": 1
+      },
+      {
+        "source": "ECU NUKE TIMER",
+        "target": "QUICK CUTS",
+        "weight": 1
+      },
+      {
+        "source": "ECU NUKE TIMER",
+        "target": "DEAKINS",
+        "weight": 2
+      },
+      {
+        "source": "ECU NUKE TIMER",
+        "target": "THE TWENTY DOLLAR BILL",
+        "weight": 1
+      },
+      {
+        "source": "ECU NUKE TIMER",
+        "target": "TERRY",
+        "weight": 1
+      },
+      {
+        "source": "ECU NUKE TIMER",
+        "target": "HALE",
+        "weight": 1
+      },
+      {
+        "source": "ECU NUKE TIMER",
+        "target": "THE NUCLEAR WEAPON",
+        "weight": 1
+      },
+      {
+        "source": "INSERT - ECU NUKE TIMER",
+        "target": "KELLY",
+        "weight": 2
+      },
+      {
+        "source": "INSERT - ECU NUKE TIMER",
+        "target": "KELLY AND JOHNSON",
+        "weight": 1
+      },
+      {
+        "source": "INSERT - ECU NUKE TIMER",
+        "target": "HALE AND TERRY",
+        "weight": 1
+      },
+      {
+        "source": "CU COMPUTER SCREENS",
+        "target": "HALE",
+        "weight": 1
+      },
+      {
+        "source": "CU COMPUTER SCREENS",
+        "target": "HALE AND DEAKINS",
+        "weight": 1
+      },
+      {
+        "source": "THE GROUND",
+        "target": "DEAKINS",
+        "weight": 1
+      },
+      {
+        "source": "THE GROUND",
+        "target": "HUNT",
+        "weight": 1
+      },
+      {
+        "source": "ASSISTANT",
+        "target": "CHAIRMAN",
+        "weight": 1
+      },
+      {
+        "source": "ASSISTANT",
+        "target": "GILES",
+        "weight": 1
+      },
+      {
+        "source": "ASSISTANT",
+        "target": "BAIRD",
+        "weight": 1
+      },
+      {
+        "source": "BAIRD",
+        "target": "CU COMPUTER SCREEN",
+        "weight": 1
+      },
+      {
+        "source": "BAIRD",
+        "target": "GILES",
+        "weight": 2
+      },
+      {
+        "source": "BAIRD",
+        "target": "AIR FORCE ASSISTANT",
+        "weight": 1
+      },
+      {
+        "source": "BAIRD",
+        "target": "CHAIRMAN",
+        "weight": 5
+      },
+      {
+        "source": "CHAIRMAN",
+        "target": "AIR FORCE ASSISTANT",
+        "weight": 1
+      },
+      {
+        "source": "CHAIRMAN",
+        "target": "GILES",
+        "weight": 1
+      },
+      {
+        "source": "CHAIRMAN",
+        "target": "DEAKINS",
+        "weight": 1
+      },
+      {
+        "source": "CU RADAR SCREEN",
+        "target": "CU COMPUTER SCREEN",
+        "weight": 1
+      },
+      {
+        "source": "CU RADAR SCREEN",
+        "target": "WILKINS",
+        "weight": 3
+      },
+      {
+        "source": "CU RADAR SCREEN",
+        "target": "IR CREWMAN",
+        "weight": 1
+      },
+      {
+        "source": "HALE AND DEAKINS",
+        "target": "THE PILOT",
+        "weight": 1
+      },
+      {
+        "source": "HALE AND DEAKINS",
+        "target": "DEAKINS",
+        "weight": 4
+      },
+      {
+        "source": "HALE AND DEAKINS",
+        "target": "THE PLANE",
+        "weight": 1
+      },
+      {
+        "source": "HALE AND DEAKINS",
+        "target": "THE TWENTY DOLLAR BILL",
+        "weight": 1
+      },
+      {
+        "source": "HALE AND DEAKINS",
+        "target": "HALE",
+        "weight": 5
+      },
+      {
+        "source": "HALE AND DEAKINS",
+        "target": "THE CROWD",
+        "weight": 1
+      },
+      {
+        "source": "JIM",
+        "target": "HEADLIGHTS",
+        "weight": 1
+      },
+      {
+        "source": "JIM",
+        "target": "PRITCHETT",
+        "weight": 1
+      },
+      {
+        "source": "JIM",
+        "target": "RANGER",
+        "weight": 1
+      },
+      {
+        "source": "JIM",
+        "target": "WANDA",
+        "weight": 1
+      },
+      {
+        "source": "THE TAIL SECTION",
+        "target": "NOVACEK",
+        "weight": 1
+      },
+      {
+        "source": "THE TAIL SECTION",
+        "target": "HALE",
+        "weight": 1
+      },
+      {
+        "source": "THE TAIL SECTION",
+        "target": "TERRY",
+        "weight": 1
+      },
+      {
+        "source": "THE TAIL SECTION",
+        "target": "TERRY AND HALE",
+        "weight": 1
+      },
+      {
+        "source": "THE TAIL SECTION",
+        "target": "HALE AND TERRY",
+        "weight": 1
+      },
+      {
+        "source": "THE TAIL SECTION",
+        "target": "THE TRUCK",
+        "weight": 1
+      },
+      {
+        "source": "RANGER",
+        "target": "HEADLIGHTS",
+        "weight": 1
+      },
+      {
+        "source": "RANGER",
+        "target": "PRITCHETT",
+        "weight": 1
+      },
+      {
+        "source": "RANGER",
+        "target": "WANDA",
+        "weight": 1
+      },
+      {
+        "source": "NOVACEK",
+        "target": "MCKELLAR",
+        "weight": 1
+      },
+      {
+        "source": "NOVACEK",
+        "target": "HALE",
+        "weight": 1
+      },
+      {
+        "source": "NOVACEK",
+        "target": "PRITCHETT",
+        "weight": 1
+      },
+      {
+        "source": "NOVACEK",
+        "target": "DEAKINS",
+        "weight": 1
+      },
+      {
+        "source": "NOVACEK",
+        "target": "THE TRUCK",
+        "weight": 1
+      },
+      {
+        "source": "NOVACEK",
+        "target": "TERRY",
+        "weight": 1
+      },
+      {
+        "source": "NOVACEK",
+        "target": "TERRY AND HALE",
+        "weight": 1
+      },
+      {
+        "source": "NOVACEK",
+        "target": "HALE AND TERRY",
+        "weight": 1
+      },
+      {
+        "source": "RHODES",
+        "target": "KELLY",
+        "weight": 1
+      },
+      {
+        "source": "MAX",
+        "target": "TERRY AND MAX",
+        "weight": 1
+      },
+      {
+        "source": "MAX",
+        "target": "DEAKINS",
+        "weight": 2
+      },
+      {
+        "source": "MAX",
+        "target": "TERRY",
+        "weight": 2
+      },
+      {
+        "source": "HUNT",
+        "target": "DEAKINS",
+        "weight": 1
+      },
+      {
+        "source": "KELLY AND JOHNSON",
+        "target": "KELLY",
+        "weight": 1
+      },
+      {
+        "source": "KELLY AND JOHNSON",
+        "target": "HALE AND TERRY",
+        "weight": 1
+      },
+      {
+        "source": "KELLY AND JOHNSON",
+        "target": "THE TIMER",
+        "weight": 1
+      },
+      {
+        "source": "HALE",
+        "target": "BOONE",
+        "weight": 1
+      },
+      {
+        "source": "HALE",
+        "target": "THE SOCK",
+        "weight": 1
+      },
+      {
+        "source": "HALE",
+        "target": "WILKINS",
+        "weight": 3
+      },
+      {
+        "source": "HALE",
+        "target": "MCKELLAR",
+        "weight": 1
+      },
+      {
+        "source": "HALE",
+        "target": "BULLETS",
+        "weight": 1
+      },
+      {
+        "source": "HALE",
+        "target": "DEAKINS",
+        "weight": 14
+      },
+      {
+        "source": "HALE",
+        "target": "GILES",
+        "weight": 3
+      },
+      {
+        "source": "HALE",
+        "target": "TERRY AND HALE",
+        "weight": 1
+      },
+      {
+        "source": "HALE",
+        "target": "THE PLANE",
+        "weight": 1
+      },
+      {
+        "source": "HALE",
+        "target": "PILOT",
+        "weight": 1
+      },
+      {
+        "source": "HALE",
+        "target": "SHEPPARD",
+        "weight": 1
+      },
+      {
+        "source": "HALE",
+        "target": "KELLY",
+        "weight": 1
+      },
+      {
+        "source": "HALE",
+        "target": "DEAKINS AND THE GUNMAN",
+        "weight": 1
+      },
+      {
+        "source": "HALE",
+        "target": "PRITCHETT",
+        "weight": 1
+      },
+      {
+        "source": "HALE",
+        "target": "THE TWENTY DOLLAR BILL",
+        "weight": 1
+      },
+      {
+        "source": "HALE",
+        "target": "THE TRUCK",
+        "weight": 1
+      },
+      {
+        "source": "HALE",
+        "target": "TERRY",
+        "weight": 9
+      },
+      {
+        "source": "HALE",
+        "target": "HALE AND TERRY",
+        "weight": 6
+      },
+      {
+        "source": "HALE",
+        "target": "THE CROWD",
+        "weight": 1
+      },
+      {
+        "source": "HALE",
+        "target": "THE NUCLEAR WEAPON",
+        "weight": 1
+      },
+      {
+        "source": "HALE",
+        "target": "THE PILOT",
+        "weight": 1
+      },
+      {
+        "source": "BOONE",
+        "target": "DEAKINS",
+        "weight": 1
+      },
+      {
+        "source": "THE SOCK",
+        "target": "BULLETS",
+        "weight": 1
+      },
+      {
+        "source": "THE SOCK",
+        "target": "HALE AND TERRY",
+        "weight": 1
+      },
+      {
+        "source": "THE SOCK",
+        "target": "DEAKINS",
+        "weight": 1
+      },
+      {
+        "source": "THE SOCK",
+        "target": "TERRY",
+        "weight": 1
+      },
+      {
+        "source": "WILKINS",
+        "target": "KELLY",
+        "weight": 2
+      },
+      {
+        "source": "WILKINS",
+        "target": "CU COMPUTER SCREEN",
+        "weight": 1
+      },
+      {
+        "source": "WILKINS",
+        "target": "GILES",
+        "weight": 4
+      },
+      {
+        "source": "WILKINS",
+        "target": "IR CREWMAN",
+        "weight": 1
+      },
+      {
+        "source": "WILKINS",
+        "target": "PILOT",
+        "weight": 1
+      },
+      {
+        "source": "TERRY AND MAX",
+        "target": "TERRY",
+        "weight": 1
+      },
+      {
+        "source": "MCKELLAR",
+        "target": "PRITCHETT",
+        "weight": 1
+      },
+      {
+        "source": "MCKELLAR",
+        "target": "DEAKINS",
+        "weight": 1
+      },
+      {
+        "source": "MCKELLAR",
+        "target": "TERRY",
+        "weight": 1
+      },
+      {
+        "source": "HEADLIGHTS",
+        "target": "PRITCHETT",
+        "weight": 1
+      },
+      {
+        "source": "HEADLIGHTS",
+        "target": "WANDA",
+        "weight": 1
+      },
+      {
+        "source": "THE TWENTY DOLLAR BILL",
+        "target": "DEAKINS",
+        "weight": 1
+      },
+      {
+        "source": "THE TWENTY DOLLAR BILL",
+        "target": "KELLY",
+        "weight": 1
+      },
+      {
+        "source": "CU COMPUTER SCREEN",
+        "target": "IR CREWMAN",
+        "weight": 1
+      },
+      {
+        "source": "HALE AND TERRY",
+        "target": "TERRY AND HALE",
+        "weight": 1
+      },
+      {
+        "source": "HALE AND TERRY",
+        "target": "SHEPPARD",
+        "weight": 1
+      },
+      {
+        "source": "HALE AND TERRY",
+        "target": "DEAKINS AND THE GUNMAN",
+        "weight": 1
+      },
+      {
+        "source": "HALE AND TERRY",
+        "target": "KELLY",
+        "weight": 2
+      },
+      {
+        "source": "HALE AND TERRY",
+        "target": "BULLETS",
+        "weight": 1
+      },
+      {
+        "source": "HALE AND TERRY",
+        "target": "DEAKINS",
+        "weight": 2
+      },
+      {
+        "source": "HALE AND TERRY",
+        "target": "THE TRUCK",
+        "weight": 1
+      },
+      {
+        "source": "HALE AND TERRY",
+        "target": "TERRY",
+        "weight": 7
+      },
+      {
+        "source": "HALE AND TERRY",
+        "target": "UNDERWATER",
+        "weight": 1
+      },
+      {
+        "source": "HALE AND TERRY",
+        "target": "THE CEILING",
+        "weight": 1
+      },
+      {
+        "source": "DEAKINS",
+        "target": "BULLETS",
+        "weight": 1
+      },
+      {
+        "source": "DEAKINS",
+        "target": "THE PLANE",
+        "weight": 1
+      },
+      {
+        "source": "DEAKINS",
+        "target": "QUICK CUTS",
+        "weight": 1
+      },
+      {
+        "source": "DEAKINS",
+        "target": "SHEPPARD",
+        "weight": 3
+      },
+      {
+        "source": "DEAKINS",
+        "target": "DEAKINS AND THE GUNMAN",
+        "weight": 1
+      },
+      {
+        "source": "DEAKINS",
+        "target": "KELLY",
+        "weight": 2
+      },
+      {
+        "source": "DEAKINS",
+        "target": "PRITCHETT",
+        "weight": 3
+      },
+      {
+        "source": "DEAKINS",
+        "target": "TERRY",
+        "weight": 5
+      },
+      {
+        "source": "DEAKINS",
+        "target": "THE CROWD",
+        "weight": 1
+      },
+      {
+        "source": "DEAKINS",
+        "target": "THE NUCLEAR WEAPON",
+        "weight": 1
+      },
+      {
+        "source": "DEAKINS",
+        "target": "THE PILOT",
+        "weight": 1
+      },
+      {
+        "source": "THE TIMER",
+        "target": "KELLY",
+        "weight": 1
+      },
+      {
+        "source": "TERRY AND HALE",
+        "target": "TERRY",
+        "weight": 1
+      },
+      {
+        "source": "TERRY AND HALE",
+        "target": "THE TRUCK",
+        "weight": 1
+      },
+      {
+        "source": "THE CEILING",
+        "target": "UNDERWATER",
+        "weight": 1
+      },
+      {
+        "source": "WANDA",
+        "target": "PRITCHETT",
+        "weight": 1
+      },
+      {
+        "source": "DEAKINS AND THE GUNMAN",
+        "target": "SHEPPARD",
+        "weight": 1
+      },
+      {
+        "source": "DEAKINS AND THE GUNMAN",
+        "target": "TERRY",
+        "weight": 1
+      },
+      {
+        "source": "QUICK CUTS",
+        "target": "TERRY",
+        "weight": 1
+      },
+      {
+        "source": "BULLETS",
+        "target": "TERRY",
+        "weight": 1
+      },
+      {
+        "source": "PRITCHETT",
+        "target": "KELLY",
+        "weight": 1
+      },
+      {
+        "source": "PRITCHETT",
+        "target": "TERRY",
+        "weight": 1
+      },
+      {
+        "source": "SHEPPARD",
+        "target": "TERRY",
+        "weight": 3
+      },
+      {
+        "source": "THE TRUCK",
+        "target": "TERRY",
+        "weight": 1
+      },
+      {
+        "source": "TERRY",
+        "target": "KELLY",
+        "weight": 1
+      },
+      {
+        "source": "TERRY",
+        "target": "CLYDE",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "THE SECOND GUNMAN",
+        "name": "THE SECOND GUNMAN",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 7,
+        "pagerank": 0.012019026671161372,
+        "object_id": "982953",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1206896551724137,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CREELEY",
+        "name": "CREELEY",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.015043588379667669,
+        "object_id": "978879",
+        "triangles": 7,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.9827586206896552,
+        "betweenness centrality": 3.8750000000000004,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THE GHOST",
+        "name": "THE GHOST",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.003887368371035372,
+        "object_id": "977954",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.689655172413793,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JOHNSON",
+        "name": "JOHNSON",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 13,
+        "pagerank": 0.024641331305669183,
+        "object_id": "979276",
+        "triangles": 46,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9137931034482758,
+        "betweenness centrality": 33.51269841269839,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THE HELICOPTER",
+        "name": "THE HELICOPTER",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 13,
+        "pagerank": 0.02379913255884517,
+        "object_id": "978627",
+        "triangles": 45,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 21.983730158730157,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THE NEST HELICOPTER",
+        "name": "THE NEST HELICOPTER",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.005340945600170293,
+        "object_id": "981338",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.4482758620689653,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BAKER",
+        "name": "BAKER",
+        "color": "#5E3C99",
+        "group": 4,
+        "degree": 13,
+        "pagerank": 0.024146476883915444,
+        "object_id": "978030",
+        "triangles": 42,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9137931034482758,
+        "betweenness centrality": 114.98253968253965,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DEAKINS' HAND",
+        "name": "DEAKINS' HAND",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.004047092043984707,
+        "object_id": "978508",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.1724137931034484,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TERRY'S HAND",
+        "name": "TERRY'S HAND",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.007869625705991467,
+        "object_id": "982810",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.6551724137931036,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ECU NUKE TIMER",
+        "name": "ECU NUKE TIMER",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 8,
+        "pagerank": 0.017879110819705148,
+        "object_id": "981553",
+        "triangles": 16,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.086206896551724,
+        "betweenness centrality": 15.032539682539683,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "INSERT - ECU NUKE TIMER",
+        "name": "INSERT - ECU NUKE TIMER",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.010208368375307622,
+        "object_id": "981269",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5517241379310347,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CU COMPUTER SCREENS",
+        "name": "CU COMPUTER SCREENS",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.005340925766368793,
+        "object_id": "978456",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.4482758620689653,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THE GROUND",
+        "name": "THE GROUND",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.0067520351857360585,
+        "object_id": "981643",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5172413793103448,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ASSISTANT",
+        "name": "ASSISTANT",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.009381676994260195,
+        "object_id": "980030",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.0344827586206895,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BAIRD",
+        "name": "BAIRD",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.026397280405261136,
+        "object_id": "978663",
+        "triangles": 8,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.9655172413793105,
+        "betweenness centrality": 10.553571428571429,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CHAIRMAN",
+        "name": "CHAIRMAN",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.020436908200275713,
+        "object_id": "978680",
+        "triangles": 7,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.2758620689655173,
+        "betweenness centrality": 126.01190476190474,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CU RADAR SCREEN",
+        "name": "CU RADAR SCREEN",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.011717570381125655,
+        "object_id": "978164",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.0689655172413794,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HALE AND DEAKINS",
+        "name": "HALE AND DEAKINS",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 10,
+        "pagerank": 0.030095449781260577,
+        "object_id": "977702",
+        "triangles": 16,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.189655172413793,
+        "betweenness centrality": 67.39999999999999,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "AIR FORCE ASSISTANT",
+        "name": "AIR FORCE ASSISTANT",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.006006276721254215,
+        "object_id": "982693",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.189655172413793,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JIM",
+        "name": "JIM",
+        "color": "#5E3C99",
+        "group": 4,
+        "degree": 5,
+        "pagerank": 0.01115668448843998,
+        "object_id": "978000",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.810344827586207,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THE TAIL SECTION",
+        "name": "THE TAIL SECTION",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 7,
+        "pagerank": 0.012211484555767321,
+        "object_id": "979798",
+        "triangles": 21,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.206896551724138,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RANGER",
+        "name": "RANGER",
+        "color": "#5E3C99",
+        "group": 4,
+        "degree": 5,
+        "pagerank": 0.01115668448843998,
+        "object_id": "977985",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.810344827586207,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NOVACEK",
+        "name": "NOVACEK",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 12,
+        "pagerank": 0.019460564068836554,
+        "object_id": "979205",
+        "triangles": 45,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9655172413793103,
+        "betweenness centrality": 13.124603174603175,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RHODES",
+        "name": "RHODES",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.004067774591159284,
+        "object_id": "978643",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.8275862068965516,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAX",
+        "name": "MAX",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.012371874912132451,
+        "object_id": "982103",
+        "triangles": 4,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.3620689655172415,
+        "betweenness centrality": 11.866666666666667,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HUNT",
+        "name": "HUNT",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.0067520351857360585,
+        "object_id": "980042",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5172413793103448,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KELLY AND JOHNSON",
+        "name": "KELLY AND JOHNSON",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.011065480407710434,
+        "object_id": "981217",
+        "triangles": 7,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5344827586206895,
+        "betweenness centrality": 4.986507936507937,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HALE",
+        "name": "HALE",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 30,
+        "pagerank": 0.09894276737917689,
+        "object_id": "977648",
+        "triangles": 99,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.5,
+        "betweenness centrality": 482.17658730158735,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BOONE",
+        "name": "BOONE",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.005176315544488469,
+        "object_id": "977870",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.3448275862068964,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THE SOCK",
+        "name": "THE SOCK",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 6,
+        "pagerank": 0.0107829480286318,
+        "object_id": "980948",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1379310344827585,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WILKINS",
+        "name": "WILKINS",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 7,
+        "pagerank": 0.028317678434378466,
+        "object_id": "978135",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1724137931034484,
+        "betweenness centrality": 160.70238095238096,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TERRY AND MAX",
+        "name": "TERRY AND MAX",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.007869625705991467,
+        "object_id": "982819",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.6551724137931036,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MCKELLAR",
+        "name": "MCKELLAR",
+        "color": "#5E3C99",
+        "group": 4,
+        "degree": 7,
+        "pagerank": 0.012220457351450812,
+        "object_id": "979199",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.086206896551724,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HEADLIGHTS",
+        "name": "HEADLIGHTS",
+        "color": "#5E3C99",
+        "group": 4,
+        "degree": 5,
+        "pagerank": 0.01115668448843998,
+        "object_id": "978033",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.810344827586207,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THE TWENTY DOLLAR BILL",
+        "name": "THE TWENTY DOLLAR BILL",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.009726108984581368,
+        "object_id": "979461",
+        "triangles": 9,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.206896551724138,
+        "betweenness centrality": 1.9444444444444446,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CU COMPUTER SCREEN",
+        "name": "CU COMPUTER SCREEN",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.012011380316841735,
+        "object_id": "978225",
+        "triangles": 4,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.9827586206896552,
+        "betweenness centrality": 12.83333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HALE AND TERRY",
+        "name": "HALE AND TERRY",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 20,
+        "pagerank": 0.05351532239508663,
+        "object_id": "978934",
+        "triangles": 69,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.793103448275862,
+        "betweenness centrality": 176.13293650793648,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DEAKINS",
+        "name": "DEAKINS",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 29,
+        "pagerank": 0.09144596168601078,
+        "object_id": "977645",
+        "triangles": 85,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.5517241379310345,
+        "betweenness centrality": 472.5289682539681,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THE TIMER",
+        "name": "THE TIMER",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.005948855054539298,
+        "object_id": "981214",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.810344827586207,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TERRY AND HALE",
+        "name": "TERRY AND HALE",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 7,
+        "pagerank": 0.012211484555767321,
+        "object_id": "979622",
+        "triangles": 21,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.206896551724138,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THE CEILING",
+        "name": "THE CEILING",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.006748029276481042,
+        "object_id": "981449",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.7586206896551726,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WANDA",
+        "name": "WANDA",
+        "color": "#5E3C99",
+        "group": 4,
+        "degree": 5,
+        "pagerank": 0.01115668448843998,
+        "object_id": "978003",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.810344827586207,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GILES",
+        "name": "GILES",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.02185462596423044,
+        "object_id": "978707",
+        "triangles": 7,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.2413793103448274,
+        "betweenness centrality": 82.16666666666669,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PILOT",
+        "name": "PILOT",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.005441039809778261,
+        "object_id": "982870",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.413793103448276,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "IR CREWMAN",
+        "name": "IR CREWMAN",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.008181708869886702,
+        "object_id": "978217",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.0689655172413794,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DEAKINS AND THE GUNMAN",
+        "name": "DEAKINS AND THE GUNMAN",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 7,
+        "pagerank": 0.012019026671161373,
+        "object_id": "982890",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1206896551724137,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "QUICK CUTS",
+        "name": "QUICK CUTS",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.006747149879444596,
+        "object_id": "982729",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.3793103448275863,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BULLETS",
+        "name": "BULLETS",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 6,
+        "pagerank": 0.0107829480286318,
+        "object_id": "980929",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1379310344827585,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THE CROWD",
+        "name": "THE CROWD",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.006681034707117244,
+        "object_id": "977699",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.310344827586207,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THE PLANE",
+        "name": "THE PLANE",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.006681034707117244,
+        "object_id": "978420",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.310344827586207,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PRITCHETT",
+        "name": "PRITCHETT",
+        "color": "#5E3C99",
+        "group": 4,
+        "degree": 13,
+        "pagerank": 0.02917008354278985,
+        "object_id": "978043",
+        "triangles": 37,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9482758620689655,
+        "betweenness centrality": 110.78373015873018,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SHEPPARD",
+        "name": "SHEPPARD",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 7,
+        "pagerank": 0.017496672246385566,
+        "object_id": "981968",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1206896551724137,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "UNDERWATER",
+        "name": "UNDERWATER",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.006748029276481042,
+        "object_id": "981455",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.7586206896551726,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THE TRUCK",
+        "name": "THE TRUCK",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 7,
+        "pagerank": 0.01221148455576732,
+        "object_id": "979625",
+        "triangles": 21,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.206896551724138,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TERRY",
+        "name": "TERRY",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 25,
+        "pagerank": 0.07279129866823804,
+        "object_id": "978276",
+        "triangles": 84,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.706896551724138,
+        "betweenness centrality": 286.9301587301588,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CLYDE",
+        "name": "CLYDE",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.003887368371035372,
+        "object_id": "978272",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.689655172413793,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KELLY",
+        "name": "KELLY",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 14,
+        "pagerank": 0.03409784319339055,
+        "object_id": "979439",
+        "triangles": 33,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8448275862068966,
+        "betweenness centrality": 196.47103174603177,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THE NUCLEAR WEAPON",
+        "name": "THE NUCLEAR WEAPON",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.006695988112149243,
+        "object_id": "983387",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.3275862068965516,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THE PILOT",
+        "name": "THE PILOT",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.00802958685687136,
+        "object_id": "983168",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.293103448275862,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": -133.60432,
+        "y": 241.64224,
+        "name": "THE SECOND GUNMAN"
+      },
+      {
+        "x": 428.71878,
+        "y": 10.614904,
+        "name": "CREELEY"
+      },
+      {
+        "x": -10.187129,
+        "y": 274.05563,
+        "name": "THE GHOST"
+      },
+      {
+        "x": 4.505771,
+        "y": -86.79982,
+        "name": "JOHNSON"
+      },
+      {
+        "x": -186.14099,
+        "y": 163.62654,
+        "name": "THE HELICOPTER"
+      },
+      {
+        "x": -160.35907,
+        "y": -161.87874,
+        "name": "THE NEST HELICOPTER"
+      },
+      {
+        "x": 7.136477,
+        "y": -205.34259,
+        "name": "BAKER"
+      },
+      {
+        "x": 135.10576,
+        "y": -62.34919,
+        "name": "DEAKINS' HAND"
+      },
+      {
+        "x": -15.142085,
+        "y": 44.388226,
+        "name": "TERRY'S HAND"
+      },
+      {
+        "x": -67.62352,
+        "y": -40.660065,
+        "name": "ECU NUKE TIMER"
+      },
+      {
+        "x": -110.233086,
+        "y": -164.30283,
+        "name": "INSERT - ECU NUKE TIMER"
+      },
+      {
+        "x": -144.6851,
+        "y": -2.7037144,
+        "name": "CU COMPUTER SCREENS"
+      },
+      {
+        "x": -301.98102,
+        "y": 1.8512855,
+        "name": "THE GROUND"
+      },
+      {
+        "x": 417.8744,
+        "y": 51.951214,
+        "name": "ASSISTANT"
+      },
+      {
+        "x": 381.6525,
+        "y": 13.696825,
+        "name": "BAIRD"
+      },
+      {
+        "x": 339.51126,
+        "y": 0.09638946,
+        "name": "CHAIRMAN"
+      },
+      {
+        "x": 297.33972,
+        "y": 124.47631,
+        "name": "CU RADAR SCREEN"
+      },
+      {
+        "x": 10.81641,
+        "y": 13.265374,
+        "name": "HALE AND DEAKINS"
+      },
+      {
+        "x": 374.9792,
+        "y": -58.49262,
+        "name": "AIR FORCE ASSISTANT"
+      },
+      {
+        "x": 35.602097,
+        "y": -391.15472,
+        "name": "JIM"
+      },
+      {
+        "x": -263.5068,
+        "y": 162.02661,
+        "name": "THE TAIL SECTION"
+      },
+      {
+        "x": -5.4038324,
+        "y": -365.2551,
+        "name": "RANGER"
+      },
+      {
+        "x": -202.66594,
+        "y": -15.555766,
+        "name": "NOVACEK"
+      },
+      {
+        "x": 80.736496,
+        "y": -214.67422,
+        "name": "RHODES"
+      },
+      {
+        "x": -139.08649,
+        "y": 120.68937,
+        "name": "MAX"
+      },
+      {
+        "x": -287.47412,
+        "y": -33.429848,
+        "name": "HUNT"
+      },
+      {
+        "x": -140.17311,
+        "y": -209.46736,
+        "name": "KELLY AND JOHNSON"
+      },
+      {
+        "x": -18.948093,
+        "y": 84.70852,
+        "name": "HALE"
+      },
+      {
+        "x": -178.07793,
+        "y": 111.97448,
+        "name": "BOONE"
+      },
+      {
+        "x": 61.857964,
+        "y": 105.02936,
+        "name": "THE SOCK"
+      },
+      {
+        "x": 199.06113,
+        "y": 83.49762,
+        "name": "WILKINS"
+      },
+      {
+        "x": -133.62895,
+        "y": 179.16583,
+        "name": "TERRY AND MAX"
+      },
+      {
+        "x": -107.8685,
+        "y": -110.878044,
+        "name": "MCKELLAR"
+      },
+      {
+        "x": 35.12304,
+        "y": -335.41092,
+        "name": "HEADLIGHTS"
+      },
+      {
+        "x": -131.38927,
+        "y": -68.078156,
+        "name": "THE TWENTY DOLLAR BILL"
+      },
+      {
+        "x": 389.59305,
+        "y": 105.714935,
+        "name": "CU COMPUTER SCREEN"
+      },
+      {
+        "x": -140.23296,
+        "y": 51.265503,
+        "name": "HALE AND TERRY"
+      },
+      {
+        "x": -60.713768,
+        "y": 22.438675,
+        "name": "DEAKINS"
+      },
+      {
+        "x": -141.67815,
+        "y": -270.72025,
+        "name": "THE TIMER"
+      },
+      {
+        "x": -218.50589,
+        "y": 210.13145,
+        "name": "TERRY AND HALE"
+      },
+      {
+        "x": -288.4156,
+        "y": -92.36751,
+        "name": "THE CEILING"
+      },
+      {
+        "x": 75.66895,
+        "y": -359.27316,
+        "name": "WANDA"
+      },
+      {
+        "x": 253.1513,
+        "y": 55.51201,
+        "name": "GILES"
+      },
+      {
+        "x": 143.91592,
+        "y": 183.43387,
+        "name": "PILOT"
+      },
+      {
+        "x": 351.4427,
+        "y": 154.0737,
+        "name": "IR CREWMAN"
+      },
+      {
+        "x": -80.36829,
+        "y": 237.60278,
+        "name": "DEAKINS AND THE GUNMAN"
+      },
+      {
+        "x": -15.474143,
+        "y": 168.32347,
+        "name": "QUICK CUTS"
+      },
+      {
+        "x": 68.58208,
+        "y": 55.841244,
+        "name": "BULLETS"
+      },
+      {
+        "x": 61.240776,
+        "y": 154.6886,
+        "name": "THE CROWD"
+      },
+      {
+        "x": 98.72292,
+        "y": 9.642576,
+        "name": "THE PLANE"
+      },
+      {
+        "x": -47.26679,
+        "y": -187.83258,
+        "name": "PRITCHETT"
+      },
+      {
+        "x": -84.092354,
+        "y": 178.74579,
+        "name": "SHEPPARD"
+      },
+      {
+        "x": -321.52286,
+        "y": -71.9945,
+        "name": "UNDERWATER"
+      },
+      {
+        "x": -264.15332,
+        "y": 109.935814,
+        "name": "THE TRUCK"
+      },
+      {
+        "x": -88.08139,
+        "y": 111.56107,
+        "name": "TERRY"
+      },
+      {
+        "x": -55.447514,
+        "y": 298.32837,
+        "name": "CLYDE"
+      },
+      {
+        "x": -43.712963,
+        "y": -106.63407,
+        "name": "KELLY"
+      },
+      {
+        "x": 56.55053,
+        "y": -19.075167,
+        "name": "THE NUCLEAR WEAPON"
+      },
+      {
+        "x": -201.82698,
+        "y": 78.99539,
+        "name": "THE PILOT"
+      }
+    ]
+  }
+}

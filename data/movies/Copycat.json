@@ -1,0 +1,997 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "GIGI",
+        "target": "SAKS",
+        "weight": 1
+      },
+      {
+        "source": "GIGI",
+        "target": "QUINN",
+        "weight": 1
+      },
+      {
+        "source": "FRED",
+        "target": "HELEN",
+        "weight": 1
+      },
+      {
+        "source": "DETECTIVE 2",
+        "target": "SAKS",
+        "weight": 1
+      },
+      {
+        "source": "DETECTIVE 2",
+        "target": "DETECTIVE",
+        "weight": 1
+      },
+      {
+        "source": "DETECTIVE 2",
+        "target": "QUINN",
+        "weight": 1
+      },
+      {
+        "source": "HARVEY",
+        "target": "CONFESSOR",
+        "weight": 1
+      },
+      {
+        "source": "HARVEY",
+        "target": "PACHULSKI",
+        "weight": 1
+      },
+      {
+        "source": "HARVEY",
+        "target": "NIKKO",
+        "weight": 1
+      },
+      {
+        "source": "HARVEY",
+        "target": "RUBEN",
+        "weight": 1
+      },
+      {
+        "source": "COP",
+        "target": "HELEN",
+        "weight": 1
+      },
+      {
+        "source": "COP",
+        "target": "DOC",
+        "weight": 1
+      },
+      {
+        "source": "COP",
+        "target": "PHONE VOICE",
+        "weight": 1
+      },
+      {
+        "source": "COP",
+        "target": "RUBEN",
+        "weight": 1
+      },
+      {
+        "source": "NIKKO",
+        "target": "HELEN",
+        "weight": 1
+      },
+      {
+        "source": "NIKKO",
+        "target": "CONFESSOR",
+        "weight": 1
+      },
+      {
+        "source": "NIKKO",
+        "target": "PACHULSKI",
+        "weight": 1
+      },
+      {
+        "source": "NIKKO",
+        "target": "RUBEN",
+        "weight": 3
+      },
+      {
+        "source": "NIKKO",
+        "target": "QUINN",
+        "weight": 2
+      },
+      {
+        "source": "NIKKO",
+        "target": "DOC",
+        "weight": 1
+      },
+      {
+        "source": "NIKKO",
+        "target": "MAC",
+        "weight": 1
+      },
+      {
+        "source": "NIKKO",
+        "target": "KID",
+        "weight": 1
+      },
+      {
+        "source": "NIKKO",
+        "target": "SUSAN",
+        "weight": 1
+      },
+      {
+        "source": "COMPUTER",
+        "target": "CHESSMASTER",
+        "weight": 1
+      },
+      {
+        "source": "COMPUTER",
+        "target": "HELEN",
+        "weight": 1
+      },
+      {
+        "source": "PARAMEDIC",
+        "target": "HELEN",
+        "weight": 1
+      },
+      {
+        "source": "PARAMEDIC",
+        "target": "QUINN",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "CONRAD",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "RUBEN",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "BURT",
+        "weight": 1
+      },
+      {
+        "source": "CHESSMASTER",
+        "target": "HELEN",
+        "weight": 1
+      },
+      {
+        "source": "DOC",
+        "target": "PHONE VOICE",
+        "weight": 1
+      },
+      {
+        "source": "DOC",
+        "target": "RUBEN",
+        "weight": 1
+      },
+      {
+        "source": "DOC",
+        "target": "SUSAN",
+        "weight": 1
+      },
+      {
+        "source": "PACHULSKI",
+        "target": "CONFESSOR",
+        "weight": 1
+      },
+      {
+        "source": "PACHULSKI",
+        "target": "HELEN",
+        "weight": 1
+      },
+      {
+        "source": "PACHULSKI",
+        "target": "RUBEN",
+        "weight": 1
+      },
+      {
+        "source": "DARYLL",
+        "target": "HELEN",
+        "weight": 1
+      },
+      {
+        "source": "DARYLL",
+        "target": "DARYLL LEE",
+        "weight": 1
+      },
+      {
+        "source": "PETER",
+        "target": "HELEN",
+        "weight": 1
+      },
+      {
+        "source": "PETER",
+        "target": "COMPUTER VOICE",
+        "weight": 1
+      },
+      {
+        "source": "PETER",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "JUDGE",
+        "target": "HELEN",
+        "weight": 1
+      },
+      {
+        "source": "JUDGE",
+        "target": "ATTORNEY",
+        "weight": 1
+      },
+      {
+        "source": "JUDGE",
+        "target": "QUINN",
+        "weight": 1
+      },
+      {
+        "source": "KID",
+        "target": "RUBEN",
+        "weight": 1
+      },
+      {
+        "source": "CONFESSOR",
+        "target": "RUBEN",
+        "weight": 1
+      },
+      {
+        "source": "COMPUTER VOICE",
+        "target": "HELEN",
+        "weight": 1
+      },
+      {
+        "source": "RUBEN",
+        "target": "QUINN",
+        "weight": 2
+      },
+      {
+        "source": "RUBEN",
+        "target": "BURT",
+        "weight": 1
+      },
+      {
+        "source": "RUBEN",
+        "target": "SUSAN",
+        "weight": 2
+      },
+      {
+        "source": "RUBEN",
+        "target": "HELEN",
+        "weight": 5
+      },
+      {
+        "source": "RUBEN",
+        "target": "ANDY",
+        "weight": 3
+      },
+      {
+        "source": "RUBEN",
+        "target": "MAC",
+        "weight": 1
+      },
+      {
+        "source": "RUBEN",
+        "target": "CONRAD",
+        "weight": 1
+      },
+      {
+        "source": "QUINN",
+        "target": "SAKS",
+        "weight": 2
+      },
+      {
+        "source": "QUINN",
+        "target": "ATTORNEY",
+        "weight": 1
+      },
+      {
+        "source": "QUINN",
+        "target": "MAC",
+        "weight": 1
+      },
+      {
+        "source": "QUINN",
+        "target": "SUSAN",
+        "weight": 3
+      },
+      {
+        "source": "QUINN",
+        "target": "HELEN",
+        "weight": 1
+      },
+      {
+        "source": "QUINN",
+        "target": "FBI",
+        "weight": 1
+      },
+      {
+        "source": "QUINN",
+        "target": "ANDY",
+        "weight": 1
+      },
+      {
+        "source": "QUINN",
+        "target": "DETECTIVE",
+        "weight": 1
+      },
+      {
+        "source": "BURT",
+        "target": "CONRAD",
+        "weight": 1
+      },
+      {
+        "source": "DETECTIVE",
+        "target": "SAKS",
+        "weight": 1
+      },
+      {
+        "source": "HELEN",
+        "target": "SAKS",
+        "weight": 1
+      },
+      {
+        "source": "HELEN",
+        "target": "ANDY",
+        "weight": 6
+      },
+      {
+        "source": "HELEN",
+        "target": "DARYLL LEE",
+        "weight": 1
+      },
+      {
+        "source": "HELEN",
+        "target": "ATTORNEY",
+        "weight": 1
+      },
+      {
+        "source": "FBI",
+        "target": "SAKS",
+        "weight": 1
+      },
+      {
+        "source": "FBI",
+        "target": "ANDY",
+        "weight": 1
+      },
+      {
+        "source": "ANDY",
+        "target": "SAKS",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "GIGI",
+        "name": "GIGI",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.013069561904766169,
+        "object_id": "1288409",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5625,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FRED",
+        "name": "FRED",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 1,
+        "pagerank": 0.008942666402922177,
+        "object_id": "1290520",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.4375,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DETECTIVE 2",
+        "name": "DETECTIVE 2",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.01823645857032573,
+        "object_id": "1289784",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.53125,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HARVEY",
+        "name": "HARVEY",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.021554137121705667,
+        "object_id": "1284746",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.4375,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COP",
+        "name": "COP",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.02370375464479195,
+        "object_id": "1284470",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.03125,
+        "betweenness centrality": 23.598412698412698,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NIKKO",
+        "name": "NIKKO",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 10,
+        "pagerank": 0.061441427953350766,
+        "object_id": "1284726",
+        "triangles": 17,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.71875,
+        "betweenness centrality": 46.31349206349206,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COMPUTER",
+        "name": "COMPUTER",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.01555277266549901,
+        "object_id": "1284162",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.40625,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PARAMEDIC",
+        "name": "PARAMEDIC",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.013024754628824797,
+        "object_id": "1290924",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.21875,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAN",
+        "name": "MAN",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.019662382358561423,
+        "object_id": "1288013",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.46875,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CHESSMASTER",
+        "name": "CHESSMASTER",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.01555277266549901,
+        "object_id": "1284100",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.40625,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOC",
+        "name": "DOC",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.0277137482534211,
+        "object_id": "1284455",
+        "triangles": 5,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.375,
+        "betweenness centrality": 10.87777777777778,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PACHULSKI",
+        "name": "PACHULSKI",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 5,
+        "pagerank": 0.026095351564792573,
+        "object_id": "1284800",
+        "triangles": 8,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.03125,
+        "betweenness centrality": 7.533333333333332,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DARYLL",
+        "name": "DARYLL",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.01555277266549901,
+        "object_id": "1288866",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.40625,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PHONE VOICE",
+        "name": "PHONE VOICE",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.01429372640970675,
+        "object_id": "1284486",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.90625,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PETER",
+        "name": "PETER",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.026001052179713987,
+        "object_id": "1286764",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.34375,
+        "betweenness centrality": 31.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JUDGE",
+        "name": "JUDGE",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.018174113062375777,
+        "object_id": "1285491",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1875,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KID",
+        "name": "KID",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.01253779978827103,
+        "object_id": "1289307",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CONFESSOR",
+        "name": "CONFESSOR",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.021554137121705667,
+        "object_id": "1284730",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.4375,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COMPUTER VOICE",
+        "name": "COMPUTER VOICE",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.016311326838422936,
+        "object_id": "1290496",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.375,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WOMAN",
+        "name": "WOMAN",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 1,
+        "pagerank": 0.011914114980955307,
+        "object_id": "1286761",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.3125,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RUBEN",
+        "name": "RUBEN",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 15,
+        "pagerank": 0.11691532573881505,
+        "object_id": "1284202",
+        "triangles": 24,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.5625,
+        "betweenness centrality": 152.25634920634917,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "QUINN",
+        "name": "QUINN",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 14,
+        "pagerank": 0.0912479959901777,
+        "object_id": "1284379",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.625,
+        "betweenness centrality": 117.35079365079368,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BURT",
+        "name": "BURT",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.019662382358561423,
+        "object_id": "1288052",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.46875,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CONRAD",
+        "name": "CONRAD",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.019662382358561423,
+        "object_id": "1288060",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.46875,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SUSAN",
+        "name": "SUSAN",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.03347040574247412,
+        "object_id": "1284348",
+        "triangles": 5,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.15625,
+        "betweenness centrality": 3.0373015873015876,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DETECTIVE",
+        "name": "DETECTIVE",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.018236458570325728,
+        "object_id": "1289773",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.53125,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HELEN",
+        "name": "HELEN",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 17,
+        "pagerank": 0.13450143715115354,
+        "object_id": "1283864",
+        "triangles": 17,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.46875,
+        "betweenness centrality": 258.4785714285714,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FBI",
+        "name": "FBI",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.017051088837861262,
+        "object_id": "1289972",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.53125,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANDY",
+        "name": "ANDY",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.0562091855527153,
+        "object_id": "1284911",
+        "triangles": 7,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.90625,
+        "betweenness centrality": 9.326190476190478,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DARYLL LEE",
+        "name": "DARYLL LEE",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.01555277266549901,
+        "object_id": "1288858",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.40625,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAC",
+        "name": "MAC",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.01661988801417365,
+        "object_id": "1289152",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.21875,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SAKS",
+        "name": "SAKS",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 7,
+        "pagerank": 0.041807732176195225,
+        "object_id": "1288265",
+        "triangles": 9,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0625,
+        "betweenness centrality": 23.22777777777778,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ATTORNEY",
+        "name": "ATTORNEY",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.018174113062375777,
+        "object_id": "1285400",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1875,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": -144.71678,
+        "y": -14.3977,
+        "name": "GIGI"
+      },
+      {
+        "x": 50.451366,
+        "y": -124.38392,
+        "name": "FRED"
+      },
+      {
+        "x": -163.86826,
+        "y": -73.610275,
+        "name": "DETECTIVE 2"
+      },
+      {
+        "x": 202.70876,
+        "y": 111.17555,
+        "name": "HARVEY"
+      },
+      {
+        "x": 185.94032,
+        "y": -138.27472,
+        "name": "COP"
+      },
+      {
+        "x": 127.68338,
+        "y": 31.576178,
+        "name": "NIKKO"
+      },
+      {
+        "x": 117.81861,
+        "y": -100.07319,
+        "name": "COMPUTER"
+      },
+      {
+        "x": -55.96483,
+        "y": -97.66956,
+        "name": "PARAMEDIC"
+      },
+      {
+        "x": 309.28836,
+        "y": -61.02184,
+        "name": "MAN"
+      },
+      {
+        "x": 158.12935,
+        "y": -86.93458,
+        "name": "CHESSMASTER"
+      },
+      {
+        "x": 141.23781,
+        "y": -143.03741,
+        "name": "DOC"
+      },
+      {
+        "x": 158.22461,
+        "y": 89.26027,
+        "name": "PACHULSKI"
+      },
+      {
+        "x": -64.21312,
+        "y": 76.97037,
+        "name": "DARYLL"
+      },
+      {
+        "x": 191.06989,
+        "y": -202.57756,
+        "name": "PHONE VOICE"
+      },
+      {
+        "x": -18.515657,
+        "y": 163.13905,
+        "name": "PETER"
+      },
+      {
+        "x": -39.50974,
+        "y": -142.25623,
+        "name": "JUDGE"
+      },
+      {
+        "x": 203.89888,
+        "y": 9.171003,
+        "name": "KID"
+      },
+      {
+        "x": 218.31084,
+        "y": 68.40519,
+        "name": "CONFESSOR"
+      },
+      {
+        "x": 14.280396,
+        "y": 127.60277,
+        "name": "COMPUTER VOICE"
+      },
+      {
+        "x": -49.184513,
+        "y": 225.84207,
+        "name": "WOMAN"
+      },
+      {
+        "x": 131.00896,
+        "y": -24.437323,
+        "name": "RUBEN"
+      },
+      {
+        "x": -22.291397,
+        "y": -55.423954,
+        "name": "QUINN"
+      },
+      {
+        "x": 283.26672,
+        "y": -27.265564,
+        "name": "BURT"
+      },
+      {
+        "x": 269.27737,
+        "y": -73.809525,
+        "name": "CONRAD"
+      },
+      {
+        "x": 67.9841,
+        "y": -77.76026,
+        "name": "SUSAN"
+      },
+      {
+        "x": -141.40039,
+        "y": -110.0661,
+        "name": "DETECTIVE"
+      },
+      {
+        "x": 47.775085,
+        "y": -14.505284,
+        "name": "HELEN"
+      },
+      {
+        "x": -86.78952,
+        "y": 9.650234,
+        "name": "FBI"
+      },
+      {
+        "x": 6.588096,
+        "y": 4.7016163,
+        "name": "ANDY"
+      },
+      {
+        "x": -27.890516,
+        "y": 85.861824,
+        "name": "DARYLL LEE"
+      },
+      {
+        "x": 67.42688,
+        "y": 57.384148,
+        "name": "MAC"
+      },
+      {
+        "x": -105.03155,
+        "y": -44.521347,
+        "name": "SAKS"
+      },
+      {
+        "x": 0.48320776,
+        "y": -137.46365,
+        "name": "ATTORNEY"
+      }
+    ]
+  }
+}

@@ -1,0 +1,2680 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "BRADLEY",
+        "target": "ALI",
+        "weight": 1
+      },
+      {
+        "source": "BRADLEY",
+        "target": "ORTF INTERVIEWER",
+        "weight": 1
+      },
+      {
+        "source": "BRADLEY",
+        "target": "ANGELO DUNDEE",
+        "weight": 1
+      },
+      {
+        "source": "BRADLEY",
+        "target": "MALCOLM X",
+        "weight": 1
+      },
+      {
+        "source": "BRADLEY",
+        "target": "MARLIN THOMAS",
+        "weight": 1
+      },
+      {
+        "source": "BRADLEY",
+        "target": "MOBUTU",
+        "weight": 1
+      },
+      {
+        "source": "BRADLEY",
+        "target": "MOBUTU'S MILITARY AIDE",
+        "weight": 1
+      },
+      {
+        "source": "SAM COOKE",
+        "target": "ALI",
+        "weight": 1
+      },
+      {
+        "source": "SAM COOKE",
+        "target": "GIRL",
+        "weight": 1
+      },
+      {
+        "source": "SAM COOKE",
+        "target": "MALCOLM X",
+        "weight": 1
+      },
+      {
+        "source": "SAM COOKE",
+        "target": "CASSIUS",
+        "weight": 1
+      },
+      {
+        "source": "SAM COOKE",
+        "target": "CRAZY MAN",
+        "weight": 1
+      },
+      {
+        "source": "FRAZIER",
+        "target": "ALI",
+        "weight": 2
+      },
+      {
+        "source": "FRAZIER",
+        "target": "HOWARD COSELL",
+        "weight": 2
+      },
+      {
+        "source": "FRAZIER",
+        "target": "NIGHT",
+        "weight": 1
+      },
+      {
+        "source": "CLAYTON",
+        "target": "ALI",
+        "weight": 1
+      },
+      {
+        "source": "CLAYTON",
+        "target": "DUNDEE",
+        "weight": 1
+      },
+      {
+        "source": "CLAYTON",
+        "target": "ANGELO DUNDEE",
+        "weight": 1
+      },
+      {
+        "source": "CLAYTON",
+        "target": "ALI'S EYES",
+        "weight": 1
+      },
+      {
+        "source": "CLAYTON",
+        "target": "LOW ANGLE",
+        "weight": 1
+      },
+      {
+        "source": "CLAYTON",
+        "target": "ALI'S CORNER",
+        "weight": 1
+      },
+      {
+        "source": "CLAYTON",
+        "target": "DON KING",
+        "weight": 1
+      },
+      {
+        "source": "CLAYTON",
+        "target": "BUNDINI",
+        "weight": 1
+      },
+      {
+        "source": "CLAYTON",
+        "target": "BELL",
+        "weight": 1
+      },
+      {
+        "source": "CLAYTON",
+        "target": "ALI'S FACE",
+        "weight": 1
+      },
+      {
+        "source": "ANOTHER REPORTER",
+        "target": "ALI",
+        "weight": 1
+      },
+      {
+        "source": "ANOTHER REPORTER",
+        "target": "MALCOLM X",
+        "weight": 1
+      },
+      {
+        "source": "ANOTHER REPORTER",
+        "target": "PRESS",
+        "weight": 1
+      },
+      {
+        "source": "ANOTHER REPORTER",
+        "target": "REPORTERS",
+        "weight": 1
+      },
+      {
+        "source": "ANOTHER REPORTER",
+        "target": "CASSIUS",
+        "weight": 1
+      },
+      {
+        "source": "HOWARD COSELL",
+        "target": "ELIJAH MUHAMMAD",
+        "weight": 1
+      },
+      {
+        "source": "HOWARD COSELL",
+        "target": "SONNY LISTON",
+        "weight": 1
+      },
+      {
+        "source": "HOWARD COSELL",
+        "target": "ALI - DAY",
+        "weight": 2
+      },
+      {
+        "source": "HOWARD COSELL",
+        "target": "BINGHAM",
+        "weight": 1
+      },
+      {
+        "source": "HOWARD COSELL",
+        "target": "BUNDINI",
+        "weight": 1
+      },
+      {
+        "source": "HOWARD COSELL",
+        "target": "REPORTERS",
+        "weight": 1
+      },
+      {
+        "source": "HOWARD COSELL",
+        "target": "ALI",
+        "weight": 9
+      },
+      {
+        "source": "HOWARD COSELL",
+        "target": "BELINDA",
+        "weight": 2
+      },
+      {
+        "source": "HOWARD COSELL",
+        "target": "THE DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "HOWARD COSELL",
+        "target": "ANGELO DUNDEE",
+        "weight": 1
+      },
+      {
+        "source": "HOWARD COSELL",
+        "target": "CASSIUS",
+        "weight": 1
+      },
+      {
+        "source": "HOWARD COSELL",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "HOWARD COSELL",
+        "target": "THE MAN",
+        "weight": 1
+      },
+      {
+        "source": "HOWARD COSELL",
+        "target": "HERBERT",
+        "weight": 1
+      },
+      {
+        "source": "HOWARD COSELL",
+        "target": "NIGHT",
+        "weight": 2
+      },
+      {
+        "source": "REPORTER",
+        "target": "ALI",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER",
+        "target": "DON KING",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER",
+        "target": "ANGELO DUNDEE",
+        "weight": 1
+      },
+      {
+        "source": "CRAZY MAN",
+        "target": "ALI",
+        "weight": 1
+      },
+      {
+        "source": "JIMI HENDRIX",
+        "target": "ALI'S FACE",
+        "weight": 1
+      },
+      {
+        "source": "JIMI HENDRIX",
+        "target": "NIGHT",
+        "weight": 1
+      },
+      {
+        "source": "ORTF INTERVIEWER",
+        "target": "ALI",
+        "weight": 1
+      },
+      {
+        "source": "ORTF INTERVIEWER",
+        "target": "ANGELO DUNDEE",
+        "weight": 1
+      },
+      {
+        "source": "ALI'S EYES",
+        "target": "ALI'S",
+        "weight": 1
+      },
+      {
+        "source": "ALI'S EYES",
+        "target": "LOW ANGLE",
+        "weight": 1
+      },
+      {
+        "source": "ALI'S EYES",
+        "target": "FOREMAN",
+        "weight": 2
+      },
+      {
+        "source": "ALI'S EYES",
+        "target": "BUNDINI",
+        "weight": 2
+      },
+      {
+        "source": "ALI'S EYES",
+        "target": "ALI",
+        "weight": 3
+      },
+      {
+        "source": "ALI'S EYES",
+        "target": "DUNDEE",
+        "weight": 1
+      },
+      {
+        "source": "ALI'S EYES",
+        "target": "ALI'S CORNER",
+        "weight": 2
+      },
+      {
+        "source": "ALI'S EYES",
+        "target": "ANNOUNCER",
+        "weight": 1
+      },
+      {
+        "source": "ALI'S EYES",
+        "target": "ANGELO DUNDEE",
+        "weight": 1
+      },
+      {
+        "source": "ALI'S EYES",
+        "target": "DON KING",
+        "weight": 1
+      },
+      {
+        "source": "ALI'S EYES",
+        "target": "BELL",
+        "weight": 1
+      },
+      {
+        "source": "ALI'S EYES",
+        "target": "ALI'S FACE",
+        "weight": 1
+      },
+      {
+        "source": "THE MAN",
+        "target": "ANGELO DUNDEE",
+        "weight": 1
+      },
+      {
+        "source": "THE MAN",
+        "target": "THE DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "THE MAN",
+        "target": "REPORTERS",
+        "weight": 1
+      },
+      {
+        "source": "THE MAN",
+        "target": "CASSIUS",
+        "weight": 1
+      },
+      {
+        "source": "THE MAN",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "THE MAN",
+        "target": "SONNY LISTON",
+        "weight": 1
+      },
+      {
+        "source": "THE MAN",
+        "target": "MARLIN THOMAS",
+        "weight": 1
+      },
+      {
+        "source": "THE MAN",
+        "target": "BUNDINI",
+        "weight": 1
+      },
+      {
+        "source": "ERNIE TERRELL",
+        "target": "ALI",
+        "weight": 1
+      },
+      {
+        "source": "IRENE",
+        "target": "ALI",
+        "weight": 1
+      },
+      {
+        "source": "IRENE",
+        "target": "SADLER",
+        "weight": 1
+      },
+      {
+        "source": "IRENE",
+        "target": "BUNDINI",
+        "weight": 1
+      },
+      {
+        "source": "IRENE",
+        "target": "HOLMES",
+        "weight": 1
+      },
+      {
+        "source": "IRENE",
+        "target": "BINGHAM",
+        "weight": 1
+      },
+      {
+        "source": "LSG BOARD MEMBER",
+        "target": "CASSIUS CLAY, SR",
+        "weight": 1
+      },
+      {
+        "source": "ALI'S FACE",
+        "target": "ALI",
+        "weight": 1
+      },
+      {
+        "source": "ALI'S FACE",
+        "target": "DUNDEE",
+        "weight": 1
+      },
+      {
+        "source": "ALI'S FACE",
+        "target": "BUNDINI",
+        "weight": 1
+      },
+      {
+        "source": "ALI'S FACE",
+        "target": "ALI'S CORNER",
+        "weight": 1
+      },
+      {
+        "source": "ALI'S FACE",
+        "target": "LOW ANGLE",
+        "weight": 1
+      },
+      {
+        "source": "ALI'S FACE",
+        "target": "ANGELO DUNDEE",
+        "weight": 1
+      },
+      {
+        "source": "ALI'S FACE",
+        "target": "DON KING",
+        "weight": 1
+      },
+      {
+        "source": "ALI'S FACE",
+        "target": "BELL",
+        "weight": 1
+      },
+      {
+        "source": "CASSIUS CLAY, SR",
+        "target": "ALI",
+        "weight": 3
+      },
+      {
+        "source": "CASSIUS CLAY, SR",
+        "target": "SONJI",
+        "weight": 1
+      },
+      {
+        "source": "CASSIUS CLAY, SR",
+        "target": "HERBERT",
+        "weight": 1
+      },
+      {
+        "source": "CASSIUS CLAY, SR",
+        "target": "BUNDINI",
+        "weight": 2
+      },
+      {
+        "source": "CASSIUS CLAY, SR",
+        "target": "ODESSA CLAY",
+        "weight": 1
+      },
+      {
+        "source": "DON KING",
+        "target": "LOW ANGLE",
+        "weight": 1
+      },
+      {
+        "source": "DON KING",
+        "target": "BUNDINI",
+        "weight": 1
+      },
+      {
+        "source": "DON KING",
+        "target": "AISLE",
+        "weight": 1
+      },
+      {
+        "source": "DON KING",
+        "target": "ALI",
+        "weight": 2
+      },
+      {
+        "source": "DON KING",
+        "target": "DUNDEE",
+        "weight": 1
+      },
+      {
+        "source": "DON KING",
+        "target": "REPORTERS",
+        "weight": 1
+      },
+      {
+        "source": "DON KING",
+        "target": "BINGHAM",
+        "weight": 1
+      },
+      {
+        "source": "DON KING",
+        "target": "ALI'S CORNER",
+        "weight": 1
+      },
+      {
+        "source": "DON KING",
+        "target": "BELL",
+        "weight": 1
+      },
+      {
+        "source": "DON KING",
+        "target": "ANGELO DUNDEE",
+        "weight": 3
+      },
+      {
+        "source": "BETTY SHABAZZ",
+        "target": "MALCOLM X",
+        "weight": 1
+      },
+      {
+        "source": "BETTY SHABAZZ",
+        "target": "JOSEPH 13X",
+        "weight": 1
+      },
+      {
+        "source": "BETTY SHABAZZ",
+        "target": "ONE OF HIS CHILDREN",
+        "weight": 1
+      },
+      {
+        "source": "SONNY LISTON",
+        "target": "THE DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "SONNY LISTON",
+        "target": "ANGELO DUNDEE",
+        "weight": 1
+      },
+      {
+        "source": "SONNY LISTON",
+        "target": "CASSIUS",
+        "weight": 1
+      },
+      {
+        "source": "SONNY LISTON",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "SONNY LISTON",
+        "target": "BUNDINI",
+        "weight": 1
+      },
+      {
+        "source": "SONNY LISTON",
+        "target": "REPORTERS",
+        "weight": 1
+      },
+      {
+        "source": "ALI - DAY",
+        "target": "ALI",
+        "weight": 2
+      },
+      {
+        "source": "ALI - DAY",
+        "target": "HERBERT",
+        "weight": 1
+      },
+      {
+        "source": "ALI - DAY",
+        "target": "BINGHAM",
+        "weight": 1
+      },
+      {
+        "source": "FOREMAN",
+        "target": "ALI",
+        "weight": 2
+      },
+      {
+        "source": "FOREMAN",
+        "target": "ALI'S",
+        "weight": 2
+      },
+      {
+        "source": "FOREMAN",
+        "target": "ALI'S CORNER",
+        "weight": 1
+      },
+      {
+        "source": "FOREMAN",
+        "target": "ANGELO DUNDEE",
+        "weight": 1
+      },
+      {
+        "source": "FOREMAN",
+        "target": "BUNDINI",
+        "weight": 1
+      },
+      {
+        "source": "HOLMES",
+        "target": "ALI",
+        "weight": 1
+      },
+      {
+        "source": "HOLMES",
+        "target": "SADLER",
+        "weight": 1
+      },
+      {
+        "source": "HOLMES",
+        "target": "BUNDINI",
+        "weight": 1
+      },
+      {
+        "source": "HOLMES",
+        "target": "BINGHAM",
+        "weight": 1
+      },
+      {
+        "source": "ALI",
+        "target": "THE PILOT",
+        "weight": 1
+      },
+      {
+        "source": "ALI",
+        "target": "REFEREE",
+        "weight": 1
+      },
+      {
+        "source": "ALI",
+        "target": "KIDS",
+        "weight": 1
+      },
+      {
+        "source": "ALI",
+        "target": "REPORTERS",
+        "weight": 1
+      },
+      {
+        "source": "ALI",
+        "target": "LIEUTENANT NSAKALA",
+        "weight": 1
+      },
+      {
+        "source": "ALI",
+        "target": "HERBERT",
+        "weight": 5
+      },
+      {
+        "source": "ALI",
+        "target": "CUSTOMER",
+        "weight": 1
+      },
+      {
+        "source": "ALI",
+        "target": "BOB ARUM",
+        "weight": 1
+      },
+      {
+        "source": "ALI",
+        "target": "COMMISSIONER",
+        "weight": 1
+      },
+      {
+        "source": "ALI",
+        "target": "ALI'S",
+        "weight": 3
+      },
+      {
+        "source": "ALI",
+        "target": "SONJI",
+        "weight": 3
+      },
+      {
+        "source": "ALI",
+        "target": "WIDER",
+        "weight": 1
+      },
+      {
+        "source": "ALI",
+        "target": "BUNDINI",
+        "weight": 13
+      },
+      {
+        "source": "ALI",
+        "target": "DAWN",
+        "weight": 1
+      },
+      {
+        "source": "ALI",
+        "target": "DUNDEE",
+        "weight": 2
+      },
+      {
+        "source": "ALI",
+        "target": "BELINDA",
+        "weight": 6
+      },
+      {
+        "source": "ALI",
+        "target": "LIPSYTE",
+        "weight": 1
+      },
+      {
+        "source": "ALI",
+        "target": "ALI'S CORNER",
+        "weight": 2
+      },
+      {
+        "source": "ALI",
+        "target": "LT JEROME CLARIDGE",
+        "weight": 1
+      },
+      {
+        "source": "ALI",
+        "target": "BELL",
+        "weight": 1
+      },
+      {
+        "source": "ALI",
+        "target": "ELIJAH MUHAMMAD",
+        "weight": 1
+      },
+      {
+        "source": "ALI",
+        "target": "TEENAGER",
+        "weight": 1
+      },
+      {
+        "source": "ALI",
+        "target": "SADLER",
+        "weight": 1
+      },
+      {
+        "source": "ALI",
+        "target": "ZAIRIAN OFFICIAL #1",
+        "weight": 1
+      },
+      {
+        "source": "ALI",
+        "target": "LOW ANGLE",
+        "weight": 1
+      },
+      {
+        "source": "ALI",
+        "target": "CHAUNCEY ESKRIDGE",
+        "weight": 3
+      },
+      {
+        "source": "ALI",
+        "target": "MALCOLM X",
+        "weight": 2
+      },
+      {
+        "source": "ALI",
+        "target": "PILOT",
+        "weight": 1
+      },
+      {
+        "source": "ALI",
+        "target": "ODESSA CLAY",
+        "weight": 1
+      },
+      {
+        "source": "ALI",
+        "target": "RUDY",
+        "weight": 1
+      },
+      {
+        "source": "ALI",
+        "target": "VERONICA",
+        "weight": 1
+      },
+      {
+        "source": "ALI",
+        "target": "ANGELO DUNDEE",
+        "weight": 6
+      },
+      {
+        "source": "ALI",
+        "target": "BINGHAM",
+        "weight": 8
+      },
+      {
+        "source": "ALI",
+        "target": "PRESS",
+        "weight": 1
+      },
+      {
+        "source": "ALI",
+        "target": "LANDLADY",
+        "weight": 1
+      },
+      {
+        "source": "ALI",
+        "target": "PACHECO",
+        "weight": 3
+      },
+      {
+        "source": "ALI",
+        "target": "NIGHT",
+        "weight": 2
+      },
+      {
+        "source": "JOE SMILEY",
+        "target": "JOSEPH 13X",
+        "weight": 1
+      },
+      {
+        "source": "REPORTERS",
+        "target": "THE DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "REPORTERS",
+        "target": "BUNDINI",
+        "weight": 1
+      },
+      {
+        "source": "REPORTERS",
+        "target": "ANGELO DUNDEE",
+        "weight": 1
+      },
+      {
+        "source": "REPORTERS",
+        "target": "CASSIUS",
+        "weight": 2
+      },
+      {
+        "source": "REPORTERS",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "REPORTERS",
+        "target": "MALCOLM X",
+        "weight": 1
+      },
+      {
+        "source": "HERBERT",
+        "target": "BELINDA",
+        "weight": 1
+      },
+      {
+        "source": "HERBERT",
+        "target": "ANGELO DUNDEE",
+        "weight": 1
+      },
+      {
+        "source": "HERBERT",
+        "target": "CHAUNCEY ESKRIDGE",
+        "weight": 1
+      },
+      {
+        "source": "HERBERT",
+        "target": "BINGHAM",
+        "weight": 3
+      },
+      {
+        "source": "HERBERT",
+        "target": "RUDY",
+        "weight": 1
+      },
+      {
+        "source": "HERBERT",
+        "target": "BUNDINI",
+        "weight": 3
+      },
+      {
+        "source": "HERBERT",
+        "target": "LIEUTENANT NSAKALA",
+        "weight": 1
+      },
+      {
+        "source": "KIDS",
+        "target": "TEENAGER",
+        "weight": 1
+      },
+      {
+        "source": "KIDS",
+        "target": "ALI'S",
+        "weight": 1
+      },
+      {
+        "source": "CUSTOMER",
+        "target": "CHAUNCEY ESKRIDGE",
+        "weight": 1
+      },
+      {
+        "source": "LIEUTENANT NSAKALA",
+        "target": "ANGELO DUNDEE",
+        "weight": 1
+      },
+      {
+        "source": "LIEUTENANT NSAKALA",
+        "target": "BUNDINI",
+        "weight": 1
+      },
+      {
+        "source": "LIEUTENANT NSAKALA",
+        "target": "RUDY",
+        "weight": 1
+      },
+      {
+        "source": "ALI'S",
+        "target": "TEENAGER",
+        "weight": 1
+      },
+      {
+        "source": "ALI'S",
+        "target": "REFEREE",
+        "weight": 1
+      },
+      {
+        "source": "ALI'S",
+        "target": "ANGELO DUNDEE",
+        "weight": 1
+      },
+      {
+        "source": "ALI'S",
+        "target": "ALI'S CORNER",
+        "weight": 1
+      },
+      {
+        "source": "ALI'S",
+        "target": "BUNDINI",
+        "weight": 1
+      },
+      {
+        "source": "REFEREE",
+        "target": "PACHECO",
+        "weight": 1
+      },
+      {
+        "source": "REFEREE",
+        "target": "NIGHT",
+        "weight": 1
+      },
+      {
+        "source": "MALCOLM",
+        "target": "MALCOLM X",
+        "weight": 1
+      },
+      {
+        "source": "SONJI",
+        "target": "BUNDINI",
+        "weight": 1
+      },
+      {
+        "source": "WIDER",
+        "target": "ANGELO DUNDEE",
+        "weight": 1
+      },
+      {
+        "source": "WIDER",
+        "target": "BUNDINI",
+        "weight": 1
+      },
+      {
+        "source": "BUNDINI",
+        "target": "THE DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "BUNDINI",
+        "target": "DUNDEE",
+        "weight": 1
+      },
+      {
+        "source": "BUNDINI",
+        "target": "ALI'S CORNER",
+        "weight": 2
+      },
+      {
+        "source": "BUNDINI",
+        "target": "CASSIUS",
+        "weight": 1
+      },
+      {
+        "source": "BUNDINI",
+        "target": "QUARRY",
+        "weight": 1
+      },
+      {
+        "source": "BUNDINI",
+        "target": "BELL",
+        "weight": 1
+      },
+      {
+        "source": "BUNDINI",
+        "target": "PACHECO",
+        "weight": 1
+      },
+      {
+        "source": "BUNDINI",
+        "target": "SADLER",
+        "weight": 1
+      },
+      {
+        "source": "BUNDINI",
+        "target": "LOW ANGLE",
+        "weight": 1
+      },
+      {
+        "source": "BUNDINI",
+        "target": "CHAUNCEY ESKRIDGE",
+        "weight": 1
+      },
+      {
+        "source": "BUNDINI",
+        "target": "LANDLADY",
+        "weight": 1
+      },
+      {
+        "source": "BUNDINI",
+        "target": "RUDY",
+        "weight": 1
+      },
+      {
+        "source": "BUNDINI",
+        "target": "VERONICA",
+        "weight": 1
+      },
+      {
+        "source": "BUNDINI",
+        "target": "BINGHAM",
+        "weight": 3
+      },
+      {
+        "source": "BUNDINI",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "BUNDINI",
+        "target": "ANGELO DUNDEE",
+        "weight": 6
+      },
+      {
+        "source": "DUNDEE",
+        "target": "ALI'S CORNER",
+        "weight": 1
+      },
+      {
+        "source": "DUNDEE",
+        "target": "LOW ANGLE",
+        "weight": 1
+      },
+      {
+        "source": "DUNDEE",
+        "target": "BELL",
+        "weight": 1
+      },
+      {
+        "source": "DUNDEE",
+        "target": "ANGELO DUNDEE",
+        "weight": 1
+      },
+      {
+        "source": "JOSEPH 13X",
+        "target": "MALCOLM X",
+        "weight": 1
+      },
+      {
+        "source": "JOSEPH 13X",
+        "target": "ONE OF HIS CHILDREN",
+        "weight": 1
+      },
+      {
+        "source": "LIPSYTE",
+        "target": "BINGHAM",
+        "weight": 1
+      },
+      {
+        "source": "ALI'S CORNER",
+        "target": "LOW ANGLE",
+        "weight": 1
+      },
+      {
+        "source": "ALI'S CORNER",
+        "target": "ANGELO DUNDEE",
+        "weight": 2
+      },
+      {
+        "source": "ALI'S CORNER",
+        "target": "BELL",
+        "weight": 1
+      },
+      {
+        "source": "THE PILOT",
+        "target": "PILOT",
+        "weight": 1
+      },
+      {
+        "source": "CASSIUS",
+        "target": "ELIJAH MUHAMMAD",
+        "weight": 1
+      },
+      {
+        "source": "CASSIUS",
+        "target": "THE DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "CASSIUS",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "CASSIUS",
+        "target": "RUDY",
+        "weight": 1
+      },
+      {
+        "source": "CASSIUS",
+        "target": "ANGELO DUNDEE",
+        "weight": 3
+      },
+      {
+        "source": "CASSIUS",
+        "target": "GIRL",
+        "weight": 1
+      },
+      {
+        "source": "CASSIUS",
+        "target": "MALCOLM X",
+        "weight": 2
+      },
+      {
+        "source": "AISLE",
+        "target": "ANGELO DUNDEE",
+        "weight": 1
+      },
+      {
+        "source": "AISLE",
+        "target": "BINGHAM",
+        "weight": 1
+      },
+      {
+        "source": "MOBUTU'S MILITARY AIDE",
+        "target": "MOBUTU",
+        "weight": 1
+      },
+      {
+        "source": "ONE OF HIS CHILDREN",
+        "target": "MALCOLM X",
+        "weight": 1
+      },
+      {
+        "source": "SADLER",
+        "target": "BINGHAM",
+        "weight": 1
+      },
+      {
+        "source": "GIRL",
+        "target": "MALCOLM X",
+        "weight": 1
+      },
+      {
+        "source": "LOW ANGLE",
+        "target": "BELL",
+        "weight": 1
+      },
+      {
+        "source": "LOW ANGLE",
+        "target": "ANGELO DUNDEE",
+        "weight": 1
+      },
+      {
+        "source": "CHAUNCEY ESKRIDGE",
+        "target": "BOB ARUM",
+        "weight": 1
+      },
+      {
+        "source": "MALCOLM X",
+        "target": "RUDY",
+        "weight": 1
+      },
+      {
+        "source": "MALCOLM X",
+        "target": "ANGELO DUNDEE",
+        "weight": 1
+      },
+      {
+        "source": "BELINDA",
+        "target": "PACHECO",
+        "weight": 1
+      },
+      {
+        "source": "BELINDA",
+        "target": "BINGHAM",
+        "weight": 2
+      },
+      {
+        "source": "RUDY",
+        "target": "PACHECO",
+        "weight": 1
+      },
+      {
+        "source": "RUDY",
+        "target": "ANGELO DUNDEE",
+        "weight": 2
+      },
+      {
+        "source": "VERONICA",
+        "target": "BINGHAM",
+        "weight": 1
+      },
+      {
+        "source": "ANGELO DUNDEE",
+        "target": "THE DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "ANGELO DUNDEE",
+        "target": "BELL",
+        "weight": 1
+      },
+      {
+        "source": "ANGELO DUNDEE",
+        "target": "PACHECO",
+        "weight": 2
+      },
+      {
+        "source": "ANGELO DUNDEE",
+        "target": "BINGHAM",
+        "weight": 1
+      },
+      {
+        "source": "ANGELO DUNDEE",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "BINGHAM",
+        "target": "LANDLADY",
+        "weight": 1
+      },
+      {
+        "source": "DOCTOR",
+        "target": "THE DOCTOR",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "BRADLEY",
+        "name": "BRADLEY",
+        "color": "#F2A468",
+        "group": 1,
+        "degree": 7,
+        "pagerank": 0.015274787030166777,
+        "object_id": "198480",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.972972972972973,
+        "betweenness centrality": 189.06666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SAM COOKE",
+        "name": "SAM COOKE",
+        "color": "#F2A468",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.009690093543672638,
+        "object_id": "197742",
+        "triangles": 5,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.054054054054054,
+        "betweenness centrality": 23.024278499278527,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FRAZIER",
+        "name": "FRAZIER",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.007697341189496665,
+        "object_id": "200607",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1486486486486487,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CLAYTON",
+        "name": "CLAYTON",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 10,
+        "pagerank": 0.012717486894666213,
+        "object_id": "203840",
+        "triangles": 45,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0135135135135136,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANOTHER REPORTER",
+        "name": "ANOTHER REPORTER",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.008974690999262135,
+        "object_id": "197833",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.054054054054054,
+        "betweenness centrality": 7.854040404040404,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HOWARD COSELL",
+        "name": "HOWARD COSELL",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 16,
+        "pagerank": 0.03475306069104355,
+        "object_id": "197104",
+        "triangles": 49,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.9189189189189189,
+        "betweenness centrality": 66.51911976911977,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REPORTER",
+        "name": "REPORTER",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.005210552755213333,
+        "object_id": "202883",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1486486486486487,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CRAZY MAN",
+        "name": "CRAZY MAN",
+        "color": "#F2A468",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.004772864144430474,
+        "object_id": "199221",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2162162162162162,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JIMI HENDRIX",
+        "name": "JIMI HENDRIX",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.004462383496204138,
+        "object_id": "200345",
+        "triangles": 0,
+        "eccentricity": 5.0,
+        "closeness centrality": 2.918918918918919,
+        "betweenness centrality": 0.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ORTF INTERVIEWER",
+        "name": "ORTF INTERVIEWER",
+        "color": "#F2A468",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.006011591308262056,
+        "object_id": "203370",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.108108108108108,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ALI'S EYES",
+        "name": "ALI'S EYES",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 13,
+        "pagerank": 0.02306789143496919,
+        "object_id": "201588",
+        "triangles": 54,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.972972972972973,
+        "betweenness centrality": 75.70952380952383,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THE MAN",
+        "name": "THE MAN",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 9,
+        "pagerank": 0.013120395430928092,
+        "object_id": "197013",
+        "triangles": 28,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2432432432432434,
+        "betweenness centrality": 27.133333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ERNIE TERRELL",
+        "name": "ERNIE TERRELL",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.0031253665258842937,
+        "object_id": "199939",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2567567567567566,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "IRENE",
+        "name": "IRENE",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.007919797593717458,
+        "object_id": "203319",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.108108108108108,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LSG BOARD MEMBER",
+        "name": "LSG BOARD MEMBER",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.003378819102643058,
+        "object_id": "196688",
+        "triangles": 0,
+        "eccentricity": 5.0,
+        "closeness centrality": 3.081081081081081,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ALI'S FACE",
+        "name": "ALI'S FACE",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 11,
+        "pagerank": 0.014569110583196591,
+        "object_id": "200378",
+        "triangles": 45,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 46.37261904761908,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CASSIUS CLAY, SR",
+        "name": "CASSIUS CLAY, SR",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 6,
+        "pagerank": 0.01459993229298886,
+        "object_id": "196697",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0945945945945947,
+        "betweenness centrality": 76.23333333333332,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DON KING",
+        "name": "DON KING",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 14,
+        "pagerank": 0.021082114530055672,
+        "object_id": "202036",
+        "triangles": 55,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.9594594594594594,
+        "betweenness centrality": 22.119047619047624,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BETTY SHABAZZ",
+        "name": "BETTY SHABAZZ",
+        "color": "#F2A468",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.008624753662770551,
+        "object_id": "198267",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.824324324324324,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SONNY LISTON",
+        "name": "SONNY LISTON",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 8,
+        "pagerank": 0.011023090942609903,
+        "object_id": "196768",
+        "triangles": 28,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2567567567567566,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ALI - DAY",
+        "name": "ALI - DAY",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.00848083154787203,
+        "object_id": "201884",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.135135135135135,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FOREMAN",
+        "name": "FOREMAN",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 6,
+        "pagerank": 0.011878090804896047,
+        "object_id": "202528",
+        "triangles": 15,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.081081081081081,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HOLMES",
+        "name": "HOLMES",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.007919797593717458,
+        "object_id": "203262",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.108108108108108,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ALI",
+        "name": "ALI",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 55,
+        "pagerank": 0.15358511877650458,
+        "object_id": "196598",
+        "triangles": 135,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.2702702702702702,
+        "betweenness centrality": 1609.8296176046174,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JOE SMILEY",
+        "name": "JOE SMILEY",
+        "color": "#F2A468",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.004631033162067853,
+        "object_id": "198958",
+        "triangles": 0,
+        "eccentricity": 5.0,
+        "closeness centrality": 3.7972972972972974,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REPORTERS",
+        "name": "REPORTERS",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 12,
+        "pagerank": 0.01748541138189074,
+        "object_id": "197064",
+        "triangles": 40,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9189189189189189,
+        "betweenness centrality": 36.94134199134199,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANNOUNCER",
+        "name": "ANNOUNCER",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.003089241772485744,
+        "object_id": "197441",
+        "triangles": 0,
+        "eccentricity": 5.0,
+        "closeness centrality": 2.9594594594594597,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HERBERT",
+        "name": "HERBERT",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 11,
+        "pagerank": 0.023476415778776454,
+        "object_id": "198819",
+        "triangles": 27,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0135135135135136,
+        "betweenness centrality": 13.799999999999997,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KIDS",
+        "name": "KIDS",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.006005987413010703,
+        "object_id": "202282",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.22972972972973,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CUSTOMER",
+        "name": "CUSTOMER",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.004494864333068324,
+        "object_id": "200289",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2432432432432434,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LIEUTENANT NSAKALA",
+        "name": "LIEUTENANT NSAKALA",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.007410429718688664,
+        "object_id": "203603",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.108108108108108,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COMMISSIONER",
+        "name": "COMMISSIONER",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.0031253665258842937,
+        "object_id": "199865",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2567567567567566,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ALI'S",
+        "name": "ALI'S",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 9,
+        "pagerank": 0.01664568196331194,
+        "object_id": "201370",
+        "triangles": 19,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0405405405405403,
+        "betweenness centrality": 15.752525252525253,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REFEREE",
+        "name": "REFEREE",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.006789575760846734,
+        "object_id": "201352",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2027027027027026,
+        "betweenness centrality": 1.592857142857143,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MALCOLM",
+        "name": "MALCOLM",
+        "color": "#F2A468",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.0035490692853478445,
+        "object_id": "199188",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.864864864864865,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SONJI",
+        "name": "SONJI",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.0077868133973390844,
+        "object_id": "198629",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.135135135135135,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WIDER",
+        "name": "WIDER",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.005188399948513212,
+        "object_id": "201230",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.135135135135135,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BUNDINI",
+        "name": "BUNDINI",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 34,
+        "pagerank": 0.07041501844749685,
+        "object_id": "197018",
+        "triangles": 125,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.6486486486486487,
+        "betweenness centrality": 329.34181096681084,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DAWN",
+        "name": "DAWN",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.0031253665258842937,
+        "object_id": "202252",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2567567567567566,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DUNDEE",
+        "name": "DUNDEE",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 10,
+        "pagerank": 0.01385335162705651,
+        "object_id": "203249",
+        "triangles": 45,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0135135135135136,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JOSEPH 13X",
+        "name": "JOSEPH 13X",
+        "color": "#F2A468",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.012376023409220475,
+        "object_id": "198236",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.810810810810811,
+        "betweenness centrality": 73.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LIPSYTE",
+        "name": "LIPSYTE",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.004195313842810266,
+        "object_id": "199755",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.22972972972973,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ALI'S CORNER",
+        "name": "ALI'S CORNER",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 12,
+        "pagerank": 0.01934894911733074,
+        "object_id": "204040",
+        "triangles": 54,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.9864864864864864,
+        "betweenness centrality": 2.7095238095238092,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THE PILOT",
+        "name": "THE PILOT",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.005435313118455314,
+        "object_id": "198324",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2432432432432434,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LT JEROME CLARIDGE",
+        "name": "LT JEROME CLARIDGE",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.0031253665258842937,
+        "object_id": "199631",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2567567567567566,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CASSIUS",
+        "name": "CASSIUS",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 14,
+        "pagerank": 0.024988865655264984,
+        "object_id": "196976",
+        "triangles": 39,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.081081081081081,
+        "betweenness centrality": 58.03690476190475,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "QUARRY",
+        "name": "QUARRY",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 1,
+        "pagerank": 0.003031894717043148,
+        "object_id": "201308",
+        "triangles": 0,
+        "eccentricity": 5.0,
+        "closeness centrality": 2.635135135135135,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "AISLE",
+        "name": "AISLE",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.005155133546255012,
+        "object_id": "202721",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.472972972972973,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MOBUTU'S MILITARY AIDE",
+        "name": "MOBUTU'S MILITARY AIDE",
+        "color": "#F2A468",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.0067053649083140335,
+        "object_id": "198505",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.945945945945946,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ONE OF HIS CHILDREN",
+        "name": "ONE OF HIS CHILDREN",
+        "color": "#F2A468",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.008624753662770551,
+        "object_id": "198231",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.824324324324324,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ODESSA CLAY",
+        "name": "ODESSA CLAY",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.004504185628527351,
+        "object_id": "198191",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.22972972972973,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ELIJAH MUHAMMAD",
+        "name": "ELIJAH MUHAMMAD",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 3,
+        "pagerank": 0.005360460622039494,
+        "object_id": "198004",
+        "triangles": 2,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1486486486486487,
+        "betweenness centrality": 1.520707070707071,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TEENAGER",
+        "name": "TEENAGER",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.006005987413010701,
+        "object_id": "202327",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.22972972972973,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SADLER",
+        "name": "SADLER",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.00791979759371746,
+        "object_id": "203291",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.108108108108108,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ZAIRIAN OFFICIAL #1",
+        "name": "ZAIRIAN OFFICIAL #1",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.0031253665258842937,
+        "object_id": "202166",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2567567567567566,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GIRL",
+        "name": "GIRL",
+        "color": "#F2A468",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.006376689554467277,
+        "object_id": "197729",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.7162162162162162,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LOW ANGLE",
+        "name": "LOW ANGLE",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 10,
+        "pagerank": 0.012717486894666213,
+        "object_id": "203974",
+        "triangles": 45,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0135135135135136,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CHAUNCEY ESKRIDGE",
+        "name": "CHAUNCEY ESKRIDGE",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.011278713947341625,
+        "object_id": "199481",
+        "triangles": 5,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1216216216216215,
+        "betweenness centrality": 5.300000000000001,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MALCOLM X",
+        "name": "MALCOLM X",
+        "color": "#F2A468",
+        "group": 1,
+        "degree": 13,
+        "pagerank": 0.02733014500604727,
+        "object_id": "196838",
+        "triangles": 20,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8783783783783783,
+        "betweenness centrality": 386.4326118326118,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MOBUTU",
+        "name": "MOBUTU",
+        "color": "#F2A468",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.0067053649083140335,
+        "object_id": "203570",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.945945945945946,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BELINDA",
+        "name": "BELINDA",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.015200789446957061,
+        "object_id": "200109",
+        "triangles": 7,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1216216216216215,
+        "betweenness centrality": 0.7,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PILOT",
+        "name": "PILOT",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.005435313118455314,
+        "object_id": "198304",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2432432432432434,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BOB ARUM",
+        "name": "BOB ARUM",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.004494864333068324,
+        "object_id": "199799",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2432432432432434,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RUDY",
+        "name": "RUDY",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 8,
+        "pagerank": 0.012407224181093083,
+        "object_id": "197263",
+        "triangles": 18,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9864864864864864,
+        "betweenness centrality": 12.175468975468974,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "VERONICA",
+        "name": "VERONICA",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.005227208559853413,
+        "object_id": "203005",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.135135135135135,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANGELO DUNDEE",
+        "name": "ANGELO DUNDEE",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 30,
+        "pagerank": 0.05701678877697306,
+        "object_id": "196821",
+        "triangles": 118,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.6216216216216217,
+        "betweenness centrality": 289.3251443001444,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BINGHAM",
+        "name": "BINGHAM",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 15,
+        "pagerank": 0.03398849419309886,
+        "object_id": "198841",
+        "triangles": 35,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.972972972972973,
+        "betweenness centrality": 43.148809523809526,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOCTOR",
+        "name": "DOCTOR",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 8,
+        "pagerank": 0.011023090942609903,
+        "object_id": "197120",
+        "triangles": 28,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2567567567567566,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PRESS",
+        "name": "PRESS",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.004651188690875316,
+        "object_id": "201773",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.22972972972973,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THE DOCTOR",
+        "name": "THE DOCTOR",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 8,
+        "pagerank": 0.011023090942609904,
+        "object_id": "197059",
+        "triangles": 28,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2567567567567566,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MARLIN THOMAS",
+        "name": "MARLIN THOMAS",
+        "color": "#F2A468",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.005094276797871855,
+        "object_id": "198349",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.824324324324324,
+        "betweenness centrality": 1.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BELL",
+        "name": "BELL",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 10,
+        "pagerank": 0.012717486894666213,
+        "object_id": "203924",
+        "triangles": 45,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0135135135135136,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LANDLADY",
+        "name": "LANDLADY",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.005227208559853414,
+        "object_id": "200745",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.135135135135135,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PACHECO",
+        "name": "PACHECO",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 6,
+        "pagerank": 0.012161483444853217,
+        "object_id": "197234",
+        "triangles": 8,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0945945945945947,
+        "betweenness centrality": 4.222222222222221,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NIGHT",
+        "name": "NIGHT",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.01100832460295544,
+        "object_id": "197704",
+        "triangles": 4,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1216216216216215,
+        "betweenness centrality": 27.13849206349208,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": -224.65337,
+        "y": 176.16241,
+        "name": "BRADLEY"
+      },
+      {
+        "x": 156.01822,
+        "y": 88.50305,
+        "name": "SAM COOKE"
+      },
+      {
+        "x": -136.56952,
+        "y": 140.93886,
+        "name": "FRAZIER"
+      },
+      {
+        "x": 150.2762,
+        "y": -187.91414,
+        "name": "CLAYTON"
+      },
+      {
+        "x": 14.1881695,
+        "y": 27.006767,
+        "name": "ANOTHER REPORTER"
+      },
+      {
+        "x": -201.49315,
+        "y": -0.54063284,
+        "name": "HOWARD COSELL"
+      },
+      {
+        "x": 57.221947,
+        "y": 36.54289,
+        "name": "REPORTER"
+      },
+      {
+        "x": 148.17262,
+        "y": 148.29385,
+        "name": "CRAZY MAN"
+      },
+      {
+        "x": 69.80766,
+        "y": 189.47433,
+        "name": "JIMI HENDRIX"
+      },
+      {
+        "x": -263.11942,
+        "y": 116.82983,
+        "name": "ORTF INTERVIEWER"
+      },
+      {
+        "x": 118.44537,
+        "y": -52.71713,
+        "name": "ALI'S EYES"
+      },
+      {
+        "x": -286.65698,
+        "y": -206.16492,
+        "name": "THE MAN"
+      },
+      {
+        "x": 54.1172,
+        "y": 242.46991,
+        "name": "ERNIE TERRELL"
+      },
+      {
+        "x": -111.82094,
+        "y": -193.2829,
+        "name": "IRENE"
+      },
+      {
+        "x": -289.1071,
+        "y": -279.67947,
+        "name": "LSG BOARD MEMBER"
+      },
+      {
+        "x": 177.08495,
+        "y": -89.112206,
+        "name": "ALI'S FACE"
+      },
+      {
+        "x": -167.32501,
+        "y": -60.092937,
+        "name": "CASSIUS CLAY, SR"
+      },
+      {
+        "x": 33.89589,
+        "y": -166.24701,
+        "name": "DON KING"
+      },
+      {
+        "x": 369.76517,
+        "y": -2.196953,
+        "name": "BETTY SHABAZZ"
+      },
+      {
+        "x": -224.11237,
+        "y": -215.90999,
+        "name": "SONNY LISTON"
+      },
+      {
+        "x": -188.2553,
+        "y": 113.63045,
+        "name": "ALI - DAY"
+      },
+      {
+        "x": 50.33248,
+        "y": -9.003335,
+        "name": "FOREMAN"
+      },
+      {
+        "x": -206.29152,
+        "y": -142.55469,
+        "name": "HOLMES"
+      },
+      {
+        "x": -67.453835,
+        "y": 49.24712,
+        "name": "ALI"
+      },
+      {
+        "x": 488.15958,
+        "y": -98.4546,
+        "name": "JOE SMILEY"
+      },
+      {
+        "x": -134.36435,
+        "y": -230.66638,
+        "name": "REPORTERS"
+      },
+      {
+        "x": 239.29515,
+        "y": 99.43524,
+        "name": "ANNOUNCER"
+      },
+      {
+        "x": -187.15588,
+        "y": 54.306805,
+        "name": "HERBERT"
+      },
+      {
+        "x": 140.24498,
+        "y": 204.70721,
+        "name": "KIDS"
+      },
+      {
+        "x": -193.30426,
+        "y": 265.77753,
+        "name": "CUSTOMER"
+      },
+      {
+        "x": -275.874,
+        "y": 29.739637,
+        "name": "LIEUTENANT NSAKALA"
+      },
+      {
+        "x": 94.09454,
+        "y": 170.16931,
+        "name": "COMMISSIONER"
+      },
+      {
+        "x": 56.48296,
+        "y": 105.14016,
+        "name": "ALI'S"
+      },
+      {
+        "x": -56.505047,
+        "y": 241.04865,
+        "name": "REFEREE"
+      },
+      {
+        "x": -234.45557,
+        "y": 71.00259,
+        "name": "MALCOLM"
+      },
+      {
+        "x": -138.86334,
+        "y": 56.690662,
+        "name": "SONJI"
+      },
+      {
+        "x": -212.96536,
+        "y": 90.35992,
+        "name": "WIDER"
+      },
+      {
+        "x": -97.6996,
+        "y": -58.563812,
+        "name": "BUNDINI"
+      },
+      {
+        "x": -310.9629,
+        "y": -15.713752,
+        "name": "DAWN"
+      },
+      {
+        "x": 103.3197,
+        "y": -154.9193,
+        "name": "DUNDEE"
+      },
+      {
+        "x": 414.27612,
+        "y": -48.891567,
+        "name": "JOSEPH 13X"
+      },
+      {
+        "x": -19.432873,
+        "y": 160.1021,
+        "name": "LIPSYTE"
+      },
+      {
+        "x": 80.7878,
+        "y": -97.92887,
+        "name": "ALI'S CORNER"
+      },
+      {
+        "x": -27.743437,
+        "y": 331.19397,
+        "name": "THE PILOT"
+      },
+      {
+        "x": 165.85269,
+        "y": 47.310776,
+        "name": "LT JEROME CLARIDGE"
+      },
+      {
+        "x": -114.017845,
+        "y": -149.1038,
+        "name": "CASSIUS"
+      },
+      {
+        "x": -296.36185,
+        "y": -142.61366,
+        "name": "QUARRY"
+      },
+      {
+        "x": -160.91502,
+        "y": -136.62988,
+        "name": "AISLE"
+      },
+      {
+        "x": -102.58596,
+        "y": 314.51004,
+        "name": "MOBUTU'S MILITARY AIDE"
+      },
+      {
+        "x": 360.28677,
+        "y": -44.66638,
+        "name": "ONE OF HIS CHILDREN"
+      },
+      {
+        "x": -8.162787,
+        "y": -28.948435,
+        "name": "ODESSA CLAY"
+      },
+      {
+        "x": -278.7779,
+        "y": -77.30943,
+        "name": "ELIJAH MUHAMMAD"
+      },
+      {
+        "x": 110.15111,
+        "y": 233.59825,
+        "name": "TEENAGER"
+      },
+      {
+        "x": -68.243034,
+        "y": -199.08424,
+        "name": "SADLER"
+      },
+      {
+        "x": 11.906094,
+        "y": 247.2157,
+        "name": "ZAIRIAN OFFICIAL #1"
+      },
+      {
+        "x": 117.76015,
+        "y": 75.83627,
+        "name": "GIRL"
+      },
+      {
+        "x": 186.20197,
+        "y": -151.31036,
+        "name": "LOW ANGLE"
+      },
+      {
+        "x": -177.24019,
+        "y": 195.56549,
+        "name": "CHAUNCEY ESKRIDGE"
+      },
+      {
+        "x": 100.510414,
+        "y": 13.84739,
+        "name": "MALCOLM X"
+      },
+      {
+        "x": -130.07394,
+        "y": 339.80722,
+        "name": "MOBUTU"
+      },
+      {
+        "x": -137.12259,
+        "y": 93.9072,
+        "name": "BELINDA"
+      },
+      {
+        "x": -64.058975,
+        "y": 345.8087,
+        "name": "PILOT"
+      },
+      {
+        "x": -255.63734,
+        "y": 233.03735,
+        "name": "BOB ARUM"
+      },
+      {
+        "x": -211.9923,
+        "y": -62.08175,
+        "name": "RUDY"
+      },
+      {
+        "x": -268.56946,
+        "y": -11.749226,
+        "name": "VERONICA"
+      },
+      {
+        "x": -37.916054,
+        "y": -97.16045,
+        "name": "ANGELO DUNDEE"
+      },
+      {
+        "x": -142.46687,
+        "y": 6.826275,
+        "name": "BINGHAM"
+      },
+      {
+        "x": -239.17955,
+        "y": -265.12143,
+        "name": "DOCTOR"
+      },
+      {
+        "x": -18.908808,
+        "y": 197.33032,
+        "name": "PRESS"
+      },
+      {
+        "x": -187.53212,
+        "y": -277.6638,
+        "name": "THE DOCTOR"
+      },
+      {
+        "x": -382.81335,
+        "y": -69.72104,
+        "name": "MARLIN THOMAS"
+      },
+      {
+        "x": 111.139145,
+        "y": -225.58722,
+        "name": "BELL"
+      },
+      {
+        "x": -169.13644,
+        "y": 154.1587,
+        "name": "LANDLADY"
+      },
+      {
+        "x": -83.31134,
+        "y": 120.65986,
+        "name": "PACHECO"
+      },
+      {
+        "x": -100.02798,
+        "y": 188.79985,
+        "name": "NIGHT"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1038 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "KEVIN",
+        "target": "BRUTUS",
+        "weight": 1
+      },
+      {
+        "source": "KEVIN",
+        "target": "ELMER",
+        "weight": 1
+      },
+      {
+        "source": "KEVIN",
+        "target": "BEAN",
+        "weight": 3
+      },
+      {
+        "source": "KEVIN",
+        "target": "JENNIFER",
+        "weight": 3
+      },
+      {
+        "source": "KEVIN",
+        "target": "ALISON",
+        "weight": 5
+      },
+      {
+        "source": "KEVIN",
+        "target": "BERNIE",
+        "weight": 2
+      },
+      {
+        "source": "KEVIN",
+        "target": "MR BEAN",
+        "weight": 1
+      },
+      {
+        "source": "KEVIN",
+        "target": "STINGO",
+        "weight": 1
+      },
+      {
+        "source": "KEVIN",
+        "target": "ANNIE",
+        "weight": 1
+      },
+      {
+        "source": "KEVIN",
+        "target": "DAVID",
+        "weight": 8
+      },
+      {
+        "source": "NURSE 2",
+        "target": "ASSISTANT",
+        "weight": 1
+      },
+      {
+        "source": "NURSE 2",
+        "target": "BEAN",
+        "weight": 1
+      },
+      {
+        "source": "NURSE 2",
+        "target": "NURSE",
+        "weight": 1
+      },
+      {
+        "source": "COP 1",
+        "target": "ROBBER",
+        "weight": 1
+      },
+      {
+        "source": "DOCTOR",
+        "target": "DAVID",
+        "weight": 1
+      },
+      {
+        "source": "DOCTOR",
+        "target": "ASSISTANT",
+        "weight": 1
+      },
+      {
+        "source": "DOCTOR",
+        "target": "ALISON",
+        "weight": 1
+      },
+      {
+        "source": "DOCTOR",
+        "target": "DOCTOR 2",
+        "weight": 1
+      },
+      {
+        "source": "GARETH",
+        "target": "VINCENT",
+        "weight": 1
+      },
+      {
+        "source": "GARETH",
+        "target": "MISS HUTCHINSON",
+        "weight": 1
+      },
+      {
+        "source": "GARETH",
+        "target": "LORD WALTON",
+        "weight": 3
+      },
+      {
+        "source": "GARETH",
+        "target": "HUBERT",
+        "weight": 3
+      },
+      {
+        "source": "GARETH",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "GEORGE",
+        "target": "HUBERT",
+        "weight": 1
+      },
+      {
+        "source": "GEORGE",
+        "target": "LORD WALTON",
+        "weight": 1
+      },
+      {
+        "source": "ANNIE",
+        "target": "BEAN",
+        "weight": 1
+      },
+      {
+        "source": "ANNIE",
+        "target": "OLD LADY 1",
+        "weight": 1
+      },
+      {
+        "source": "ANNIE",
+        "target": "GRIERSON",
+        "weight": 1
+      },
+      {
+        "source": "ANNIE",
+        "target": "OLD LADY 2",
+        "weight": 1
+      },
+      {
+        "source": "ANNIE",
+        "target": "DAVID",
+        "weight": 3
+      },
+      {
+        "source": "ANNIE",
+        "target": "BERNIE",
+        "weight": 2
+      },
+      {
+        "source": "ANNIE",
+        "target": "REYNOLDS",
+        "weight": 1
+      },
+      {
+        "source": "HUBERT",
+        "target": "VINCENT",
+        "weight": 1
+      },
+      {
+        "source": "HUBERT",
+        "target": "MISS HUTCHINSON",
+        "weight": 1
+      },
+      {
+        "source": "HUBERT",
+        "target": "LORD WALTON",
+        "weight": 2
+      },
+      {
+        "source": "DAVID",
+        "target": "BEAN",
+        "weight": 12
+      },
+      {
+        "source": "DAVID",
+        "target": "ELMER",
+        "weight": 4
+      },
+      {
+        "source": "DAVID",
+        "target": "OLD LADY 1",
+        "weight": 1
+      },
+      {
+        "source": "DAVID",
+        "target": "ALISON",
+        "weight": 12
+      },
+      {
+        "source": "DAVID",
+        "target": "DOCTOR 1",
+        "weight": 1
+      },
+      {
+        "source": "DAVID",
+        "target": "DOCTOR 2",
+        "weight": 1
+      },
+      {
+        "source": "DAVID",
+        "target": "CHARLES",
+        "weight": 1
+      },
+      {
+        "source": "DAVID",
+        "target": "ROBBER",
+        "weight": 1
+      },
+      {
+        "source": "DAVID",
+        "target": "BRUTUS",
+        "weight": 1
+      },
+      {
+        "source": "DAVID",
+        "target": "JENNIFER",
+        "weight": 5
+      },
+      {
+        "source": "DAVID",
+        "target": "OLD LADY 2",
+        "weight": 1
+      },
+      {
+        "source": "DAVID",
+        "target": "GRIERSON",
+        "weight": 9
+      },
+      {
+        "source": "DAVID",
+        "target": "BERNIE",
+        "weight": 6
+      },
+      {
+        "source": "DAVID",
+        "target": "ASSISTANT",
+        "weight": 1
+      },
+      {
+        "source": "DAVID",
+        "target": "STINGO",
+        "weight": 2
+      },
+      {
+        "source": "DAVID",
+        "target": "REYNOLDS",
+        "weight": 2
+      },
+      {
+        "source": "ROBBER",
+        "target": "BEAN",
+        "weight": 1
+      },
+      {
+        "source": "DOCTOR JACOBSON",
+        "target": "NURSE",
+        "weight": 1
+      },
+      {
+        "source": "GRIERSON",
+        "target": "BEAN",
+        "weight": 5
+      },
+      {
+        "source": "GRIERSON",
+        "target": "ELMER",
+        "weight": 1
+      },
+      {
+        "source": "GRIERSON",
+        "target": "REYNOLDS",
+        "weight": 3
+      },
+      {
+        "source": "GRIERSON",
+        "target": "BERNIE",
+        "weight": 9
+      },
+      {
+        "source": "ASSISTANT",
+        "target": "NURSE",
+        "weight": 1
+      },
+      {
+        "source": "ASSISTANT",
+        "target": "DOCTOR 2",
+        "weight": 1
+      },
+      {
+        "source": "ASSISTANT",
+        "target": "ALISON",
+        "weight": 1
+      },
+      {
+        "source": "ALISON",
+        "target": "BEAN",
+        "weight": 2
+      },
+      {
+        "source": "ALISON",
+        "target": "DOCTOR 1",
+        "weight": 1
+      },
+      {
+        "source": "ALISON",
+        "target": "DOCTOR 2",
+        "weight": 1
+      },
+      {
+        "source": "ALISON",
+        "target": "CHARLES",
+        "weight": 1
+      },
+      {
+        "source": "ALISON",
+        "target": "JENNIFER",
+        "weight": 3
+      },
+      {
+        "source": "ALISON",
+        "target": "STINGO",
+        "weight": 1
+      },
+      {
+        "source": "LORD WALTON",
+        "target": "MISS HUTCHINSON",
+        "weight": 2
+      },
+      {
+        "source": "LORD WALTON",
+        "target": "VINCENT",
+        "weight": 1
+      },
+      {
+        "source": "LORD WALTON",
+        "target": "MR BEAN",
+        "weight": 1
+      },
+      {
+        "source": "ELMER",
+        "target": "BRUTUS",
+        "weight": 2
+      },
+      {
+        "source": "ELMER",
+        "target": "BEAN",
+        "weight": 1
+      },
+      {
+        "source": "ELMER",
+        "target": "REYNOLDS",
+        "weight": 1
+      },
+      {
+        "source": "ELMER",
+        "target": "BERNIE",
+        "weight": 1
+      },
+      {
+        "source": "OLD LADY 1",
+        "target": "OLD LADY 2",
+        "weight": 1
+      },
+      {
+        "source": "OLD LADY 1",
+        "target": "BEAN",
+        "weight": 1
+      },
+      {
+        "source": "SUIT MAN",
+        "target": "MISS HUTCHINSON",
+        "weight": 1
+      },
+      {
+        "source": "JENNIFER",
+        "target": "STINGO",
+        "weight": 1
+      },
+      {
+        "source": "VINCENT",
+        "target": "MISS HUTCHINSON",
+        "weight": 1
+      },
+      {
+        "source": "BRUTUS",
+        "target": "MR BEAN",
+        "weight": 1
+      },
+      {
+        "source": "BEAN",
+        "target": "REYNOLDS",
+        "weight": 1
+      },
+      {
+        "source": "BEAN",
+        "target": "OLD LADY 2",
+        "weight": 1
+      },
+      {
+        "source": "BEAN",
+        "target": "BERNIE",
+        "weight": 2
+      },
+      {
+        "source": "BERNIE",
+        "target": "MR BEAN",
+        "weight": 1
+      },
+      {
+        "source": "BERNIE",
+        "target": "REYNOLDS",
+        "weight": 3
+      }
+    ],
+    "nodes": [
+      {
+        "id": "KEVIN",
+        "name": "KEVIN",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 10,
+        "pagerank": 0.05698307048052341,
+        "object_id": "662298",
+        "triangles": 20,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.032258064516129,
+        "betweenness centrality": 90.65714285714286,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NURSE 2",
+        "name": "NURSE 2",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.01670671776607283,
+        "object_id": "666194",
+        "triangles": 1,
+        "eccentricity": 6.0,
+        "closeness centrality": 2.806451612903226,
+        "betweenness centrality": 17.333333333333336,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COP 1",
+        "name": "COP 1",
+        "color": "#F2A468",
+        "group": 4,
+        "degree": 1,
+        "pagerank": 0.00932291571796311,
+        "object_id": "662601",
+        "triangles": 0,
+        "eccentricity": 7.0,
+        "closeness centrality": 3.6774193548387095,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOCTOR",
+        "name": "DOCTOR",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.015552936841256216,
+        "object_id": "666348",
+        "triangles": 6,
+        "eccentricity": 6.0,
+        "closeness centrality": 2.6451612903225805,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GARETH",
+        "name": "GARETH",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.04370447836156882,
+        "object_id": "661489",
+        "triangles": 8,
+        "eccentricity": 7.0,
+        "closeness centrality": 3.806451612903226,
+        "betweenness centrality": 0.9999999999999999,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GEORGE",
+        "name": "GEORGE",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.01706392652850331,
+        "object_id": "661678",
+        "triangles": 3,
+        "eccentricity": 7.0,
+        "closeness centrality": 3.903225806451613,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANNIE",
+        "name": "ANNIE",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 8,
+        "pagerank": 0.02680889726578205,
+        "object_id": "663170",
+        "triangles": 18,
+        "eccentricity": 5.0,
+        "closeness centrality": 2.3225806451612905,
+        "betweenness centrality": 7.638095238095238,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HUBERT",
+        "name": "HUBERT",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.03945506830417808,
+        "object_id": "661615",
+        "triangles": 8,
+        "eccentricity": 7.0,
+        "closeness centrality": 3.806451612903226,
+        "betweenness centrality": 0.9999999999999999,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DAVID",
+        "name": "DAVID",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 19,
+        "pagerank": 0.15598657804409913,
+        "object_id": "662077",
+        "triangles": 41,
+        "eccentricity": 5.0,
+        "closeness centrality": 1.8709677419354838,
+        "betweenness centrality": 175.24047619047622,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ROBBER",
+        "name": "ROBBER",
+        "color": "#F2A468",
+        "group": 4,
+        "degree": 3,
+        "pagerank": 0.01636045925432681,
+        "object_id": "663627",
+        "triangles": 1,
+        "eccentricity": 6.0,
+        "closeness centrality": 2.7096774193548385,
+        "betweenness centrality": 30.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOCTOR JACOBSON",
+        "name": "DOCTOR JACOBSON",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.011079148982297417,
+        "object_id": "666146",
+        "triangles": 0,
+        "eccentricity": 8.0,
+        "closeness centrality": 4.354838709677419,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GRIERSON",
+        "name": "GRIERSON",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 6,
+        "pagerank": 0.056523880921593,
+        "object_id": "662015",
+        "triangles": 14,
+        "eccentricity": 5.0,
+        "closeness centrality": 2.3870967741935485,
+        "betweenness centrality": 0.16666666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ASSISTANT",
+        "name": "ASSISTANT",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.026262588535894332,
+        "object_id": "666239",
+        "triangles": 7,
+        "eccentricity": 6.0,
+        "closeness centrality": 2.5483870967741935,
+        "betweenness centrality": 44.050000000000004,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ALISON",
+        "name": "ALISON",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 10,
+        "pagerank": 0.06583483633940682,
+        "object_id": "662175",
+        "triangles": 16,
+        "eccentricity": 5.0,
+        "closeness centrality": 2.193548387096774,
+        "betweenness centrality": 33.13333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LORD WALTON",
+        "name": "LORD WALTON",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 6,
+        "pagerank": 0.04771457785629489,
+        "object_id": "661598",
+        "triangles": 8,
+        "eccentricity": 6.0,
+        "closeness centrality": 3.0,
+        "betweenness centrality": 151.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ELMER",
+        "name": "ELMER",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 7,
+        "pagerank": 0.02655347547356164,
+        "object_id": "664205",
+        "triangles": 15,
+        "eccentricity": 5.0,
+        "closeness centrality": 2.3548387096774195,
+        "betweenness centrality": 2.233333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OLD LADY 1",
+        "name": "OLD LADY 1",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.01334289955095122,
+        "object_id": "663225",
+        "triangles": 6,
+        "eccentricity": 6.0,
+        "closeness centrality": 2.7096774193548385,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SUIT MAN",
+        "name": "SUIT MAN",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.009479326473997584,
+        "object_id": "661739",
+        "triangles": 0,
+        "eccentricity": 8.0,
+        "closeness centrality": 4.774193548387097,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOCTOR 1",
+        "name": "DOCTOR 1",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.008527476116083727,
+        "object_id": "666123",
+        "triangles": 1,
+        "eccentricity": 6.0,
+        "closeness centrality": 2.806451612903226,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JENNIFER",
+        "name": "JENNIFER",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.027894200854276595,
+        "object_id": "662487",
+        "triangles": 6,
+        "eccentricity": 5.0,
+        "closeness centrality": 2.4838709677419355,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "VINCENT",
+        "name": "VINCENT",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.021855753002500894,
+        "object_id": "661700",
+        "triangles": 6,
+        "eccentricity": 7.0,
+        "closeness centrality": 3.838709677419355,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOCTOR 2",
+        "name": "DOCTOR 2",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.015552936841256217,
+        "object_id": "666333",
+        "triangles": 6,
+        "eccentricity": 6.0,
+        "closeness centrality": 2.6451612903225805,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CHARLES",
+        "name": "CHARLES",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.008527476116083727,
+        "object_id": "662169",
+        "triangles": 1,
+        "eccentricity": 6.0,
+        "closeness centrality": 2.806451612903226,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "STINGO",
+        "name": "STINGO",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.014207599848413898,
+        "object_id": "662684",
+        "triangles": 6,
+        "eccentricity": 5.0,
+        "closeness centrality": 2.4838709677419355,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BRUTUS",
+        "name": "BRUTUS",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.01569037876055792,
+        "object_id": "662634",
+        "triangles": 4,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2580645161290325,
+        "betweenness centrality": 23.485714285714288,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MISS HUTCHINSON",
+        "name": "MISS HUTCHINSON",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.0338223896247052,
+        "object_id": "661812",
+        "triangles": 6,
+        "eccentricity": 7.0,
+        "closeness centrality": 3.806451612903226,
+        "betweenness centrality": 30.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BEAN",
+        "name": "BEAN",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 12,
+        "pagerank": 0.06955351719799086,
+        "object_id": "661873",
+        "triangles": 26,
+        "eccentricity": 5.0,
+        "closeness centrality": 2.096774193548387,
+        "betweenness centrality": 64.1547619047619,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NURSE",
+        "name": "NURSE",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.022558825592031196,
+        "object_id": "666143",
+        "triangles": 1,
+        "eccentricity": 7.0,
+        "closeness centrality": 3.3870967741935485,
+        "betweenness centrality": 30.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OLD LADY 2",
+        "name": "OLD LADY 2",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.01334289955095122,
+        "object_id": "663228",
+        "triangles": 6,
+        "eccentricity": 6.0,
+        "closeness centrality": 2.7096774193548385,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BERNIE",
+        "name": "BERNIE",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 8,
+        "pagerank": 0.053864887186739374,
+        "object_id": "662019",
+        "triangles": 19,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.096774193548387,
+        "betweenness centrality": 62.490476190476194,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MR BEAN",
+        "name": "MR BEAN",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.015034668428280898,
+        "object_id": "661937",
+        "triangles": 2,
+        "eccentricity": 5.0,
+        "closeness centrality": 2.4193548387096775,
+        "betweenness centrality": 168.25,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REYNOLDS",
+        "name": "REYNOLDS",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 6,
+        "pagerank": 0.024831208181857755,
+        "object_id": "665549",
+        "triangles": 14,
+        "eccentricity": 5.0,
+        "closeness centrality": 2.3870967741935485,
+        "betweenness centrality": 0.16666666666666666,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": -113.10491,
+        "y": -57.149956,
+        "name": "KEVIN"
+      },
+      {
+        "x": -347.80725,
+        "y": 33.86567,
+        "name": "NURSE 2"
+      },
+      {
+        "x": -43.71168,
+        "y": -223.33481,
+        "name": "COP 1"
+      },
+      {
+        "x": -276.82925,
+        "y": -55.700066,
+        "name": "DOCTOR"
+      },
+      {
+        "x": 404.48773,
+        "y": -9.7427845,
+        "name": "GARETH"
+      },
+      {
+        "x": 396.2327,
+        "y": 34.814194,
+        "name": "GEORGE"
+      },
+      {
+        "x": -55.069546,
+        "y": 63.022213,
+        "name": "ANNIE"
+      },
+      {
+        "x": 409.77942,
+        "y": -45.378277,
+        "name": "HUBERT"
+      },
+      {
+        "x": -139.75061,
+        "y": -16.460176,
+        "name": "DAVID"
+      },
+      {
+        "x": -84.36351,
+        "y": -141.94632,
+        "name": "ROBBER"
+      },
+      {
+        "x": -476.97714,
+        "y": 61.16061,
+        "name": "DOCTOR JACOBSON"
+      },
+      {
+        "x": -108.51299,
+        "y": 24.343048,
+        "name": "GRIERSON"
+      },
+      {
+        "x": -329.73935,
+        "y": -31.749378,
+        "name": "ASSISTANT"
+      },
+      {
+        "x": -184.51701,
+        "y": -59.527664,
+        "name": "ALISON"
+      },
+      {
+        "x": 354.8452,
+        "y": -25.101868,
+        "name": "LORD WALTON"
+      },
+      {
+        "x": -54.274815,
+        "y": -34.108116,
+        "name": "ELMER"
+      },
+      {
+        "x": -102.74259,
+        "y": 129.35094,
+        "name": "OLD LADY 1"
+      },
+      {
+        "x": 317.0305,
+        "y": -106.81424,
+        "name": "SUIT MAN"
+      },
+      {
+        "x": -230.37155,
+        "y": 36.20301,
+        "name": "DOCTOR 1"
+      },
+      {
+        "x": -188.04521,
+        "y": -23.658167,
+        "name": "JENNIFER"
+      },
+      {
+        "x": 452.68054,
+        "y": -46.482758,
+        "name": "VINCENT"
+      },
+      {
+        "x": -279.93433,
+        "y": -99.71077,
+        "name": "DOCTOR 2"
+      },
+      {
+        "x": -206.17674,
+        "y": -127.89996,
+        "name": "CHARLES"
+      },
+      {
+        "x": -156.11421,
+        "y": -110.16145,
+        "name": "STINGO"
+      },
+      {
+        "x": -3.3988807,
+        "y": -62.86945,
+        "name": "BRUTUS"
+      },
+      {
+        "x": 376.66748,
+        "y": -79.089645,
+        "name": "MISS HUTCHINSON"
+      },
+      {
+        "x": -152.30553,
+        "y": 31.39134,
+        "name": "BEAN"
+      },
+      {
+        "x": -426.98273,
+        "y": 26.482527,
+        "name": "NURSE"
+      },
+      {
+        "x": -52.812958,
+        "y": 122.30469,
+        "name": "OLD LADY 2"
+      },
+      {
+        "x": -74.48554,
+        "y": 12.185415,
+        "name": "BERNIE"
+      },
+      {
+        "x": 82.87382,
+        "y": -36.092907,
+        "name": "MR BEAN"
+      },
+      {
+        "x": -102.814896,
+        "y": 67.79871,
+        "name": "REYNOLDS"
+      }
+    ]
+  }
+}

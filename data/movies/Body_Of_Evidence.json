@@ -1,0 +1,844 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "COURT CLERK",
+        "target": "ON REBECCA",
+        "weight": 1
+      },
+      {
+        "source": "COURT CLERK",
+        "target": "JUDGE BURNHAM",
+        "weight": 1
+      },
+      {
+        "source": "COURT CLERK",
+        "target": "JURY FOREMAN",
+        "weight": 1
+      },
+      {
+        "source": "DR TRAMMEL",
+        "target": "DULANEY",
+        "weight": 1
+      },
+      {
+        "source": "DR TRAMMEL",
+        "target": "CARDENAS",
+        "weight": 1
+      },
+      {
+        "source": "SATTLER",
+        "target": "DULANEY",
+        "weight": 2
+      },
+      {
+        "source": "SATTLER",
+        "target": "GUARDS",
+        "weight": 1
+      },
+      {
+        "source": "SATTLER",
+        "target": "BIGGS",
+        "weight": 1
+      },
+      {
+        "source": "SATTLER",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "SATTLER",
+        "target": "CARDENAS",
+        "weight": 1
+      },
+      {
+        "source": "ESTER",
+        "target": "DULANEY",
+        "weight": 1
+      },
+      {
+        "source": "ESTER",
+        "target": "JUDGE BURNHAM",
+        "weight": 1
+      },
+      {
+        "source": "ESTER",
+        "target": "CARDENAS",
+        "weight": 1
+      },
+      {
+        "source": "MISS SELLERS",
+        "target": "DULANEY",
+        "weight": 1
+      },
+      {
+        "source": "MISS SELLERS",
+        "target": "JUDGE BURNHAM",
+        "weight": 1
+      },
+      {
+        "source": "MISS SELLERS",
+        "target": "DR WONG",
+        "weight": 1
+      },
+      {
+        "source": "MISS SELLERS",
+        "target": "CARDENAS",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "DULANEY",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "ON REBECCA",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "DR PALEY",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "BIGGS",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "REBECCA",
+        "weight": 1
+      },
+      {
+        "source": "MICHAEL",
+        "target": "DULANEY",
+        "weight": 4
+      },
+      {
+        "source": "MICHAEL",
+        "target": "REBECCA",
+        "weight": 1
+      },
+      {
+        "source": "MICHAEL",
+        "target": "SHARON",
+        "weight": 2
+      },
+      {
+        "source": "MCCURDY",
+        "target": "REESE",
+        "weight": 2
+      },
+      {
+        "source": "MCCURDY",
+        "target": "DULANEY",
+        "weight": 1
+      },
+      {
+        "source": "MCCURDY",
+        "target": "TROXELL",
+        "weight": 2
+      },
+      {
+        "source": "MCCURDY",
+        "target": "CARDENAS",
+        "weight": 3
+      },
+      {
+        "source": "ROSTON",
+        "target": "DULANEY",
+        "weight": 2
+      },
+      {
+        "source": "ROSTON",
+        "target": "JUDGE BURNHAM",
+        "weight": 2
+      },
+      {
+        "source": "ROSTON",
+        "target": "CARDENAS",
+        "weight": 2
+      },
+      {
+        "source": "KOEHLER",
+        "target": "DULANEY",
+        "weight": 1
+      },
+      {
+        "source": "ON REBECCA",
+        "target": "JUDGE BURNHAM",
+        "weight": 1
+      },
+      {
+        "source": "ON REBECCA",
+        "target": "DULANEY",
+        "weight": 1
+      },
+      {
+        "source": "ON REBECCA",
+        "target": "DR PALEY",
+        "weight": 1
+      },
+      {
+        "source": "ON REBECCA",
+        "target": "REBECCA",
+        "weight": 1
+      },
+      {
+        "source": "ON REBECCA",
+        "target": "JURY FOREMAN",
+        "weight": 1
+      },
+      {
+        "source": "DR PALEY",
+        "target": "JUDGE BURNHAM",
+        "weight": 1
+      },
+      {
+        "source": "DR PALEY",
+        "target": "CARDENAS",
+        "weight": 1
+      },
+      {
+        "source": "DR PALEY",
+        "target": "DULANEY",
+        "weight": 2
+      },
+      {
+        "source": "DR PALEY",
+        "target": "REBECCA",
+        "weight": 1
+      },
+      {
+        "source": "REBECCA",
+        "target": "DULANEY",
+        "weight": 12
+      },
+      {
+        "source": "REBECCA",
+        "target": "CARDENAS",
+        "weight": 1
+      },
+      {
+        "source": "REBECCA",
+        "target": "BOARD",
+        "weight": 1
+      },
+      {
+        "source": "REBECCA",
+        "target": "REESE",
+        "weight": 1
+      },
+      {
+        "source": "SHARON",
+        "target": "DULANEY",
+        "weight": 7
+      },
+      {
+        "source": "DR WONG",
+        "target": "DULANEY",
+        "weight": 1
+      },
+      {
+        "source": "DR WONG",
+        "target": "JUDGE BURNHAM",
+        "weight": 1
+      },
+      {
+        "source": "DR WONG",
+        "target": "CARDENAS",
+        "weight": 1
+      },
+      {
+        "source": "TROXELL",
+        "target": "REESE",
+        "weight": 2
+      },
+      {
+        "source": "TROXELL",
+        "target": "DULANEY",
+        "weight": 1
+      },
+      {
+        "source": "TROXELL",
+        "target": "CARDENAS",
+        "weight": 3
+      },
+      {
+        "source": "CARDENAS",
+        "target": "REESE",
+        "weight": 3
+      },
+      {
+        "source": "CARDENAS",
+        "target": "DULANEY",
+        "weight": 11
+      },
+      {
+        "source": "CARDENAS",
+        "target": "JUDGE BURNHAM",
+        "weight": 6
+      },
+      {
+        "source": "CARDENAS",
+        "target": "GUARDS",
+        "weight": 1
+      },
+      {
+        "source": "CARDENAS",
+        "target": "JOANNE",
+        "weight": 3
+      },
+      {
+        "source": "REESE",
+        "target": "DULANEY",
+        "weight": 1
+      },
+      {
+        "source": "DULANEY",
+        "target": "BOARD",
+        "weight": 1
+      },
+      {
+        "source": "DULANEY",
+        "target": "JUDGE BURNHAM",
+        "weight": 5
+      },
+      {
+        "source": "DULANEY",
+        "target": "SECRETARY",
+        "weight": 1
+      },
+      {
+        "source": "DULANEY",
+        "target": "BIGGS",
+        "weight": 7
+      },
+      {
+        "source": "DULANEY",
+        "target": "JOANNE",
+        "weight": 3
+      },
+      {
+        "source": "JUDGE BURNHAM",
+        "target": "JOANNE",
+        "weight": 1
+      },
+      {
+        "source": "JUDGE BURNHAM",
+        "target": "JURY FOREMAN",
+        "weight": 1
+      },
+      {
+        "source": "SECRETARY",
+        "target": "BIGGS",
+        "weight": 1
+      },
+      {
+        "source": "BIGGS",
+        "target": "JOANNE",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "COURT CLERK",
+        "name": "COURT CLERK",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.017747673201252617,
+        "object_id": "838173",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.36,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DR TRAMMEL",
+        "name": "DR TRAMMEL",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.011520091739791391,
+        "object_id": "835346",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SATTLER",
+        "name": "SATTLER",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.026500751799328922,
+        "object_id": "833110",
+        "triangles": 5,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.88,
+        "betweenness centrality": 5.75,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ESTER",
+        "name": "ESTER",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.014616569719574786,
+        "object_id": "836175",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.88,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MISS SELLERS",
+        "name": "MISS SELLERS",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.018560750263608414,
+        "object_id": "837380",
+        "triangles": 6,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.84,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAN",
+        "name": "MAN",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.025737203101095663,
+        "object_id": "834815",
+        "triangles": 9,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.76,
+        "betweenness centrality": 3.833333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MICHAEL",
+        "name": "MICHAEL",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.0262184594570248,
+        "object_id": "833213",
+        "triangles": 2,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MCCURDY",
+        "name": "MCCURDY",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.029849355100178797,
+        "object_id": "832853",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.92,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ROSTON",
+        "name": "ROSTON",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.023463908669918803,
+        "object_id": "836690",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.88,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KOEHLER",
+        "name": "KOEHLER",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.008633373321438039,
+        "object_id": "838319",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.08,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ON REBECCA",
+        "name": "ON REBECCA",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 7,
+        "pagerank": 0.03173307162281385,
+        "object_id": "838161",
+        "triangles": 11,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.76,
+        "betweenness centrality": 17.249999999999996,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DR PALEY",
+        "name": "DR PALEY",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.02789304659127692,
+        "object_id": "835735",
+        "triangles": 11,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.76,
+        "betweenness centrality": 1.25,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REBECCA",
+        "name": "REBECCA",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 8,
+        "pagerank": 0.06510941347129404,
+        "object_id": "833383",
+        "triangles": 12,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.68,
+        "betweenness centrality": 10.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SHARON",
+        "name": "SHARON",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.032185569010507106,
+        "object_id": "833155",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.04,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DR WONG",
+        "name": "DR WONG",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.018560750263608414,
+        "object_id": "837274",
+        "triangles": 6,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.84,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TROXELL",
+        "name": "TROXELL",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.029849355100178797,
+        "object_id": "832871",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.92,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CARDENAS",
+        "name": "CARDENAS",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 15,
+        "pagerank": 0.132448458145152,
+        "object_id": "832799",
+        "triangles": 26,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.4,
+        "betweenness centrality": 50.25,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REESE",
+        "name": "REESE",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.03289232297593991,
+        "object_id": "832802",
+        "triangles": 8,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.88,
+        "betweenness centrality": 0.6666666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DULANEY",
+        "name": "DULANEY",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 22,
+        "pagerank": 0.22577030451411595,
+        "object_id": "833159",
+        "triangles": 39,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.12,
+        "betweenness centrality": 158.58333333333337,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GUARDS",
+        "name": "GUARDS",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.012410276585286376,
+        "object_id": "833076",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.24,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JUDGE BURNHAM",
+        "name": "JUDGE BURNHAM",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 11,
+        "pagerank": 0.07650049107155263,
+        "object_id": "835104",
+        "triangles": 19,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.56,
+        "betweenness centrality": 34.916666666666664,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JURY FOREMAN",
+        "name": "JURY FOREMAN",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.017747673201252617,
+        "object_id": "838153",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.36,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SECRETARY",
+        "name": "SECRETARY",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.011829546719328256,
+        "object_id": "834202",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.04,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BOARD",
+        "name": "BOARD",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.011546278487195579,
+        "object_id": "835972",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.04,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BIGGS",
+        "name": "BIGGS",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 5,
+        "pagerank": 0.04136084080869914,
+        "object_id": "834152",
+        "triangles": 5,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.88,
+        "betweenness centrality": 2.6666666666666665,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JOANNE",
+        "name": "JOANNE",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.029314465058586245,
+        "object_id": "832892",
+        "triangles": 4,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.84,
+        "betweenness centrality": 1.3333333333333333,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": 105.688965,
+        "y": -89.638084,
+        "name": "COURT CLERK"
+      },
+      {
+        "x": -124.82248,
+        "y": -14.131498,
+        "name": "DR TRAMMEL"
+      },
+      {
+        "x": 15.908251,
+        "y": 151.82877,
+        "name": "SATTLER"
+      },
+      {
+        "x": -1.0694969,
+        "y": -76.31531,
+        "name": "ESTER"
+      },
+      {
+        "x": -60.02343,
+        "y": -84.88592,
+        "name": "MISS SELLERS"
+      },
+      {
+        "x": 119.45711,
+        "y": 96.55878,
+        "name": "MAN"
+      },
+      {
+        "x": 76.78414,
+        "y": 52.323486,
+        "name": "MICHAEL"
+      },
+      {
+        "x": -123.31359,
+        "y": 34.91903,
+        "name": "MCCURDY"
+      },
+      {
+        "x": -39.13274,
+        "y": 58.898647,
+        "name": "ROSTON"
+      },
+      {
+        "x": 96.79033,
+        "y": -120.85356,
+        "name": "KOEHLER"
+      },
+      {
+        "x": 123.79381,
+        "y": -31.96962,
+        "name": "ON REBECCA"
+      },
+      {
+        "x": 94.45921,
+        "y": 15.54409,
+        "name": "DR PALEY"
+      },
+      {
+        "x": 47.95888,
+        "y": 78.26509,
+        "name": "REBECCA"
+      },
+      {
+        "x": 47.350254,
+        "y": 28.854542,
+        "name": "SHARON"
+      },
+      {
+        "x": -96.50759,
+        "y": -60.878197,
+        "name": "DR WONG"
+      },
+      {
+        "x": -139.89249,
+        "y": 67.509926,
+        "name": "TROXELL"
+      },
+      {
+        "x": -61.40183,
+        "y": 27.023628,
+        "name": "CARDENAS"
+      },
+      {
+        "x": -101.89751,
+        "y": 82.25883,
+        "name": "REESE"
+      },
+      {
+        "x": 6.603728,
+        "y": 43.487064,
+        "name": "DULANEY"
+      },
+      {
+        "x": -1.4631816,
+        "y": 195.41943,
+        "name": "GUARDS"
+      },
+      {
+        "x": -13.982519,
+        "y": -25.070574,
+        "name": "JUDGE BURNHAM"
+      },
+      {
+        "x": 62.803448,
+        "y": -119.79435,
+        "name": "JURY FOREMAN"
+      },
+      {
+        "x": 54.443367,
+        "y": -15.025705,
+        "name": "SECRETARY"
+      },
+      {
+        "x": 81.811066,
+        "y": 149.58957,
+        "name": "BOARD"
+      },
+      {
+        "x": 10.149364,
+        "y": 101.556625,
+        "name": "BIGGS"
+      },
+      {
+        "x": -48.94507,
+        "y": 92.74025,
+        "name": "JOANNE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,991 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "MARILYN",
+        "target": "GRADY",
+        "weight": 1
+      },
+      {
+        "source": "MARILYN",
+        "target": "VERNON",
+        "weight": 1
+      },
+      {
+        "source": "MARILYN",
+        "target": "OOLA",
+        "weight": 1
+      },
+      {
+        "source": "MARILYN",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "SHORT MAN",
+        "target": "MISS SLOVIAK",
+        "weight": 1
+      },
+      {
+        "source": "SHORT MAN",
+        "target": "HANNAH GREEN",
+        "weight": 1
+      },
+      {
+        "source": "SHORT MAN",
+        "target": "MAN IN TWEED",
+        "weight": 1
+      },
+      {
+        "source": "SHORT MAN",
+        "target": "GRADY",
+        "weight": 1
+      },
+      {
+        "source": "SHORT MAN",
+        "target": "WALTER GASKELL",
+        "weight": 1
+      },
+      {
+        "source": "SHORT MAN",
+        "target": "CRABTREE",
+        "weight": 1
+      },
+      {
+        "source": "FRED LEER",
+        "target": "GRADY",
+        "weight": 1
+      },
+      {
+        "source": "FRED LEER",
+        "target": "AMANDA LEER",
+        "weight": 2
+      },
+      {
+        "source": "FRED LEER",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "MISS SLOVIAK",
+        "target": "HANNAH GREEN",
+        "weight": 1
+      },
+      {
+        "source": "MISS SLOVIAK",
+        "target": "MAN IN TWEED",
+        "weight": 1
+      },
+      {
+        "source": "MISS SLOVIAK",
+        "target": "GRADY",
+        "weight": 5
+      },
+      {
+        "source": "MISS SLOVIAK",
+        "target": "JAMES LEER",
+        "weight": 1
+      },
+      {
+        "source": "MISS SLOVIAK",
+        "target": "CRABTREE",
+        "weight": 4
+      },
+      {
+        "source": "MISS SLOVIAK",
+        "target": "WALTER GASKELL",
+        "weight": 1
+      },
+      {
+        "source": "MISS SLOVIAK",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "MISS SLOVIAK",
+        "target": "SARA",
+        "weight": 2
+      },
+      {
+        "source": "GREENHUT",
+        "target": "GRADY",
+        "weight": 1
+      },
+      {
+        "source": "GRADY",
+        "target": "TANYA",
+        "weight": 1
+      },
+      {
+        "source": "GRADY",
+        "target": "WALTER",
+        "weight": 3
+      },
+      {
+        "source": "GRADY",
+        "target": "CRABTREE",
+        "weight": 14
+      },
+      {
+        "source": "GRADY",
+        "target": "OOLA",
+        "weight": 3
+      },
+      {
+        "source": "GRADY",
+        "target": "TRAXLER",
+        "weight": 3
+      },
+      {
+        "source": "GRADY",
+        "target": "OFFICER PUPCIK",
+        "weight": 1
+      },
+      {
+        "source": "GRADY",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "GRADY",
+        "target": "MAN IN TWEED",
+        "weight": 1
+      },
+      {
+        "source": "GRADY",
+        "target": "HOWARD",
+        "weight": 1
+      },
+      {
+        "source": "GRADY",
+        "target": "SARA",
+        "weight": 10
+      },
+      {
+        "source": "GRADY",
+        "target": "JAMES LEER",
+        "weight": 18
+      },
+      {
+        "source": "GRADY",
+        "target": "GOATEE KID",
+        "weight": 1
+      },
+      {
+        "source": "GRADY",
+        "target": "WALTER GASKELL",
+        "weight": 1
+      },
+      {
+        "source": "GRADY",
+        "target": "HANK",
+        "weight": 1
+      },
+      {
+        "source": "GRADY",
+        "target": "CARRIE MCWHIRTY",
+        "weight": 2
+      },
+      {
+        "source": "GRADY",
+        "target": "BOUNCER",
+        "weight": 1
+      },
+      {
+        "source": "GRADY",
+        "target": "JANITOR",
+        "weight": 1
+      },
+      {
+        "source": "GRADY",
+        "target": "HANNAH GREEN",
+        "weight": 6
+      },
+      {
+        "source": "GRADY",
+        "target": "WAITRESS",
+        "weight": 1
+      },
+      {
+        "source": "GRADY",
+        "target": "MAN",
+        "weight": 3
+      },
+      {
+        "source": "GRADY",
+        "target": "AMANDA LEER",
+        "weight": 2
+      },
+      {
+        "source": "GRADY",
+        "target": "VERNON",
+        "weight": 3
+      },
+      {
+        "source": "GRADY",
+        "target": "VERNON HARDAPPLE",
+        "weight": 1
+      },
+      {
+        "source": "WALTER",
+        "target": "SARA",
+        "weight": 1
+      },
+      {
+        "source": "WALTER",
+        "target": "CARRIE MCWHIRTY",
+        "weight": 1
+      },
+      {
+        "source": "WALTER",
+        "target": "JAMES LEER",
+        "weight": 1
+      },
+      {
+        "source": "WALTER",
+        "target": "MAN",
+        "weight": 2
+      },
+      {
+        "source": "CRABTREE",
+        "target": "HANNAH GREEN",
+        "weight": 2
+      },
+      {
+        "source": "CRABTREE",
+        "target": "OOLA",
+        "weight": 2
+      },
+      {
+        "source": "CRABTREE",
+        "target": "SARA",
+        "weight": 2
+      },
+      {
+        "source": "CRABTREE",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "CRABTREE",
+        "target": "WALTER GASKELL",
+        "weight": 1
+      },
+      {
+        "source": "CRABTREE",
+        "target": "MAN IN TWEED",
+        "weight": 1
+      },
+      {
+        "source": "CRABTREE",
+        "target": "WAITRESS",
+        "weight": 1
+      },
+      {
+        "source": "CRABTREE",
+        "target": "TANYA",
+        "weight": 1
+      },
+      {
+        "source": "CRABTREE",
+        "target": "JAMES LEER",
+        "weight": 5
+      },
+      {
+        "source": "CRABTREE",
+        "target": "VERNON",
+        "weight": 2
+      },
+      {
+        "source": "HOWARD",
+        "target": "CARRIE MCWHIRTY",
+        "weight": 1
+      },
+      {
+        "source": "HOWARD",
+        "target": "HANNAH GREEN",
+        "weight": 1
+      },
+      {
+        "source": "HOWARD",
+        "target": "JAMES LEER",
+        "weight": 1
+      },
+      {
+        "source": "TRAXLER",
+        "target": "JANITOR",
+        "weight": 1
+      },
+      {
+        "source": "TRAXLER",
+        "target": "SARA",
+        "weight": 1
+      },
+      {
+        "source": "OFFICER PUPCIK",
+        "target": "SARA",
+        "weight": 1
+      },
+      {
+        "source": "OFFICER PUPCIK",
+        "target": "HANNAH GREEN",
+        "weight": 1
+      },
+      {
+        "source": "OFFICER PUPCIK",
+        "target": "JAMES LEER",
+        "weight": 1
+      },
+      {
+        "source": "MAN IN TWEED",
+        "target": "HANNAH GREEN",
+        "weight": 1
+      },
+      {
+        "source": "MAN IN TWEED",
+        "target": "WALTER GASKELL",
+        "weight": 1
+      },
+      {
+        "source": "OOLA",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "OOLA",
+        "target": "VERNON",
+        "weight": 3
+      },
+      {
+        "source": "JAMES LEER",
+        "target": "CARRIE MCWHIRTY",
+        "weight": 1
+      },
+      {
+        "source": "JAMES LEER",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "JAMES LEER",
+        "target": "SARA",
+        "weight": 4
+      },
+      {
+        "source": "JAMES LEER",
+        "target": "HANNAH GREEN",
+        "weight": 4
+      },
+      {
+        "source": "JAMES LEER",
+        "target": "VERNON HARDAPPLE",
+        "weight": 1
+      },
+      {
+        "source": "JAMES LEER",
+        "target": "WAITRESS",
+        "weight": 1
+      },
+      {
+        "source": "GOATEE KID",
+        "target": "HANNAH GREEN",
+        "weight": 1
+      },
+      {
+        "source": "VERNON HARDAPPLE",
+        "target": "HANNAH GREEN",
+        "weight": 1
+      },
+      {
+        "source": "WALTER GASKELL",
+        "target": "HANNAH GREEN",
+        "weight": 1
+      },
+      {
+        "source": "CARRIE MCWHIRTY",
+        "target": "HANNAH GREEN",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "AMANDA LEER",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "SARA",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "VERNON",
+        "weight": 1
+      },
+      {
+        "source": "SARA",
+        "target": "HANNAH GREEN",
+        "weight": 1
+      },
+      {
+        "source": "HANNAH GREEN",
+        "target": "WAITRESS",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "MARILYN",
+        "name": "MARILYN",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.015217098707315871,
+        "object_id": "5542737",
+        "triangles": 6,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8571428571428572,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SHORT MAN",
+        "name": "SHORT MAN",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 6,
+        "pagerank": 0.0201363477035267,
+        "object_id": "5537956",
+        "triangles": 15,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7857142857142858,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FRED LEER",
+        "name": "FRED LEER",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.016750476293676708,
+        "object_id": "5541327",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8928571428571428,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MISS SLOVIAK",
+        "name": "MISS SLOVIAK",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 9,
+        "pagerank": 0.046571044156312615,
+        "object_id": "5537435",
+        "triangles": 24,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.6785714285714286,
+        "betweenness centrality": 3.4999999999999996,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GREENHUT",
+        "name": "GREENHUT",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.007488351331117296,
+        "object_id": "5543494",
+        "triangles": 0,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9642857142857142,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GRADY",
+        "name": "GRADY",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 28,
+        "pagerank": 0.23977273167756624,
+        "object_id": "5537231",
+        "triangles": 58,
+        "eccentricity": 1.0,
+        "closeness centrality": 1.0,
+        "betweenness centrality": 244.20000000000002,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WALTER",
+        "name": "WALTER",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.02459488855945102,
+        "object_id": "5537991",
+        "triangles": 8,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8214285714285714,
+        "betweenness centrality": 0.5833333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CRABTREE",
+        "name": "CRABTREE",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 13,
+        "pagerank": 0.09632651220816418,
+        "object_id": "5537413",
+        "triangles": 31,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.5357142857142858,
+        "betweenness centrality": 19.333333333333332,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HOWARD",
+        "name": "HOWARD",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.014912718949745163,
+        "object_id": "5537289",
+        "triangles": 6,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8571428571428572,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TRAXLER",
+        "name": "TRAXLER",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.018883066725904108,
+        "object_id": "5539582",
+        "triangles": 2,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8928571428571428,
+        "betweenness centrality": 0.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OFFICER PUPCIK",
+        "name": "OFFICER PUPCIK",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.014273324417280879,
+        "object_id": "5539975",
+        "triangles": 6,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8571428571428572,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WOMAN",
+        "name": "WOMAN",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.012029812818819995,
+        "object_id": "5537423",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8928571428571428,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAN IN TWEED",
+        "name": "MAN IN TWEED",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 6,
+        "pagerank": 0.0201363477035267,
+        "object_id": "5537934",
+        "triangles": 15,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7857142857142858,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OOLA",
+        "name": "OOLA",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.0300639663770021,
+        "object_id": "5542755",
+        "triangles": 8,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8214285714285714,
+        "betweenness centrality": 0.5333333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JAMES LEER",
+        "name": "JAMES LEER",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 12,
+        "pagerank": 0.09945853023906147,
+        "object_id": "5537344",
+        "triangles": 29,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.5714285714285714,
+        "betweenness centrality": 12.533333333333331,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GOATEE KID",
+        "name": "GOATEE KID",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.009889634270930415,
+        "object_id": "5542051",
+        "triangles": 1,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9285714285714286,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "VERNON HARDAPPLE",
+        "name": "VERNON HARDAPPLE",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.012057351068109417,
+        "object_id": "5539444",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8928571428571428,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WALTER GASKELL",
+        "name": "WALTER GASKELL",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 6,
+        "pagerank": 0.0201363477035267,
+        "object_id": "5537875",
+        "triangles": 15,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7857142857142858,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HANK",
+        "name": "HANK",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.007488351331117296,
+        "object_id": "5540826",
+        "triangles": 0,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9642857142857142,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CARRIE MCWHIRTY",
+        "name": "CARRIE MCWHIRTY",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.020155474394000623,
+        "object_id": "5537264",
+        "triangles": 8,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8214285714285714,
+        "betweenness centrality": 0.5833333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAN",
+        "name": "MAN",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 9,
+        "pagerank": 0.03695669528594657,
+        "object_id": "5537983",
+        "triangles": 15,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.6785714285714286,
+        "betweenness centrality": 9.833333333333332,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SARA",
+        "name": "SARA",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 9,
+        "pagerank": 0.059961153502724386,
+        "object_id": "5537357",
+        "triangles": 19,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.6785714285714286,
+        "betweenness centrality": 6.449999999999999,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JANITOR",
+        "name": "JANITOR",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.010698528746368272,
+        "object_id": "5539568",
+        "triangles": 1,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9285714285714286,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HANNAH GREEN",
+        "name": "HANNAH GREEN",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 14,
+        "pagerank": 0.06497630705974682,
+        "object_id": "5537309",
+        "triangles": 36,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.5,
+        "betweenness centrality": 21.416666666666668,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WAITRESS",
+        "name": "WAITRESS",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.014270268335020094,
+        "object_id": "5539202",
+        "triangles": 6,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8571428571428572,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TANYA",
+        "name": "TANYA",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.009701268598027973,
+        "object_id": "5537607",
+        "triangles": 1,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9285714285714286,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "AMANDA LEER",
+        "name": "AMANDA LEER",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.019541084127891104,
+        "object_id": "5541330",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8928571428571428,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "VERNON",
+        "name": "VERNON",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.0300639663770021,
+        "object_id": "5542773",
+        "triangles": 8,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8214285714285714,
+        "betweenness centrality": 0.5333333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BOUNCER",
+        "name": "BOUNCER",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.007488351331117296,
+        "object_id": "5539108",
+        "triangles": 0,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9642857142857142,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": -49.317513,
+        "y": 157.75946,
+        "name": "MARILYN"
+      },
+      {
+        "x": 7.2203836,
+        "y": -146.42467,
+        "name": "SHORT MAN"
+      },
+      {
+        "x": -138.55014,
+        "y": -64.68102,
+        "name": "FRED LEER"
+      },
+      {
+        "x": -67.24419,
+        "y": -102.01028,
+        "name": "MISS SLOVIAK"
+      },
+      {
+        "x": 54.804596,
+        "y": -157.97897,
+        "name": "GREENHUT"
+      },
+      {
+        "x": -47.027313,
+        "y": -6.6278744,
+        "name": "GRADY"
+      },
+      {
+        "x": 10.88582,
+        "y": 73.75112,
+        "name": "WALTER"
+      },
+      {
+        "x": -57.077892,
+        "y": -55.214905,
+        "name": "CRABTREE"
+      },
+      {
+        "x": -107.12731,
+        "y": 86.11596,
+        "name": "HOWARD"
+      },
+      {
+        "x": -142.95653,
+        "y": 38.155025,
+        "name": "TRAXLER"
+      },
+      {
+        "x": 73.167404,
+        "y": 11.39993,
+        "name": "OFFICER PUPCIK"
+      },
+      {
+        "x": -170.2277,
+        "y": -90.51007,
+        "name": "WOMAN"
+      },
+      {
+        "x": -22.582281,
+        "y": -181.9285,
+        "name": "MAN IN TWEED"
+      },
+      {
+        "x": -81.66478,
+        "y": 55.45677,
+        "name": "OOLA"
+      },
+      {
+        "x": -1.2786239,
+        "y": 7.2239285,
+        "name": "JAMES LEER"
+      },
+      {
+        "x": 81.0087,
+        "y": -97.38794,
+        "name": "GOATEE KID"
+      },
+      {
+        "x": 6.3790092,
+        "y": 116.46699,
+        "name": "VERNON HARDAPPLE"
+      },
+      {
+        "x": -68.66932,
+        "y": -168.14262,
+        "name": "WALTER GASKELL"
+      },
+      {
+        "x": -207.9989,
+        "y": -33.961838,
+        "name": "HANK"
+      },
+      {
+        "x": 53.04037,
+        "y": 61.77876,
+        "name": "CARRIE MCWHIRTY"
+      },
+      {
+        "x": -36.62,
+        "y": 80.21073,
+        "name": "MAN"
+      },
+      {
+        "x": -91.6477,
+        "y": 4.6651716,
+        "name": "SARA"
+      },
+      {
+        "x": -178.18346,
+        "y": 86.800446,
+        "name": "JANITOR"
+      },
+      {
+        "x": 20.668022,
+        "y": -52.80177,
+        "name": "HANNAH GREEN"
+      },
+      {
+        "x": 83.33828,
+        "y": -43.093468,
+        "name": "WAITRESS"
+      },
+      {
+        "x": -179.03163,
+        "y": 6.4036126,
+        "name": "TANYA"
+      },
+      {
+        "x": -140.00748,
+        "y": -27.697945,
+        "name": "AMANDA LEER"
+      },
+      {
+        "x": -72.6781,
+        "y": 96.319214,
+        "name": "VERNON"
+      },
+      {
+        "x": -134.8748,
+        "y": -148.11028,
+        "name": "BOUNCER"
+      }
+    ]
+  }
+}

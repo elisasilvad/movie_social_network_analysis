@@ -1,0 +1,927 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "AIDE",
+        "target": "GORDON",
+        "weight": 1
+      },
+      {
+        "source": "AIDE",
+        "target": "PRESIDENT GRANT",
+        "weight": 1
+      },
+      {
+        "source": "AIDE",
+        "target": "WEST",
+        "weight": 1
+      },
+      {
+        "source": "GORDON/DORA",
+        "target": "GORDON",
+        "weight": 1
+      },
+      {
+        "source": "GORDON/DORA",
+        "target": "EYE-CROSSED REB",
+        "weight": 1
+      },
+      {
+        "source": "GORDON/DORA",
+        "target": "WEST",
+        "weight": 1
+      },
+      {
+        "source": "SALOON GIRL",
+        "target": "WEST",
+        "weight": 2
+      },
+      {
+        "source": "MISS EAST",
+        "target": "WEST",
+        "weight": 2
+      },
+      {
+        "source": "MISS EAST",
+        "target": "DRAGON LADY",
+        "weight": 1
+      },
+      {
+        "source": "DRAGON LADY",
+        "target": "WEST",
+        "weight": 1
+      },
+      {
+        "source": "MISS LIPPENREIDER",
+        "target": "AMAZONIA",
+        "weight": 1
+      },
+      {
+        "source": "MISS LIPPENREIDER",
+        "target": "MUNITIA",
+        "weight": 2
+      },
+      {
+        "source": "MISS LIPPENREIDER",
+        "target": "LOVELESS",
+        "weight": 1
+      },
+      {
+        "source": "MISS LIPPENREIDER",
+        "target": "RITA",
+        "weight": 1
+      },
+      {
+        "source": "MISS LIPPENREIDER",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "GORDON",
+        "target": "RITA",
+        "weight": 6
+      },
+      {
+        "source": "GORDON",
+        "target": "WEST",
+        "weight": 23
+      },
+      {
+        "source": "GORDON",
+        "target": "COLEMAN",
+        "weight": 5
+      },
+      {
+        "source": "GORDON",
+        "target": "HUDSON",
+        "weight": 1
+      },
+      {
+        "source": "GORDON",
+        "target": "GORDON/GRANT",
+        "weight": 1
+      },
+      {
+        "source": "GORDON",
+        "target": "CHANTEUSE",
+        "weight": 1
+      },
+      {
+        "source": "GORDON",
+        "target": "PRESIDENT GRANT",
+        "weight": 5
+      },
+      {
+        "source": "GORDON",
+        "target": "AMAZONIA",
+        "weight": 1
+      },
+      {
+        "source": "GORDON",
+        "target": "WEST AND GORDON",
+        "weight": 2
+      },
+      {
+        "source": "GORDON",
+        "target": "WEST/GORDON",
+        "weight": 1
+      },
+      {
+        "source": "GORDON",
+        "target": "GEORGE WASHINGTON",
+        "weight": 1
+      },
+      {
+        "source": "GORDON",
+        "target": "LOVELESS",
+        "weight": 5
+      },
+      {
+        "source": "LIPPENREIDER",
+        "target": "AMAZONIA",
+        "weight": 1
+      },
+      {
+        "source": "LIPPENREIDER",
+        "target": "HUDSON",
+        "weight": 1
+      },
+      {
+        "source": "LIPPENREIDER",
+        "target": "RITA",
+        "weight": 1
+      },
+      {
+        "source": "LIPPENREIDER",
+        "target": "LOVELESS",
+        "weight": 2
+      },
+      {
+        "source": "LIPPENREIDER",
+        "target": "MUNITIA",
+        "weight": 2
+      },
+      {
+        "source": "CHANTEUSE",
+        "target": "RITA",
+        "weight": 1
+      },
+      {
+        "source": "CHANTEUSE",
+        "target": "PRESIDENT GRANT",
+        "weight": 1
+      },
+      {
+        "source": "CHANTEUSE",
+        "target": "WEST",
+        "weight": 1
+      },
+      {
+        "source": "CHANTEUSE",
+        "target": "COLEMAN",
+        "weight": 1
+      },
+      {
+        "source": "CHANTEUSE",
+        "target": "LOVELESS",
+        "weight": 1
+      },
+      {
+        "source": "MUNITIA",
+        "target": "RITA",
+        "weight": 2
+      },
+      {
+        "source": "MUNITIA",
+        "target": "AMAZONIA",
+        "weight": 1
+      },
+      {
+        "source": "MUNITIA",
+        "target": "LOVELESS",
+        "weight": 3
+      },
+      {
+        "source": "MUNITIA",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "LOVELESS",
+        "target": "RITA",
+        "weight": 4
+      },
+      {
+        "source": "LOVELESS",
+        "target": "WEST",
+        "weight": 7
+      },
+      {
+        "source": "LOVELESS",
+        "target": "COLEMAN",
+        "weight": 2
+      },
+      {
+        "source": "LOVELESS",
+        "target": "HUDSON",
+        "weight": 1
+      },
+      {
+        "source": "LOVELESS",
+        "target": "GORDON/GRANT",
+        "weight": 1
+      },
+      {
+        "source": "LOVELESS",
+        "target": "PRESIDENT GRANT",
+        "weight": 5
+      },
+      {
+        "source": "LOVELESS",
+        "target": "AMAZONIA",
+        "weight": 1
+      },
+      {
+        "source": "LOVELESS",
+        "target": "WEST/GORDON",
+        "weight": 1
+      },
+      {
+        "source": "LOVELESS",
+        "target": "DISTAFF CORPS",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "AMAZONIA",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "RITA",
+        "weight": 1
+      },
+      {
+        "source": "GUARD",
+        "target": "WEST",
+        "weight": 1
+      },
+      {
+        "source": "RITA",
+        "target": "WEST",
+        "weight": 5
+      },
+      {
+        "source": "RITA",
+        "target": "COLEMAN",
+        "weight": 2
+      },
+      {
+        "source": "RITA",
+        "target": "PRESIDENT GRANT",
+        "weight": 3
+      },
+      {
+        "source": "RITA",
+        "target": "AMAZONIA",
+        "weight": 1
+      },
+      {
+        "source": "RITA",
+        "target": "WEST AND GORDON",
+        "weight": 1
+      },
+      {
+        "source": "RITA",
+        "target": "WEST/GORDON",
+        "weight": 2
+      },
+      {
+        "source": "GORDON/GRANT",
+        "target": "PRESIDENT GRANT",
+        "weight": 1
+      },
+      {
+        "source": "DISTAFF CORPS",
+        "target": "WEST",
+        "weight": 1
+      },
+      {
+        "source": "WEST",
+        "target": "BIG REB",
+        "weight": 1
+      },
+      {
+        "source": "WEST",
+        "target": "COLEMAN",
+        "weight": 5
+      },
+      {
+        "source": "WEST",
+        "target": "HUDSON",
+        "weight": 1
+      },
+      {
+        "source": "WEST",
+        "target": "HOUSE DETECTIVE",
+        "weight": 1
+      },
+      {
+        "source": "WEST",
+        "target": "PRESIDENT GRANT",
+        "weight": 3
+      },
+      {
+        "source": "WEST",
+        "target": "WEST AND GORDON",
+        "weight": 1
+      },
+      {
+        "source": "WEST",
+        "target": "WEST/GORDON",
+        "weight": 2
+      },
+      {
+        "source": "WEST",
+        "target": "GEORGE WASHINGTON",
+        "weight": 1
+      },
+      {
+        "source": "COLEMAN",
+        "target": "PRESIDENT GRANT",
+        "weight": 1
+      },
+      {
+        "source": "COLEMAN",
+        "target": "WEST/GORDON",
+        "weight": 1
+      },
+      {
+        "source": "HUDSON",
+        "target": "EYE-CROSSED REB",
+        "weight": 1
+      },
+      {
+        "source": "HUDSON",
+        "target": "DORA",
+        "weight": 1
+      },
+      {
+        "source": "EYE-CROSSED REB",
+        "target": "DORA",
+        "weight": 1
+      },
+      {
+        "source": "HOUSE DETECTIVE",
+        "target": "PRESIDENT GRANT",
+        "weight": 1
+      },
+      {
+        "source": "PRESIDENT GRANT",
+        "target": "AMAZONIA",
+        "weight": 1
+      },
+      {
+        "source": "PRESIDENT GRANT",
+        "target": "WEST AND GORDON",
+        "weight": 2
+      }
+    ],
+    "nodes": [
+      {
+        "id": "AIDE",
+        "name": "AIDE",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.012640558253667965,
+        "object_id": "5502712",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.111111111111111,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GORDON/DORA",
+        "name": "GORDON/DORA",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.015923889097702135,
+        "object_id": "5501786",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.037037037037037,
+        "betweenness centrality": 8.58076923076923,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SALOON GIRL",
+        "name": "SALOON GIRL",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.010419712618682221,
+        "object_id": "5501378",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.259259259259259,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MISS EAST",
+        "name": "MISS EAST",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.015657692406806964,
+        "object_id": "5503587",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.2222222222222223,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DRAGON LADY",
+        "name": "DRAGON LADY",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.012324708928937285,
+        "object_id": "5503567",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.2222222222222223,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MISS LIPPENREIDER",
+        "name": "MISS LIPPENREIDER",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.022039766355115904,
+        "object_id": "5503516",
+        "triangles": 9,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.2222222222222223,
+        "betweenness centrality": 0.851923076923077,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GORDON",
+        "name": "GORDON",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 14,
+        "pagerank": 0.1473701727400067,
+        "object_id": "5502050",
+        "triangles": 33,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.4814814814814814,
+        "betweenness centrality": 44.229120879120885,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LIPPENREIDER",
+        "name": "LIPPENREIDER",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.024856481645561673,
+        "object_id": "5502270",
+        "triangles": 7,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1481481481481484,
+        "betweenness centrality": 3.914102564102564,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CHANTEUSE",
+        "name": "CHANTEUSE",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 6,
+        "pagerank": 0.01972424799483777,
+        "object_id": "5507467",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8518518518518519,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MUNITIA",
+        "name": "MUNITIA",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 6,
+        "pagerank": 0.035900963755549145,
+        "object_id": "5503531",
+        "triangles": 12,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.185185185185185,
+        "betweenness centrality": 1.7121794871794873,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LOVELESS",
+        "name": "LOVELESS",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 14,
+        "pagerank": 0.0985963448900153,
+        "object_id": "5502275",
+        "triangles": 36,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.4814814814814814,
+        "betweenness centrality": 51.17673992673994,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WOMAN",
+        "name": "WOMAN",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.01648946207077646,
+        "object_id": "5503490",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.4444444444444446,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GUARD",
+        "name": "GUARD",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.00788842773791254,
+        "object_id": "5503461",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.259259259259259,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RITA",
+        "name": "RITA",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 13,
+        "pagerank": 0.08256771711183865,
+        "object_id": "5503502",
+        "triangles": 36,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.5925925925925926,
+        "betweenness centrality": 42.355586080586086,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GORDON/GRANT",
+        "name": "GORDON/GRANT",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.012503734727713618,
+        "object_id": "5507067",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.185185185185185,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DISTAFF CORPS",
+        "name": "DISTAFF CORPS",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.010282889092727874,
+        "object_id": "5503651",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.037037037037037,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WEST",
+        "name": "WEST",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 19,
+        "pagerank": 0.17867842876077603,
+        "object_id": "5501388",
+        "triangles": 31,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.2962962962962963,
+        "betweenness centrality": 166.50741758241762,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COLEMAN",
+        "name": "COLEMAN",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 7,
+        "pagerank": 0.04699748530474154,
+        "object_id": "5503028",
+        "triangles": 19,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8148148148148149,
+        "betweenness centrality": 0.4,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HUDSON",
+        "name": "HUDSON",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.027712019065963767,
+        "object_id": "5501629",
+        "triangles": 5,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8148148148148149,
+        "betweenness centrality": 42.69661172161172,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "EYE-CROSSED REB",
+        "name": "EYE-CROSSED REB",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.020170748255508623,
+        "object_id": "5501684",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.6666666666666665,
+        "betweenness centrality": 1.4583333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DORA",
+        "name": "DORA",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.014999131384620674,
+        "object_id": "5501470",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.7037037037037037,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HOUSE DETECTIVE",
+        "name": "HOUSE DETECTIVE",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.010320873093992853,
+        "object_id": "5502368",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1481481481481484,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BIG REB",
+        "name": "BIG REB",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.00788842773791254,
+        "object_id": "5501481",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.259259259259259,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PRESIDENT GRANT",
+        "name": "PRESIDENT GRANT",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 11,
+        "pagerank": 0.06868165186049945,
+        "object_id": "5502397",
+        "triangles": 26,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.6666666666666667,
+        "betweenness centrality": 19.150000000000002,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "AMAZONIA",
+        "name": "AMAZONIA",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 8,
+        "pagerank": 0.02726180346891144,
+        "object_id": "5503507",
+        "triangles": 17,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.962962962962963,
+        "betweenness centrality": 8.967216117216116,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WEST AND GORDON",
+        "name": "WEST AND GORDON",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.019732074995764803,
+        "object_id": "5502561",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9259259259259258,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WEST/GORDON",
+        "name": "WEST/GORDON",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 5,
+        "pagerank": 0.02216247374586856,
+        "object_id": "5504983",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8888888888888888,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GEORGE WASHINGTON",
+        "name": "GEORGE WASHINGTON",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.010208112897587652,
+        "object_id": "5504155",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1481481481481484,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": 94.6528,
+        "y": -133.13393,
+        "name": "AIDE"
+      },
+      {
+        "x": 24.63045,
+        "y": 101.02334,
+        "name": "GORDON/DORA"
+      },
+      {
+        "x": 119.37362,
+        "y": -32.370632,
+        "name": "SALOON GIRL"
+      },
+      {
+        "x": 132.91507,
+        "y": 24.894339,
+        "name": "MISS EAST"
+      },
+      {
+        "x": 165.93378,
+        "y": 50.9908,
+        "name": "DRAGON LADY"
+      },
+      {
+        "x": -177.74806,
+        "y": -126.61306,
+        "name": "MISS LIPPENREIDER"
+      },
+      {
+        "x": 3.7904093,
+        "y": -60.306255,
+        "name": "GORDON"
+      },
+      {
+        "x": -136.33672,
+        "y": -18.343801,
+        "name": "LIPPENREIDER"
+      },
+      {
+        "x": -29.162245,
+        "y": -162.04759,
+        "name": "CHANTEUSE"
+      },
+      {
+        "x": -131.34479,
+        "y": -95.995125,
+        "name": "MUNITIA"
+      },
+      {
+        "x": -55.227673,
+        "y": -48.104374,
+        "name": "LOVELESS"
+      },
+      {
+        "x": -176.65971,
+        "y": -171.47621,
+        "name": "WOMAN"
+      },
+      {
+        "x": 156.06044,
+        "y": -103.07942,
+        "name": "GUARD"
+      },
+      {
+        "x": -56.034607,
+        "y": -97.60966,
+        "name": "RITA"
+      },
+      {
+        "x": 26.146795,
+        "y": -177.93608,
+        "name": "GORDON/GRANT"
+      },
+      {
+        "x": 91.650116,
+        "y": 4.2333703,
+        "name": "DISTAFF CORPS"
+      },
+      {
+        "x": 36.51824,
+        "y": -30.368444,
+        "name": "WEST"
+      },
+      {
+        "x": -14.163484,
+        "y": -16.084019,
+        "name": "COLEMAN"
+      },
+      {
+        "x": -71.1667,
+        "y": 86.57025,
+        "name": "HUDSON"
+      },
+      {
+        "x": -37.81459,
+        "y": 178.49457,
+        "name": "EYE-CROSSED REB"
+      },
+      {
+        "x": -87.393524,
+        "y": 187.39697,
+        "name": "DORA"
+      },
+      {
+        "x": 28.471743,
+        "y": 35.515812,
+        "name": "HOUSE DETECTIVE"
+      },
+      {
+        "x": -13.963271,
+        "y": 57.309658,
+        "name": "BIG REB"
+      },
+      {
+        "x": -7.994797,
+        "y": -108.24346,
+        "name": "PRESIDENT GRANT"
+      },
+      {
+        "x": -171.79321,
+        "y": -72.067345,
+        "name": "AMAZONIA"
+      },
+      {
+        "x": 40.821476,
+        "y": -131.38156,
+        "name": "WEST AND GORDON"
+      },
+      {
+        "x": 61.38048,
+        "y": -83.925446,
+        "name": "WEST/GORDON"
+      },
+      {
+        "x": 76.271095,
+        "y": 44.049103,
+        "name": "GEORGE WASHINGTON"
+      }
+    ]
+  }
+}

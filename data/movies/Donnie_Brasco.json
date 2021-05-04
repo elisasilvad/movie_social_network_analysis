@@ -1,0 +1,1760 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "JUDY",
+        "target": "NICKY",
+        "weight": 1
+      },
+      {
+        "source": "JUDY",
+        "target": "BOOBIE",
+        "weight": 1
+      },
+      {
+        "source": "JUDY",
+        "target": "SONNY",
+        "weight": 1
+      },
+      {
+        "source": "JUDY",
+        "target": "DONNIE",
+        "weight": 1
+      },
+      {
+        "source": "JUDY",
+        "target": "LEFTY",
+        "weight": 1
+      },
+      {
+        "source": "TERRY",
+        "target": "MAGGIE",
+        "weight": 2
+      },
+      {
+        "source": "TERRY",
+        "target": "DONNIE",
+        "weight": 4
+      },
+      {
+        "source": "TERRY",
+        "target": "SHERRY",
+        "weight": 2
+      },
+      {
+        "source": "TERRY",
+        "target": "KERRY",
+        "weight": 2
+      },
+      {
+        "source": "HOLLMAN",
+        "target": "REDCAP",
+        "weight": 1
+      },
+      {
+        "source": "HOLLMAN",
+        "target": "DONNIE",
+        "weight": 1
+      },
+      {
+        "source": "HOLLMAN",
+        "target": "CALVINO",
+        "weight": 1
+      },
+      {
+        "source": "HOLLMAN",
+        "target": "SONNY",
+        "weight": 1
+      },
+      {
+        "source": "HOLLMAN",
+        "target": "LEFTY",
+        "weight": 1
+      },
+      {
+        "source": "DONNIE",
+        "target": "BERADA",
+        "weight": 3
+      },
+      {
+        "source": "DONNIE",
+        "target": "BILL",
+        "weight": 1
+      },
+      {
+        "source": "DONNIE",
+        "target": "DRIVER",
+        "weight": 1
+      },
+      {
+        "source": "DONNIE",
+        "target": "SHERRY",
+        "weight": 1
+      },
+      {
+        "source": "DONNIE",
+        "target": "JOE",
+        "weight": 1
+      },
+      {
+        "source": "DONNIE",
+        "target": "BOOTS",
+        "weight": 1
+      },
+      {
+        "source": "DONNIE",
+        "target": "LZFTY",
+        "weight": 1
+      },
+      {
+        "source": "DONNIE",
+        "target": "BURSEY",
+        "weight": 3
+      },
+      {
+        "source": "DONNIE",
+        "target": "LOUISE",
+        "weight": 1
+      },
+      {
+        "source": "DONNIE",
+        "target": "ID",
+        "weight": 1
+      },
+      {
+        "source": "DONNIE",
+        "target": "MAGGIE",
+        "weight": 6
+      },
+      {
+        "source": "DONNIE",
+        "target": "DISALVO",
+        "weight": 1
+      },
+      {
+        "source": "DONNIE",
+        "target": "JULES",
+        "weight": 2
+      },
+      {
+        "source": "DONNIE",
+        "target": "NICKY",
+        "weight": 4
+      },
+      {
+        "source": "DONNIE",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "DONNIE",
+        "target": "NO",
+        "weight": 3
+      },
+      {
+        "source": "DONNIE",
+        "target": "MA GGIE",
+        "weight": 1
+      },
+      {
+        "source": "DONNIE",
+        "target": "BERGER",
+        "weight": 1
+      },
+      {
+        "source": "DONNIE",
+        "target": "NURSE",
+        "weight": 1
+      },
+      {
+        "source": "DONNIE",
+        "target": "SONNY",
+        "weight": 6
+      },
+      {
+        "source": "DONNIE",
+        "target": "OWNER",
+        "weight": 1
+      },
+      {
+        "source": "DONNIE",
+        "target": "JONES",
+        "weight": 1
+      },
+      {
+        "source": "DONNIE",
+        "target": "BOOBIE",
+        "weight": 4
+      },
+      {
+        "source": "DONNIE",
+        "target": "BRUNO",
+        "weight": 1
+      },
+      {
+        "source": "DONNIE",
+        "target": "CALVINO",
+        "weight": 1
+      },
+      {
+        "source": "DONNIE",
+        "target": "BARTENDER",
+        "weight": 1
+      },
+      {
+        "source": "DONNIE",
+        "target": "MARSHALL",
+        "weight": 1
+      },
+      {
+        "source": "DONNIE",
+        "target": "LEGS",
+        "weight": 1
+      },
+      {
+        "source": "DONNIE",
+        "target": "UNCLE BOB",
+        "weight": 1
+      },
+      {
+        "source": "DONNIE",
+        "target": "LEBOW",
+        "weight": 1
+      },
+      {
+        "source": "DONNIE",
+        "target": "LEFTY",
+        "weight": 17
+      },
+      {
+        "source": "DONNIE",
+        "target": "WISEGUY #1",
+        "weight": 1
+      },
+      {
+        "source": "DONNIE",
+        "target": "DO",
+        "weight": 1
+      },
+      {
+        "source": "DONNIE",
+        "target": "SONNY RED",
+        "weight": 1
+      },
+      {
+        "source": "DONNIE",
+        "target": "KERRY",
+        "weight": 1
+      },
+      {
+        "source": "DONNIE",
+        "target": "REDCAP",
+        "weight": 1
+      },
+      {
+        "source": "DONNIE",
+        "target": "LI",
+        "weight": 1
+      },
+      {
+        "source": "HOGUE",
+        "target": "BERADA",
+        "weight": 2
+      },
+      {
+        "source": "HOGUE",
+        "target": "TECH #1",
+        "weight": 1
+      },
+      {
+        "source": "HOGUE",
+        "target": "LEBOW",
+        "weight": 4
+      },
+      {
+        "source": "HOGUE",
+        "target": "BOOBIE",
+        "weight": 1
+      },
+      {
+        "source": "HOGUE",
+        "target": "JULES",
+        "weight": 5
+      },
+      {
+        "source": "HOGUE",
+        "target": "MARSHALL",
+        "weight": 2
+      },
+      {
+        "source": "JOE",
+        "target": "BERADA",
+        "weight": 1
+      },
+      {
+        "source": "JOE",
+        "target": "MA GGIE",
+        "weight": 1
+      },
+      {
+        "source": "JOE",
+        "target": "BURSEY",
+        "weight": 1
+      },
+      {
+        "source": "JOE",
+        "target": "LEBOW",
+        "weight": 1
+      },
+      {
+        "source": "JOE",
+        "target": "MAGGIE",
+        "weight": 1
+      },
+      {
+        "source": "JOE",
+        "target": "JULES",
+        "weight": 1
+      },
+      {
+        "source": "JOE",
+        "target": "SHERRY",
+        "weight": 1
+      },
+      {
+        "source": "JOE",
+        "target": "MARSHALL",
+        "weight": 1
+      },
+      {
+        "source": "NICKY",
+        "target": "BOOTS",
+        "weight": 1
+      },
+      {
+        "source": "NICKY",
+        "target": "SONNY",
+        "weight": 7
+      },
+      {
+        "source": "NICKY",
+        "target": "BOOBIE",
+        "weight": 6
+      },
+      {
+        "source": "NICKY",
+        "target": "PHILLY LUCKY",
+        "weight": 2
+      },
+      {
+        "source": "NICKY",
+        "target": "DISALVO",
+        "weight": 1
+      },
+      {
+        "source": "NICKY",
+        "target": "LEFTY",
+        "weight": 6
+      },
+      {
+        "source": "NICKY",
+        "target": "LEGS",
+        "weight": 2
+      },
+      {
+        "source": "NICKY",
+        "target": "PALMER",
+        "weight": 1
+      },
+      {
+        "source": "BURSEY",
+        "target": "BERADA",
+        "weight": 1
+      },
+      {
+        "source": "BURSEY",
+        "target": "MA GGIE",
+        "weight": 1
+      },
+      {
+        "source": "BURSEY",
+        "target": "JONES",
+        "weight": 1
+      },
+      {
+        "source": "BURSEY",
+        "target": "JULES",
+        "weight": 1
+      },
+      {
+        "source": "BURSEY",
+        "target": "MAGGIE",
+        "weight": 1
+      },
+      {
+        "source": "LEGS",
+        "target": "PHILLY LUCKY",
+        "weight": 1
+      },
+      {
+        "source": "LEGS",
+        "target": "BOOTS",
+        "weight": 1
+      },
+      {
+        "source": "LEGS",
+        "target": "SONNY",
+        "weight": 2
+      },
+      {
+        "source": "LEGS",
+        "target": "LEFTY",
+        "weight": 1
+      },
+      {
+        "source": "LEGS",
+        "target": "BOOBIE",
+        "weight": 1
+      },
+      {
+        "source": "ID",
+        "target": "NURSE",
+        "weight": 1
+      },
+      {
+        "source": "ID",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "BOOTS",
+        "target": "SONNY",
+        "weight": 1
+      },
+      {
+        "source": "BOOTS",
+        "target": "LEFTY",
+        "weight": 1
+      },
+      {
+        "source": "BOOTS",
+        "target": "BOOBIE",
+        "weight": 1
+      },
+      {
+        "source": "JULES",
+        "target": "BERADA",
+        "weight": 2
+      },
+      {
+        "source": "JULES",
+        "target": "LEBOW",
+        "weight": 5
+      },
+      {
+        "source": "JULES",
+        "target": "BOOBIE",
+        "weight": 1
+      },
+      {
+        "source": "JULES",
+        "target": "JONES",
+        "weight": 1
+      },
+      {
+        "source": "JULES",
+        "target": "LEFTY",
+        "weight": 1
+      },
+      {
+        "source": "JULES",
+        "target": "MAGGIE",
+        "weight": 1
+      },
+      {
+        "source": "JULES",
+        "target": "MARSHALL",
+        "weight": 4
+      },
+      {
+        "source": "SONNY",
+        "target": "CALVINO",
+        "weight": 1
+      },
+      {
+        "source": "SONNY",
+        "target": "REDCAP",
+        "weight": 1
+      },
+      {
+        "source": "SONNY",
+        "target": "PHILLY LUCKY",
+        "weight": 2
+      },
+      {
+        "source": "SONNY",
+        "target": "LEFTY",
+        "weight": 7
+      },
+      {
+        "source": "SONNY",
+        "target": "DISALVO",
+        "weight": 1
+      },
+      {
+        "source": "SONNY",
+        "target": "SONNY RED",
+        "weight": 1
+      },
+      {
+        "source": "SONNY",
+        "target": "BOOBIE",
+        "weight": 6
+      },
+      {
+        "source": "SONNY",
+        "target": "PALMER",
+        "weight": 1
+      },
+      {
+        "source": "BOOBIE",
+        "target": "BERADA",
+        "weight": 1
+      },
+      {
+        "source": "BOOBIE",
+        "target": "PHILLY LUCKY",
+        "weight": 1
+      },
+      {
+        "source": "BOOBIE",
+        "target": "LEBOW",
+        "weight": 1
+      },
+      {
+        "source": "BOOBIE",
+        "target": "LEFTY",
+        "weight": 4
+      },
+      {
+        "source": "BOOBIE",
+        "target": "DISALVO",
+        "weight": 1
+      },
+      {
+        "source": "BARTENDER",
+        "target": "LEFTY",
+        "weight": 1
+      },
+      {
+        "source": "MARSHALL",
+        "target": "BERADA",
+        "weight": 1
+      },
+      {
+        "source": "MARSHALL",
+        "target": "LEBOW",
+        "weight": 5
+      },
+      {
+        "source": "LEBOW",
+        "target": "BERADA",
+        "weight": 3
+      },
+      {
+        "source": "WISEGUY #1",
+        "target": "BRUNO",
+        "weight": 1
+      },
+      {
+        "source": "WISEGUY #1",
+        "target": "SONNY RED",
+        "weight": 1
+      },
+      {
+        "source": "WISEGUY #1",
+        "target": "LEFTY",
+        "weight": 1
+      },
+      {
+        "source": "WISEGUY #1",
+        "target": "LI",
+        "weight": 1
+      },
+      {
+        "source": "BIG TRIN",
+        "target": "PHILLY LUCKY",
+        "weight": 1
+      },
+      {
+        "source": "BIG TRIN",
+        "target": "BRUNO",
+        "weight": 1
+      },
+      {
+        "source": "BIG TRIN",
+        "target": "SONNY RED",
+        "weight": 1
+      },
+      {
+        "source": "NURSE",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "CAPTAIN",
+        "target": "LEFTY",
+        "weight": 1
+      },
+      {
+        "source": "BERADA",
+        "target": "MA GGIE",
+        "weight": 1
+      },
+      {
+        "source": "BERADA",
+        "target": "MAGGIE",
+        "weight": 1
+      },
+      {
+        "source": "BERADA",
+        "target": "NO",
+        "weight": 1
+      },
+      {
+        "source": "DRIVER",
+        "target": "LEFTY",
+        "weight": 1
+      },
+      {
+        "source": "PHONE",
+        "target": "LEFTY",
+        "weight": 2
+      },
+      {
+        "source": "SHERRY",
+        "target": "KERRY",
+        "weight": 2
+      },
+      {
+        "source": "SHERRY",
+        "target": "MAGGIE",
+        "weight": 2
+      },
+      {
+        "source": "LZFTY",
+        "target": "NARRATOR",
+        "weight": 1
+      },
+      {
+        "source": "LZFTY",
+        "target": "LOUISE",
+        "weight": 1
+      },
+      {
+        "source": "LZFTY",
+        "target": "LEFTY",
+        "weight": 2
+      },
+      {
+        "source": "LOUISE",
+        "target": "NARRATOR",
+        "weight": 1
+      },
+      {
+        "source": "LOUISE",
+        "target": "LEFTY",
+        "weight": 3
+      },
+      {
+        "source": "MAGGIE",
+        "target": "MA GGIE",
+        "weight": 1
+      },
+      {
+        "source": "MAGGIE",
+        "target": "DO",
+        "weight": 1
+      },
+      {
+        "source": "MAGGIE",
+        "target": "CALVINO",
+        "weight": 1
+      },
+      {
+        "source": "MAGGIE",
+        "target": "BERGER",
+        "weight": 1
+      },
+      {
+        "source": "MAGGIE",
+        "target": "UNCLE BOB",
+        "weight": 1
+      },
+      {
+        "source": "MAGGIE",
+        "target": "LEFTY",
+        "weight": 1
+      },
+      {
+        "source": "MAGGIE",
+        "target": "KERRY",
+        "weight": 2
+      },
+      {
+        "source": "MAGGIE",
+        "target": "NO",
+        "weight": 1
+      },
+      {
+        "source": "DISALVO",
+        "target": "LEFTY",
+        "weight": 1
+      },
+      {
+        "source": "NO",
+        "target": "LEFTY",
+        "weight": 1
+      },
+      {
+        "source": "DO",
+        "target": "CALVINO",
+        "weight": 1
+      },
+      {
+        "source": "DO",
+        "target": "LEFTY",
+        "weight": 1
+      },
+      {
+        "source": "OWNER",
+        "target": "LEFTY",
+        "weight": 1
+      },
+      {
+        "source": "BRUNO",
+        "target": "PHILLY LUCKY",
+        "weight": 1
+      },
+      {
+        "source": "BRUNO",
+        "target": "LEFTY",
+        "weight": 1
+      },
+      {
+        "source": "BRUNO",
+        "target": "LI",
+        "weight": 1
+      },
+      {
+        "source": "BRUNO",
+        "target": "SONNY RED",
+        "weight": 1
+      },
+      {
+        "source": "CALVINO",
+        "target": "LEFTY",
+        "weight": 1
+      },
+      {
+        "source": "CALVINO",
+        "target": "REDCAP",
+        "weight": 1
+      },
+      {
+        "source": "PHILLY LUCKY",
+        "target": "LEFTY",
+        "weight": 1
+      },
+      {
+        "source": "PHILLY LUCKY",
+        "target": "SONNY RED",
+        "weight": 1
+      },
+      {
+        "source": "JEWELER",
+        "target": "LEFTY",
+        "weight": 1
+      },
+      {
+        "source": "NARRATOR",
+        "target": "LEFTY",
+        "weight": 1
+      },
+      {
+        "source": "LEFTY",
+        "target": "SONNY RED",
+        "weight": 1
+      },
+      {
+        "source": "LEFTY",
+        "target": "REDCAP",
+        "weight": 1
+      },
+      {
+        "source": "LEFTY",
+        "target": "LI",
+        "weight": 1
+      },
+      {
+        "source": "LI",
+        "target": "SONNY RED",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "JUDY",
+        "name": "JUDY",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.009941335566055308,
+        "object_id": "1576786",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9387755102040816,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TERRY",
+        "name": "TERRY",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 4,
+        "pagerank": 0.01863342638511325,
+        "object_id": "1576948",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.122448979591837,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HOLLMAN",
+        "name": "HOLLMAN",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 5,
+        "pagerank": 0.010924055095738053,
+        "object_id": "1579674",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.9795918367346939,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DONNIE",
+        "name": "DONNIE",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 40,
+        "pagerank": 0.14126631280009894,
+        "object_id": "1576181",
+        "triangles": 96,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.2040816326530612,
+        "betweenness centrality": 631.928391053391,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HOGUE",
+        "name": "HOGUE",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 6,
+        "pagerank": 0.025254429740518117,
+        "object_id": "1576061",
+        "triangles": 9,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.4489795918367347,
+        "betweenness centrality": 48.28333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JOE",
+        "name": "JOE",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 9,
+        "pagerank": 0.01637332638088396,
+        "object_id": "1576219",
+        "triangles": 23,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9795918367346939,
+        "betweenness centrality": 4.927272727272727,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NICKY",
+        "name": "NICKY",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 10,
+        "pagerank": 0.04865516032425464,
+        "object_id": "1576650",
+        "triangles": 28,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.816326530612245,
+        "betweenness centrality": 24.703210678210674,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BURSEY",
+        "name": "BURSEY",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 7,
+        "pagerank": 0.017044090080518375,
+        "object_id": "1576514",
+        "triangles": 16,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.020408163265306,
+        "betweenness centrality": 1.7,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LEGS",
+        "name": "LEGS",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 7,
+        "pagerank": 0.0158367577904941,
+        "object_id": "1579031",
+        "triangles": 19,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8775510204081634,
+        "betweenness centrality": 2.1190836940836943,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ID",
+        "name": "ID",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 3,
+        "pagerank": 0.010303232872695934,
+        "object_id": "1581171",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.142857142857143,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BOOTS",
+        "name": "BOOTS",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 6,
+        "pagerank": 0.01143707623491869,
+        "object_id": "1578927",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9183673469387754,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JULES",
+        "name": "JULES",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 11,
+        "pagerank": 0.037213889960402,
+        "object_id": "1576025",
+        "triangles": 29,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.816326530612245,
+        "betweenness centrality": 36.855844155844146,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BILL",
+        "name": "BILL",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 1,
+        "pagerank": 0.0044643674787369185,
+        "object_id": "1581413",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.183673469387755,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SONNY",
+        "name": "SONNY",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 14,
+        "pagerank": 0.06027331429153799,
+        "object_id": "1576662",
+        "triangles": 40,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7346938775510203,
+        "betweenness centrality": 42.33098845598846,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JONES",
+        "name": "JONES",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.007391883482591477,
+        "object_id": "1579485",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1020408163265305,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BOOBIE",
+        "name": "BOOBIE",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 13,
+        "pagerank": 0.044429279608302785,
+        "object_id": "1576680",
+        "triangles": 37,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7346938775510203,
+        "betweenness centrality": 54.47954545454546,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BARTENDER",
+        "name": "BARTENDER",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.005956682275433818,
+        "object_id": "1576875",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.061224489795918,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MARSHALL",
+        "name": "MARSHALL",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 6,
+        "pagerank": 0.021987072679242964,
+        "object_id": "1576033",
+        "triangles": 13,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.020408163265306,
+        "betweenness centrality": 7.400937950937953,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TECH #1",
+        "name": "TECH #1",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.004430908664464737,
+        "object_id": "1577574",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.4285714285714284,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LEBOW",
+        "name": "LEBOW",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 7,
+        "pagerank": 0.03043154541024382,
+        "object_id": "1576023",
+        "triangles": 17,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9795918367346939,
+        "betweenness centrality": 8.01760461760462,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WISEGUY #1",
+        "name": "WISEGUY #1",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.01166512870473366,
+        "object_id": "1577345",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.9795918367346939,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BIG TRIN",
+        "name": "BIG TRIN",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.008318036307485111,
+        "object_id": "1581322",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.7346938775510203,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NURSE",
+        "name": "NURSE",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 3,
+        "pagerank": 0.010303232872695935,
+        "object_id": "1581141",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.142857142857143,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CAPTAIN",
+        "name": "CAPTAIN",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 1,
+        "pagerank": 0.004492314796696899,
+        "object_id": "1579593",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.4081632653061225,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BERADA",
+        "name": "BERADA",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 11,
+        "pagerank": 0.027548459322093575,
+        "object_id": "1576453",
+        "triangles": 30,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8979591836734695,
+        "betweenness centrality": 21.4998556998557,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DRIVER",
+        "name": "DRIVER",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.005956682275433818,
+        "object_id": "1577189",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.061224489795918,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PHONE",
+        "name": "PHONE",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 1,
+        "pagerank": 0.0059846295933937985,
+        "object_id": "1577011",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.4081632653061225,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SHERRY",
+        "name": "SHERRY",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 5,
+        "pagerank": 0.01563242575268542,
+        "object_id": "1576254",
+        "triangles": 8,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1020408163265305,
+        "betweenness centrality": 0.6666666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LZFTY",
+        "name": "LZFTY",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.011704014327976343,
+        "object_id": "1577770",
+        "triangles": 5,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.020408163265306,
+        "betweenness centrality": 4.40952380952381,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LOUISE",
+        "name": "LOUISE",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.013301616270477976,
+        "object_id": "1577409",
+        "triangles": 5,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.020408163265306,
+        "betweenness centrality": 4.40952380952381,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAGGIE",
+        "name": "MAGGIE",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 15,
+        "pagerank": 0.04129850569188049,
+        "object_id": "1576269",
+        "triangles": 33,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7551020408163265,
+        "betweenness centrality": 50.69700577200577,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DISALVO",
+        "name": "DISALVO",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.009941335566055308,
+        "object_id": "1580017",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9387755102040816,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOCTOR",
+        "name": "DOCTOR",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 3,
+        "pagerank": 0.010303232872695934,
+        "object_id": "1581177",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.142857142857143,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NO",
+        "name": "NO",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.011788979603871872,
+        "object_id": "1578458",
+        "triangles": 5,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9795918367346939,
+        "betweenness centrality": 0.9428571428571428,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MA GGIE",
+        "name": "MA GGIE",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.010523871718108032,
+        "object_id": "1576294",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.061224489795918,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DO",
+        "name": "DO",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.00924489831846321,
+        "object_id": "1579195",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.020408163265306,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PALMER",
+        "name": "PALMER",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.00568239952333624,
+        "object_id": "1580978",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.693877551020408,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OWNER",
+        "name": "OWNER",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.005956682275433818,
+        "object_id": "1577230",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.061224489795918,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BRUNO",
+        "name": "BRUNO",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 7,
+        "pagerank": 0.01569228915426084,
+        "object_id": "1577375",
+        "triangles": 14,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.9387755102040816,
+        "betweenness centrality": 18.354004329004315,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CALVINO",
+        "name": "CALVINO",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 7,
+        "pagerank": 0.014510034252529693,
+        "object_id": "1579204",
+        "triangles": 15,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.9387755102040816,
+        "betweenness centrality": 2.4,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KERRY",
+        "name": "KERRY",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 4,
+        "pagerank": 0.014006449416827988,
+        "object_id": "1576951",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.122448979591837,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PHILLY LUCKY",
+        "name": "PHILLY LUCKY",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 8,
+        "pagerank": 0.018737273991564746,
+        "object_id": "1580621",
+        "triangles": 16,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.142857142857143,
+        "betweenness centrality": 15.437301587301576,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "UNCLE BOB",
+        "name": "UNCLE BOB",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 2,
+        "pagerank": 0.005990610764844325,
+        "object_id": "1578279",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.163265306122449,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JEWELER",
+        "name": "JEWELER",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 1,
+        "pagerank": 0.004492314796696899,
+        "object_id": "1576913",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.4081632653061225,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NARRATOR",
+        "name": "NARRATOR",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.008366499575809897,
+        "object_id": "1581511",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.36734693877551,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LEFTY",
+        "name": "LEFTY",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 29,
+        "pagerank": 0.11060377080280342,
+        "object_id": "1576647",
+        "triangles": 67,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.4285714285714286,
+        "betweenness centrality": 307.0393939393941,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REDCAP",
+        "name": "REDCAP",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 5,
+        "pagerank": 0.010924055095738055,
+        "object_id": "1579661",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.9795918367346939,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LI",
+        "name": "LI",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.01166512870473366,
+        "object_id": "1577344",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.9795918367346939,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SONNY RED",
+        "name": "SONNY RED",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 8,
+        "pagerank": 0.017126369763582776,
+        "object_id": "1577370",
+        "triangles": 17,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.8979591836734695,
+        "betweenness centrality": 21.39765512265511,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BERGER",
+        "name": "BERGER",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.005990610764844325,
+        "object_id": "1578371",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.163265306122449,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": 185.87404,
+        "y": -61.875187,
+        "name": "JUDY"
+      },
+      {
+        "x": -133.23361,
+        "y": 62.83032,
+        "name": "TERRY"
+      },
+      {
+        "x": 76.66904,
+        "y": 123.716225,
+        "name": "HOLLMAN"
+      },
+      {
+        "x": -27.479355,
+        "y": 16.324263,
+        "name": "DONNIE"
+      },
+      {
+        "x": -82.731964,
+        "y": 204.76962,
+        "name": "HOGUE"
+      },
+      {
+        "x": -249.44633,
+        "y": 144.6524,
+        "name": "JOE"
+      },
+      {
+        "x": 99.74963,
+        "y": -62.581573,
+        "name": "NICKY"
+      },
+      {
+        "x": -210.84323,
+        "y": 48.07411,
+        "name": "BURSEY"
+      },
+      {
+        "x": 153.18684,
+        "y": -87.800255,
+        "name": "LEGS"
+      },
+      {
+        "x": 102.13697,
+        "y": 255.12445,
+        "name": "ID"
+      },
+      {
+        "x": 182.43524,
+        "y": -19.084929,
+        "name": "BOOTS"
+      },
+      {
+        "x": -115.98549,
+        "y": 172.15657,
+        "name": "JULES"
+      },
+      {
+        "x": 6.3631377,
+        "y": -147.51532,
+        "name": "BILL"
+      },
+      {
+        "x": 103.20016,
+        "y": -19.570839,
+        "name": "SONNY"
+      },
+      {
+        "x": -201.08435,
+        "y": 169.00584,
+        "name": "JONES"
+      },
+      {
+        "x": 65.48045,
+        "y": 21.721762,
+        "name": "BOOBIE"
+      },
+      {
+        "x": -82.73719,
+        "y": -101.42497,
+        "name": "BARTENDER"
+      },
+      {
+        "x": -160.00456,
+        "y": 219.74066,
+        "name": "MARSHALL"
+      },
+      {
+        "x": -104.64898,
+        "y": 49.19692,
+        "name": "TECH #1"
+      },
+      {
+        "x": -121.67807,
+        "y": 215.14787,
+        "name": "LEBOW"
+      },
+      {
+        "x": 24.294756,
+        "y": -245.38626,
+        "name": "WISEGUY #1"
+      },
+      {
+        "x": 166.83356,
+        "y": -282.43958,
+        "name": "BIG TRIN"
+      },
+      {
+        "x": 72.89641,
+        "y": 226.57535,
+        "name": "NURSE"
+      },
+      {
+        "x": -38.06866,
+        "y": -182.57199,
+        "name": "CAPTAIN"
+      },
+      {
+        "x": -132.30243,
+        "y": 127.64177,
+        "name": "BERADA"
+      },
+      {
+        "x": -42.868145,
+        "y": -111.084656,
+        "name": "DRIVER"
+      },
+      {
+        "x": 38.40705,
+        "y": -122.65889,
+        "name": "PHONE"
+      },
+      {
+        "x": -221.9444,
+        "y": 88.27671,
+        "name": "SHERRY"
+      },
+      {
+        "x": 168.68748,
+        "y": 65.58658,
+        "name": "LZFTY"
+      },
+      {
+        "x": 142.21788,
+        "y": 24.579054,
+        "name": "LOUISE"
+      },
+      {
+        "x": -154.99474,
+        "y": 21.505554,
+        "name": "MAGGIE"
+      },
+      {
+        "x": 110.52413,
+        "y": 59.02308,
+        "name": "DISALVO"
+      },
+      {
+        "x": 124.55371,
+        "y": 218.24918,
+        "name": "DOCTOR"
+      },
+      {
+        "x": -74.146545,
+        "y": 68.61287,
+        "name": "NO"
+      },
+      {
+        "x": -248.64055,
+        "y": 5.536476,
+        "name": "MA GGIE"
+      },
+      {
+        "x": -102.69463,
+        "y": -45.54572,
+        "name": "DO"
+      },
+      {
+        "x": 126.99646,
+        "y": -126.806564,
+        "name": "PALMER"
+      },
+      {
+        "x": 179.84846,
+        "y": 26.310919,
+        "name": "OWNER"
+      },
+      {
+        "x": 85.57967,
+        "y": -258.51218,
+        "name": "BRUNO"
+      },
+      {
+        "x": 17.144884,
+        "y": 101.96792,
+        "name": "CALVINO"
+      },
+      {
+        "x": -177.72424,
+        "y": 72.87934,
+        "name": "KERRY"
+      },
+      {
+        "x": 155.4131,
+        "y": -160.23463,
+        "name": "PHILLY LUCKY"
+      },
+      {
+        "x": -185.43613,
+        "y": 114.758965,
+        "name": "UNCLE BOB"
+      },
+      {
+        "x": -70.83634,
+        "y": -165.47833,
+        "name": "JEWELER"
+      },
+      {
+        "x": 231.3354,
+        "y": 59.958206,
+        "name": "NARRATOR"
+      },
+      {
+        "x": 39.278954,
+        "y": -46.167477,
+        "name": "LEFTY"
+      },
+      {
+        "x": 122.29353,
+        "y": 116.56168,
+        "name": "REDCAP"
+      },
+      {
+        "x": 12.316015,
+        "y": -204.55482,
+        "name": "LI"
+      },
+      {
+        "x": 97.23092,
+        "y": -206.75829,
+        "name": "SONNY RED"
+      },
+      {
+        "x": -263.34808,
+        "y": 39.50769,
+        "name": "BERGER"
+      }
+    ]
+  }
+}

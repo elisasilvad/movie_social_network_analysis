@@ -1,0 +1,1039 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "LIEUTENANT",
+        "target": "AGENT SMITH",
+        "weight": 1
+      },
+      {
+        "source": "MOUSE",
+        "target": "CYPHER",
+        "weight": 1
+      },
+      {
+        "source": "MOUSE",
+        "target": "TRINITY",
+        "weight": 1
+      },
+      {
+        "source": "MOUSE",
+        "target": "APOC",
+        "weight": 1
+      },
+      {
+        "source": "MOUSE",
+        "target": "NEO",
+        "weight": 1
+      },
+      {
+        "source": "MOUSE",
+        "target": "CABLE",
+        "weight": 3
+      },
+      {
+        "source": "MOUSE",
+        "target": "SWITCH",
+        "weight": 1
+      },
+      {
+        "source": "MOUSE",
+        "target": "MORPHEUS",
+        "weight": 1
+      },
+      {
+        "source": "MOUSE",
+        "target": "TANK",
+        "weight": 4
+      },
+      {
+        "source": "APOC",
+        "target": "CYPHER",
+        "weight": 2
+      },
+      {
+        "source": "APOC",
+        "target": "TRINITY",
+        "weight": 2
+      },
+      {
+        "source": "APOC",
+        "target": "MORPHEUS",
+        "weight": 1
+      },
+      {
+        "source": "APOC",
+        "target": "NEO",
+        "weight": 1
+      },
+      {
+        "source": "APOC",
+        "target": "CABLE",
+        "weight": 2
+      },
+      {
+        "source": "APOC",
+        "target": "TANK",
+        "weight": 2
+      },
+      {
+        "source": "APOC",
+        "target": "SWITCH",
+        "weight": 2
+      },
+      {
+        "source": "COPS",
+        "target": "TRINITY",
+        "weight": 1
+      },
+      {
+        "source": "COPS",
+        "target": "MORPHEUS",
+        "weight": 1
+      },
+      {
+        "source": "COPS",
+        "target": "COP",
+        "weight": 1
+      },
+      {
+        "source": "ORACLE",
+        "target": "NEO",
+        "weight": 1
+      },
+      {
+        "source": "AGENT SMITH",
+        "target": "CYPHER",
+        "weight": 1
+      },
+      {
+        "source": "AGENT SMITH",
+        "target": "TRINITY",
+        "weight": 1
+      },
+      {
+        "source": "AGENT SMITH",
+        "target": "MORPHEUS",
+        "weight": 2
+      },
+      {
+        "source": "AGENT SMITH",
+        "target": "NEO",
+        "weight": 5
+      },
+      {
+        "source": "AGENT SMITH",
+        "target": "AGENT BROWN",
+        "weight": 2
+      },
+      {
+        "source": "AGENT SMITH",
+        "target": "AGENT JONES",
+        "weight": 3
+      },
+      {
+        "source": "DOZER",
+        "target": "CYPHER",
+        "weight": 2
+      },
+      {
+        "source": "DOZER",
+        "target": "TRINITY",
+        "weight": 1
+      },
+      {
+        "source": "DOZER",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "DOZER",
+        "target": "NEO",
+        "weight": 1
+      },
+      {
+        "source": "DOZER",
+        "target": "TANK",
+        "weight": 1
+      },
+      {
+        "source": "DOZER",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "DOZER",
+        "target": "MORPHEUS",
+        "weight": 1
+      },
+      {
+        "source": "CABLE",
+        "target": "CYPHER",
+        "weight": 1
+      },
+      {
+        "source": "CABLE",
+        "target": "TRINITY",
+        "weight": 1
+      },
+      {
+        "source": "CABLE",
+        "target": "NEO",
+        "weight": 1
+      },
+      {
+        "source": "CABLE",
+        "target": "SWITCH",
+        "weight": 1
+      },
+      {
+        "source": "CABLE",
+        "target": "MORPHEUS",
+        "weight": 1
+      },
+      {
+        "source": "CABLE",
+        "target": "TANK",
+        "weight": 2
+      },
+      {
+        "source": "MOJO",
+        "target": "MORPHEUS",
+        "weight": 1
+      },
+      {
+        "source": "MOJO",
+        "target": "REX",
+        "weight": 1
+      },
+      {
+        "source": "TALL EMPLOYEE",
+        "target": "MORPHEUS",
+        "weight": 1
+      },
+      {
+        "source": "TALL EMPLOYEE",
+        "target": "NEO",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "CYPHER",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "TRINITY",
+        "weight": 2
+      },
+      {
+        "source": "WOMAN",
+        "target": "MORPHEUS",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "NEO",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "MAN",
+        "weight": 2
+      },
+      {
+        "source": "CYPHER",
+        "target": "TRINITY",
+        "weight": 5
+      },
+      {
+        "source": "CYPHER",
+        "target": "NEO",
+        "weight": 3
+      },
+      {
+        "source": "CYPHER",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "CYPHER",
+        "target": "SWITCH",
+        "weight": 1
+      },
+      {
+        "source": "CYPHER",
+        "target": "MORPHEUS",
+        "weight": 2
+      },
+      {
+        "source": "CYPHER",
+        "target": "TANK",
+        "weight": 3
+      },
+      {
+        "source": "SERGEANT",
+        "target": "AGENT JONES",
+        "weight": 1
+      },
+      {
+        "source": "TRINITY",
+        "target": "TANK",
+        "weight": 7
+      },
+      {
+        "source": "TRINITY",
+        "target": "OLD MAN",
+        "weight": 1
+      },
+      {
+        "source": "TRINITY",
+        "target": "COP",
+        "weight": 1
+      },
+      {
+        "source": "TRINITY",
+        "target": "AGENT JONES",
+        "weight": 1
+      },
+      {
+        "source": "TRINITY",
+        "target": "GIZMO",
+        "weight": 2
+      },
+      {
+        "source": "TRINITY",
+        "target": "MAN",
+        "weight": 3
+      },
+      {
+        "source": "TRINITY",
+        "target": "NEO",
+        "weight": 10
+      },
+      {
+        "source": "TRINITY",
+        "target": "MORPHEUS",
+        "weight": 5
+      },
+      {
+        "source": "TRINITY",
+        "target": "SWITCH",
+        "weight": 1
+      },
+      {
+        "source": "TRINITY",
+        "target": "PILOT",
+        "weight": 1
+      },
+      {
+        "source": "SPOON BOY",
+        "target": "PRIESTESS",
+        "weight": 1
+      },
+      {
+        "source": "SPOON BOY",
+        "target": "NEO",
+        "weight": 1
+      },
+      {
+        "source": "NEO",
+        "target": "TANK",
+        "weight": 5
+      },
+      {
+        "source": "NEO",
+        "target": "OLD MAN",
+        "weight": 1
+      },
+      {
+        "source": "NEO",
+        "target": "RHINEHEART",
+        "weight": 1
+      },
+      {
+        "source": "NEO",
+        "target": "AGENT JONES",
+        "weight": 1
+      },
+      {
+        "source": "NEO",
+        "target": "GIZMO",
+        "weight": 1
+      },
+      {
+        "source": "NEO",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "NEO",
+        "target": "SWITCH",
+        "weight": 1
+      },
+      {
+        "source": "NEO",
+        "target": "DUJOUR",
+        "weight": 1
+      },
+      {
+        "source": "NEO",
+        "target": "ANTHONY",
+        "weight": 1
+      },
+      {
+        "source": "NEO",
+        "target": "PRIESTESS",
+        "weight": 2
+      },
+      {
+        "source": "NEO",
+        "target": "MORPHEUS",
+        "weight": 10
+      },
+      {
+        "source": "NEO",
+        "target": "PILOT",
+        "weight": 1
+      },
+      {
+        "source": "AGENT BROWN",
+        "target": "AGENT JONES",
+        "weight": 3
+      },
+      {
+        "source": "AGENT JONES",
+        "target": "PILOT",
+        "weight": 1
+      },
+      {
+        "source": "GIZMO",
+        "target": "MORPHEUS",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "MORPHEUS",
+        "weight": 1
+      },
+      {
+        "source": "SWITCH",
+        "target": "TANK",
+        "weight": 2
+      },
+      {
+        "source": "DUJOUR",
+        "target": "ANTHONY",
+        "weight": 2
+      },
+      {
+        "source": "PRIESTESS",
+        "target": "MORPHEUS",
+        "weight": 1
+      },
+      {
+        "source": "MORPHEUS",
+        "target": "TANK",
+        "weight": 5
+      },
+      {
+        "source": "MORPHEUS",
+        "target": "COP",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "LIEUTENANT",
+        "name": "LIEUTENANT",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.0076383360095689246,
+        "object_id": "3368427",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.7666666666666666,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MOUSE",
+        "name": "MOUSE",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 8,
+        "pagerank": 0.03346539863557677,
+        "object_id": "3371166",
+        "triangles": 27,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8666666666666667,
+        "betweenness centrality": 0.42857142857142855,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "APOC",
+        "name": "APOC",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 8,
+        "pagerank": 0.033752045546087746,
+        "object_id": "3369601",
+        "triangles": 27,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8666666666666667,
+        "betweenness centrality": 0.42857142857142855,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COPS",
+        "name": "COPS",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 3,
+        "pagerank": 0.013125955906409456,
+        "object_id": "3372710",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.2,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ORACLE",
+        "name": "ORACLE",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.007278143513020814,
+        "object_id": "3372009",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2333333333333334,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "AGENT SMITH",
+        "name": "AGENT SMITH",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 7,
+        "pagerank": 0.04940390568210903,
+        "object_id": "3368424",
+        "triangles": 9,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8,
+        "betweenness centrality": 48.20000000000002,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOZER",
+        "name": "DOZER",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 7,
+        "pagerank": 0.02313781830092223,
+        "object_id": "3370502",
+        "triangles": 19,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9,
+        "betweenness centrality": 0.4,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CABLE",
+        "name": "CABLE",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 8,
+        "pagerank": 0.031422945904188204,
+        "object_id": "3371227",
+        "triangles": 27,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8666666666666667,
+        "betweenness centrality": 0.42857142857142855,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MOJO",
+        "name": "MOJO",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.01771925246431629,
+        "object_id": "3371823",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.3666666666666667,
+        "betweenness centrality": 29.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TALL EMPLOYEE",
+        "name": "TALL EMPLOYEE",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.009641591606219694,
+        "object_id": "3369113",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.066666666666667,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REX",
+        "name": "REX",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 1,
+        "pagerank": 0.012368960596351009,
+        "object_id": "3371868",
+        "triangles": 0,
+        "eccentricity": 5.0,
+        "closeness centrality": 3.3333333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WOMAN",
+        "name": "WOMAN",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 6,
+        "pagerank": 0.02353383041478075,
+        "object_id": "3368269",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9333333333333333,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CYPHER",
+        "name": "CYPHER",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 12,
+        "pagerank": 0.057920413324867435,
+        "object_id": "3368276",
+        "triangles": 43,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.6666666666666667,
+        "betweenness centrality": 9.378571428571428,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SERGEANT",
+        "name": "SERGEANT",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.008135685412346372,
+        "object_id": "3374068",
+        "triangles": 0,
+        "eccentricity": 5.0,
+        "closeness centrality": 2.8666666666666667,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TRINITY",
+        "name": "TRINITY",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 18,
+        "pagerank": 0.11932140266496856,
+        "object_id": "3368301",
+        "triangles": 53,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.4333333333333333,
+        "betweenness centrality": 71.31190476190476,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SPOON BOY",
+        "name": "SPOON BOY",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.010822781284203272,
+        "object_id": "3371940",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NEO",
+        "name": "NEO",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 23,
+        "pagerank": 0.14923710176401916,
+        "object_id": "3368749",
+        "triangles": 54,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.2666666666666666,
+        "betweenness centrality": 197.97857142857137,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OLD MAN",
+        "name": "OLD MAN",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.009482964974704869,
+        "object_id": "3374399",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1333333333333333,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RHINEHEART",
+        "name": "RHINEHEART",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.007278143513020814,
+        "object_id": "3369067",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2333333333333334,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "AGENT BROWN",
+        "name": "AGENT BROWN",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.020328889546499546,
+        "object_id": "3372518",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.6666666666666665,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "AGENT JONES",
+        "name": "AGENT JONES",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 6,
+        "pagerank": 0.03878678964170651,
+        "object_id": "3368683",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.9,
+        "betweenness centrality": 39.133333333333326,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GIZMO",
+        "name": "GIZMO",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 3,
+        "pagerank": 0.014051234529587805,
+        "object_id": "3369674",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.033333333333333,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAN",
+        "name": "MAN",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 6,
+        "pagerank": 0.02585572995117472,
+        "object_id": "3368259",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9333333333333333,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SWITCH",
+        "name": "SWITCH",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 7,
+        "pagerank": 0.024587062572444657,
+        "object_id": "3371343",
+        "triangles": 21,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.9666666666666666,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DUJOUR",
+        "name": "DUJOUR",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.01679670855148432,
+        "object_id": "3368815",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANTHONY",
+        "name": "ANTHONY",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.01679670855148432,
+        "object_id": "3368801",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PRIESTESS",
+        "name": "PRIESTESS",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.016680736145136467,
+        "object_id": "3371904",
+        "triangles": 2,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.033333333333333,
+        "betweenness centrality": 2.1666666666666665,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PILOT",
+        "name": "PILOT",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.012779940709631888,
+        "object_id": "3373932",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.033333333333333,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MORPHEUS",
+        "name": "MORPHEUS",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 17,
+        "pagerank": 0.1000955590494523,
+        "object_id": "3368515",
+        "triangles": 44,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.4666666666666666,
+        "betweenness centrality": 101.86666666666667,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TANK",
+        "name": "TANK",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 9,
+        "pagerank": 0.07542800732730656,
+        "object_id": "3370993",
+        "triangles": 31,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8333333333333333,
+        "betweenness centrality": 1.2785714285714285,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COP",
+        "name": "COP",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 3,
+        "pagerank": 0.013125955906409456,
+        "object_id": "3368585",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.2,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": 206.75465,
+        "y": 61.175983,
+        "name": "LIEUTENANT"
+      },
+      {
+        "x": -19.987665,
+        "y": 52.349895,
+        "name": "MOUSE"
+      },
+      {
+        "x": 61.258385,
+        "y": 42.168903,
+        "name": "APOC"
+      },
+      {
+        "x": -16.231636,
+        "y": -205.1828,
+        "name": "COPS"
+      },
+      {
+        "x": -149.14172,
+        "y": 50.91491,
+        "name": "ORACLE"
+      },
+      {
+        "x": 109.96317,
+        "y": -9.65264,
+        "name": "AGENT SMITH"
+      },
+      {
+        "x": 41.95701,
+        "y": -147.4653,
+        "name": "DOZER"
+      },
+      {
+        "x": 28.977262,
+        "y": 69.598335,
+        "name": "CABLE"
+      },
+      {
+        "x": -75.121124,
+        "y": 152.82948,
+        "name": "MOJO"
+      },
+      {
+        "x": -114.85023,
+        "y": -91.60011,
+        "name": "TALL EMPLOYEE"
+      },
+      {
+        "x": -68.44406,
+        "y": 237.33325,
+        "name": "REX"
+      },
+      {
+        "x": 88.46257,
+        "y": -154.4619,
+        "name": "WOMAN"
+      },
+      {
+        "x": 73.58239,
+        "y": -35.810966,
+        "name": "CYPHER"
+      },
+      {
+        "x": 1.6814111,
+        "y": -153.66313,
+        "name": "SERGEANT"
+      },
+      {
+        "x": 33.96737,
+        "y": -60.70434,
+        "name": "TRINITY"
+      },
+      {
+        "x": -147.831,
+        "y": 10.418868,
+        "name": "SPOON BOY"
+      },
+      {
+        "x": -22.198978,
+        "y": -24.325882,
+        "name": "NEO"
+      },
+      {
+        "x": -69.83658,
+        "y": -136.09525,
+        "name": "OLD MAN"
+      },
+      {
+        "x": 151.00461,
+        "y": 28.76937,
+        "name": "RHINEHEART"
+      },
+      {
+        "x": 191.03696,
+        "y": -19.215456,
+        "name": "AGENT BROWN"
+      },
+      {
+        "x": 154.8182,
+        "y": -38.43363,
+        "name": "AGENT JONES"
+      },
+      {
+        "x": 28.073668,
+        "y": -111.7226,
+        "name": "GIZMO"
+      },
+      {
+        "x": 93.38798,
+        "y": -111.12624,
+        "name": "MAN"
+      },
+      {
+        "x": 3.4283328,
+        "y": 103.54202,
+        "name": "SWITCH"
+      },
+      {
+        "x": -185.90305,
+        "y": -73.66165,
+        "name": "DUJOUR"
+      },
+      {
+        "x": -191.12187,
+        "y": -39.814873,
+        "name": "ANTHONY"
+      },
+      {
+        "x": -115.26116,
+        "y": -24.87173,
+        "name": "PRIESTESS"
+      },
+      {
+        "x": 122.46558,
+        "y": 48.27751,
+        "name": "PILOT"
+      },
+      {
+        "x": -21.563778,
+        "y": -78.07897,
+        "name": "MORPHEUS"
+      },
+      {
+        "x": 19.910728,
+        "y": 2.7396045,
+        "name": "TANK"
+      },
+      {
+        "x": 27.752003,
+        "y": -214.0022,
+        "name": "COP"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1156 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "MR JONES",
+        "target": "MR SMITH",
+        "weight": 1
+      },
+      {
+        "source": "MR JONES",
+        "target": "MS JONES",
+        "weight": 1
+      },
+      {
+        "source": "BARTENDER",
+        "target": "GENE",
+        "weight": 1
+      },
+      {
+        "source": "BARTENDER",
+        "target": "REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "BARTENDER",
+        "target": "TV REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "BARTENDER",
+        "target": "WAITRESS",
+        "weight": 1
+      },
+      {
+        "source": "JANITOR",
+        "target": "HUEY",
+        "weight": 1
+      },
+      {
+        "source": "KRISTA",
+        "target": "MR SMITH",
+        "weight": 2
+      },
+      {
+        "source": "KRISTA",
+        "target": "INSERT FLOOR INDICATOR",
+        "weight": 1
+      },
+      {
+        "source": "KRISTA",
+        "target": "HALL GUARD",
+        "weight": 1
+      },
+      {
+        "source": "KRISTA",
+        "target": "ANGLE ON MR SMITH",
+        "weight": 1
+      },
+      {
+        "source": "KRISTA",
+        "target": "TOM BRADLEY",
+        "weight": 1
+      },
+      {
+        "source": "KRISTA",
+        "target": "BRENDAN GRANT",
+        "weight": 2
+      },
+      {
+        "source": "KRISTA",
+        "target": "MYSTERY MAN",
+        "weight": 1
+      },
+      {
+        "source": "KRISTA",
+        "target": "GENE",
+        "weight": 3
+      },
+      {
+        "source": "KRISTA",
+        "target": "ANGLE ON GENE",
+        "weight": 1
+      },
+      {
+        "source": "KRISTA",
+        "target": "BODYGUARD",
+        "weight": 1
+      },
+      {
+        "source": "KRISTA",
+        "target": "ELEANOR GRANT",
+        "weight": 2
+      },
+      {
+        "source": "KRISTA",
+        "target": "ANGLE ON ELEANOR GRANT",
+        "weight": 1
+      },
+      {
+        "source": "KRISTA",
+        "target": "OFFICER TRUST",
+        "weight": 1
+      },
+      {
+        "source": "GENE",
+        "target": "MS JONES",
+        "weight": 3
+      },
+      {
+        "source": "GENE",
+        "target": "WAITRESS",
+        "weight": 1
+      },
+      {
+        "source": "GENE",
+        "target": "GUSTINO",
+        "weight": 2
+      },
+      {
+        "source": "GENE",
+        "target": "ELEANOR GRANT",
+        "weight": 5
+      },
+      {
+        "source": "GENE",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "GENE",
+        "target": "OFFICER TRUST",
+        "weight": 2
+      },
+      {
+        "source": "GENE",
+        "target": "MR SMITH",
+        "weight": 10
+      },
+      {
+        "source": "GENE",
+        "target": "LYNN",
+        "weight": 6
+      },
+      {
+        "source": "GENE",
+        "target": "INSERT FLOOR INDICATOR",
+        "weight": 1
+      },
+      {
+        "source": "GENE",
+        "target": "ANGLE ON CROWD",
+        "weight": 1
+      },
+      {
+        "source": "GENE",
+        "target": "HALL GUARD",
+        "weight": 1
+      },
+      {
+        "source": "GENE",
+        "target": "ANGLE ON MR SMITH",
+        "weight": 1
+      },
+      {
+        "source": "GENE",
+        "target": "TV REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "GENE",
+        "target": "TOM BRADLEY",
+        "weight": 1
+      },
+      {
+        "source": "GENE",
+        "target": "HUEY",
+        "weight": 7
+      },
+      {
+        "source": "GENE",
+        "target": "BRENDAN GRANT",
+        "weight": 2
+      },
+      {
+        "source": "GENE",
+        "target": "MYSTERY MAN",
+        "weight": 1
+      },
+      {
+        "source": "GENE",
+        "target": "LITTLE GIRL",
+        "weight": 1
+      },
+      {
+        "source": "GENE",
+        "target": "HECTOR",
+        "weight": 1
+      },
+      {
+        "source": "GENE",
+        "target": "ANGLE ON GENE",
+        "weight": 2
+      },
+      {
+        "source": "GENE",
+        "target": "CABBIE",
+        "weight": 3
+      },
+      {
+        "source": "GENE",
+        "target": "IRENE",
+        "weight": 1
+      },
+      {
+        "source": "GENE",
+        "target": "ANGLE ON ELEANOR GRANT",
+        "weight": 1
+      },
+      {
+        "source": "ANNOUNCER",
+        "target": "MR SMITH",
+        "weight": 1
+      },
+      {
+        "source": "ANNOUNCER",
+        "target": "MS JONES",
+        "weight": 1
+      },
+      {
+        "source": "WAITRESS",
+        "target": "TV REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "BODYGUARD",
+        "target": "ELEANOR GRANT",
+        "weight": 1
+      },
+      {
+        "source": "GUSTINO",
+        "target": "HECTOR",
+        "weight": 1
+      },
+      {
+        "source": "GUSTINO",
+        "target": "HUEY",
+        "weight": 1
+      },
+      {
+        "source": "OMIT",
+        "target": "LYNN",
+        "weight": 1
+      },
+      {
+        "source": "ELEANOR GRANT",
+        "target": "MR SMITH",
+        "weight": 1
+      },
+      {
+        "source": "ELEANOR GRANT",
+        "target": "BRENDAN GRANT",
+        "weight": 2
+      },
+      {
+        "source": "ELEANOR GRANT",
+        "target": "INSERT FLOOR INDICATOR",
+        "weight": 1
+      },
+      {
+        "source": "ELEANOR GRANT",
+        "target": "FRANCO",
+        "weight": 1
+      },
+      {
+        "source": "ELEANOR GRANT",
+        "target": "ANGLE ON MR SMITH",
+        "weight": 2
+      },
+      {
+        "source": "ELEANOR GRANT",
+        "target": "TOM BRADLEY",
+        "weight": 1
+      },
+      {
+        "source": "ELEANOR GRANT",
+        "target": "HUEY",
+        "weight": 1
+      },
+      {
+        "source": "ELEANOR GRANT",
+        "target": "LYNN",
+        "weight": 1
+      },
+      {
+        "source": "ELEANOR GRANT",
+        "target": "MYSTERY MAN",
+        "weight": 1
+      },
+      {
+        "source": "ELEANOR GRANT",
+        "target": "ANGLE ON GENE",
+        "weight": 2
+      },
+      {
+        "source": "ELEANOR GRANT",
+        "target": "ANGLE ON CROWD",
+        "weight": 1
+      },
+      {
+        "source": "ELEANOR GRANT",
+        "target": "ANGLE ON ELEANOR GRANT",
+        "weight": 2
+      },
+      {
+        "source": "ELEANOR GRANT",
+        "target": "OFFICER TRUST",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "MR SMITH",
+        "weight": 1
+      },
+      {
+        "source": "OFFICER TRUST",
+        "target": "BRENDAN GRANT",
+        "weight": 2
+      },
+      {
+        "source": "OFFICER TRUST",
+        "target": "MYSTERY MAN",
+        "weight": 2
+      },
+      {
+        "source": "OFFICER TRUST",
+        "target": "MR SMITH",
+        "weight": 3
+      },
+      {
+        "source": "OFFICER TRUST",
+        "target": "ANGLE ON ELEANOR GRANT",
+        "weight": 1
+      },
+      {
+        "source": "OFFICER TRUST",
+        "target": "TOM BRADLEY",
+        "weight": 1
+      },
+      {
+        "source": "MR SMITH",
+        "target": "BRENDAN GRANT",
+        "weight": 1
+      },
+      {
+        "source": "MR SMITH",
+        "target": "ANGLE ON MR SMITH",
+        "weight": 1
+      },
+      {
+        "source": "MR SMITH",
+        "target": "INSERT FLOOR INDICATOR",
+        "weight": 1
+      },
+      {
+        "source": "MR SMITH",
+        "target": "TOM BRADLEY",
+        "weight": 1
+      },
+      {
+        "source": "MR SMITH",
+        "target": "HUEY",
+        "weight": 2
+      },
+      {
+        "source": "MR SMITH",
+        "target": "LYNN",
+        "weight": 3
+      },
+      {
+        "source": "MR SMITH",
+        "target": "MYSTERY MAN",
+        "weight": 2
+      },
+      {
+        "source": "MR SMITH",
+        "target": "LITTLE GIRL",
+        "weight": 1
+      },
+      {
+        "source": "MR SMITH",
+        "target": "MS JONES",
+        "weight": 7
+      },
+      {
+        "source": "MR SMITH",
+        "target": "ANGLE ON ELEANOR GRANT",
+        "weight": 1
+      },
+      {
+        "source": "MR SMITH",
+        "target": "ANGLE ON GENE",
+        "weight": 2
+      },
+      {
+        "source": "INSERT FLOOR INDICATOR",
+        "target": "ANGLE ON GENE",
+        "weight": 1
+      },
+      {
+        "source": "INSERT FLOOR INDICATOR",
+        "target": "ANGLE ON MR SMITH",
+        "weight": 1
+      },
+      {
+        "source": "ANGLE ON CROWD",
+        "target": "BRENDAN GRANT",
+        "weight": 1
+      },
+      {
+        "source": "ANGLE ON CROWD",
+        "target": "ANGLE ON GENE",
+        "weight": 1
+      },
+      {
+        "source": "ANGLE ON CROWD",
+        "target": "ANGLE ON ELEANOR GRANT",
+        "weight": 1
+      },
+      {
+        "source": "BRENDAN GRANT",
+        "target": "MYSTERY MAN",
+        "weight": 2
+      },
+      {
+        "source": "BRENDAN GRANT",
+        "target": "ANGLE ON GENE",
+        "weight": 1
+      },
+      {
+        "source": "BRENDAN GRANT",
+        "target": "HALL GUARD",
+        "weight": 1
+      },
+      {
+        "source": "BRENDAN GRANT",
+        "target": "ANGLE ON ELEANOR GRANT",
+        "weight": 1
+      },
+      {
+        "source": "ANGLE ON MR SMITH",
+        "target": "ANGLE ON GENE",
+        "weight": 1
+      },
+      {
+        "source": "TOM BRADLEY",
+        "target": "ANGLE ON ELEANOR GRANT",
+        "weight": 1
+      },
+      {
+        "source": "HUEY",
+        "target": "LYNN",
+        "weight": 3
+      },
+      {
+        "source": "HUEY",
+        "target": "IRENE",
+        "weight": 1
+      },
+      {
+        "source": "HUEY",
+        "target": "ANGLE ON GENE",
+        "weight": 1
+      },
+      {
+        "source": "HUEY",
+        "target": "MS JONES",
+        "weight": 2
+      },
+      {
+        "source": "LYNN",
+        "target": "MS JONES",
+        "weight": 5
+      },
+      {
+        "source": "LYNN",
+        "target": "LITTLE GIRL",
+        "weight": 1
+      },
+      {
+        "source": "LITTLE GIRL",
+        "target": "MS JONES",
+        "weight": 1
+      },
+      {
+        "source": "ANGLE ON GENE",
+        "target": "ANGLE ON ELEANOR GRANT",
+        "weight": 1
+      },
+      {
+        "source": "CABBIE",
+        "target": "DOORMAN",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "MR JONES",
+        "name": "MR JONES",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.00889224911417005,
+        "object_id": "3668893",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.4545454545454546,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BARTENDER",
+        "name": "BARTENDER",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.024371177964758028,
+        "object_id": "3670653",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.090909090909091,
+        "betweenness centrality": 32.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JANITOR",
+        "name": "JANITOR",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.00685690070252962,
+        "object_id": "3672702",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.757575757575758,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KRISTA",
+        "name": "KRISTA",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 13,
+        "pagerank": 0.04939019949444082,
+        "object_id": "3670068",
+        "triangles": 42,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7272727272727273,
+        "betweenness centrality": 20.133333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GENE",
+        "name": "GENE",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 25,
+        "pagerank": 0.16351247431623728,
+        "object_id": "3668831",
+        "triangles": 64,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.2424242424242424,
+        "betweenness centrality": 282.45,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANNOUNCER",
+        "name": "ANNOUNCER",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.00889224911417005,
+        "object_id": "3668755",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.4545454545454546,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WAITRESS",
+        "name": "WAITRESS",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.016671904653186166,
+        "object_id": "3672527",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.121212121212121,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BODYGUARD",
+        "name": "BODYGUARD",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.009096126590529397,
+        "object_id": "3670092",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.484848484848485,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GUSTINO",
+        "name": "GUSTINO",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.01587856213892056,
+        "object_id": "3669911",
+        "triangles": 2,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.121212121212121,
+        "betweenness centrality": 1.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OMIT",
+        "name": "OMIT",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.0067436159773159796,
+        "object_id": "3671954",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.8181818181818183,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ELEANOR GRANT",
+        "name": "ELEANOR GRANT",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 16,
+        "pagerank": 0.06918171152230501,
+        "object_id": "3670064",
+        "triangles": 50,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.5757575757575757,
+        "betweenness centrality": 67.31666666666668,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WOMAN",
+        "name": "WOMAN",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.00896049353955419,
+        "object_id": "3670001",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.121212121212121,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OFFICER TRUST",
+        "name": "OFFICER TRUST",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 8,
+        "pagerank": 0.03470647818090624,
+        "object_id": "3670934",
+        "triangles": 25,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.878787878787879,
+        "betweenness centrality": 0.5333333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HECTOR",
+        "name": "HECTOR",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.010141684680054882,
+        "object_id": "3670790",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1818181818181817,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MR SMITH",
+        "name": "MR SMITH",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 18,
+        "pagerank": 0.10578290144765178,
+        "object_id": "3668803",
+        "triangles": 54,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.5151515151515151,
+        "betweenness centrality": 78.63333333333335,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FRANCO",
+        "name": "FRANCO",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 1,
+        "pagerank": 0.006763879173741346,
+        "object_id": "3673120",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5454545454545454,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "INSERT FLOOR INDICATOR",
+        "name": "INSERT FLOOR INDICATOR",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.01851655442551483,
+        "object_id": "3670124",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9393939393939394,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANGLE ON CROWD",
+        "name": "ANGLE ON CROWD",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.01615101286569501,
+        "object_id": "3673530",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0303030303030303,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BRENDAN GRANT",
+        "name": "BRENDAN GRANT",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 10,
+        "pagerank": 0.0406467320706149,
+        "object_id": "3669956",
+        "triangles": 31,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8181818181818181,
+        "betweenness centrality": 5.183333333333334,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HALL GUARD",
+        "name": "HALL GUARD",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.011402968620236431,
+        "object_id": "3671415",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.121212121212121,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANGLE ON MR SMITH",
+        "name": "ANGLE ON MR SMITH",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.020948145986417803,
+        "object_id": "3670183",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9393939393939394,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REPORTER",
+        "name": "REPORTER",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.009591575236925448,
+        "object_id": "3670650",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.0606060606060606,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TV REPORTER",
+        "name": "TV REPORTER",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.016671904653186166,
+        "object_id": "3672518",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.121212121212121,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TOM BRADLEY",
+        "name": "TOM BRADLEY",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.018314176112028846,
+        "object_id": "3671097",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9393939393939394,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HUEY",
+        "name": "HUEY",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 9,
+        "pagerank": 0.05465636638573507,
+        "object_id": "3670392",
+        "triangles": 14,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7878787878787878,
+        "betweenness centrality": 43.666666666666664,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LYNN",
+        "name": "LYNN",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 7,
+        "pagerank": 0.05486767884050407,
+        "object_id": "3668850",
+        "triangles": 12,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8484848484848484,
+        "betweenness centrality": 34.03333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MYSTERY MAN",
+        "name": "MYSTERY MAN",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.024982767892979277,
+        "object_id": "3671492",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9393939393939394,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LITTLE GIRL",
+        "name": "LITTLE GIRL",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.013579812579287458,
+        "object_id": "3669553",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0303030303030303,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MS JONES",
+        "name": "MS JONES",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 7,
+        "pagerank": 0.05382354126977976,
+        "object_id": "3668809",
+        "triangles": 11,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9090909090909092,
+        "betweenness centrality": 16.833333333333336,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANGLE ON GENE",
+        "name": "ANGLE ON GENE",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 10,
+        "pagerank": 0.03560655502091979,
+        "object_id": "3670187",
+        "triangles": 31,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7878787878787878,
+        "betweenness centrality": 5.366666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CABBIE",
+        "name": "CABBIE",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.01858613075770065,
+        "object_id": "3669649",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1515151515151514,
+        "betweenness centrality": 32.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "IRENE",
+        "name": "IRENE",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.009212612896213404,
+        "object_id": "3672761",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1515151515151514,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANGLE ON ELEANOR GRANT",
+        "name": "ANGLE ON ELEANOR GRANT",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 9,
+        "pagerank": 0.02823752482943513,
+        "object_id": "3671048",
+        "triangles": 29,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8484848484848484,
+        "betweenness centrality": 1.85,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOORMAN",
+        "name": "DOORMAN",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.00836133094635456,
+        "object_id": "3669803",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.121212121212121,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": 147.63069,
+        "y": 63.84958,
+        "name": "MR JONES"
+      },
+      {
+        "x": 36.826927,
+        "y": -222.45273,
+        "name": "BARTENDER"
+      },
+      {
+        "x": -15.036612,
+        "y": -144.36406,
+        "name": "JANITOR"
+      },
+      {
+        "x": -90.018105,
+        "y": 148.5761,
+        "name": "KRISTA"
+      },
+      {
+        "x": -17.354939,
+        "y": 25.144882,
+        "name": "GENE"
+      },
+      {
+        "x": -28.421408,
+        "y": -52.164986,
+        "name": "ANNOUNCER"
+      },
+      {
+        "x": 79.80158,
+        "y": -173.5766,
+        "name": "WAITRESS"
+      },
+      {
+        "x": 66.75767,
+        "y": 190.40587,
+        "name": "BODYGUARD"
+      },
+      {
+        "x": -84.34929,
+        "y": -58.67158,
+        "name": "GUSTINO"
+      },
+      {
+        "x": -67.11394,
+        "y": -113.59243,
+        "name": "OMIT"
+      },
+      {
+        "x": -29.454527,
+        "y": 118.20027,
+        "name": "ELEANOR GRANT"
+      },
+      {
+        "x": 101.15817,
+        "y": -34.1265,
+        "name": "WOMAN"
+      },
+      {
+        "x": 16.008705,
+        "y": 162.3411,
+        "name": "OFFICER TRUST"
+      },
+      {
+        "x": -133.32207,
+        "y": -73.23497,
+        "name": "HECTOR"
+      },
+      {
+        "x": 31.51272,
+        "y": 71.02076,
+        "name": "MR SMITH"
+      },
+      {
+        "x": 92.0643,
+        "y": 224.76942,
+        "name": "FRANCO"
+      },
+      {
+        "x": -150.58398,
+        "y": 86.19347,
+        "name": "INSERT FLOOR INDICATOR"
+      },
+      {
+        "x": 24.359343,
+        "y": 219.96822,
+        "name": "ANGLE ON CROWD"
+      },
+      {
+        "x": -35.128727,
+        "y": 177.18437,
+        "name": "BRENDAN GRANT"
+      },
+      {
+        "x": -157.66092,
+        "y": 157.04764,
+        "name": "HALL GUARD"
+      },
+      {
+        "x": -120.52254,
+        "y": 44.591587,
+        "name": "ANGLE ON MR SMITH"
+      },
+      {
+        "x": 18.698904,
+        "y": -295.8865,
+        "name": "REPORTER"
+      },
+      {
+        "x": 37.153595,
+        "y": -172.22008,
+        "name": "TV REPORTER"
+      },
+      {
+        "x": -84.38569,
+        "y": 219.30789,
+        "name": "TOM BRADLEY"
+      },
+      {
+        "x": 6.6318135,
+        "y": -32.924538,
+        "name": "HUEY"
+      },
+      {
+        "x": 41.552288,
+        "y": -5.279592,
+        "name": "LYNN"
+      },
+      {
+        "x": 53.952557,
+        "y": 140.68448,
+        "name": "MYSTERY MAN"
+      },
+      {
+        "x": 130.22597,
+        "y": 6.4119205,
+        "name": "LITTLE GIRL"
+      },
+      {
+        "x": 70.91516,
+        "y": 22.317118,
+        "name": "MS JONES"
+      },
+      {
+        "x": -81.557205,
+        "y": 85.45385,
+        "name": "ANGLE ON GENE"
+      },
+      {
+        "x": -36.99947,
+        "y": -86.86691,
+        "name": "CABBIE"
+      },
+      {
+        "x": 39.7206,
+        "y": -93.957245,
+        "name": "IRENE"
+      },
+      {
+        "x": -28.347486,
+        "y": 231.15135,
+        "name": "ANGLE ON ELEANOR GRANT"
+      },
+      {
+        "x": -58.72165,
+        "y": -191.94258,
+        "name": "DOORMAN"
+      }
+    ]
+  }
+}

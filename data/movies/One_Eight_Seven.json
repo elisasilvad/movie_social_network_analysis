@@ -1,0 +1,977 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "ANGLO WOMAN",
+        "target": "MR GARCIA",
+        "weight": 1
+      },
+      {
+        "source": "ANGLO WOMAN",
+        "target": "MRS FORD",
+        "weight": 1
+      },
+      {
+        "source": "ANGLO WOMAN",
+        "target": "STEVIE",
+        "weight": 1
+      },
+      {
+        "source": "ANGLO WOMAN",
+        "target": "HISPANIC MAN",
+        "weight": 1
+      },
+      {
+        "source": "MRS FORD",
+        "target": "MR GARCIA",
+        "weight": 1
+      },
+      {
+        "source": "MRS FORD",
+        "target": "HISPANIC MAN",
+        "weight": 1
+      },
+      {
+        "source": "MRS FORD",
+        "target": "STEVIE",
+        "weight": 1
+      },
+      {
+        "source": "DETECTIVE #1",
+        "target": "CESAR",
+        "weight": 1
+      },
+      {
+        "source": "DETECTIVE #1",
+        "target": "DETECTIVE #2",
+        "weight": 1
+      },
+      {
+        "source": "ASIAN GIRL",
+        "target": "CHILDRESS",
+        "weight": 1
+      },
+      {
+        "source": "ASIAN GIRL",
+        "target": "BARSEK",
+        "weight": 1
+      },
+      {
+        "source": "ASIAN GIRL",
+        "target": "TREVOR",
+        "weight": 1
+      },
+      {
+        "source": "PACO",
+        "target": "CESAR",
+        "weight": 1
+      },
+      {
+        "source": "PACO",
+        "target": "TREVOR",
+        "weight": 1
+      },
+      {
+        "source": "PACO",
+        "target": "STEVIE",
+        "weight": 1
+      },
+      {
+        "source": "PACO",
+        "target": "NEWSCASTER",
+        "weight": 1
+      },
+      {
+        "source": "TAGGER",
+        "target": "BENNY",
+        "weight": 1
+      },
+      {
+        "source": "STEVIE",
+        "target": "CESAR",
+        "weight": 3
+      },
+      {
+        "source": "STEVIE",
+        "target": "TREVOR",
+        "weight": 3
+      },
+      {
+        "source": "STEVIE",
+        "target": "MR GARCIA",
+        "weight": 1
+      },
+      {
+        "source": "STEVIE",
+        "target": "ELLEN",
+        "weight": 1
+      },
+      {
+        "source": "STEVIE",
+        "target": "NEWSCASTER",
+        "weight": 1
+      },
+      {
+        "source": "STEVIE",
+        "target": "RITA",
+        "weight": 2
+      },
+      {
+        "source": "STEVIE",
+        "target": "HISPANIC MAN",
+        "weight": 1
+      },
+      {
+        "source": "TEACHER #1",
+        "target": "ELLEN",
+        "weight": 1
+      },
+      {
+        "source": "TEACHER #1",
+        "target": "TREVOR",
+        "weight": 1
+      },
+      {
+        "source": "TEACHER #1",
+        "target": "IRIS",
+        "weight": 1
+      },
+      {
+        "source": "CESAR",
+        "target": "NEWSCASTER",
+        "weight": 1
+      },
+      {
+        "source": "CESAR",
+        "target": "TREVOR",
+        "weight": 5
+      },
+      {
+        "source": "CESAR",
+        "target": "DETECTIVE #2",
+        "weight": 1
+      },
+      {
+        "source": "CESAR",
+        "target": "MRS SANCHEZ",
+        "weight": 1
+      },
+      {
+        "source": "CESAR",
+        "target": "MR GARCIA",
+        "weight": 1
+      },
+      {
+        "source": "CESAR",
+        "target": "RITA",
+        "weight": 3
+      },
+      {
+        "source": "ELLEN",
+        "target": "HYLAND",
+        "weight": 1
+      },
+      {
+        "source": "ELLEN",
+        "target": "IRIS",
+        "weight": 1
+      },
+      {
+        "source": "ELLEN",
+        "target": "TREVOR",
+        "weight": 8
+      },
+      {
+        "source": "ELLEN",
+        "target": "CHILDRESS",
+        "weight": 1
+      },
+      {
+        "source": "ELLEN",
+        "target": "ASST CORONER",
+        "weight": 1
+      },
+      {
+        "source": "ELLEN",
+        "target": "VICTOR",
+        "weight": 1
+      },
+      {
+        "source": "HYLAND",
+        "target": "TREVOR",
+        "weight": 2
+      },
+      {
+        "source": "MRS SANCHEZ",
+        "target": "TREVOR",
+        "weight": 1
+      },
+      {
+        "source": "BARSEK",
+        "target": "CHILDRESS",
+        "weight": 1
+      },
+      {
+        "source": "BARSEK",
+        "target": "TREVOR",
+        "weight": 2
+      },
+      {
+        "source": "LAKESIA",
+        "target": "BENNY",
+        "weight": 1
+      },
+      {
+        "source": "LAKESIA",
+        "target": "TREVOR",
+        "weight": 3
+      },
+      {
+        "source": "SUB UNIT",
+        "target": "TREVOR",
+        "weight": 1
+      },
+      {
+        "source": "BENNY",
+        "target": "TREVOR",
+        "weight": 1
+      },
+      {
+        "source": "MR GARCIA",
+        "target": "TREVOR",
+        "weight": 2
+      },
+      {
+        "source": "MR GARCIA",
+        "target": "HISPANIC MAN",
+        "weight": 1
+      },
+      {
+        "source": "CLASS",
+        "target": "TYWAN",
+        "weight": 1
+      },
+      {
+        "source": "CLASS",
+        "target": "RITA",
+        "weight": 1
+      },
+      {
+        "source": "CLASS",
+        "target": "TREVOR",
+        "weight": 2
+      },
+      {
+        "source": "CLASS",
+        "target": "CHRISTIAN",
+        "weight": 1
+      },
+      {
+        "source": "VOICE IN CROWD",
+        "target": "TYWAN",
+        "weight": 1
+      },
+      {
+        "source": "VOICE IN CROWD",
+        "target": "TREVOR",
+        "weight": 1
+      },
+      {
+        "source": "VOICE IN CROWD",
+        "target": "AUGGIE",
+        "weight": 1
+      },
+      {
+        "source": "RITA",
+        "target": "TREVOR",
+        "weight": 6
+      },
+      {
+        "source": "RITA",
+        "target": "CHRISTIAN",
+        "weight": 1
+      },
+      {
+        "source": "NEWSCASTER",
+        "target": "TREVOR",
+        "weight": 1
+      },
+      {
+        "source": "AUGGIE",
+        "target": "TYWAN",
+        "weight": 1
+      },
+      {
+        "source": "AUGGIE",
+        "target": "TREVOR",
+        "weight": 1
+      },
+      {
+        "source": "SECRETARY",
+        "target": "TREVOR",
+        "weight": 1
+      },
+      {
+        "source": "SECRETARY",
+        "target": "WALTER",
+        "weight": 1
+      },
+      {
+        "source": "TREVOR",
+        "target": "TYWAN",
+        "weight": 2
+      },
+      {
+        "source": "TREVOR",
+        "target": "WALTER",
+        "weight": 1
+      },
+      {
+        "source": "TREVOR",
+        "target": "VICTOR",
+        "weight": 2
+      },
+      {
+        "source": "TREVOR",
+        "target": "CHRISTIAN",
+        "weight": 1
+      },
+      {
+        "source": "TREVOR",
+        "target": "CHILDRESS",
+        "weight": 4
+      }
+    ],
+    "nodes": [
+      {
+        "id": "ANGLO WOMAN",
+        "name": "ANGLO WOMAN",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.021043395830981977,
+        "object_id": "52373",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.59375,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MRS FORD",
+        "name": "MRS FORD",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.021043395830981977,
+        "object_id": "52420",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.59375,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DETECTIVE #1",
+        "name": "DETECTIVE #1",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.014333259771967366,
+        "object_id": "51221",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.75,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ASIAN GIRL",
+        "name": "ASIAN GIRL",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 3,
+        "pagerank": 0.016523553724060402,
+        "object_id": "47477",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.15625,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PACO",
+        "name": "PACO",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.019720121660294035,
+        "object_id": "53408",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.96875,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TAGGER",
+        "name": "TAGGER",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 1,
+        "pagerank": 0.010800511931009619,
+        "object_id": "48583",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.09375,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "STEVIE",
+        "name": "STEVIE",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 10,
+        "pagerank": 0.06338183106544402,
+        "object_id": "48258",
+        "triangles": 17,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.71875,
+        "betweenness centrality": 65.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TEACHER #1",
+        "name": "TEACHER #1",
+        "color": "#F2A468",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.017859937936078308,
+        "object_id": "47214",
+        "triangles": 2,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.09375,
+        "betweenness centrality": 9.500000000000002,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CESAR",
+        "name": "CESAR",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 9,
+        "pagerank": 0.0739257847314251,
+        "object_id": "48214",
+        "triangles": 12,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8125,
+        "betweenness centrality": 65.66666666666667,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ELLEN",
+        "name": "ELLEN",
+        "color": "#F2A468",
+        "group": 2,
+        "degree": 8,
+        "pagerank": 0.06855144251219292,
+        "object_id": "47260",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.84375,
+        "betweenness centrality": 59.50000000000001,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HYLAND",
+        "name": "HYLAND",
+        "color": "#F2A468",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.015822809251035696,
+        "object_id": "49786",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.125,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MRS SANCHEZ",
+        "name": "MRS SANCHEZ",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.011938096055269479,
+        "object_id": "50379",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.125,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BARSEK",
+        "name": "BARSEK",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 3,
+        "pagerank": 0.020537468200052523,
+        "object_id": "47446",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.15625,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LAKESIA",
+        "name": "LAKESIA",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 2,
+        "pagerank": 0.021889712771742845,
+        "object_id": "47699",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.15625,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SUB UNIT",
+        "name": "SUB UNIT",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 1,
+        "pagerank": 0.008241854825698954,
+        "object_id": "47060",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.21875,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BENNY",
+        "name": "BENNY",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 3,
+        "pagerank": 0.022072865353225758,
+        "object_id": "47732",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.125,
+        "betweenness centrality": 31.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MR GARCIA",
+        "name": "MR GARCIA",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.03264061931265684,
+        "object_id": "49620",
+        "triangles": 9,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.90625,
+        "betweenness centrality": 30.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "IRIS",
+        "name": "IRIS",
+        "color": "#F2A468",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.013490311844581219,
+        "object_id": "51795",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.78125,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CLASS",
+        "name": "CLASS",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.024388421351479644,
+        "object_id": "46782",
+        "triangles": 4,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.125,
+        "betweenness centrality": 1.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "VOICE IN CROWD",
+        "name": "VOICE IN CROWD",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.01769413975902271,
+        "object_id": "46564",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.15625,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RITA",
+        "name": "RITA",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.05364547581069779,
+        "object_id": "48163",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9375,
+        "betweenness centrality": 5.999999999999999,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NEWSCASTER",
+        "name": "NEWSCASTER",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.019720121660294035,
+        "object_id": "53716",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.96875,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "AUGGIE",
+        "name": "AUGGIE",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.01769413975902271,
+        "object_id": "46578",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.15625,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DETECTIVE #2",
+        "name": "DETECTIVE #2",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.014333259771967366,
+        "object_id": "51233",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.75,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SECRETARY",
+        "name": "SECRETARY",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 2,
+        "pagerank": 0.0143337066654989,
+        "object_id": "46808",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1875,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TREVOR",
+        "name": "TREVOR",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 24,
+        "pagerank": 0.23047578248149977,
+        "object_id": "46567",
+        "triangles": 28,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.25,
+        "betweenness centrality": 365.66666666666663,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "VICTOR",
+        "name": "VICTOR",
+        "color": "#F2A468",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.015822809251035696,
+        "object_id": "47168",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.125,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CHRISTIAN",
+        "name": "CHRISTIAN",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.015895435227823333,
+        "object_id": "51381",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.15625,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CHILDRESS",
+        "name": "CHILDRESS",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 4,
+        "pagerank": 0.03226156095525429,
+        "object_id": "47374",
+        "triangles": 4,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0625,
+        "betweenness centrality": 2.6666666666666665,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TYWAN",
+        "name": "TYWAN",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.026111063510676897,
+        "object_id": "46582",
+        "triangles": 4,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.125,
+        "betweenness centrality": 1.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WALTER",
+        "name": "WALTER",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 2,
+        "pagerank": 0.014333706665498904,
+        "object_id": "46823",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1875,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ASST CORONER",
+        "name": "ASST CORONER",
+        "color": "#F2A468",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.00843000869054688,
+        "object_id": "51860",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.8125,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HISPANIC MAN",
+        "name": "HISPANIC MAN",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.021043395830981984,
+        "object_id": "52414",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.59375,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": 188.32692,
+        "y": -185.42928,
+        "name": "ANGLO WOMAN"
+      },
+      {
+        "x": 184.41711,
+        "y": -141.8445,
+        "name": "MRS FORD"
+      },
+      {
+        "x": -101.87108,
+        "y": -67.11394,
+        "name": "DETECTIVE #1"
+      },
+      {
+        "x": -71.15475,
+        "y": 136.85216,
+        "name": "ASIAN GIRL"
+      },
+      {
+        "x": 133.54329,
+        "y": 11.231591,
+        "name": "PACO"
+      },
+      {
+        "x": -213.36606,
+        "y": -14.867437,
+        "name": "TAGGER"
+      },
+      {
+        "x": 97.87532,
+        "y": -67.62446,
+        "name": "STEVIE"
+      },
+      {
+        "x": -52.129387,
+        "y": -108.844284,
+        "name": "TEACHER #1"
+      },
+      {
+        "x": 41.39325,
+        "y": -46.164032,
+        "name": "CESAR"
+      },
+      {
+        "x": -30.570063,
+        "y": -25.832108,
+        "name": "ELLEN"
+      },
+      {
+        "x": -22.601469,
+        "y": -65.87517,
+        "name": "HYLAND"
+      },
+      {
+        "x": -74.60518,
+        "y": -24.094236,
+        "name": "MRS SANCHEZ"
+      },
+      {
+        "x": -52.970898,
+        "y": 96.356125,
+        "name": "BARSEK"
+      },
+      {
+        "x": -75.48876,
+        "y": 26.553928,
+        "name": "LAKESIA"
+      },
+      {
+        "x": 143.62578,
+        "y": -62.354916,
+        "name": "SUB UNIT"
+      },
+      {
+        "x": -152.01085,
+        "y": 19.672207,
+        "name": "BENNY"
+      },
+      {
+        "x": 107.25773,
+        "y": -127.87264,
+        "name": "MR GARCIA"
+      },
+      {
+        "x": -85.11649,
+        "y": -145.10944,
+        "name": "IRIS"
+      },
+      {
+        "x": 74.46646,
+        "y": 101.1958,
+        "name": "CLASS"
+      },
+      {
+        "x": -21.5859,
+        "y": 192.67863,
+        "name": "VOICE IN CROWD"
+      },
+      {
+        "x": 71.15769,
+        "y": 5.6763134,
+        "name": "RITA"
+      },
+      {
+        "x": 153.19127,
+        "y": -25.059925,
+        "name": "NEWSCASTER"
+      },
+      {
+        "x": 19.280325,
+        "y": 202.8509,
+        "name": "AUGGIE"
+      },
+      {
+        "x": -99.02754,
+        "y": -103.08109,
+        "name": "DETECTIVE #2"
+      },
+      {
+        "x": -29.924644,
+        "y": 135.2376,
+        "name": "SECRETARY"
+      },
+      {
+        "x": 12.0727005,
+        "y": 23.704786,
+        "name": "TREVOR"
+      },
+      {
+        "x": 5.8144093,
+        "y": 78.764,
+        "name": "VICTOR"
+      },
+      {
+        "x": 119.3265,
+        "y": 85.19612,
+        "name": "CHRISTIAN"
+      },
+      {
+        "x": -44.23157,
+        "y": 57.75688,
+        "name": "CHILDRESS"
+      },
+      {
+        "x": 33.856663,
+        "y": 152.0489,
+        "name": "TYWAN"
+      },
+      {
+        "x": -100.585175,
+        "y": 112.315834,
+        "name": "WALTER"
+      },
+      {
+        "x": -145.55794,
+        "y": -53.268383,
+        "name": "ASST CORONER"
+      },
+      {
+        "x": 143.24452,
+        "y": -185.90872,
+        "name": "HISPANIC MAN"
+      }
+    ]
+  }
+}

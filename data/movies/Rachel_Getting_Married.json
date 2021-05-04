@@ -1,0 +1,734 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "RACHEL",
+        "target": "CAROL",
+        "weight": 2
+      },
+      {
+        "source": "RACHEL",
+        "target": "MRS WILLIAMS",
+        "weight": 1
+      },
+      {
+        "source": "RACHEL",
+        "target": "ABBY",
+        "weight": 3
+      },
+      {
+        "source": "RACHEL",
+        "target": "KYM",
+        "weight": 8
+      },
+      {
+        "source": "RACHEL",
+        "target": "ANDREW",
+        "weight": 2
+      },
+      {
+        "source": "RACHEL",
+        "target": "EMMA",
+        "weight": 7
+      },
+      {
+        "source": "RACHEL",
+        "target": "PAUL",
+        "weight": 4
+      },
+      {
+        "source": "RACHEL",
+        "target": "SIDNEY",
+        "weight": 7
+      },
+      {
+        "source": "RACHEL",
+        "target": "KIERAN",
+        "weight": 5
+      },
+      {
+        "source": "RACHEL",
+        "target": "WIDER",
+        "weight": 1
+      },
+      {
+        "source": "SUSANNA",
+        "target": "PAUL",
+        "weight": 1
+      },
+      {
+        "source": "SUSANNA",
+        "target": "KYM",
+        "weight": 1
+      },
+      {
+        "source": "ABBY",
+        "target": "KYM",
+        "weight": 4
+      },
+      {
+        "source": "ABBY",
+        "target": "ANDREW",
+        "weight": 2
+      },
+      {
+        "source": "ABBY",
+        "target": "SIDNEY",
+        "weight": 1
+      },
+      {
+        "source": "ABBY",
+        "target": "BOB",
+        "weight": 1
+      },
+      {
+        "source": "ABBY",
+        "target": "EMMA",
+        "weight": 1
+      },
+      {
+        "source": "ABBY",
+        "target": "INTERESTING YOUNG WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "ABBY",
+        "target": "PAUL",
+        "weight": 1
+      },
+      {
+        "source": "ABBY",
+        "target": "KIERAN",
+        "weight": 2
+      },
+      {
+        "source": "ANDREW",
+        "target": "SIDNEY",
+        "weight": 2
+      },
+      {
+        "source": "ANDREW",
+        "target": "KYM",
+        "weight": 2
+      },
+      {
+        "source": "ANDREW",
+        "target": "EMMA",
+        "weight": 1
+      },
+      {
+        "source": "ANDREW",
+        "target": "KIERAN",
+        "weight": 2
+      },
+      {
+        "source": "WALTER",
+        "target": "PAUL",
+        "weight": 1
+      },
+      {
+        "source": "WALTER",
+        "target": "CAROL",
+        "weight": 1
+      },
+      {
+        "source": "WALTER",
+        "target": "KYM",
+        "weight": 1
+      },
+      {
+        "source": "WALTER",
+        "target": "ROSA",
+        "weight": 1
+      },
+      {
+        "source": "EMMA",
+        "target": "CAROL",
+        "weight": 2
+      },
+      {
+        "source": "EMMA",
+        "target": "KYM",
+        "weight": 5
+      },
+      {
+        "source": "EMMA",
+        "target": "PAUL",
+        "weight": 4
+      },
+      {
+        "source": "EMMA",
+        "target": "SIDNEY",
+        "weight": 3
+      },
+      {
+        "source": "EMMA",
+        "target": "VALET",
+        "weight": 1
+      },
+      {
+        "source": "EMMA",
+        "target": "KIERAN",
+        "weight": 4
+      },
+      {
+        "source": "EMMA",
+        "target": "WIDER",
+        "weight": 1
+      },
+      {
+        "source": "KYM",
+        "target": "KIERAN",
+        "weight": 7
+      },
+      {
+        "source": "KYM",
+        "target": "STYLIST",
+        "weight": 1
+      },
+      {
+        "source": "KYM",
+        "target": "JUDGE CASTLE",
+        "weight": 1
+      },
+      {
+        "source": "KYM",
+        "target": "NURSE",
+        "weight": 1
+      },
+      {
+        "source": "KYM",
+        "target": "INTERESTING YOUNG WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "KYM",
+        "target": "CAROL",
+        "weight": 5
+      },
+      {
+        "source": "KYM",
+        "target": "SIDNEY",
+        "weight": 4
+      },
+      {
+        "source": "KYM",
+        "target": "BOB",
+        "weight": 1
+      },
+      {
+        "source": "KYM",
+        "target": "PAUL",
+        "weight": 6
+      },
+      {
+        "source": "KYM",
+        "target": "VALET",
+        "weight": 1
+      },
+      {
+        "source": "KYM",
+        "target": "ATTRACTIVE GUY",
+        "weight": 1
+      },
+      {
+        "source": "KYM",
+        "target": "WIDER",
+        "weight": 1
+      },
+      {
+        "source": "KYM",
+        "target": "ROSA",
+        "weight": 1
+      },
+      {
+        "source": "KIERAN",
+        "target": "CAROL",
+        "weight": 2
+      },
+      {
+        "source": "KIERAN",
+        "target": "SIDNEY",
+        "weight": 4
+      },
+      {
+        "source": "KIERAN",
+        "target": "PAUL",
+        "weight": 4
+      },
+      {
+        "source": "KIERAN",
+        "target": "WIDER",
+        "weight": 1
+      },
+      {
+        "source": "JUDGE CASTLE",
+        "target": "SIDNEY",
+        "weight": 1
+      },
+      {
+        "source": "MRS WILLIAMS",
+        "target": "PAUL",
+        "weight": 1
+      },
+      {
+        "source": "MRS WILLIAMS",
+        "target": "SIDNEY",
+        "weight": 1
+      },
+      {
+        "source": "INTERESTING YOUNG WOMAN",
+        "target": "BOB",
+        "weight": 1
+      },
+      {
+        "source": "CAROL",
+        "target": "SIDNEY",
+        "weight": 2
+      },
+      {
+        "source": "CAROL",
+        "target": "PAUL",
+        "weight": 6
+      },
+      {
+        "source": "CAROL",
+        "target": "VALET",
+        "weight": 1
+      },
+      {
+        "source": "CAROL",
+        "target": "ROSA",
+        "weight": 1
+      },
+      {
+        "source": "SIDNEY",
+        "target": "PAUL",
+        "weight": 4
+      },
+      {
+        "source": "SIDNEY",
+        "target": "WIDER",
+        "weight": 1
+      },
+      {
+        "source": "PAUL",
+        "target": "ROSA",
+        "weight": 1
+      },
+      {
+        "source": "PAUL",
+        "target": "VALET",
+        "weight": 1
+      },
+      {
+        "source": "PAUL",
+        "target": "WIDER",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "RACHEL",
+        "name": "RACHEL",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 10,
+        "pagerank": 0.11418941550877319,
+        "object_id": "4090897",
+        "triangles": 32,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.5,
+        "betweenness centrality": 5.233333333333334,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SUSANNA",
+        "name": "SUSANNA",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.01257710782431931,
+        "object_id": "4097911",
+        "triangles": 1,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ABBY",
+        "name": "ABBY",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 9,
+        "pagerank": 0.053937774447513506,
+        "object_id": "4092467",
+        "triangles": 23,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.55,
+        "betweenness centrality": 7.166666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANDREW",
+        "name": "ANDREW",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 6,
+        "pagerank": 0.035816324525532586,
+        "object_id": "4092506",
+        "triangles": 15,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WALTER",
+        "name": "WALTER",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.01933793975161704,
+        "object_id": "4090379",
+        "triangles": 6,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "EMMA",
+        "name": "EMMA",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 10,
+        "pagerank": 0.08396173012016235,
+        "object_id": "4090900",
+        "triangles": 33,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.5,
+        "betweenness centrality": 2.983333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KYM",
+        "name": "KYM",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 19,
+        "pagerank": 0.1733929932534624,
+        "object_id": "4090406",
+        "triangles": 43,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.05,
+        "betweenness centrality": 99.31666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KIERAN",
+        "name": "KIERAN",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 9,
+        "pagerank": 0.0892401846438562,
+        "object_id": "4091737",
+        "triangles": 30,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.55,
+        "betweenness centrality": 1.0666666666666667,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "STYLIST",
+        "name": "STYLIST",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.009977079755460453,
+        "object_id": "4095106",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JUDGE CASTLE",
+        "name": "JUDGE CASTLE",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.012510112399800103,
+        "object_id": "4096872",
+        "triangles": 1,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NURSE",
+        "name": "NURSE",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.009977079755460453,
+        "object_id": "4091526",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MRS WILLIAMS",
+        "name": "MRS WILLIAMS",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.014702474774468259,
+        "object_id": "4097095",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "INTERESTING YOUNG WOMAN",
+        "name": "INTERESTING YOUNG WOMAN",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.017920188928623564,
+        "object_id": "4097310",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CAROL",
+        "name": "CAROL",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 9,
+        "pagerank": 0.06862676251650762,
+        "object_id": "4090536",
+        "triangles": 23,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.55,
+        "betweenness centrality": 4.083333333333332,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SIDNEY",
+        "name": "SIDNEY",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 11,
+        "pagerank": 0.08940242729718564,
+        "object_id": "4091732",
+        "triangles": 33,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.45,
+        "betweenness centrality": 10.233333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BOB",
+        "name": "BOB",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.017920188928623564,
+        "object_id": "4097259",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PAUL",
+        "name": "PAUL",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 13,
+        "pagerank": 0.10706106586946151,
+        "object_id": "4090496",
+        "triangles": 36,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.35,
+        "betweenness centrality": 19.916666666666668,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "VALET",
+        "name": "VALET",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.017689556791791728,
+        "object_id": "4096491",
+        "triangles": 6,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ATTRACTIVE GUY",
+        "name": "ATTRACTIVE GUY",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.009977079755460453,
+        "object_id": "4091602",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WIDER",
+        "name": "WIDER",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 6,
+        "pagerank": 0.02244457340030292,
+        "object_id": "4094541",
+        "triangles": 15,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ROSA",
+        "name": "ROSA",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.019337939751617038,
+        "object_id": "4090385",
+        "triangles": 6,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": 37.280376,
+        "y": 38.539387,
+        "name": "RACHEL"
+      },
+      {
+        "x": -66.984985,
+        "y": -37.514584,
+        "name": "SUSANNA"
+      },
+      {
+        "x": -47.27556,
+        "y": 5.43765,
+        "name": "ABBY"
+      },
+      {
+        "x": 21.27229,
+        "y": -46.023994,
+        "name": "ANDREW"
+      },
+      {
+        "x": 24.108128,
+        "y": 170.50842,
+        "name": "WALTER"
+      },
+      {
+        "x": 80.07263,
+        "y": 35.62102,
+        "name": "EMMA"
+      },
+      {
+        "x": 7.4335027,
+        "y": 5.309763,
+        "name": "KYM"
+      },
+      {
+        "x": 54.57334,
+        "y": -0.63445526,
+        "name": "KIERAN"
+      },
+      {
+        "x": 54.968563,
+        "y": -109.53402,
+        "name": "STYLIST"
+      },
+      {
+        "x": -23.770432,
+        "y": -71.269806,
+        "name": "JUDGE CASTLE"
+      },
+      {
+        "x": -52.690445,
+        "y": -103.68271,
+        "name": "NURSE"
+      },
+      {
+        "x": -28.759487,
+        "y": 129.67122,
+        "name": "MRS WILLIAMS"
+      },
+      {
+        "x": -130.89311,
+        "y": 19.67981,
+        "name": "INTERESTING YOUNG WOMAN"
+      },
+      {
+        "x": 76.95084,
+        "y": 87.84061,
+        "name": "CAROL"
+      },
+      {
+        "x": -4.157413,
+        "y": 54.10758,
+        "name": "SIDNEY"
+      },
+      {
+        "x": -129.86261,
+        "y": -24.027987,
+        "name": "BOB"
+      },
+      {
+        "x": 33.26991,
+        "y": 84.97424,
+        "name": "PAUL"
+      },
+      {
+        "x": 139.7076,
+        "y": 90.26698,
+        "name": "VALET"
+      },
+      {
+        "x": -93.01753,
+        "y": -80.76782,
+        "name": "ATTRACTIVE GUY"
+      },
+      {
+        "x": 122.66345,
+        "y": -10.033461,
+        "name": "WIDER"
+      },
+      {
+        "x": 70.7732,
+        "y": 162.8153,
+        "name": "ROSA"
+      }
+    ]
+  }
+}

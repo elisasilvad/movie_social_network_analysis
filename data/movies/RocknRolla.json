@@ -1,0 +1,1490 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "CHECHNYAN 2",
+        "target": "THRU THRU",
+        "weight": 1
+      },
+      {
+        "source": "CHECHNYAN 2",
+        "target": "CHECHNYAN 1",
+        "weight": 1
+      },
+      {
+        "source": "CHECHNYAN 2",
+        "target": "ROCKNROLLA",
+        "weight": 1
+      },
+      {
+        "source": "COUNCILOR",
+        "target": "JACKIE",
+        "weight": 1
+      },
+      {
+        "source": "COUNCILOR",
+        "target": "ARCHY",
+        "weight": 1
+      },
+      {
+        "source": "COUNCILOR",
+        "target": "LENNY COLE",
+        "weight": 4
+      },
+      {
+        "source": "COUNCILOR",
+        "target": "ROCKNROLLA",
+        "weight": 3
+      },
+      {
+        "source": "GARY",
+        "target": "ROCKNROLLA",
+        "weight": 1
+      },
+      {
+        "source": "GARY",
+        "target": "ARCHY",
+        "weight": 1
+      },
+      {
+        "source": "CHECHNYAN 1",
+        "target": "THRU THRU",
+        "weight": 1
+      },
+      {
+        "source": "CHECHNYAN 1",
+        "target": "ROCKNROLLA",
+        "weight": 2
+      },
+      {
+        "source": "CHECHNYAN 1",
+        "target": "VICTOR",
+        "weight": 1
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "BOUNCER",
+        "weight": 2
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "BERTIE",
+        "weight": 2
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "URI",
+        "weight": 5
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "BARMAN",
+        "weight": 1
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "PETE",
+        "weight": 4
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "JOHNNY",
+        "weight": 3
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "MUMBLES",
+        "weight": 9
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "VICTOR",
+        "weight": 3
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "LENNY COLE",
+        "weight": 16
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "ROCKER",
+        "weight": 1
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "MALCOLM",
+        "weight": 2
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "TANK",
+        "weight": 2
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "TAX MAN",
+        "weight": 1
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "SLICK ESTATE AGENT",
+        "weight": 1
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "HANDSOME BOB",
+        "weight": 7
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "STELLA",
+        "weight": 7
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "NURSE",
+        "weight": 1
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "ARCHY",
+        "weight": 15
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "COOKIE",
+        "weight": 4
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "DOLLY",
+        "weight": 2
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "ROMAN",
+        "weight": 5
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "JOHNNY STORY",
+        "weight": 10
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "DANNY",
+        "weight": 2
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "LAWYER TYPE",
+        "weight": 1
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "OTHER SLICK ESTATE AGENT",
+        "weight": 1
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "ONE TWO",
+        "weight": 15
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "TOM",
+        "weight": 1
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "THRU THRU",
+        "weight": 2
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "MICKEY",
+        "weight": 4
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "FRED THE HEAD",
+        "weight": 3
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "JACKIE",
+        "weight": 1
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "DROWNED SLOANE",
+        "weight": 1
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "SECRETARY",
+        "weight": 1
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "BANDY",
+        "weight": 2
+      },
+      {
+        "source": "ROCKNROLLA",
+        "target": "ACCOUNTANT",
+        "weight": 1
+      },
+      {
+        "source": "BOUNCER",
+        "target": "JOHNNY STORY",
+        "weight": 2
+      },
+      {
+        "source": "BOUNCER",
+        "target": "PETE",
+        "weight": 1
+      },
+      {
+        "source": "BERTIE",
+        "target": "MUMBLES",
+        "weight": 1
+      },
+      {
+        "source": "BERTIE",
+        "target": "ONE TWO",
+        "weight": 1
+      },
+      {
+        "source": "BERTIE",
+        "target": "STELLA",
+        "weight": 1
+      },
+      {
+        "source": "BERTIE",
+        "target": "HANDSOME BOB",
+        "weight": 2
+      },
+      {
+        "source": "URI",
+        "target": "STELLA",
+        "weight": 1
+      },
+      {
+        "source": "URI",
+        "target": "LENNY COLE",
+        "weight": 2
+      },
+      {
+        "source": "URI",
+        "target": "VICTOR",
+        "weight": 3
+      },
+      {
+        "source": "MICKEY",
+        "target": "ARCHY",
+        "weight": 1
+      },
+      {
+        "source": "MICKEY",
+        "target": "LENNY COLE",
+        "weight": 1
+      },
+      {
+        "source": "MICKEY",
+        "target": "ROCKER",
+        "weight": 1
+      },
+      {
+        "source": "MICKEY",
+        "target": "ROMAN",
+        "weight": 4
+      },
+      {
+        "source": "MICKEY",
+        "target": "JOHNNY STORY",
+        "weight": 1
+      },
+      {
+        "source": "MICKEY",
+        "target": "SECRETARY",
+        "weight": 1
+      },
+      {
+        "source": "PETE",
+        "target": "BARMAN",
+        "weight": 1
+      },
+      {
+        "source": "PETE",
+        "target": "JOHNNY STORY",
+        "weight": 6
+      },
+      {
+        "source": "PETE",
+        "target": "MALCOLM",
+        "weight": 1
+      },
+      {
+        "source": "PETE",
+        "target": "JOHNNY",
+        "weight": 1
+      },
+      {
+        "source": "JOHNNY",
+        "target": "JOHNNY STORY",
+        "weight": 1
+      },
+      {
+        "source": "JOHNNY",
+        "target": "MALCOLM",
+        "weight": 1
+      },
+      {
+        "source": "ROMAN",
+        "target": "HANDSOME BOB",
+        "weight": 1
+      },
+      {
+        "source": "ROMAN",
+        "target": "ARCHY",
+        "weight": 2
+      },
+      {
+        "source": "ROMAN",
+        "target": "LENNY COLE",
+        "weight": 2
+      },
+      {
+        "source": "ROMAN",
+        "target": "ROCKER",
+        "weight": 1
+      },
+      {
+        "source": "ROMAN",
+        "target": "JOHNNY STORY",
+        "weight": 1
+      },
+      {
+        "source": "ROMAN",
+        "target": "COOKIE",
+        "weight": 1
+      },
+      {
+        "source": "ROMAN",
+        "target": "SECRETARY",
+        "weight": 1
+      },
+      {
+        "source": "MUMBLES",
+        "target": "HANDSOME BOB",
+        "weight": 3
+      },
+      {
+        "source": "MUMBLES",
+        "target": "STELLA",
+        "weight": 1
+      },
+      {
+        "source": "MUMBLES",
+        "target": "TOM",
+        "weight": 1
+      },
+      {
+        "source": "MUMBLES",
+        "target": "ARCHY",
+        "weight": 2
+      },
+      {
+        "source": "MUMBLES",
+        "target": "ONE TWO",
+        "weight": 10
+      },
+      {
+        "source": "MUMBLES",
+        "target": "MALCOLM",
+        "weight": 1
+      },
+      {
+        "source": "MUMBLES",
+        "target": "COOKIE",
+        "weight": 1
+      },
+      {
+        "source": "MUMBLES",
+        "target": "ACCOUNTANT",
+        "weight": 1
+      },
+      {
+        "source": "MUMBLES",
+        "target": "LENNY COLE",
+        "weight": 1
+      },
+      {
+        "source": "MUMBLES",
+        "target": "FRED THE HEAD",
+        "weight": 3
+      },
+      {
+        "source": "MUMBLES",
+        "target": "DOLLY",
+        "weight": 2
+      },
+      {
+        "source": "MUMBLES",
+        "target": "THRU THRU",
+        "weight": 1
+      },
+      {
+        "source": "NURSE",
+        "target": "ARCHY",
+        "weight": 1
+      },
+      {
+        "source": "NURSE",
+        "target": "LENNY COLE",
+        "weight": 1
+      },
+      {
+        "source": "LENNY COLE",
+        "target": "ARCHY",
+        "weight": 9
+      },
+      {
+        "source": "LENNY COLE",
+        "target": "HANDSOME BOB",
+        "weight": 1
+      },
+      {
+        "source": "LENNY COLE",
+        "target": "JOHNNY STORY",
+        "weight": 1
+      },
+      {
+        "source": "LENNY COLE",
+        "target": "VICTOR",
+        "weight": 1
+      },
+      {
+        "source": "LENNY COLE",
+        "target": "DANNY",
+        "weight": 1
+      },
+      {
+        "source": "LENNY COLE",
+        "target": "ONE TWO",
+        "weight": 1
+      },
+      {
+        "source": "LENNY COLE",
+        "target": "JACKIE",
+        "weight": 1
+      },
+      {
+        "source": "LENNY COLE",
+        "target": "DROWNED SLOANE",
+        "weight": 1
+      },
+      {
+        "source": "LENNY COLE",
+        "target": "SECRETARY",
+        "weight": 1
+      },
+      {
+        "source": "LENNY COLE",
+        "target": "BANDY",
+        "weight": 2
+      },
+      {
+        "source": "TANK",
+        "target": "ARCHY",
+        "weight": 3
+      },
+      {
+        "source": "SLICK ESTATE AGENT",
+        "target": "ONE TWO",
+        "weight": 1
+      },
+      {
+        "source": "SLICK ESTATE AGENT",
+        "target": "OTHER SLICK ESTATE AGENT",
+        "weight": 1
+      },
+      {
+        "source": "HANDSOME BOB",
+        "target": "COOKIE",
+        "weight": 1
+      },
+      {
+        "source": "HANDSOME BOB",
+        "target": "JOHNNY STORY",
+        "weight": 1
+      },
+      {
+        "source": "HANDSOME BOB",
+        "target": "MALCOLM",
+        "weight": 1
+      },
+      {
+        "source": "HANDSOME BOB",
+        "target": "ONE TWO",
+        "weight": 7
+      },
+      {
+        "source": "HANDSOME BOB",
+        "target": "ARCHY",
+        "weight": 1
+      },
+      {
+        "source": "HANDSOME BOB",
+        "target": "FRED THE HEAD",
+        "weight": 3
+      },
+      {
+        "source": "HANDSOME BOB",
+        "target": "DOLLY",
+        "weight": 3
+      },
+      {
+        "source": "STELLA",
+        "target": "ONE TWO",
+        "weight": 4
+      },
+      {
+        "source": "STELLA",
+        "target": "TAX MAN",
+        "weight": 1
+      },
+      {
+        "source": "STELLA",
+        "target": "COOKIE",
+        "weight": 1
+      },
+      {
+        "source": "STELLA",
+        "target": "TOM",
+        "weight": 1
+      },
+      {
+        "source": "STELLA",
+        "target": "FRED THE HEAD",
+        "weight": 1
+      },
+      {
+        "source": "COOKIE",
+        "target": "TOM",
+        "weight": 1
+      },
+      {
+        "source": "COOKIE",
+        "target": "DOLLY",
+        "weight": 1
+      },
+      {
+        "source": "COOKIE",
+        "target": "ONE TWO",
+        "weight": 3
+      },
+      {
+        "source": "COOKIE",
+        "target": "FRED THE HEAD",
+        "weight": 2
+      },
+      {
+        "source": "COOKIE",
+        "target": "MALCOLM",
+        "weight": 1
+      },
+      {
+        "source": "DOLLY",
+        "target": "ONE TWO",
+        "weight": 2
+      },
+      {
+        "source": "DOLLY",
+        "target": "FRED THE HEAD",
+        "weight": 3
+      },
+      {
+        "source": "DOLLY",
+        "target": "ARCHY",
+        "weight": 1
+      },
+      {
+        "source": "DOLLY",
+        "target": "MALCOLM",
+        "weight": 1
+      },
+      {
+        "source": "ARCHY",
+        "target": "JOHNNY STORY",
+        "weight": 5
+      },
+      {
+        "source": "ARCHY",
+        "target": "DANNY",
+        "weight": 1
+      },
+      {
+        "source": "ARCHY",
+        "target": "MALCOLM",
+        "weight": 1
+      },
+      {
+        "source": "ARCHY",
+        "target": "ONE TWO",
+        "weight": 3
+      },
+      {
+        "source": "ARCHY",
+        "target": "FRED THE HEAD",
+        "weight": 1
+      },
+      {
+        "source": "ARCHY",
+        "target": "JACKIE",
+        "weight": 1
+      },
+      {
+        "source": "ARCHY",
+        "target": "DROWNED SLOANE",
+        "weight": 1
+      },
+      {
+        "source": "ARCHY",
+        "target": "SECRETARY",
+        "weight": 1
+      },
+      {
+        "source": "ARCHY",
+        "target": "BANDY",
+        "weight": 1
+      },
+      {
+        "source": "JOHNNY STORY",
+        "target": "BARMAN",
+        "weight": 1
+      },
+      {
+        "source": "JOHNNY STORY",
+        "target": "MALCOLM",
+        "weight": 1
+      },
+      {
+        "source": "DANNY",
+        "target": "BANDY",
+        "weight": 1
+      },
+      {
+        "source": "MALCOLM",
+        "target": "ONE TWO",
+        "weight": 1
+      },
+      {
+        "source": "MALCOLM",
+        "target": "FRED THE HEAD",
+        "weight": 2
+      },
+      {
+        "source": "OTHER SLICK ESTATE AGENT",
+        "target": "ONE TWO",
+        "weight": 1
+      },
+      {
+        "source": "ONE TWO",
+        "target": "TOM",
+        "weight": 1
+      },
+      {
+        "source": "ONE TWO",
+        "target": "ACCOUNTANT",
+        "weight": 1
+      },
+      {
+        "source": "ONE TWO",
+        "target": "THRU THRU",
+        "weight": 1
+      },
+      {
+        "source": "ONE TWO",
+        "target": "FRED THE HEAD",
+        "weight": 4
+      },
+      {
+        "source": "ONE TWO",
+        "target": "BANDY",
+        "weight": 1
+      },
+      {
+        "source": "TOM",
+        "target": "FRED THE HEAD",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "CHECHNYAN 2",
+        "name": "CHECHNYAN 2",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.008858896656509622,
+        "object_id": "4240823",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9230769230769231,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COUNCILOR",
+        "name": "COUNCILOR",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.015269281015942155,
+        "object_id": "4236196",
+        "triangles": 6,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8974358974358974,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GARY",
+        "name": "GARY",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.006158809612281309,
+        "object_id": "4238039",
+        "triangles": 1,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9487179487179487,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CHECHNYAN 1",
+        "name": "CHECHNYAN 1",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.012099603036589994,
+        "object_id": "4240802",
+        "triangles": 4,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8974358974358974,
+        "betweenness centrality": 1.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ROCKNROLLA",
+        "name": "ROCKNROLLA",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 39,
+        "pagerank": 0.20610324276391076,
+        "object_id": "4236065",
+        "triangles": 105,
+        "eccentricity": 1.0,
+        "closeness centrality": 1.0,
+        "betweenness centrality": 458.6083333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BOUNCER",
+        "name": "BOUNCER",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.010016859841468242,
+        "object_id": "4240495",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9230769230769231,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BERTIE",
+        "name": "BERTIE",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.01199373884797218,
+        "object_id": "4236724",
+        "triangles": 9,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8717948717948718,
+        "betweenness centrality": 0.16666666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "URI",
+        "name": "URI",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.018233213194666593,
+        "object_id": "4236427",
+        "triangles": 4,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8974358974358974,
+        "betweenness centrality": 0.75,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MICKEY",
+        "name": "MICKEY",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 7,
+        "pagerank": 0.021330432440598488,
+        "object_id": "4237004",
+        "triangles": 16,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8205128205128205,
+        "betweenness centrality": 1.5333333333333332,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PETE",
+        "name": "PETE",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 6,
+        "pagerank": 0.022732255290485608,
+        "object_id": "4238993",
+        "triangles": 10,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8461538461538463,
+        "betweenness centrality": 1.6666666666666665,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JOHNNY",
+        "name": "JOHNNY",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.011281646390359888,
+        "object_id": "4241554",
+        "triangles": 6,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8974358974358974,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ROMAN",
+        "name": "ROMAN",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 9,
+        "pagerank": 0.027660695597331083,
+        "object_id": "4237045",
+        "triangles": 22,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7692307692307692,
+        "betweenness centrality": 4.558333333333334,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MUMBLES",
+        "name": "MUMBLES",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 14,
+        "pagerank": 0.04963570693420705,
+        "object_id": "4236224",
+        "triangles": 48,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.641025641025641,
+        "betweenness centrality": 11.79166666666667,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NURSE",
+        "name": "NURSE",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.007364463581318035,
+        "object_id": "4241936",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9230769230769231,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LENNY COLE",
+        "name": "LENNY COLE",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 17,
+        "pagerank": 0.06524552625576308,
+        "object_id": "4236240",
+        "triangles": 43,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.564102564102564,
+        "betweenness centrality": 34.2,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ROCKER",
+        "name": "ROCKER",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.007659161739173288,
+        "object_id": "4236999",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9230769230769231,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TANK",
+        "name": "TANK",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.009768224022662187,
+        "object_id": "4238061",
+        "triangles": 1,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9487179487179487,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SLICK ESTATE AGENT",
+        "name": "SLICK ESTATE AGENT",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.00850929914797844,
+        "object_id": "4236090",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9230769230769231,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HANDSOME BOB",
+        "name": "HANDSOME BOB",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 12,
+        "pagerank": 0.04110807198641511,
+        "object_id": "4236798",
+        "triangles": 43,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.6923076923076923,
+        "betweenness centrality": 5.541666666666667,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "STELLA",
+        "name": "STELLA",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 9,
+        "pagerank": 0.02737555351706132,
+        "object_id": "4236676",
+        "triangles": 20,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7692307692307692,
+        "betweenness centrality": 6.8166666666666655,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TAX MAN",
+        "name": "TAX MAN",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.006250906081324315,
+        "object_id": "4236681",
+        "triangles": 1,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9487179487179487,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COOKIE",
+        "name": "COOKIE",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 10,
+        "pagerank": 0.02324258468061779,
+        "object_id": "4236820",
+        "triangles": 32,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7435897435897436,
+        "betweenness centrality": 3.2666666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOLLY",
+        "name": "DOLLY",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 8,
+        "pagerank": 0.021322932929940818,
+        "object_id": "4236805",
+        "triangles": 27,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.794871794871795,
+        "betweenness centrality": 0.125,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ARCHY",
+        "name": "ARCHY",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 20,
+        "pagerank": 0.07344732062144599,
+        "object_id": "4236344",
+        "triangles": 58,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.4871794871794872,
+        "betweenness centrality": 51.13333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JOHNNY STORY",
+        "name": "JOHNNY STORY",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 11,
+        "pagerank": 0.043591671725680035,
+        "object_id": "4238989",
+        "triangles": 26,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7179487179487178,
+        "betweenness centrality": 11.899999999999999,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DANNY",
+        "name": "DANNY",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.010107152790557017,
+        "object_id": "4237561",
+        "triangles": 6,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8974358974358974,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MALCOLM",
+        "name": "MALCOLM",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 11,
+        "pagerank": 0.019755958353345517,
+        "object_id": "4238205",
+        "triangles": 35,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7179487179487178,
+        "betweenness centrality": 7.6083333333333325,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OTHER SLICK ESTATE AGENT",
+        "name": "OTHER SLICK ESTATE AGENT",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.00850929914797844,
+        "object_id": "4236099",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9230769230769231,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BARMAN",
+        "name": "BARMAN",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.007573534868116608,
+        "object_id": "4240139",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9230769230769231,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ONE TWO",
+        "name": "ONE TWO",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 17,
+        "pagerank": 0.076461019526775,
+        "object_id": "4236161",
+        "triangles": 54,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.564102564102564,
+        "betweenness centrality": 30.291666666666664,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TOM",
+        "name": "TOM",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 6,
+        "pagerank": 0.010928473503366799,
+        "object_id": "4239688",
+        "triangles": 15,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8461538461538463,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ACCOUNTANT",
+        "name": "ACCOUNTANT",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.007238606632313663,
+        "object_id": "4237698",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9230769230769231,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "VICTOR",
+        "name": "VICTOR",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.014864184553587848,
+        "object_id": "4236657",
+        "triangles": 4,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8974358974358974,
+        "betweenness centrality": 1.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FRED THE HEAD",
+        "name": "FRED THE HEAD",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 10,
+        "pagerank": 0.03145630892844748,
+        "object_id": "4236794",
+        "triangles": 36,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7435897435897436,
+        "betweenness centrality": 1.7916666666666667,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JACKIE",
+        "name": "JACKIE",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.008806604998930151,
+        "object_id": "4237165",
+        "triangles": 6,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8974358974358974,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THRU THRU",
+        "name": "THRU THRU",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 5,
+        "pagerank": 0.013013938371518869,
+        "object_id": "4240462",
+        "triangles": 6,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8717948717948718,
+        "betweenness centrality": 2.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DROWNED SLOANE",
+        "name": "DROWNED SLOANE",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.007364463581318036,
+        "object_id": "4238815",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9230769230769231,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SECRETARY",
+        "name": "SECRETARY",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.010065420506309583,
+        "object_id": "4239222",
+        "triangles": 10,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8717948717948718,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BANDY",
+        "name": "BANDY",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.012636731511549915,
+        "object_id": "4237505",
+        "triangles": 9,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8717948717948718,
+        "betweenness centrality": 0.25,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LAWYER TYPE",
+        "name": "LAWYER TYPE",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.004958204814181741,
+        "object_id": "4236169",
+        "triangles": 0,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9743589743589745,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": -123.20562,
+        "y": 98.68387,
+        "name": "CHECHNYAN 2"
+      },
+      {
+        "x": 152.25896,
+        "y": 3.339242,
+        "name": "COUNCILOR"
+      },
+      {
+        "x": 143.72679,
+        "y": -148.04424,
+        "name": "GARY"
+      },
+      {
+        "x": -104.58941,
+        "y": 28.665804,
+        "name": "CHECHNYAN 1"
+      },
+      {
+        "x": 47.11765,
+        "y": -54.25997,
+        "name": "ROCKNROLLA"
+      },
+      {
+        "x": 182.38101,
+        "y": -98.6697,
+        "name": "BOUNCER"
+      },
+      {
+        "x": -0.9501165,
+        "y": -195.98294,
+        "name": "BERTIE"
+      },
+      {
+        "x": 117.90769,
+        "y": -101.024475,
+        "name": "URI"
+      },
+      {
+        "x": 7.300506,
+        "y": 60.222466,
+        "name": "MICKEY"
+      },
+      {
+        "x": 165.17453,
+        "y": -55.140015,
+        "name": "PETE"
+      },
+      {
+        "x": 121.88382,
+        "y": 42.563076,
+        "name": "JOHNNY"
+      },
+      {
+        "x": -9.561206,
+        "y": 20.171148,
+        "name": "ROMAN"
+      },
+      {
+        "x": -28.470028,
+        "y": -136.14377,
+        "name": "MUMBLES"
+      },
+      {
+        "x": 195.20088,
+        "y": 74.716606,
+        "name": "NURSE"
+      },
+      {
+        "x": 101.824066,
+        "y": 1.946418,
+        "name": "LENNY COLE"
+      },
+      {
+        "x": -91.598305,
+        "y": -147.16872,
+        "name": "ROCKER"
+      },
+      {
+        "x": 57.360928,
+        "y": 65.76951,
+        "name": "TANK"
+      },
+      {
+        "x": 112.7033,
+        "y": -229.1272,
+        "name": "SLICK ESTATE AGENT"
+      },
+      {
+        "x": -30.78791,
+        "y": -74.78835,
+        "name": "HANDSOME BOB"
+      },
+      {
+        "x": 42.7065,
+        "y": -161.5334,
+        "name": "STELLA"
+      },
+      {
+        "x": 153.52759,
+        "y": -210.02592,
+        "name": "TAX MAN"
+      },
+      {
+        "x": -97.528305,
+        "y": -66.34959,
+        "name": "COOKIE"
+      },
+      {
+        "x": -112.896416,
+        "y": -110.21226,
+        "name": "DOLLY"
+      },
+      {
+        "x": 52.826862,
+        "y": 12.563697,
+        "name": "ARCHY"
+      },
+      {
+        "x": 119.75947,
+        "y": -48.431736,
+        "name": "JOHNNY STORY"
+      },
+      {
+        "x": 110.06179,
+        "y": 84.785355,
+        "name": "DANNY"
+      },
+      {
+        "x": -60.6651,
+        "y": -19.5472,
+        "name": "MALCOLM"
+      },
+      {
+        "x": 75.11162,
+        "y": -249.19147,
+        "name": "OTHER SLICK ESTATE AGENT"
+      },
+      {
+        "x": 238.2617,
+        "y": -60.30305,
+        "name": "BARMAN"
+      },
+      {
+        "x": 7.2555504,
+        "y": -109.561134,
+        "name": "ONE TWO"
+      },
+      {
+        "x": -103.16494,
+        "y": -199.19774,
+        "name": "TOM"
+      },
+      {
+        "x": -39.41003,
+        "y": -232.01387,
+        "name": "ACCOUNTANT"
+      },
+      {
+        "x": 88.15009,
+        "y": -118.33912,
+        "name": "VICTOR"
+      },
+      {
+        "x": -69.21006,
+        "y": -109.51627,
+        "name": "FRED THE HEAD"
+      },
+      {
+        "x": 119.674225,
+        "y": 127.82564,
+        "name": "JACKIE"
+      },
+      {
+        "x": -74.50649,
+        "y": 53.609505,
+        "name": "THRU THRU"
+      },
+      {
+        "x": 156.24591,
+        "y": 100.87684,
+        "name": "DROWNED SLOANE"
+      },
+      {
+        "x": 23.156918,
+        "y": 127.46257,
+        "name": "SECRETARY"
+      },
+      {
+        "x": 166.28178,
+        "y": 38.35788,
+        "name": "BANDY"
+      },
+      {
+        "x": -153.18512,
+        "y": 11.415807,
+        "name": "LAWYER TYPE"
+      }
+    ]
+  }
+}

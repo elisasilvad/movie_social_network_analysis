@@ -1,0 +1,1003 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "NOAH",
+        "target": "SMITH",
+        "weight": 1
+      },
+      {
+        "source": "NOAH",
+        "target": "PENNY",
+        "weight": 1
+      },
+      {
+        "source": "NOAH",
+        "target": "ANNIE",
+        "weight": 2
+      },
+      {
+        "source": "NOAH",
+        "target": "WEST",
+        "weight": 1
+      },
+      {
+        "source": "NOAH",
+        "target": "MAUREEN",
+        "weight": 1
+      },
+      {
+        "source": "SPIDER SMITH",
+        "target": "WEST",
+        "weight": 1
+      },
+      {
+        "source": "SPIDER SMITH",
+        "target": "WILL",
+        "weight": 1
+      },
+      {
+        "source": "SPIDER SMITH",
+        "target": "MAUREEN",
+        "weight": 1
+      },
+      {
+        "source": "SPIDER SMITH",
+        "target": "ROBOT",
+        "weight": 2
+      },
+      {
+        "source": "SPIDER SMITH",
+        "target": "SMITH",
+        "weight": 1
+      },
+      {
+        "source": "SPIDER SMITH",
+        "target": "OLDER WILL",
+        "weight": 2
+      },
+      {
+        "source": "SPIDER SMITH",
+        "target": "JOHN",
+        "weight": 2
+      },
+      {
+        "source": "ROBOT",
+        "target": "WEST",
+        "weight": 5
+      },
+      {
+        "source": "ROBOT",
+        "target": "WILL",
+        "weight": 5
+      },
+      {
+        "source": "ROBOT",
+        "target": "PENNY",
+        "weight": 2
+      },
+      {
+        "source": "ROBOT",
+        "target": "MAUREEN",
+        "weight": 3
+      },
+      {
+        "source": "ROBOT",
+        "target": "SMITH",
+        "weight": 4
+      },
+      {
+        "source": "ROBOT",
+        "target": "GUN",
+        "weight": 1
+      },
+      {
+        "source": "ROBOT",
+        "target": "JUDY",
+        "weight": 2
+      },
+      {
+        "source": "ROBOT",
+        "target": "OLDER WILL",
+        "weight": 1
+      },
+      {
+        "source": "ROBOT",
+        "target": "JOHN",
+        "weight": 5
+      },
+      {
+        "source": "BASE",
+        "target": "WEST",
+        "weight": 1
+      },
+      {
+        "source": "BASE",
+        "target": "JEB",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER",
+        "target": "GENERAL",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER",
+        "target": "JOHN",
+        "weight": 1
+      },
+      {
+        "source": "FIGURE",
+        "target": "JOHN",
+        "weight": 1
+      },
+      {
+        "source": "OLDER WILL",
+        "target": "WEST",
+        "weight": 3
+      },
+      {
+        "source": "OLDER WILL",
+        "target": "WILL",
+        "weight": 3
+      },
+      {
+        "source": "OLDER WILL",
+        "target": "PENNY",
+        "weight": 1
+      },
+      {
+        "source": "OLDER WILL",
+        "target": "MAUREEN",
+        "weight": 2
+      },
+      {
+        "source": "OLDER WILL",
+        "target": "WIDER",
+        "weight": 1
+      },
+      {
+        "source": "OLDER WILL",
+        "target": "SMITH",
+        "weight": 2
+      },
+      {
+        "source": "OLDER WILL",
+        "target": "JOHN",
+        "weight": 4
+      },
+      {
+        "source": "WIDER",
+        "target": "WEST",
+        "weight": 1
+      },
+      {
+        "source": "WIDER",
+        "target": "JOHN",
+        "weight": 1
+      },
+      {
+        "source": "TECHNICIAN",
+        "target": "SMITH",
+        "weight": 1
+      },
+      {
+        "source": "PENNY",
+        "target": "WILL",
+        "weight": 5
+      },
+      {
+        "source": "PENNY",
+        "target": "MAUREEN",
+        "weight": 8
+      },
+      {
+        "source": "PENNY",
+        "target": "WEST",
+        "weight": 8
+      },
+      {
+        "source": "PENNY",
+        "target": "GUN",
+        "weight": 1
+      },
+      {
+        "source": "PENNY",
+        "target": "JOHN",
+        "weight": 6
+      },
+      {
+        "source": "PENNY",
+        "target": "SMITH",
+        "weight": 4
+      },
+      {
+        "source": "PENNY",
+        "target": "MISSION CONTROL",
+        "weight": 1
+      },
+      {
+        "source": "PENNY",
+        "target": "COMPUTER",
+        "weight": 1
+      },
+      {
+        "source": "PENNY",
+        "target": "JUDY",
+        "weight": 6
+      },
+      {
+        "source": "GUN",
+        "target": "WEST",
+        "weight": 2
+      },
+      {
+        "source": "GUN",
+        "target": "WILL",
+        "weight": 2
+      },
+      {
+        "source": "GUN",
+        "target": "MAUREEN",
+        "weight": 1
+      },
+      {
+        "source": "GUN",
+        "target": "SMITH",
+        "weight": 2
+      },
+      {
+        "source": "GUN",
+        "target": "JOHN",
+        "weight": 2
+      },
+      {
+        "source": "MISSION CONTROL",
+        "target": "WEST",
+        "weight": 1
+      },
+      {
+        "source": "MISSION CONTROL",
+        "target": "WILL",
+        "weight": 1
+      },
+      {
+        "source": "MISSION CONTROL",
+        "target": "MAUREEN",
+        "weight": 1
+      },
+      {
+        "source": "MISSION CONTROL",
+        "target": "JUDY",
+        "weight": 1
+      },
+      {
+        "source": "MISSION CONTROL",
+        "target": "JOHN",
+        "weight": 1
+      },
+      {
+        "source": "BUSINESSMAN",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "BUSINESSMAN",
+        "target": "SMITH",
+        "weight": 1
+      },
+      {
+        "source": "GENERAL",
+        "target": "WEST",
+        "weight": 1
+      },
+      {
+        "source": "GENERAL",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "GENERAL",
+        "target": "JUDY",
+        "weight": 1
+      },
+      {
+        "source": "GENERAL",
+        "target": "JOHN",
+        "weight": 3
+      },
+      {
+        "source": "WILL",
+        "target": "MAUREEN",
+        "weight": 6
+      },
+      {
+        "source": "WILL",
+        "target": "PRINCIPAL",
+        "weight": 1
+      },
+      {
+        "source": "WILL",
+        "target": "WEST",
+        "weight": 7
+      },
+      {
+        "source": "WILL",
+        "target": "VO",
+        "weight": 1
+      },
+      {
+        "source": "WILL",
+        "target": "JUDY",
+        "weight": 3
+      },
+      {
+        "source": "WILL",
+        "target": "SMITH",
+        "weight": 6
+      },
+      {
+        "source": "WILL",
+        "target": "JOHN",
+        "weight": 10
+      },
+      {
+        "source": "MAUREEN",
+        "target": "PRINCIPAL",
+        "weight": 1
+      },
+      {
+        "source": "MAUREEN",
+        "target": "WEST",
+        "weight": 10
+      },
+      {
+        "source": "MAUREEN",
+        "target": "VO",
+        "weight": 1
+      },
+      {
+        "source": "MAUREEN",
+        "target": "JUDY",
+        "weight": 6
+      },
+      {
+        "source": "MAUREEN",
+        "target": "SMITH",
+        "weight": 6
+      },
+      {
+        "source": "MAUREEN",
+        "target": "COMPUTER",
+        "weight": 1
+      },
+      {
+        "source": "MAUREEN",
+        "target": "JOHN",
+        "weight": 10
+      },
+      {
+        "source": "JEB",
+        "target": "WEST",
+        "weight": 2
+      },
+      {
+        "source": "JEB",
+        "target": "JUDY",
+        "weight": 1
+      },
+      {
+        "source": "JEB",
+        "target": "SMITH",
+        "weight": 1
+      },
+      {
+        "source": "JEB",
+        "target": "COMPUTER",
+        "weight": 2
+      },
+      {
+        "source": "JEB",
+        "target": "JOHN",
+        "weight": 1
+      },
+      {
+        "source": "WEST",
+        "target": "PRINCIPAL",
+        "weight": 1
+      },
+      {
+        "source": "WEST",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "WEST",
+        "target": "VO",
+        "weight": 1
+      },
+      {
+        "source": "WEST",
+        "target": "JOHN",
+        "weight": 22
+      },
+      {
+        "source": "WEST",
+        "target": "SMITH",
+        "weight": 11
+      },
+      {
+        "source": "WEST",
+        "target": "COMPUTER",
+        "weight": 5
+      },
+      {
+        "source": "WEST",
+        "target": "JUDY",
+        "weight": 9
+      },
+      {
+        "source": "PRINCIPAL",
+        "target": "VO",
+        "weight": 1
+      },
+      {
+        "source": "DOCTOR",
+        "target": "JUDY",
+        "weight": 1
+      },
+      {
+        "source": "DOCTOR",
+        "target": "JOHN",
+        "weight": 1
+      },
+      {
+        "source": "JOHN",
+        "target": "JUDY",
+        "weight": 9
+      },
+      {
+        "source": "JOHN",
+        "target": "SMITH",
+        "weight": 7
+      },
+      {
+        "source": "JOHN",
+        "target": "COMPUTER",
+        "weight": 3
+      },
+      {
+        "source": "SMITH",
+        "target": "JUDY",
+        "weight": 7
+      },
+      {
+        "source": "SMITH",
+        "target": "COMPUTER",
+        "weight": 1
+      },
+      {
+        "source": "COMPUTER",
+        "target": "JUDY",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "NOAH",
+        "name": "NOAH",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.020421789396486683,
+        "object_id": "3215752",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9230769230769231,
+        "betweenness centrality": 25.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SPIDER SMITH",
+        "name": "SPIDER SMITH",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 7,
+        "pagerank": 0.01887388951720355,
+        "object_id": "3220415",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8076923076923077,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ROBOT",
+        "name": "ROBOT",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 10,
+        "pagerank": 0.04557919736599058,
+        "object_id": "3215582",
+        "triangles": 39,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.6923076923076923,
+        "betweenness centrality": 0.9047619047619047,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BASE",
+        "name": "BASE",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.008857010067958977,
+        "object_id": "3214524",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1923076923076925,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REPORTER",
+        "name": "REPORTER",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.00909350108852706,
+        "object_id": "3214888",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.3076923076923075,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FIGURE",
+        "name": "FIGURE",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 1,
+        "pagerank": 0.006861762461234662,
+        "object_id": "3219938",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.3461538461538463,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OLDER WILL",
+        "name": "OLDER WILL",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 9,
+        "pagerank": 0.032289177683876284,
+        "object_id": "3220078",
+        "triangles": 29,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7307692307692308,
+        "betweenness centrality": 3.142857142857143,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WIDER",
+        "name": "WIDER",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.009595488673138374,
+        "object_id": "3220082",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.076923076923077,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TECHNICIAN",
+        "name": "TECHNICIAN",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.006961145011580749,
+        "object_id": "3215271",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.3846153846153846,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PENNY",
+        "name": "PENNY",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 12,
+        "pagerank": 0.06533775705845205,
+        "object_id": "3214946",
+        "triangles": 46,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.5769230769230769,
+        "betweenness centrality": 7.66190476190476,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GUN",
+        "name": "GUN",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 7,
+        "pagerank": 0.019921026914711995,
+        "object_id": "3216123",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8076923076923077,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MISSION CONTROL",
+        "name": "MISSION CONTROL",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 6,
+        "pagerank": 0.01322666537737877,
+        "object_id": "3215712",
+        "triangles": 15,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.9615384615384615,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BUSINESSMAN",
+        "name": "BUSINESSMAN",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.01829674071349029,
+        "object_id": "3215239",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.3076923076923075,
+        "betweenness centrality": 25.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GENERAL",
+        "name": "GENERAL",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.018379349382206814,
+        "object_id": "3214916",
+        "triangles": 7,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 2.7333333333333334,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WILL",
+        "name": "WILL",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 13,
+        "pagerank": 0.07623333323190504,
+        "object_id": "3214791",
+        "triangles": 49,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.5769230769230769,
+        "betweenness centrality": 11.554761904761904,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAUREEN",
+        "name": "MAUREEN",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 15,
+        "pagerank": 0.0865747427314164,
+        "object_id": "3214835",
+        "triangles": 57,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.4615384615384615,
+        "betweenness centrality": 21.47142857142857,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JEB",
+        "name": "JEB",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.018938735141915002,
+        "object_id": "3214365",
+        "triangles": 11,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8461538461538463,
+        "betweenness centrality": 4.333333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WEST",
+        "name": "WEST",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 20,
+        "pagerank": 0.14105749176202764,
+        "object_id": "3214354",
+        "triangles": 69,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.2692307692307692,
+        "betweenness centrality": 76.10476190476192,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PRINCIPAL",
+        "name": "PRINCIPAL",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.011916243805189197,
+        "object_id": "3214807",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1153846153846154,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOCTOR",
+        "name": "DOCTOR",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.011656918909611314,
+        "object_id": "3215374",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0384615384615383,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANNIE",
+        "name": "ANNIE",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.011342002254609799,
+        "object_id": "3216018",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.8846153846153846,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "VO",
+        "name": "VO",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.011916243805189197,
+        "object_id": "3214729",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1153846153846154,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAN",
+        "name": "MAN",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.013336374666568278,
+        "object_id": "3215232",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.269230769230769,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JOHN",
+        "name": "JOHN",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 18,
+        "pagerank": 0.13676962984952876,
+        "object_id": "3214864",
+        "triangles": 61,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.3846153846153846,
+        "betweenness centrality": 67.9047619047619,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SMITH",
+        "name": "SMITH",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 15,
+        "pagerank": 0.09095262340524744,
+        "object_id": "3215281",
+        "triangles": 51,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.4230769230769231,
+        "betweenness centrality": 80.8547619047619,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COMPUTER",
+        "name": "COMPUTER",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 7,
+        "pagerank": 0.025155479355552,
+        "object_id": "3214432",
+        "triangles": 19,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8076923076923077,
+        "betweenness centrality": 0.4,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JUDY",
+        "name": "JUDY",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 12,
+        "pagerank": 0.07045568036900285,
+        "object_id": "3215437",
+        "triangles": 40,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.6153846153846154,
+        "betweenness centrality": 9.933333333333332,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": 176.14035,
+        "y": 40.119335,
+        "name": "NOAH"
+      },
+      {
+        "x": 18.553236,
+        "y": 191.70386,
+        "name": "SPIDER SMITH"
+      },
+      {
+        "x": 35.88194,
+        "y": 135.39334,
+        "name": "ROBOT"
+      },
+      {
+        "x": -97.92768,
+        "y": -3.5352116,
+        "name": "BASE"
+      },
+      {
+        "x": -115.984505,
+        "y": -90.18199,
+        "name": "REPORTER"
+      },
+      {
+        "x": -153.21474,
+        "y": -41.181618,
+        "name": "FIGURE"
+      },
+      {
+        "x": -16.744959,
+        "y": 147.14897,
+        "name": "OLDER WILL"
+      },
+      {
+        "x": -15.941589,
+        "y": -33.077305,
+        "name": "WIDER"
+      },
+      {
+        "x": 189.7553,
+        "y": 131.08026,
+        "name": "TECHNICIAN"
+      },
+      {
+        "x": 68.21361,
+        "y": 46.190468,
+        "name": "PENNY"
+      },
+      {
+        "x": -63.170235,
+        "y": 114.3038,
+        "name": "GUN"
+      },
+      {
+        "x": 126.980804,
+        "y": 106.3438,
+        "name": "MISSION CONTROL"
+      },
+      {
+        "x": -74.02334,
+        "y": -100.95194,
+        "name": "BUSINESSMAN"
+      },
+      {
+        "x": -84.2789,
+        "y": -36.90307,
+        "name": "GENERAL"
+      },
+      {
+        "x": -18.409851,
+        "y": 97.875145,
+        "name": "WILL"
+      },
+      {
+        "x": 22.089075,
+        "y": 94.824486,
+        "name": "MAUREEN"
+      },
+      {
+        "x": 33.006855,
+        "y": -58.30748,
+        "name": "JEB"
+      },
+      {
+        "x": 22.199337,
+        "y": 52.358032,
+        "name": "WEST"
+      },
+      {
+        "x": -125.96635,
+        "y": 87.884636,
+        "name": "PRINCIPAL"
+      },
+      {
+        "x": -48.419426,
+        "y": -54.791447,
+        "name": "DOCTOR"
+      },
+      {
+        "x": 232.11848,
+        "y": 24.158735,
+        "name": "ANNIE"
+      },
+      {
+        "x": -121.181,
+        "y": 138.16946,
+        "name": "VO"
+      },
+      {
+        "x": -192.05202,
+        "y": -78.01768,
+        "name": "MAN"
+      },
+      {
+        "x": -18.195433,
+        "y": 47.90814,
+        "name": "JOHN"
+      },
+      {
+        "x": 63.16908,
+        "y": 86.962944,
+        "name": "SMITH"
+      },
+      {
+        "x": 69.06607,
+        "y": -17.497696,
+        "name": "COMPUTER"
+      },
+      {
+        "x": 28.708693,
+        "y": 12.596253,
+        "name": "JUDY"
+      }
+    ]
+  }
+}

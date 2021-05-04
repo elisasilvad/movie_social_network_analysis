@@ -1,0 +1,2092 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "SAILOR",
+        "target": "FRANCES",
+        "weight": 1
+      },
+      {
+        "source": "SAILOR",
+        "target": "HARRY",
+        "weight": 1
+      },
+      {
+        "source": "NEIGHBOR",
+        "target": "ERNEST",
+        "weight": 1
+      },
+      {
+        "source": "NEIGHBOR",
+        "target": "OMITTED",
+        "weight": 1
+      },
+      {
+        "source": "NEIGHBOR",
+        "target": "LILLIAN",
+        "weight": 1
+      },
+      {
+        "source": "LAWYER",
+        "target": "OMITTED",
+        "weight": 1
+      },
+      {
+        "source": "LAWYER",
+        "target": "BEBE",
+        "weight": 1
+      },
+      {
+        "source": "STUDIO EXECUTIVE",
+        "target": "FRANCES",
+        "weight": 2
+      },
+      {
+        "source": "STUDIO EXECUTIVE",
+        "target": "REPORTER #1",
+        "weight": 1
+      },
+      {
+        "source": "STUDIO EXECUTIVE",
+        "target": "REPORTER #2",
+        "weight": 1
+      },
+      {
+        "source": "STUDIO EXECUTIVE",
+        "target": "LILLIAN",
+        "weight": 1
+      },
+      {
+        "source": "JUDGE HILLIER'S WIFE",
+        "target": "FRANCES",
+        "weight": 1
+      },
+      {
+        "source": "JUDGE HILLIER'S WIFE",
+        "target": "REPORTER #1",
+        "weight": 1
+      },
+      {
+        "source": "CLAIRE",
+        "target": "BEBE",
+        "weight": 1
+      },
+      {
+        "source": "CLAIRE",
+        "target": "PHOTOGRAPHER",
+        "weight": 1
+      },
+      {
+        "source": "CLAIRE",
+        "target": "FRANCES",
+        "weight": 2
+      },
+      {
+        "source": "CLAIRE",
+        "target": "PUBLICIST",
+        "weight": 1
+      },
+      {
+        "source": "DOCTOR",
+        "target": "FRANCES",
+        "weight": 1
+      },
+      {
+        "source": "DOCTOR",
+        "target": "WOMEN IN WARD",
+        "weight": 1
+      },
+      {
+        "source": "DOCTOR",
+        "target": "HARRY",
+        "weight": 1
+      },
+      {
+        "source": "ODETS",
+        "target": "FRANCES",
+        "weight": 3
+      },
+      {
+        "source": "ODETS",
+        "target": "CLIFFORD",
+        "weight": 1
+      },
+      {
+        "source": "ODETS",
+        "target": "OMITTED",
+        "weight": 1
+      },
+      {
+        "source": "ODETS",
+        "target": "CLURMAN",
+        "weight": 1
+      },
+      {
+        "source": "YOUNG MAN",
+        "target": "FRANCES",
+        "weight": 1
+      },
+      {
+        "source": "YOUNG MAN",
+        "target": "OMITTED",
+        "weight": 1
+      },
+      {
+        "source": "SYMINGTON",
+        "target": "FRANCES",
+        "weight": 2
+      },
+      {
+        "source": "SYMINGTON",
+        "target": "LILLIAN",
+        "weight": 1
+      },
+      {
+        "source": "SYMINGTON",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "SYMINGTON",
+        "target": "ORDERLY",
+        "weight": 1
+      },
+      {
+        "source": "GIRL #1",
+        "target": "GIRL #2",
+        "weight": 1
+      },
+      {
+        "source": "GIRL #1",
+        "target": "DRAMA TEACHER",
+        "weight": 1
+      },
+      {
+        "source": "KAMINSKI",
+        "target": "YORK & CROWD",
+        "weight": 1
+      },
+      {
+        "source": "KAMINSKI",
+        "target": "ANNOUNCER",
+        "weight": 1
+      },
+      {
+        "source": "KAMINSKI",
+        "target": "LILLIAN",
+        "weight": 1
+      },
+      {
+        "source": "BARNES",
+        "target": "CONNIE",
+        "weight": 1
+      },
+      {
+        "source": "BARNES",
+        "target": "FRANCES",
+        "weight": 3
+      },
+      {
+        "source": "BARNES",
+        "target": "YOUNG REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "HITCHHIKER",
+        "target": "FRANCES",
+        "weight": 1
+      },
+      {
+        "source": "DICK",
+        "target": "ERNEST",
+        "weight": 1
+      },
+      {
+        "source": "DICK",
+        "target": "FRANCES",
+        "weight": 1
+      },
+      {
+        "source": "DICK",
+        "target": "LILLIAN",
+        "weight": 1
+      },
+      {
+        "source": "DICK",
+        "target": "REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "DICK",
+        "target": "OMITTED",
+        "weight": 1
+      },
+      {
+        "source": "MATRON",
+        "target": "LILLIAN",
+        "weight": 1
+      },
+      {
+        "source": "SERGEANT",
+        "target": "FRANCES",
+        "weight": 1
+      },
+      {
+        "source": "YORK & CROWD",
+        "target": "ANNOUNCER",
+        "weight": 1
+      },
+      {
+        "source": "YORK & CROWD",
+        "target": "LILLIAN",
+        "weight": 1
+      },
+      {
+        "source": "FRANCES",
+        "target": "MAN #1",
+        "weight": 1
+      },
+      {
+        "source": "FRANCES",
+        "target": "ATTENDANT",
+        "weight": 1
+      },
+      {
+        "source": "FRANCES",
+        "target": "WOMEN IN WARD",
+        "weight": 2
+      },
+      {
+        "source": "FRANCES",
+        "target": "STYLES",
+        "weight": 1
+      },
+      {
+        "source": "FRANCES",
+        "target": "YOUNG REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "FRANCES",
+        "target": "SOLDIER #1",
+        "weight": 1
+      },
+      {
+        "source": "FRANCES",
+        "target": "LILLIAN",
+        "weight": 9
+      },
+      {
+        "source": "FRANCES",
+        "target": "FIRE CHIEF",
+        "weight": 1
+      },
+      {
+        "source": "FRANCES",
+        "target": "CONNIE",
+        "weight": 1
+      },
+      {
+        "source": "FRANCES",
+        "target": "ERNEST",
+        "weight": 6
+      },
+      {
+        "source": "FRANCES",
+        "target": "SOLDIER #2",
+        "weight": 1
+      },
+      {
+        "source": "FRANCES",
+        "target": "THIRD REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "FRANCES",
+        "target": "DIRECTOR",
+        "weight": 2
+      },
+      {
+        "source": "FRANCES",
+        "target": "PHOTOGRAPHER",
+        "weight": 1
+      },
+      {
+        "source": "FRANCES",
+        "target": "THE HALL",
+        "weight": 1
+      },
+      {
+        "source": "FRANCES",
+        "target": "TORA",
+        "weight": 1
+      },
+      {
+        "source": "FRANCES",
+        "target": "REPORTER #2",
+        "weight": 2
+      },
+      {
+        "source": "FRANCES",
+        "target": "CLIFFORD",
+        "weight": 2
+      },
+      {
+        "source": "FRANCES",
+        "target": "STAGE",
+        "weight": 1
+      },
+      {
+        "source": "FRANCES",
+        "target": "VIEW",
+        "weight": 1
+      },
+      {
+        "source": "FRANCES",
+        "target": "JUDGE",
+        "weight": 2
+      },
+      {
+        "source": "FRANCES",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "FRANCES",
+        "target": "MAN",
+        "weight": 2
+      },
+      {
+        "source": "FRANCES",
+        "target": "OMITTED",
+        "weight": 14
+      },
+      {
+        "source": "FRANCES",
+        "target": "DRAMA TEACHER",
+        "weight": 1
+      },
+      {
+        "source": "FRANCES",
+        "target": "NURSE",
+        "weight": 1
+      },
+      {
+        "source": "FRANCES",
+        "target": "DOYLE",
+        "weight": 2
+      },
+      {
+        "source": "FRANCES",
+        "target": "COP",
+        "weight": 1
+      },
+      {
+        "source": "FRANCES",
+        "target": "CHANT",
+        "weight": 1
+      },
+      {
+        "source": "FRANCES",
+        "target": "PROLOGUE",
+        "weight": 1
+      },
+      {
+        "source": "FRANCES",
+        "target": "EDWARDS",
+        "weight": 1
+      },
+      {
+        "source": "FRANCES",
+        "target": "WARDROBE MISTRESS",
+        "weight": 1
+      },
+      {
+        "source": "FRANCES",
+        "target": "DR HARLINGTON",
+        "weight": 1
+      },
+      {
+        "source": "FRANCES",
+        "target": "BEBE",
+        "weight": 3
+      },
+      {
+        "source": "FRANCES",
+        "target": "ORDERLY",
+        "weight": 1
+      },
+      {
+        "source": "FRANCES",
+        "target": "NURSE WITH HYPO",
+        "weight": 1
+      },
+      {
+        "source": "FRANCES",
+        "target": "FIRST REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "FRANCES",
+        "target": "HARRY",
+        "weight": 10
+      },
+      {
+        "source": "FRANCES",
+        "target": "REPORTER #1",
+        "weight": 3
+      },
+      {
+        "source": "FRANCES",
+        "target": "PUBLICIST",
+        "weight": 1
+      },
+      {
+        "source": "FRANCES",
+        "target": "CLURMAN",
+        "weight": 2
+      },
+      {
+        "source": "FRANCES",
+        "target": "TALL SPECTRAL MAN",
+        "weight": 1
+      },
+      {
+        "source": "FRANCES",
+        "target": "REPORTER",
+        "weight": 2
+      },
+      {
+        "source": "TALL SPECTRAL MAN",
+        "target": "FIRST REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "TALL SPECTRAL MAN",
+        "target": "ERNEST",
+        "weight": 1
+      },
+      {
+        "source": "TALL SPECTRAL MAN",
+        "target": "REPORTER #1",
+        "weight": 1
+      },
+      {
+        "source": "TALL SPECTRAL MAN",
+        "target": "REPORTER #2",
+        "weight": 1
+      },
+      {
+        "source": "TALL SPECTRAL MAN",
+        "target": "LILLIAN",
+        "weight": 1
+      },
+      {
+        "source": "MAN #1",
+        "target": "FIRE CHIEF",
+        "weight": 1
+      },
+      {
+        "source": "LILLIAN",
+        "target": "HILLIER",
+        "weight": 1
+      },
+      {
+        "source": "LILLIAN",
+        "target": "ERNEST",
+        "weight": 3
+      },
+      {
+        "source": "LILLIAN",
+        "target": "JUDGE",
+        "weight": 1
+      },
+      {
+        "source": "LILLIAN",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "LILLIAN",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "LILLIAN",
+        "target": "OMITTED",
+        "weight": 2
+      },
+      {
+        "source": "LILLIAN",
+        "target": "ANNOUNCER",
+        "weight": 1
+      },
+      {
+        "source": "LILLIAN",
+        "target": "STYLES",
+        "weight": 1
+      },
+      {
+        "source": "LILLIAN",
+        "target": "NURSE",
+        "weight": 1
+      },
+      {
+        "source": "LILLIAN",
+        "target": "DOYLE",
+        "weight": 1
+      },
+      {
+        "source": "LILLIAN",
+        "target": "HARRY",
+        "weight": 1
+      },
+      {
+        "source": "LILLIAN",
+        "target": "THIRD REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "LILLIAN",
+        "target": "FIRST REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "LILLIAN",
+        "target": "REPORTER #1",
+        "weight": 1
+      },
+      {
+        "source": "LILLIAN",
+        "target": "REPORTER #2",
+        "weight": 1
+      },
+      {
+        "source": "LILLIAN",
+        "target": "EDWARDS",
+        "weight": 1
+      },
+      {
+        "source": "LILLIAN",
+        "target": "REPORTER",
+        "weight": 3
+      },
+      {
+        "source": "ERNEST",
+        "target": "OMITTED",
+        "weight": 2
+      },
+      {
+        "source": "ERNEST",
+        "target": "FIRST REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "ERNEST",
+        "target": "REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "SOLDIER #2",
+        "target": "SOLDIER #1",
+        "weight": 1
+      },
+      {
+        "source": "THIRD REPORTER",
+        "target": "EDWARDS",
+        "weight": 1
+      },
+      {
+        "source": "THIRD REPORTER",
+        "target": "REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "DIRECTOR",
+        "target": "BEBE",
+        "weight": 1
+      },
+      {
+        "source": "STYLES",
+        "target": "HILLIER",
+        "weight": 2
+      },
+      {
+        "source": "STYLES",
+        "target": "DOYLE",
+        "weight": 1
+      },
+      {
+        "source": "STYLES",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "GIRL #2",
+        "target": "DRAMA TEACHER",
+        "weight": 1
+      },
+      {
+        "source": "OLDER NURSE",
+        "target": "OMITTED",
+        "weight": 1
+      },
+      {
+        "source": "OLDER NURSE",
+        "target": "YOUNG NURSE",
+        "weight": 1
+      },
+      {
+        "source": "JUDGE",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "JUDGE",
+        "target": "OMITTED",
+        "weight": 1
+      },
+      {
+        "source": "THE HALL",
+        "target": "DOYLE",
+        "weight": 1
+      },
+      {
+        "source": "THE HALL",
+        "target": "DR HARLINGTON",
+        "weight": 1
+      },
+      {
+        "source": "THE HALL",
+        "target": "STAGE",
+        "weight": 1
+      },
+      {
+        "source": "CLIFFORD",
+        "target": "CLURMAN",
+        "weight": 1
+      },
+      {
+        "source": "PHOTOGRAPHER",
+        "target": "BEBE",
+        "weight": 1
+      },
+      {
+        "source": "PHOTOGRAPHER",
+        "target": "PUBLICIST",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "HILLIER",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "OMITTED",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "HARRY",
+        "weight": 1
+      },
+      {
+        "source": "OMITTED",
+        "target": "FBI MAN",
+        "weight": 1
+      },
+      {
+        "source": "OMITTED",
+        "target": "BEBE",
+        "weight": 2
+      },
+      {
+        "source": "OMITTED",
+        "target": "HARRY",
+        "weight": 7
+      },
+      {
+        "source": "OMITTED",
+        "target": "YOUNG NURSE",
+        "weight": 1
+      },
+      {
+        "source": "OMITTED",
+        "target": "CLURMAN",
+        "weight": 1
+      },
+      {
+        "source": "OMITTED",
+        "target": "COP",
+        "weight": 2
+      },
+      {
+        "source": "OMITTED",
+        "target": "VIEW",
+        "weight": 1
+      },
+      {
+        "source": "DRAMA TEACHER",
+        "target": "HARRY",
+        "weight": 1
+      },
+      {
+        "source": "HILLIER",
+        "target": "DOYLE",
+        "weight": 2
+      },
+      {
+        "source": "REPORTER #2",
+        "target": "REPORTER #1",
+        "weight": 2
+      },
+      {
+        "source": "DOYLE",
+        "target": "STAGE",
+        "weight": 1
+      },
+      {
+        "source": "DOYLE",
+        "target": "DR HARLINGTON",
+        "weight": 1
+      },
+      {
+        "source": "EDWARDS",
+        "target": "REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "WARDROBE MISTRESS",
+        "target": "BEBE",
+        "weight": 1
+      },
+      {
+        "source": "WOMEN IN WARD",
+        "target": "HARRY",
+        "weight": 1
+      },
+      {
+        "source": "FBI MAN",
+        "target": "HARRY",
+        "weight": 1
+      },
+      {
+        "source": "DR HARLINGTON",
+        "target": "STAGE",
+        "weight": 1
+      },
+      {
+        "source": "BEBE",
+        "target": "PUBLICIST",
+        "weight": 1
+      },
+      {
+        "source": "HARRY",
+        "target": "ATTENDANT",
+        "weight": 1
+      },
+      {
+        "source": "HARRY",
+        "target": "VIEW",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "SAILOR",
+        "name": "SAILOR",
+        "color": "#FAD8AD",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.005471255173495954,
+        "object_id": "1931148",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1343283582089554,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NEIGHBOR",
+        "name": "NEIGHBOR",
+        "color": "#5E3C99",
+        "group": 4,
+        "degree": 3,
+        "pagerank": 0.0069313390421448864,
+        "object_id": "1928022",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.4477611940298507,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LAWYER",
+        "name": "LAWYER",
+        "color": "#F2A468",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.00557823864748489,
+        "object_id": "1930087",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.656716417910448,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "STUDIO EXECUTIVE",
+        "name": "STUDIO EXECUTIVE",
+        "color": "#5E3C99",
+        "group": 4,
+        "degree": 4,
+        "pagerank": 0.01056057932899516,
+        "object_id": "1929203",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.029850746268657,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JUDGE HILLIER'S WIFE",
+        "name": "JUDGE HILLIER'S WIFE",
+        "color": "#5E3C99",
+        "group": 4,
+        "degree": 2,
+        "pagerank": 0.005581737865079927,
+        "object_id": "1929270",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1492537313432836,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CLAIRE",
+        "name": "CLAIRE",
+        "color": "#F2A468",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.011436035307097261,
+        "object_id": "1928646",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1044776119402986,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOCTOR",
+        "name": "DOCTOR",
+        "color": "#FAD8AD",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.007435005416149761,
+        "object_id": "1933591",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1194029850746268,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ODETS",
+        "name": "ODETS",
+        "color": "#A795C7",
+        "group": 5,
+        "degree": 4,
+        "pagerank": 0.01255759473583721,
+        "object_id": "1929835",
+        "triangles": 5,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.044776119402985,
+        "betweenness centrality": 1.7000000000000002,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "YOUNG MAN",
+        "name": "YOUNG MAN",
+        "color": "#A795C7",
+        "group": 5,
+        "degree": 2,
+        "pagerank": 0.005444748647313875,
+        "object_id": "1930160",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.074626865671642,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SYMINGTON",
+        "name": "SYMINGTON",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.011420989309023782,
+        "object_id": "1931792",
+        "triangles": 4,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.029850746268657,
+        "betweenness centrality": 3.45,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GIRL #1",
+        "name": "GIRL #1",
+        "color": "#FAD8AD",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.00855632385316259,
+        "object_id": "1928130",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.044776119402985,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KAMINSKI",
+        "name": "KAMINSKI",
+        "color": "#5E3C99",
+        "group": 4,
+        "degree": 3,
+        "pagerank": 0.00879112289342135,
+        "object_id": "1927465",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5970149253731343,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BARNES",
+        "name": "BARNES",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.012255241996299127,
+        "object_id": "1930623",
+        "triangles": 2,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1343283582089554,
+        "betweenness centrality": 0.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HITCHHIKER",
+        "name": "HITCHHIKER",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.0038691585468696556,
+        "object_id": "1933954",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1641791044776117,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DICK",
+        "name": "DICK",
+        "color": "#5E3C99",
+        "group": 4,
+        "degree": 5,
+        "pagerank": 0.010244963942316549,
+        "object_id": "1929153",
+        "triangles": 9,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.955223880597015,
+        "betweenness centrality": 1.1166666666666667,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MATRON",
+        "name": "MATRON",
+        "color": "#5E3C99",
+        "group": 4,
+        "degree": 1,
+        "pagerank": 0.0038094265742674538,
+        "object_id": "1932011",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.626865671641791,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SERGEANT",
+        "name": "SERGEANT",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.0038691585468696556,
+        "object_id": "1931414",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1641791044776117,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "YORK & CROWD",
+        "name": "YORK & CROWD",
+        "color": "#5E3C99",
+        "group": 4,
+        "degree": 3,
+        "pagerank": 0.00879112289342135,
+        "object_id": "1927469",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5970149253731343,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FRANCES",
+        "name": "FRANCES",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 55,
+        "pagerank": 0.21525342593744864,
+        "object_id": "1927304",
+        "triangles": 79,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.1791044776119404,
+        "betweenness centrality": 1657.3214285714284,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TALL SPECTRAL MAN",
+        "name": "TALL SPECTRAL MAN",
+        "color": "#5E3C99",
+        "group": 4,
+        "degree": 6,
+        "pagerank": 0.012305530936375306,
+        "object_id": "1928480",
+        "triangles": 11,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 1.3333333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAN #1",
+        "name": "MAN #1",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.006728907393834114,
+        "object_id": "1928813",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1492537313432836,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LILLIAN",
+        "name": "LILLIAN",
+        "color": "#5E3C99",
+        "group": 4,
+        "degree": 26,
+        "pagerank": 0.07357687283843128,
+        "object_id": "1927530",
+        "triangles": 51,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.6417910447761195,
+        "betweenness centrality": 397.4952380952383,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FIRE CHIEF",
+        "name": "FIRE CHIEF",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.006728907393834114,
+        "object_id": "1928778",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1492537313432836,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CONNIE",
+        "name": "CONNIE",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.005952522039243848,
+        "object_id": "1930680",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1492537313432836,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ERNEST",
+        "name": "ERNEST",
+        "color": "#5E3C99",
+        "group": 4,
+        "degree": 8,
+        "pagerank": 0.02910819148300538,
+        "object_id": "1927391",
+        "triangles": 16,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9104477611940298,
+        "betweenness centrality": 15.949999999999996,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SOLDIER #2",
+        "name": "SOLDIER #2",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.006728907393834114,
+        "object_id": "1934225",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1492537313432836,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THIRD REPORTER",
+        "name": "THIRD REPORTER",
+        "color": "#5E3C99",
+        "group": 4,
+        "degree": 4,
+        "pagerank": 0.009045058963316954,
+        "object_id": "1934442",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.029850746268657,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DIRECTOR",
+        "name": "DIRECTOR",
+        "color": "#F2A468",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.007329200934897627,
+        "object_id": "1930581",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1343283582089554,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "STYLES",
+        "name": "STYLES",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.012595470922119125,
+        "object_id": "1927756",
+        "triangles": 8,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.014925373134328,
+        "betweenness centrality": 8.026190476190475,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GIRL #2",
+        "name": "GIRL #2",
+        "color": "#FAD8AD",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.00855632385316259,
+        "object_id": "1928133",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.044776119402985,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OLDER NURSE",
+        "name": "OLDER NURSE",
+        "color": "#A795C7",
+        "group": 5,
+        "degree": 2,
+        "pagerank": 0.0065763697664630765,
+        "object_id": "1934255",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.7313432835820897,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JUDGE",
+        "name": "JUDGE",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.010469378755331736,
+        "object_id": "1931481",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9701492537313432,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THE HALL",
+        "name": "THE HALL",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.009811049910657349,
+        "object_id": "1934312",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1044776119402986,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TORA",
+        "name": "TORA",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.0038691585468696556,
+        "object_id": "1931291",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1641791044776117,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CLIFFORD",
+        "name": "CLIFFORD",
+        "color": "#A795C7",
+        "group": 5,
+        "degree": 3,
+        "pagerank": 0.009152759970868478,
+        "object_id": "1929976",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1343283582089554,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NURSE WITH HYPO",
+        "name": "NURSE WITH HYPO",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.0038691585468696556,
+        "object_id": "1932073",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1641791044776117,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PHOTOGRAPHER",
+        "name": "PHOTOGRAPHER",
+        "color": "#F2A468",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.009663420688967129,
+        "object_id": "1928608",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1044776119402986,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FIRST REPORTER",
+        "name": "FIRST REPORTER",
+        "color": "#5E3C99",
+        "group": 4,
+        "degree": 4,
+        "pagerank": 0.008762228482394992,
+        "object_id": "1928539",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.029850746268657,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WOMAN",
+        "name": "WOMAN",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 6,
+        "pagerank": 0.012408608469751246,
+        "object_id": "1927444",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9402985074626866,
+        "betweenness centrality": 13.369047619047613,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAN",
+        "name": "MAN",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.010679596953664156,
+        "object_id": "1927567",
+        "triangles": 5,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.014925373134328,
+        "betweenness centrality": 0.5333333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OMITTED",
+        "name": "OMITTED",
+        "color": "#A795C7",
+        "group": 5,
+        "degree": 18,
+        "pagerank": 0.07600014590712616,
+        "object_id": "1928028",
+        "triangles": 26,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7611940298507462,
+        "betweenness centrality": 265.602380952381,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANNOUNCER",
+        "name": "ANNOUNCER",
+        "color": "#5E3C99",
+        "group": 4,
+        "degree": 3,
+        "pagerank": 0.00879112289342135,
+        "object_id": "1927505",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5970149253731343,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DRAMA TEACHER",
+        "name": "DRAMA TEACHER",
+        "color": "#FAD8AD",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.012749863465411165,
+        "object_id": "1928113",
+        "triangles": 2,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.074626865671642,
+        "betweenness centrality": 130.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NURSE",
+        "name": "NURSE",
+        "color": "#5E3C99",
+        "group": 4,
+        "degree": 2,
+        "pagerank": 0.0054727027681959325,
+        "object_id": "1932029",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0597014925373136,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HILLIER",
+        "name": "HILLIER",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.012680524782185282,
+        "object_id": "1927736",
+        "triangles": 5,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.537313432835821,
+        "betweenness centrality": 0.25,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REPORTER #2",
+        "name": "REPORTER #2",
+        "color": "#5E3C99",
+        "group": 4,
+        "degree": 5,
+        "pagerank": 0.0140995794791959,
+        "object_id": "1928452",
+        "triangles": 9,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.014925373134328,
+        "betweenness centrality": 0.25,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOYLE",
+        "name": "DOYLE",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 7,
+        "pagerank": 0.018767128306074993,
+        "object_id": "1933190",
+        "triangles": 11,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9850746268656716,
+        "betweenness centrality": 20.52619047619048,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SOLDIER #1",
+        "name": "SOLDIER #1",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.006728907393834114,
+        "object_id": "1934221",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1492537313432836,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COP",
+        "name": "COP",
+        "color": "#A795C7",
+        "group": 5,
+        "degree": 2,
+        "pagerank": 0.007020338747758096,
+        "object_id": "1930895",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.074626865671642,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CHANT",
+        "name": "CHANT",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.0038691585468696556,
+        "object_id": "1933518",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1641791044776117,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PROLOGUE",
+        "name": "PROLOGUE",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.0038691585468696556,
+        "object_id": "1927315",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1641791044776117,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "EDWARDS",
+        "name": "EDWARDS",
+        "color": "#5E3C99",
+        "group": 4,
+        "degree": 4,
+        "pagerank": 0.009045058963316956,
+        "object_id": "1934477",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.029850746268657,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WARDROBE MISTRESS",
+        "name": "WARDROBE MISTRESS",
+        "color": "#F2A468",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.005665924740969149,
+        "object_id": "1928995",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1343283582089554,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WOMEN IN WARD",
+        "name": "WOMEN IN WARD",
+        "color": "#FAD8AD",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.009241122048828609,
+        "object_id": "1933668",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1194029850746268,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FBI MAN",
+        "name": "FBI MAN",
+        "color": "#FAD8AD",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.005383569080011695,
+        "object_id": "1932798",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.611940298507463,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DR HARLINGTON",
+        "name": "DR HARLINGTON",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.009811049910657349,
+        "object_id": "1934325",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1044776119402986,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BEBE",
+        "name": "BEBE",
+        "color": "#F2A468",
+        "group": 2,
+        "degree": 8,
+        "pagerank": 0.023253062876723376,
+        "object_id": "1928649",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9850746268656716,
+        "betweenness centrality": 34.866666666666674,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ORDERLY",
+        "name": "ORDERLY",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.005810679911783101,
+        "object_id": "1932303",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1492537313432836,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REPORTER",
+        "name": "REPORTER",
+        "color": "#5E3C99",
+        "group": 4,
+        "degree": 6,
+        "pagerank": 0.01747498277428047,
+        "object_id": "1929163",
+        "triangles": 11,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 1.3333333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "STAGE",
+        "name": "STAGE",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.009811049910657349,
+        "object_id": "1928578",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1044776119402986,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PUBLICIST",
+        "name": "PUBLICIST",
+        "color": "#F2A468",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.009663420688967127,
+        "object_id": "1928613",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1044776119402986,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HARRY",
+        "name": "HARRY",
+        "color": "#FAD8AD",
+        "group": 0,
+        "degree": 11,
+        "pagerank": 0.04900354485382136,
+        "object_id": "1927576",
+        "triangles": 14,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.835820895522388,
+        "betweenness centrality": 81.97619047619047,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REPORTER #1",
+        "name": "REPORTER #1",
+        "color": "#5E3C99",
+        "group": 4,
+        "degree": 6,
+        "pagerank": 0.018133921179680046,
+        "object_id": "1928445",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 4.7,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "YOUNG NURSE",
+        "name": "YOUNG NURSE",
+        "color": "#A795C7",
+        "group": 5,
+        "degree": 2,
+        "pagerank": 0.006576369766463077,
+        "object_id": "1934260",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.7313432835820897,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CLURMAN",
+        "name": "CLURMAN",
+        "color": "#A795C7",
+        "group": 5,
+        "degree": 4,
+        "pagerank": 0.010831897069626948,
+        "object_id": "1929810",
+        "triangles": 5,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.044776119402985,
+        "betweenness centrality": 1.7000000000000002,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "YOUNG REPORTER",
+        "name": "YOUNG REPORTER",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.005952522039243848,
+        "object_id": "1930750",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1492537313432836,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ATTENDANT",
+        "name": "ATTENDANT",
+        "color": "#FAD8AD",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.005471255173495953,
+        "object_id": "1932371",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1343283582089554,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "VIEW",
+        "name": "VIEW",
+        "color": "#FAD8AD",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.007046845273940174,
+        "object_id": "1930981",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0597014925373136,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": 76.77017,
+        "y": -101.61606,
+        "name": "SAILOR"
+      },
+      {
+        "x": -91.918015,
+        "y": 20.594828,
+        "name": "NEIGHBOR"
+      },
+      {
+        "x": -198.69482,
+        "y": -55.079456,
+        "name": "LAWYER"
+      },
+      {
+        "x": 101.08991,
+        "y": -73.64578,
+        "name": "STUDIO EXECUTIVE"
+      },
+      {
+        "x": -53.023903,
+        "y": -178.29083,
+        "name": "JUDGE HILLIER'S WIFE"
+      },
+      {
+        "x": -119.350945,
+        "y": -170.23409,
+        "name": "CLAIRE"
+      },
+      {
+        "x": -83.21138,
+        "y": -130.2967,
+        "name": "DOCTOR"
+      },
+      {
+        "x": -98.776215,
+        "y": 103.21103,
+        "name": "ODETS"
+      },
+      {
+        "x": -149.87862,
+        "y": 140.60281,
+        "name": "YOUNG MAN"
+      },
+      {
+        "x": 88.44797,
+        "y": -145.8303,
+        "name": "SYMINGTON"
+      },
+      {
+        "x": 121.98076,
+        "y": 398.091,
+        "name": "GIRL #1"
+      },
+      {
+        "x": 354.2434,
+        "y": 157.77512,
+        "name": "KAMINSKI"
+      },
+      {
+        "x": 18.191671,
+        "y": -163.24374,
+        "name": "BARNES"
+      },
+      {
+        "x": 162.37651,
+        "y": -99.20143,
+        "name": "HITCHHIKER"
+      },
+      {
+        "x": 51.129692,
+        "y": 148.56487,
+        "name": "DICK"
+      },
+      {
+        "x": 225.54335,
+        "y": -88.37762,
+        "name": "MATRON"
+      },
+      {
+        "x": 145.49072,
+        "y": -132.88223,
+        "name": "SERGEANT"
+      },
+      {
+        "x": 313.5342,
+        "y": 168.04724,
+        "name": "YORK & CROWD"
+      },
+      {
+        "x": 3.4676194,
+        "y": -12.346001,
+        "name": "FRANCES"
+      },
+      {
+        "x": -73.43136,
+        "y": -53.894966,
+        "name": "TALL SPECTRAL MAN"
+      },
+      {
+        "x": -255.3302,
+        "y": -59.447,
+        "name": "MAN #1"
+      },
+      {
+        "x": 115.47936,
+        "y": 41.97968,
+        "name": "LILLIAN"
+      },
+      {
+        "x": -249.70805,
+        "y": -21.324757,
+        "name": "FIRE CHIEF"
+      },
+      {
+        "x": -2.7111151,
+        "y": -224.53375,
+        "name": "CONNIE"
+      },
+      {
+        "x": 21.103678,
+        "y": 75.10922,
+        "name": "ERNEST"
+      },
+      {
+        "x": -203.93324,
+        "y": 20.10147,
+        "name": "SOLDIER #2"
+      },
+      {
+        "x": 228.80042,
+        "y": 43.882698,
+        "name": "THIRD REPORTER"
+      },
+      {
+        "x": 31.45277,
+        "y": 34.72428,
+        "name": "DIRECTOR"
+      },
+      {
+        "x": 179.35672,
+        "y": 170.47354,
+        "name": "STYLES"
+      },
+      {
+        "x": 157.79901,
+        "y": 384.5046,
+        "name": "GIRL #2"
+      },
+      {
+        "x": -76.02195,
+        "y": 274.21103,
+        "name": "OLDER NURSE"
+      },
+      {
+        "x": 80.64819,
+        "y": 5.3763914,
+        "name": "JUDGE"
+      },
+      {
+        "x": 303.3917,
+        "y": -1.6050124,
+        "name": "THE HALL"
+      },
+      {
+        "x": 164.29378,
+        "y": -29.355024,
+        "name": "TORA"
+      },
+      {
+        "x": -61.949795,
+        "y": 144.1492,
+        "name": "CLIFFORD"
+      },
+      {
+        "x": 41.005447,
+        "y": -201.8941,
+        "name": "NURSE WITH HYPO"
+      },
+      {
+        "x": -143.07355,
+        "y": -218.69899,
+        "name": "PHOTOGRAPHER"
+      },
+      {
+        "x": -125.64281,
+        "y": 10.919143,
+        "name": "FIRST REPORTER"
+      },
+      {
+        "x": 115.23664,
+        "y": 162.31438,
+        "name": "WOMAN"
+      },
+      {
+        "x": 46.40333,
+        "y": -123.58711,
+        "name": "MAN"
+      },
+      {
+        "x": -48.52296,
+        "y": 79.2346,
+        "name": "OMITTED"
+      },
+      {
+        "x": 333.9677,
+        "y": 120.70217,
+        "name": "ANNOUNCER"
+      },
+      {
+        "x": 68.44946,
+        "y": 276.7889,
+        "name": "DRAMA TEACHER"
+      },
+      {
+        "x": 149.49428,
+        "y": -58.22953,
+        "name": "NURSE"
+      },
+      {
+        "x": 224.07704,
+        "y": 171.22058,
+        "name": "HILLIER"
+      },
+      {
+        "x": 41.10956,
+        "y": -84.980064,
+        "name": "REPORTER #2"
+      },
+      {
+        "x": 232.9164,
+        "y": 92.24187,
+        "name": "DOYLE"
+      },
+      {
+        "x": -206.76277,
+        "y": -14.703956,
+        "name": "SOLDIER #1"
+      },
+      {
+        "x": -122.53347,
+        "y": 67.971825,
+        "name": "COP"
+      },
+      {
+        "x": -165.23358,
+        "y": -149.48273,
+        "name": "CHANT"
+      },
+      {
+        "x": -10.38222,
+        "y": 170.74246,
+        "name": "PROLOGUE"
+      },
+      {
+        "x": 190.1823,
+        "y": 45.7788,
+        "name": "EDWARDS"
+      },
+      {
+        "x": -179.94862,
+        "y": -112.59584,
+        "name": "WARDROBE MISTRESS"
+      },
+      {
+        "x": -63.061043,
+        "y": -96.33945,
+        "name": "WOMEN IN WARD"
+      },
+      {
+        "x": -82.73497,
+        "y": 189.62015,
+        "name": "FBI MAN"
+      },
+      {
+        "x": 260.7749,
+        "y": 0.9844552,
+        "name": "DR HARLINGTON"
+      },
+      {
+        "x": -128.93217,
+        "y": -87.91305,
+        "name": "BEBE"
+      },
+      {
+        "x": 98.0649,
+        "y": -211.14314,
+        "name": "ORDERLY"
+      },
+      {
+        "x": 136.46167,
+        "y": 99.71331,
+        "name": "REPORTER"
+      },
+      {
+        "x": 271.45154,
+        "y": -41.77043,
+        "name": "STAGE"
+      },
+      {
+        "x": -97.72256,
+        "y": -225.10956,
+        "name": "PUBLICIST"
+      },
+      {
+        "x": -52.90501,
+        "y": 28.32181,
+        "name": "HARRY"
+      },
+      {
+        "x": -1.5264522,
+        "y": -113.27524,
+        "name": "REPORTER #1"
+      },
+      {
+        "x": -114.8458,
+        "y": 268.63925,
+        "name": "YOUNG NURSE"
+      },
+      {
+        "x": -104.56703,
+        "y": 146.34273,
+        "name": "CLURMAN"
+      },
+      {
+        "x": 114.98258,
+        "y": -176.49435,
+        "name": "YOUNG REPORTER"
+      },
+      {
+        "x": -173.91745,
+        "y": 52.627106,
+        "name": "ATTENDANT"
+      },
+      {
+        "x": -156.91168,
+        "y": 95.38765,
+        "name": "VIEW"
+      }
+    ]
+  }
+}

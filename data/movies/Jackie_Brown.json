@@ -1,0 +1,790 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "ORDELL",
+        "target": "NICOLET",
+        "weight": 1
+      },
+      {
+        "source": "ORDELL",
+        "target": "ORDEL",
+        "weight": 1
+      },
+      {
+        "source": "ORDELL",
+        "target": "DARGUS",
+        "weight": 1
+      },
+      {
+        "source": "ORDELL",
+        "target": "MACHINE VOICE",
+        "weight": 1
+      },
+      {
+        "source": "ORDELL",
+        "target": "BEAUMONT",
+        "weight": 1
+      },
+      {
+        "source": "ORDELL",
+        "target": "JACKIE",
+        "weight": 8
+      },
+      {
+        "source": "ORDELL",
+        "target": "WINSTON",
+        "weight": 2
+      },
+      {
+        "source": "ORDELL",
+        "target": "FLOYD",
+        "weight": 1
+      },
+      {
+        "source": "ORDELL",
+        "target": "NICOLE",
+        "weight": 1
+      },
+      {
+        "source": "ORDELL",
+        "target": "MAX",
+        "weight": 5
+      },
+      {
+        "source": "ORDELL",
+        "target": "BARTENDER",
+        "weight": 1
+      },
+      {
+        "source": "ORDELL",
+        "target": "LOUIS",
+        "weight": 9
+      },
+      {
+        "source": "ORDELL",
+        "target": "MELANIE",
+        "weight": 5
+      },
+      {
+        "source": "DARGUS",
+        "target": "NICOLET",
+        "weight": 4
+      },
+      {
+        "source": "DARGUS",
+        "target": "ORDEL",
+        "weight": 1
+      },
+      {
+        "source": "DARGUS",
+        "target": "JUDGE",
+        "weight": 1
+      },
+      {
+        "source": "DARGUS",
+        "target": "NICOLE",
+        "weight": 1
+      },
+      {
+        "source": "DARGUS",
+        "target": "MAX",
+        "weight": 1
+      },
+      {
+        "source": "DARGUS",
+        "target": "MELANIE",
+        "weight": 1
+      },
+      {
+        "source": "DARGUS",
+        "target": "LOUIS",
+        "weight": 1
+      },
+      {
+        "source": "DARGUS",
+        "target": "PUBLIC DEFENDER",
+        "weight": 1
+      },
+      {
+        "source": "DARGUS",
+        "target": "JACKIE",
+        "weight": 4
+      },
+      {
+        "source": "MACHINE VOICE",
+        "target": "JACKIE",
+        "weight": 1
+      },
+      {
+        "source": "MACHINE VOICE",
+        "target": "MAX",
+        "weight": 1
+      },
+      {
+        "source": "NICOLE",
+        "target": "NICOLET",
+        "weight": 1
+      },
+      {
+        "source": "NICOLE",
+        "target": "MELANIE",
+        "weight": 1
+      },
+      {
+        "source": "NICOLE",
+        "target": "LOUIS",
+        "weight": 1
+      },
+      {
+        "source": "NICOLE",
+        "target": "JACKIE",
+        "weight": 1
+      },
+      {
+        "source": "ORDEL",
+        "target": "NICOLET",
+        "weight": 1
+      },
+      {
+        "source": "ORDEL",
+        "target": "JACKIE",
+        "weight": 1
+      },
+      {
+        "source": "NICOLET",
+        "target": "MELANIE",
+        "weight": 1
+      },
+      {
+        "source": "NICOLET",
+        "target": "LOUIS",
+        "weight": 1
+      },
+      {
+        "source": "NICOLET",
+        "target": "JACKIE",
+        "weight": 6
+      },
+      {
+        "source": "WANDA",
+        "target": "JACKIE",
+        "weight": 1
+      },
+      {
+        "source": "WANDA",
+        "target": "MELANIE",
+        "weight": 1
+      },
+      {
+        "source": "AMY",
+        "target": "MAX",
+        "weight": 1
+      },
+      {
+        "source": "AMY",
+        "target": "SALESGIRL",
+        "weight": 1
+      },
+      {
+        "source": "AMY",
+        "target": "JACKIE",
+        "weight": 2
+      },
+      {
+        "source": "ANITA",
+        "target": "MAX",
+        "weight": 2
+      },
+      {
+        "source": "ANITA",
+        "target": "SHERIFF",
+        "weight": 1
+      },
+      {
+        "source": "ANITA",
+        "target": "JACKIE",
+        "weight": 1
+      },
+      {
+        "source": "MELANI",
+        "target": "LOUIS",
+        "weight": 1
+      },
+      {
+        "source": "MELANI",
+        "target": "MELANIE",
+        "weight": 1
+      },
+      {
+        "source": "MELANIE",
+        "target": "LOUIS",
+        "weight": 5
+      },
+      {
+        "source": "MELANIE",
+        "target": "JACKIE",
+        "weight": 4
+      },
+      {
+        "source": "PASSENGER",
+        "target": "JACKIE",
+        "weight": 1
+      },
+      {
+        "source": "FLOYD",
+        "target": "JACKIE",
+        "weight": 1
+      },
+      {
+        "source": "SHERONDA",
+        "target": "YOUNG GIRL",
+        "weight": 1
+      },
+      {
+        "source": "SHERONDA",
+        "target": "JACKIE",
+        "weight": 1
+      },
+      {
+        "source": "PUBLIC DEFENDER",
+        "target": "JUDGE",
+        "weight": 1
+      },
+      {
+        "source": "PUBLIC DEFENDER",
+        "target": "JACKIE",
+        "weight": 1
+      },
+      {
+        "source": "JACKIE",
+        "target": "YOUNG GIRL",
+        "weight": 1
+      },
+      {
+        "source": "JACKIE",
+        "target": "JUDGE",
+        "weight": 1
+      },
+      {
+        "source": "JACKIE",
+        "target": "SALESGIRL",
+        "weight": 1
+      },
+      {
+        "source": "JACKIE",
+        "target": "MAX",
+        "weight": 7
+      },
+      {
+        "source": "JACKIE",
+        "target": "LOUIS",
+        "weight": 3
+      },
+      {
+        "source": "JACKIE",
+        "target": "SHERIFF",
+        "weight": 1
+      },
+      {
+        "source": "WINSTON",
+        "target": "MAX",
+        "weight": 2
+      },
+      {
+        "source": "SALESGIRL",
+        "target": "MAX",
+        "weight": 1
+      },
+      {
+        "source": "MAX",
+        "target": "LOUIS",
+        "weight": 1
+      },
+      {
+        "source": "MAX",
+        "target": "SHERIFF",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "ORDELL",
+        "name": "ORDELL",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 13,
+        "pagerank": 0.14502162465547885,
+        "object_id": "2758359",
+        "triangles": 25,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.4583333333333333,
+        "betweenness centrality": 65.48333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DARGUS",
+        "name": "DARGUS",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 10,
+        "pagerank": 0.06440148655798533,
+        "object_id": "2759761",
+        "triangles": 24,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.5833333333333333,
+        "betweenness centrality": 13.083333333333332,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MACHINE VOICE",
+        "name": "MACHINE VOICE",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.01629136636162233,
+        "object_id": "2763003",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9166666666666667,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BEAUMONT",
+        "name": "BEAUMONT",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.009331649900440143,
+        "object_id": "2759124",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.4166666666666665,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NICOLE",
+        "name": "NICOLE",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.025987023104190515,
+        "object_id": "2762143",
+        "triangles": 15,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.75,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ORDEL",
+        "name": "ORDEL",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.019527528265389536,
+        "object_id": "2764135",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.875,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NICOLET",
+        "name": "NICOLET",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 7,
+        "pagerank": 0.0581752392819538,
+        "object_id": "2759772",
+        "triangles": 18,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7083333333333333,
+        "betweenness centrality": 1.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WANDA",
+        "name": "WANDA",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.01276776139906997,
+        "object_id": "2764455",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0416666666666665,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "AMY",
+        "name": "AMY",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.021398128432605756,
+        "object_id": "2765384",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANITA",
+        "name": "ANITA",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.021402124474558082,
+        "object_id": "2760593",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MELANI",
+        "name": "MELANI",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.012459494838800982,
+        "object_id": "2762761",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.5416666666666665,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MELANIE",
+        "name": "MELANIE",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 8,
+        "pagerank": 0.07353947005248326,
+        "object_id": "2758455",
+        "triangles": 17,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.6666666666666667,
+        "betweenness centrality": 13.899999999999999,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PASSENGER",
+        "name": "PASSENGER",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.009477962001739849,
+        "object_id": "2765048",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.125,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FLOYD",
+        "name": "FLOYD",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.012809611902179992,
+        "object_id": "2762632",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9583333333333333,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SHERONDA",
+        "name": "SHERONDA",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.01648456778191233,
+        "object_id": "2763818",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0833333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PUBLIC DEFENDER",
+        "name": "PUBLIC DEFENDER",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.017999083930016414,
+        "object_id": "2760199",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0416666666666665,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JACKIE",
+        "name": "JACKIE",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 20,
+        "pagerank": 0.19230825545212613,
+        "object_id": "2758248",
+        "triangles": 35,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.1666666666666667,
+        "betweenness centrality": 148.48333333333332,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WINSTON",
+        "name": "WINSTON",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.019626808719764965,
+        "object_id": "2765234",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.2083333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "YOUNG GIRL",
+        "name": "YOUNG GIRL",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.01648456778191233,
+        "object_id": "2763753",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0833333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JUDGE",
+        "name": "JUDGE",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.017999083930016414,
+        "object_id": "2760247",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0416666666666665,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SALESGIRL",
+        "name": "SALESGIRL",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.017506922513466455,
+        "object_id": "2765882",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAX",
+        "name": "MAX",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 10,
+        "pagerank": 0.09011665197357868,
+        "object_id": "2758725",
+        "triangles": 15,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.5833333333333333,
+        "betweenness centrality": 25.366666666666667,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BARTENDER",
+        "name": "BARTENDER",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.009331649900440143,
+        "object_id": "2766030",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.4166666666666665,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LOUIS",
+        "name": "LOUIS",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 8,
+        "pagerank": 0.08204409771816669,
+        "object_id": "2758421",
+        "triangles": 19,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.6666666666666667,
+        "betweenness centrality": 12.683333333333335,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SHERIFF",
+        "name": "SHERIFF",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.017507839070101037,
+        "object_id": "2760691",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": 20.129543,
+        "y": 22.409555,
+        "name": "ORDELL"
+      },
+      {
+        "x": 16.015944,
+        "y": -81.47656,
+        "name": "DARGUS"
+      },
+      {
+        "x": 45.393925,
+        "y": 110.69841,
+        "name": "MACHINE VOICE"
+      },
+      {
+        "x": -134.89676,
+        "y": -7.4806604,
+        "name": "BEAUMONT"
+      },
+      {
+        "x": 95.59453,
+        "y": 27.403631,
+        "name": "NICOLE"
+      },
+      {
+        "x": 108.43871,
+        "y": -68.652565,
+        "name": "ORDEL"
+      },
+      {
+        "x": 54.18357,
+        "y": -47.546062,
+        "name": "NICOLET"
+      },
+      {
+        "x": -129.73857,
+        "y": 45.37438,
+        "name": "WANDA"
+      },
+      {
+        "x": -72.324104,
+        "y": 66.18251,
+        "name": "AMY"
+      },
+      {
+        "x": 67.19039,
+        "y": 0.5427461,
+        "name": "ANITA"
+      },
+      {
+        "x": -68.835724,
+        "y": -82.21364,
+        "name": "MELANI"
+      },
+      {
+        "x": -50.14992,
+        "y": -4.1214547,
+        "name": "MELANIE"
+      },
+      {
+        "x": 85.48221,
+        "y": 119.42555,
+        "name": "PASSENGER"
+      },
+      {
+        "x": 74.71683,
+        "y": -105.210495,
+        "name": "FLOYD"
+      },
+      {
+        "x": -85.67024,
+        "y": -166.15576,
+        "name": "SHERONDA"
+      },
+      {
+        "x": -92.945335,
+        "y": -116.45369,
+        "name": "PUBLIC DEFENDER"
+      },
+      {
+        "x": -1.1512705,
+        "y": -21.66429,
+        "name": "JACKIE"
+      },
+      {
+        "x": -0.804799,
+        "y": 110.37909,
+        "name": "WINSTON"
+      },
+      {
+        "x": -44.660694,
+        "y": -179.34512,
+        "name": "YOUNG GIRL"
+      },
+      {
+        "x": -112.65328,
+        "y": -78.13994,
+        "name": "JUDGE"
+      },
+      {
+        "x": -99.24572,
+        "y": 27.32032,
+        "name": "SALESGIRL"
+      },
+      {
+        "x": 4.6997786,
+        "y": 64.35289,
+        "name": "MAX"
+      },
+      {
+        "x": -35.658794,
+        "y": -126.60867,
+        "name": "BARTENDER"
+      },
+      {
+        "x": -24.936045,
+        "y": 27.618462,
+        "name": "LOUIS"
+      },
+      {
+        "x": -45.431145,
+        "y": -54.519302,
+        "name": "SHERIFF"
+      }
+    ]
+  }
+}

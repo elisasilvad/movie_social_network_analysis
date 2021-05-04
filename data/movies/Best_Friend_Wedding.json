@@ -1,0 +1,811 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "SAMMY",
+        "target": "ISABELLE",
+        "weight": 1
+      },
+      {
+        "source": "SAMMY",
+        "target": "FLOWER GIRL",
+        "weight": 1
+      },
+      {
+        "source": "SAMMY",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "SAMMY",
+        "target": "MICHAEL",
+        "weight": 1
+      },
+      {
+        "source": "SAMMY",
+        "target": "KIMMY",
+        "weight": 1
+      },
+      {
+        "source": "SAMMY",
+        "target": "MINISTER",
+        "weight": 1
+      },
+      {
+        "source": "SAMMY",
+        "target": "JANITOR",
+        "weight": 1
+      },
+      {
+        "source": "SAMMY",
+        "target": "MANDY",
+        "weight": 3
+      },
+      {
+        "source": "SAMMY",
+        "target": "JULIANNE",
+        "weight": 4
+      },
+      {
+        "source": "WOMAN",
+        "target": "ISABELLE",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "MANDY",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "JULIANNE",
+        "weight": 2
+      },
+      {
+        "source": "WOMAN",
+        "target": "KIMMY",
+        "weight": 2
+      },
+      {
+        "source": "MICHAEL",
+        "target": "DIGGER",
+        "weight": 2
+      },
+      {
+        "source": "MICHAEL",
+        "target": "CAPTAIN",
+        "weight": 1
+      },
+      {
+        "source": "MICHAEL",
+        "target": "JOE",
+        "weight": 1
+      },
+      {
+        "source": "MICHAEL",
+        "target": "FIELD MAN",
+        "weight": 1
+      },
+      {
+        "source": "MICHAEL",
+        "target": "KIMMY",
+        "weight": 4
+      },
+      {
+        "source": "MICHAEL",
+        "target": "STONERS",
+        "weight": 1
+      },
+      {
+        "source": "MICHAEL",
+        "target": "MINISTER",
+        "weight": 2
+      },
+      {
+        "source": "MICHAEL",
+        "target": "JULIANNE",
+        "weight": 10
+      },
+      {
+        "source": "MICHAEL",
+        "target": "BELLMAN",
+        "weight": 1
+      },
+      {
+        "source": "MICHAEL",
+        "target": "YOUNGER FIELD MAN",
+        "weight": 1
+      },
+      {
+        "source": "MICHAEL",
+        "target": "WALTER",
+        "weight": 1
+      },
+      {
+        "source": "MICHAEL",
+        "target": "TEENAGER",
+        "weight": 1
+      },
+      {
+        "source": "MICHAEL",
+        "target": "MANDY",
+        "weight": 1
+      },
+      {
+        "source": "MICHAEL",
+        "target": "BODYGUARD",
+        "weight": 1
+      },
+      {
+        "source": "MICHAEL",
+        "target": "DISPATCHER",
+        "weight": 1
+      },
+      {
+        "source": "KIMMY",
+        "target": "ISABELLE",
+        "weight": 1
+      },
+      {
+        "source": "KIMMY",
+        "target": "MR MOONEY",
+        "weight": 1
+      },
+      {
+        "source": "KIMMY",
+        "target": "MINISTER",
+        "weight": 2
+      },
+      {
+        "source": "KIMMY",
+        "target": "WALTER",
+        "weight": 1
+      },
+      {
+        "source": "KIMMY",
+        "target": "MANDY",
+        "weight": 1
+      },
+      {
+        "source": "KIMMY",
+        "target": "JOE",
+        "weight": 1
+      },
+      {
+        "source": "KIMMY",
+        "target": "JULIANNE",
+        "weight": 8
+      },
+      {
+        "source": "MINISTER",
+        "target": "WALTER",
+        "weight": 1
+      },
+      {
+        "source": "MINISTER",
+        "target": "MANDY",
+        "weight": 1
+      },
+      {
+        "source": "MINISTER",
+        "target": "JULIANNE",
+        "weight": 1
+      },
+      {
+        "source": "JANITOR",
+        "target": "FLOWER GIRL",
+        "weight": 1
+      },
+      {
+        "source": "JANITOR",
+        "target": "MANDY",
+        "weight": 1
+      },
+      {
+        "source": "JANITOR",
+        "target": "JULIANNE",
+        "weight": 1
+      },
+      {
+        "source": "ISABELLE",
+        "target": "MANDY",
+        "weight": 1
+      },
+      {
+        "source": "ISABELLE",
+        "target": "JULIANNE",
+        "weight": 1
+      },
+      {
+        "source": "MR MOONEY",
+        "target": "JULIANNE",
+        "weight": 1
+      },
+      {
+        "source": "MANDY",
+        "target": "FLOWER GIRL",
+        "weight": 1
+      },
+      {
+        "source": "MANDY",
+        "target": "JULIANNE",
+        "weight": 4
+      },
+      {
+        "source": "BODYGUARD",
+        "target": "WALTER",
+        "weight": 1
+      },
+      {
+        "source": "BODYGUARD",
+        "target": "JOE",
+        "weight": 1
+      },
+      {
+        "source": "BODYGUARD",
+        "target": "JULIANNE",
+        "weight": 1
+      },
+      {
+        "source": "YOUNGER FIELD MAN",
+        "target": "DISPATCHER",
+        "weight": 1
+      },
+      {
+        "source": "YOUNGER FIELD MAN",
+        "target": "JULIANNE",
+        "weight": 1
+      },
+      {
+        "source": "YOUNGER FIELD MAN",
+        "target": "FIELD MAN",
+        "weight": 1
+      },
+      {
+        "source": "DIGGER",
+        "target": "CAPTAIN",
+        "weight": 1
+      },
+      {
+        "source": "DIGGER",
+        "target": "JULIANNE",
+        "weight": 4
+      },
+      {
+        "source": "DIGGER",
+        "target": "BELLMAN",
+        "weight": 1
+      },
+      {
+        "source": "CAPTAIN",
+        "target": "JULIANNE",
+        "weight": 1
+      },
+      {
+        "source": "JOE",
+        "target": "WALTER",
+        "weight": 1
+      },
+      {
+        "source": "JOE",
+        "target": "JULIANNE",
+        "weight": 1
+      },
+      {
+        "source": "BOY",
+        "target": "JULIANNE",
+        "weight": 1
+      },
+      {
+        "source": "FLOWER GIRL",
+        "target": "JULIANNE",
+        "weight": 1
+      },
+      {
+        "source": "JULIANNE",
+        "target": "BELLMAN",
+        "weight": 1
+      },
+      {
+        "source": "JULIANNE",
+        "target": "FIELD MAN",
+        "weight": 1
+      },
+      {
+        "source": "JULIANNE",
+        "target": "WALTER",
+        "weight": 3
+      },
+      {
+        "source": "JULIANNE",
+        "target": "TEENAGER",
+        "weight": 1
+      },
+      {
+        "source": "JULIANNE",
+        "target": "STONERS",
+        "weight": 1
+      },
+      {
+        "source": "JULIANNE",
+        "target": "GUY",
+        "weight": 1
+      },
+      {
+        "source": "JULIANNE",
+        "target": "DISPATCHER",
+        "weight": 1
+      },
+      {
+        "source": "FIELD MAN",
+        "target": "DISPATCHER",
+        "weight": 1
+      },
+      {
+        "source": "WALTER",
+        "target": "GUY",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "SAMMY",
+        "name": "SAMMY",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 9,
+        "pagerank": 0.060385626170862086,
+        "object_id": "3600362",
+        "triangles": 22,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.608695652173913,
+        "betweenness centrality": 4.333333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WOMAN",
+        "name": "WOMAN",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.0322010752301233,
+        "object_id": "3600393",
+        "triangles": 10,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7826086956521738,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MICHAEL",
+        "name": "MICHAEL",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 16,
+        "pagerank": 0.1300866232967587,
+        "object_id": "3599019",
+        "triangles": 32,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.3043478260869565,
+        "betweenness centrality": 42.333333333333336,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KIMMY",
+        "name": "KIMMY",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 10,
+        "pagerank": 0.09155632719649098,
+        "object_id": "3599702",
+        "triangles": 24,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.565217391304348,
+        "betweenness centrality": 8.416666666666668,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MINISTER",
+        "name": "MINISTER",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 6,
+        "pagerank": 0.03579616417795044,
+        "object_id": "3603550",
+        "triangles": 13,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7391304347826086,
+        "betweenness centrality": 0.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JANITOR",
+        "name": "JANITOR",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.02191055515961761,
+        "object_id": "3603895",
+        "triangles": 6,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.826086956521739,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ISABELLE",
+        "name": "ISABELLE",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.024702103360549208,
+        "object_id": "3600400",
+        "triangles": 10,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7826086956521738,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MR MOONEY",
+        "name": "MR MOONEY",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.013459756383003976,
+        "object_id": "3601338",
+        "triangles": 1,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9130434782608696,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MANDY",
+        "name": "MANDY",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 9,
+        "pagerank": 0.060385626170862086,
+        "object_id": "3600354",
+        "triangles": 22,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.608695652173913,
+        "betweenness centrality": 4.333333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BODYGUARD",
+        "name": "BODYGUARD",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.02211317779915392,
+        "object_id": "3600484",
+        "triangles": 6,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.826086956521739,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "YOUNGER FIELD MAN",
+        "name": "YOUNGER FIELD MAN",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.02366727879049218,
+        "object_id": "3605214",
+        "triangles": 6,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.826086956521739,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DIGGER",
+        "name": "DIGGER",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.03833064007134432,
+        "object_id": "3598945",
+        "triangles": 5,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.826086956521739,
+        "betweenness centrality": 0.3333333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CAPTAIN",
+        "name": "CAPTAIN",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.017680868639172457,
+        "object_id": "3598915",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8695652173913044,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JOE",
+        "name": "JOE",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.025939769536452165,
+        "object_id": "3600549",
+        "triangles": 9,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7826086956521738,
+        "betweenness centrality": 0.25,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BOY",
+        "name": "BOY",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.009922419503043397,
+        "object_id": "3602003",
+        "triangles": 0,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9565217391304348,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FLOWER GIRL",
+        "name": "FLOWER GIRL",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.02191055515961761,
+        "object_id": "3603923",
+        "triangles": 6,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.826086956521739,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JULIANNE",
+        "name": "JULIANNE",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 23,
+        "pagerank": 0.22034188079043954,
+        "object_id": "3598933",
+        "triangles": 46,
+        "eccentricity": 1.0,
+        "closeness centrality": 1.0,
+        "betweenness centrality": 143.16666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BELLMAN",
+        "name": "BELLMAN",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.017680868639172457,
+        "object_id": "3604212",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8695652173913044,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FIELD MAN",
+        "name": "FIELD MAN",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.02366727879049218,
+        "object_id": "3605182",
+        "triangles": 6,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.826086956521739,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WALTER",
+        "name": "WALTER",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 7,
+        "pagerank": 0.043360095031546836,
+        "object_id": "3600517",
+        "triangles": 13,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.6956521739130435,
+        "betweenness centrality": 3.333333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TEENAGER",
+        "name": "TEENAGER",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.01360824829545364,
+        "object_id": "3601655",
+        "triangles": 1,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9130434782608696,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "STONERS",
+        "name": "STONERS",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.01360824829545364,
+        "object_id": "3604876",
+        "triangles": 1,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9130434782608696,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GUY",
+        "name": "GUY",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.014017534721454838,
+        "object_id": "3601462",
+        "triangles": 1,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9130434782608696,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DISPATCHER",
+        "name": "DISPATCHER",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.023667278790492175,
+        "object_id": "3605170",
+        "triangles": 6,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.826086956521739,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": -50.2441,
+        "y": 157.78545,
+        "name": "SAMMY"
+      },
+      {
+        "x": 48.286114,
+        "y": 124.65859,
+        "name": "WOMAN"
+      },
+      {
+        "x": -65.5092,
+        "y": 19.649754,
+        "name": "MICHAEL"
+      },
+      {
+        "x": 12.1736355,
+        "y": 73.17323,
+        "name": "KIMMY"
+      },
+      {
+        "x": -79.894714,
+        "y": 107.68064,
+        "name": "MINISTER"
+      },
+      {
+        "x": -21.488647,
+        "y": 228.56465,
+        "name": "JANITOR"
+      },
+      {
+        "x": 55.708862,
+        "y": 176.35652,
+        "name": "ISABELLE"
+      },
+      {
+        "x": -42.147366,
+        "y": -73.08877,
+        "name": "MR MOONEY"
+      },
+      {
+        "x": -4.520012,
+        "y": 154.1235,
+        "name": "MANDY"
+      },
+      {
+        "x": -3.681411,
+        "y": -83.19735,
+        "name": "BODYGUARD"
+      },
+      {
+        "x": 73.87194,
+        "y": -19.392149,
+        "name": "YOUNGER FIELD MAN"
+      },
+      {
+        "x": -116.36888,
+        "y": 10.466309,
+        "name": "DIGGER"
+      },
+      {
+        "x": -163.97423,
+        "y": 4.0959177,
+        "name": "CAPTAIN"
+      },
+      {
+        "x": -34.8668,
+        "y": -37.421566,
+        "name": "JOE"
+      },
+      {
+        "x": -120.58197,
+        "y": -109.13728,
+        "name": "BOY"
+      },
+      {
+        "x": -69.67244,
+        "y": 221.49358,
+        "name": "FLOWER GIRL"
+      },
+      {
+        "x": -36.625572,
+        "y": 64.97336,
+        "name": "JULIANNE"
+      },
+      {
+        "x": -131.63016,
+        "y": -44.063473,
+        "name": "BELLMAN"
+      },
+      {
+        "x": 27.135544,
+        "y": -46.132015,
+        "name": "FIELD MAN"
+      },
+      {
+        "x": 14.661669,
+        "y": 7.897948,
+        "name": "WALTER"
+      },
+      {
+        "x": -156.34337,
+        "y": 60.185253,
+        "name": "TEENAGER"
+      },
+      {
+        "x": -141.42653,
+        "y": 101.195724,
+        "name": "STONERS"
+      },
+      {
+        "x": 88.13422,
+        "y": 41.99644,
+        "name": "GUY"
+      },
+      {
+        "x": 63.705215,
+        "y": -65.401184,
+        "name": "DISPATCHER"
+      }
+    ]
+  }
+}

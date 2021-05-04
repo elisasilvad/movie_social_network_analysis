@@ -1,0 +1,756 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "DELBANCO",
+        "target": "SKIP",
+        "weight": 1
+      },
+      {
+        "source": "DELBANCO",
+        "target": "LIONEL",
+        "weight": 2
+      },
+      {
+        "source": "DELBANCO",
+        "target": "SHEELER",
+        "weight": 4
+      },
+      {
+        "source": "DELBANCO",
+        "target": "LILY",
+        "weight": 1
+      },
+      {
+        "source": "DELBANCO",
+        "target": "MUMFORD",
+        "weight": 2
+      },
+      {
+        "source": "NESSA",
+        "target": "GILROY",
+        "weight": 1
+      },
+      {
+        "source": "NESSA",
+        "target": "MUMFORD",
+        "weight": 2
+      },
+      {
+        "source": "NESSA",
+        "target": "MARTIN",
+        "weight": 1
+      },
+      {
+        "source": "INVESTIGATOR",
+        "target": "SKIP",
+        "weight": 1
+      },
+      {
+        "source": "INVESTIGATOR",
+        "target": "MUMFORD",
+        "weight": 1
+      },
+      {
+        "source": "COOK",
+        "target": "MR COOK",
+        "weight": 1
+      },
+      {
+        "source": "COOK",
+        "target": "MRS COOK",
+        "weight": 1
+      },
+      {
+        "source": "COOK",
+        "target": "MUMFORD",
+        "weight": 3
+      },
+      {
+        "source": "COOK",
+        "target": "BEN",
+        "weight": 1
+      },
+      {
+        "source": "LANDLADY",
+        "target": "FOLLETT",
+        "weight": 1
+      },
+      {
+        "source": "LANDLADY",
+        "target": "MUMFORD",
+        "weight": 1
+      },
+      {
+        "source": "LILY",
+        "target": "MUMFORD",
+        "weight": 3
+      },
+      {
+        "source": "LILY",
+        "target": "MARTIN",
+        "weight": 1
+      },
+      {
+        "source": "LILY",
+        "target": "SHEELER",
+        "weight": 1
+      },
+      {
+        "source": "LILY",
+        "target": "LIONEL",
+        "weight": 1
+      },
+      {
+        "source": "LILY",
+        "target": "SKIP",
+        "weight": 1
+      },
+      {
+        "source": "LILY",
+        "target": "PATRON",
+        "weight": 1
+      },
+      {
+        "source": "JEREMY",
+        "target": "ALTHEA",
+        "weight": 1
+      },
+      {
+        "source": "JEREMY",
+        "target": "KATIE",
+        "weight": 1
+      },
+      {
+        "source": "JEREMY",
+        "target": "MUMFORD",
+        "weight": 2
+      },
+      {
+        "source": "JEREMY",
+        "target": "MARTIN",
+        "weight": 1
+      },
+      {
+        "source": "MR COOK",
+        "target": "MRS COOK",
+        "weight": 1
+      },
+      {
+        "source": "MR COOK",
+        "target": "MUMFORD",
+        "weight": 1
+      },
+      {
+        "source": "MR COOK",
+        "target": "BEN",
+        "weight": 1
+      },
+      {
+        "source": "ALTHEA",
+        "target": "LIONEL",
+        "weight": 1
+      },
+      {
+        "source": "ALTHEA",
+        "target": "KATIE",
+        "weight": 1
+      },
+      {
+        "source": "ALTHEA",
+        "target": "MUMFORD",
+        "weight": 5
+      },
+      {
+        "source": "MUMFORD",
+        "target": "CORRECTIONAL OFFICER",
+        "weight": 1
+      },
+      {
+        "source": "MUMFORD",
+        "target": "SKIP",
+        "weight": 10
+      },
+      {
+        "source": "MUMFORD",
+        "target": "JUDGE OTTO",
+        "weight": 1
+      },
+      {
+        "source": "MUMFORD",
+        "target": "MARTIN",
+        "weight": 3
+      },
+      {
+        "source": "MUMFORD",
+        "target": "FOLLETT",
+        "weight": 4
+      },
+      {
+        "source": "MUMFORD",
+        "target": "YOUNG PHARMACIST",
+        "weight": 1
+      },
+      {
+        "source": "MUMFORD",
+        "target": "MRS COOK",
+        "weight": 2
+      },
+      {
+        "source": "MUMFORD",
+        "target": "LIONEL",
+        "weight": 3
+      },
+      {
+        "source": "MUMFORD",
+        "target": "KATIE",
+        "weight": 2
+      },
+      {
+        "source": "MUMFORD",
+        "target": "PATRON",
+        "weight": 1
+      },
+      {
+        "source": "MUMFORD",
+        "target": "BEN",
+        "weight": 1
+      },
+      {
+        "source": "MUMFORD",
+        "target": "SOFIE",
+        "weight": 7
+      },
+      {
+        "source": "MUMFORD",
+        "target": "SHEELER",
+        "weight": 2
+      },
+      {
+        "source": "MUMFORD",
+        "target": "GILROY",
+        "weight": 1
+      },
+      {
+        "source": "SHEELER",
+        "target": "LIONEL",
+        "weight": 2
+      },
+      {
+        "source": "SHEELER",
+        "target": "SKIP",
+        "weight": 1
+      },
+      {
+        "source": "JUDGE OTTO",
+        "target": "LIONEL",
+        "weight": 1
+      },
+      {
+        "source": "JUDGE OTTO",
+        "target": "SOFIE",
+        "weight": 1
+      },
+      {
+        "source": "MARTIN",
+        "target": "KATIE",
+        "weight": 1
+      },
+      {
+        "source": "MARTIN",
+        "target": "GILROY",
+        "weight": 1
+      },
+      {
+        "source": "FOLLETT",
+        "target": "SOFIE",
+        "weight": 1
+      },
+      {
+        "source": "FOLLETT",
+        "target": "YOUNG PHARMACIST",
+        "weight": 1
+      },
+      {
+        "source": "MRS COOK",
+        "target": "SOFIE",
+        "weight": 1
+      },
+      {
+        "source": "MRS COOK",
+        "target": "BEN",
+        "weight": 1
+      },
+      {
+        "source": "LIONEL",
+        "target": "SOFIE",
+        "weight": 1
+      },
+      {
+        "source": "LIONEL",
+        "target": "PATRON",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "DELBANCO",
+        "name": "DELBANCO",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.04524738804139054,
+        "object_id": "3580710",
+        "triangles": 9,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7826086956521738,
+        "betweenness centrality": 0.25,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NESSA",
+        "name": "NESSA",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.02411893329769786,
+        "object_id": "3579903",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8695652173913044,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "INVESTIGATOR",
+        "name": "INVESTIGATOR",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.013978385602934844,
+        "object_id": "3582746",
+        "triangles": 1,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9130434782608696,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COOK",
+        "name": "COOK",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.033264389558931726,
+        "object_id": "3580567",
+        "triangles": 6,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.826086956521739,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LANDLADY",
+        "name": "LANDLADY",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.014828418407111934,
+        "object_id": "3579675",
+        "triangles": 1,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9130434782608696,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LILY",
+        "name": "LILY",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 7,
+        "pagerank": 0.043052431490744086,
+        "object_id": "3579782",
+        "triangles": 12,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.6956521739130435,
+        "betweenness centrality": 3.9166666666666665,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JEREMY",
+        "name": "JEREMY",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.027312676420810138,
+        "object_id": "3581276",
+        "triangles": 5,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.826086956521739,
+        "betweenness centrality": 0.3333333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MR COOK",
+        "name": "MR COOK",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.024881206344157948,
+        "object_id": "3584534",
+        "triangles": 6,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.826086956521739,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ALTHEA",
+        "name": "ALTHEA",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.03901439907763665,
+        "object_id": "3580419",
+        "triangles": 4,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.826086956521739,
+        "betweenness centrality": 1.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MUMFORD",
+        "name": "MUMFORD",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 23,
+        "pagerank": 0.2709842637652892,
+        "object_id": "3579720",
+        "triangles": 35,
+        "eccentricity": 1.0,
+        "closeness centrality": 1.0,
+        "betweenness centrality": 193.25,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CORRECTIONAL OFFICER",
+        "name": "CORRECTIONAL OFFICER",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.010154136320443631,
+        "object_id": "3586159",
+        "triangles": 0,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9565217391304348,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SHEELER",
+        "name": "SHEELER",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.045247388041390536,
+        "object_id": "3580695",
+        "triangles": 9,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7826086956521738,
+        "betweenness centrality": 0.25,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JUDGE OTTO",
+        "name": "JUDGE OTTO",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.018135551201327815,
+        "object_id": "3586023",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8695652173913044,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MARTIN",
+        "name": "MARTIN",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 6,
+        "pagerank": 0.04203444818103139,
+        "object_id": "3581259",
+        "triangles": 7,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7391304347826086,
+        "betweenness centrality": 4.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FOLLETT",
+        "name": "FOLLETT",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.03849458792517833,
+        "object_id": "3579649",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.826086956521739,
+        "betweenness centrality": 1.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "YOUNG PHARMACIST",
+        "name": "YOUNG PHARMACIST",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.014828418407111934,
+        "object_id": "3584807",
+        "triangles": 1,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9130434782608696,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MRS COOK",
+        "name": "MRS COOK",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.03336927019243293,
+        "object_id": "3581629",
+        "triangles": 7,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7826086956521738,
+        "betweenness centrality": 1.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LIONEL",
+        "name": "LIONEL",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 8,
+        "pagerank": 0.05587015608925988,
+        "object_id": "3579883",
+        "triangles": 12,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.6521739130434783,
+        "betweenness centrality": 7.666666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KATIE",
+        "name": "KATIE",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.02731267642081014,
+        "object_id": "3581202",
+        "triangles": 5,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.826086956521739,
+        "betweenness centrality": 0.3333333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PATRON",
+        "name": "PATRON",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.018177604391970685,
+        "object_id": "3579820",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8695652173913044,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BEN",
+        "name": "BEN",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.024881206344157948,
+        "object_id": "3584485",
+        "triangles": 6,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.826086956521739,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SOFIE",
+        "name": "SOFIE",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.052076433924789195,
+        "object_id": "3580988",
+        "triangles": 5,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7826086956521738,
+        "betweenness centrality": 2.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SKIP",
+        "name": "SKIP",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.06299019356831868,
+        "object_id": "3580058",
+        "triangles": 7,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7826086956521738,
+        "betweenness centrality": 1.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GILROY",
+        "name": "GILROY",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.019745436985071918,
+        "object_id": "3585124",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8695652173913044,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": -129.16643,
+        "y": 80.382774,
+        "name": "DELBANCO"
+      },
+      {
+        "x": 28.245136,
+        "y": 38.3337,
+        "name": "NESSA"
+      },
+      {
+        "x": -105.297066,
+        "y": 124.07592,
+        "name": "INVESTIGATOR"
+      },
+      {
+        "x": 0.4068952,
+        "y": -99.771996,
+        "name": "COOK"
+      },
+      {
+        "x": 42.48721,
+        "y": -55.50165,
+        "name": "LANDLADY"
+      },
+      {
+        "x": -80.35791,
+        "y": 74.18315,
+        "name": "LILY"
+      },
+      {
+        "x": -62.22581,
+        "y": -81.36914,
+        "name": "JEREMY"
+      },
+      {
+        "x": -12.726704,
+        "y": -166.22554,
+        "name": "MR COOK"
+      },
+      {
+        "x": -119.67261,
+        "y": -50.792496,
+        "name": "ALTHEA"
+      },
+      {
+        "x": -70.79539,
+        "y": -14.957852,
+        "name": "MUMFORD"
+      },
+      {
+        "x": -1.7561337,
+        "y": 85.04599,
+        "name": "CORRECTIONAL OFFICER"
+      },
+      {
+        "x": -164.26129,
+        "y": 74.02749,
+        "name": "SHEELER"
+      },
+      {
+        "x": -198.28296,
+        "y": 26.83871,
+        "name": "JUDGE OTTO"
+      },
+      {
+        "x": 5.7590427,
+        "y": -5.3691573,
+        "name": "MARTIN"
+      },
+      {
+        "x": -24.084291,
+        "y": -50.070927,
+        "name": "FOLLETT"
+      },
+      {
+        "x": -139.44543,
+        "y": -102.369255,
+        "name": "YOUNG PHARMACIST"
+      },
+      {
+        "x": -35.49952,
+        "y": -125.434204,
+        "name": "MRS COOK"
+      },
+      {
+        "x": -148.15567,
+        "y": 24.123375,
+        "name": "LIONEL"
+      },
+      {
+        "x": -98.08232,
+        "y": -98.02997,
+        "name": "KATIE"
+      },
+      {
+        "x": -182.83313,
+        "y": -16.620241,
+        "name": "PATRON"
+      },
+      {
+        "x": 31.974127,
+        "y": -145.60574,
+        "name": "BEN"
+      },
+      {
+        "x": -45.524208,
+        "y": 22.609856,
+        "name": "SOFIE"
+      },
+      {
+        "x": -97.015724,
+        "y": 31.006859,
+        "name": "SKIP"
+      },
+      {
+        "x": 69.7406,
+        "y": 18.556717,
+        "name": "GILROY"
+      }
+    ]
+  }
+}

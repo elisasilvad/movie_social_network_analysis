@@ -1,0 +1,937 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "LAMA",
+        "target": "MOTHER",
+        "weight": 1
+      },
+      {
+        "source": "SOLDIER",
+        "target": "TENZIN GYATSO",
+        "weight": 1
+      },
+      {
+        "source": "LHAMO",
+        "target": "KEUSTANG RINPOCHE",
+        "weight": 1
+      },
+      {
+        "source": "LHAMO",
+        "target": "LOBSANG SAMTEN",
+        "weight": 1
+      },
+      {
+        "source": "LHAMO",
+        "target": "FATHER",
+        "weight": 1
+      },
+      {
+        "source": "LHAMO",
+        "target": "SERVANT",
+        "weight": 2
+      },
+      {
+        "source": "LHAMO",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "LHAMO",
+        "target": "MOTHER",
+        "weight": 4
+      },
+      {
+        "source": "LHAMO",
+        "target": "LOBSANG",
+        "weight": 1
+      },
+      {
+        "source": "LHAMO",
+        "target": "CHINESE GOVERNOR",
+        "weight": 1
+      },
+      {
+        "source": "FATHER",
+        "target": "LOBSANG SAMTEN",
+        "weight": 1
+      },
+      {
+        "source": "FATHER",
+        "target": "TENZIN GYATSO",
+        "weight": 1
+      },
+      {
+        "source": "FATHER",
+        "target": "TAKTRA RINPOCHE",
+        "weight": 1
+      },
+      {
+        "source": "FATHER",
+        "target": "MOTHER",
+        "weight": 2
+      },
+      {
+        "source": "FATHER",
+        "target": "LOBSANG",
+        "weight": 2
+      },
+      {
+        "source": "FATHER",
+        "target": "NORBU THUNDRUP",
+        "weight": 1
+      },
+      {
+        "source": "FATHER",
+        "target": "RETING RINPOCHE",
+        "weight": 1
+      },
+      {
+        "source": "SERVANT",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "SERVANT",
+        "target": "MOTHER",
+        "weight": 2
+      },
+      {
+        "source": "TAKTRA RINPOCHE",
+        "target": "KASHAG MEMBER",
+        "weight": 1
+      },
+      {
+        "source": "TAKTRA RINPOCHE",
+        "target": "TENZIN GYATSO",
+        "weight": 4
+      },
+      {
+        "source": "TAKTRA RINPOCHE",
+        "target": "LORD CHAMBERLAIN",
+        "weight": 1
+      },
+      {
+        "source": "TAKTRA RINPOCHE",
+        "target": "REGENT TAKTRA",
+        "weight": 1
+      },
+      {
+        "source": "TAKTRA RINPOCHE",
+        "target": "NORBU THUNDRUP",
+        "weight": 1
+      },
+      {
+        "source": "LING RINPOCHE",
+        "target": "MONKS",
+        "weight": 1
+      },
+      {
+        "source": "LING RINPOCHE",
+        "target": "TENZIN GYATSO",
+        "weight": 2
+      },
+      {
+        "source": "LING RINPOCHE",
+        "target": "QUESTIONER",
+        "weight": 1
+      },
+      {
+        "source": "LOBSANG SAMTEN",
+        "target": "ATTENDANT",
+        "weight": 1
+      },
+      {
+        "source": "LOBSANG SAMTEN",
+        "target": "TENZIN GYATSO",
+        "weight": 1
+      },
+      {
+        "source": "LOBSANG SAMTEN",
+        "target": "MOTHER",
+        "weight": 1
+      },
+      {
+        "source": "LOBSANG SAMTEN",
+        "target": "LOBSANG",
+        "weight": 1
+      },
+      {
+        "source": "CHINESE GOVERNOR",
+        "target": "MOTHER",
+        "weight": 1
+      },
+      {
+        "source": "CHINESE GOVERNOR",
+        "target": "KEUSTANG RINPOCHE",
+        "weight": 1
+      },
+      {
+        "source": "NOBLE BOY",
+        "target": "TENZIN GYATSO",
+        "weight": 1
+      },
+      {
+        "source": "NORBU THUNDRUP",
+        "target": "LORD CHAMBERLAIN",
+        "weight": 1
+      },
+      {
+        "source": "NORBU THUNDRUP",
+        "target": "TENZIN GYATSO",
+        "weight": 5
+      },
+      {
+        "source": "REGENT TAKTRA",
+        "target": "TENZIN GYATSO",
+        "weight": 1
+      },
+      {
+        "source": "GENERAL CHIANG",
+        "target": "LORD CHAMBERLAIN",
+        "weight": 1
+      },
+      {
+        "source": "GENERAL CHIANG",
+        "target": "LUKHANGWA",
+        "weight": 1
+      },
+      {
+        "source": "GENERAL CHIANG",
+        "target": "TENZIN GYATSO",
+        "weight": 2
+      },
+      {
+        "source": "LUKHANGWA",
+        "target": "TENZIN GYATSO",
+        "weight": 2
+      },
+      {
+        "source": "MAO TSE TUNG",
+        "target": "TENZIN GYATSO",
+        "weight": 2
+      },
+      {
+        "source": "MOTHER",
+        "target": "KEUSTANG RINPOCHE",
+        "weight": 1
+      },
+      {
+        "source": "MOTHER",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "MOTHER",
+        "target": "LOBSANG",
+        "weight": 2
+      },
+      {
+        "source": "MOTHER",
+        "target": "TENZIN GYATSO",
+        "weight": 3
+      },
+      {
+        "source": "MOTHER",
+        "target": "RETING RINPOCHE",
+        "weight": 1
+      },
+      {
+        "source": "GENERAL CHIANG CHIN-WU",
+        "target": "TENZIN GYATSO",
+        "weight": 1
+      },
+      {
+        "source": "KASHAG MEMBER",
+        "target": "LORD CHAMBERLAIN",
+        "weight": 3
+      },
+      {
+        "source": "KASHAG MEMBER",
+        "target": "TENZIN GYATSO",
+        "weight": 4
+      },
+      {
+        "source": "TENZIN GYATSO",
+        "target": "TAKSTER RINPOCHE",
+        "weight": 1
+      },
+      {
+        "source": "TENZIN GYATSO",
+        "target": "LORD CHAMBERLAIN",
+        "weight": 8
+      },
+      {
+        "source": "TENZIN GYATSO",
+        "target": "LOBSANG",
+        "weight": 1
+      },
+      {
+        "source": "TENZIN GYATSO",
+        "target": "OLD WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "TENZIN GYATSO",
+        "target": "ATTENDANT",
+        "weight": 1
+      },
+      {
+        "source": "TENZIN GYATSO",
+        "target": "BODYGUARD",
+        "weight": 1
+      },
+      {
+        "source": "TENZIN GYATSO",
+        "target": "TIBETAN WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "TENZIN GYATSO",
+        "target": "MUSLIM MAN",
+        "weight": 1
+      },
+      {
+        "source": "LORD CHAMBERLAIN",
+        "target": "RADIO VOICE",
+        "weight": 1
+      },
+      {
+        "source": "LOBSANG",
+        "target": "RETING RINPOCHE",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "LAMA",
+        "name": "LAMA",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.008504908471939344,
+        "object_id": "2952599",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.71875,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SOLDIER",
+        "name": "SOLDIER",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.008919567801073006,
+        "object_id": "2957772",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.28125,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LHAMO",
+        "name": "LHAMO",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 8,
+        "pagerank": 0.05567971405849847,
+        "object_id": "2952273",
+        "triangles": 12,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.40625,
+        "betweenness centrality": 11.999999999999998,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FATHER",
+        "name": "FATHER",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 8,
+        "pagerank": 0.045928719264715256,
+        "object_id": "2952276",
+        "triangles": 14,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.84375,
+        "betweenness centrality": 27.083333333333336,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SERVANT",
+        "name": "SERVANT",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.025087489502675326,
+        "object_id": "2952401",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.65625,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TAKTRA RINPOCHE",
+        "name": "TAKTRA RINPOCHE",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 6,
+        "pagerank": 0.043760755964238625,
+        "object_id": "2953865",
+        "triangles": 8,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.03125,
+        "betweenness centrality": 5.633333333333334,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LING RINPOCHE",
+        "name": "LING RINPOCHE",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.03290934060554476,
+        "object_id": "2953954",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.15625,
+        "betweenness centrality": 61.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LOBSANG SAMTEN",
+        "name": "LOBSANG SAMTEN",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 6,
+        "pagerank": 0.03033171276913029,
+        "object_id": "2952298",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.90625,
+        "betweenness centrality": 10.650000000000002,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CHINESE GOVERNOR",
+        "name": "CHINESE GOVERNOR",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.01737022470626004,
+        "object_id": "2952791",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.65625,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NOBLE BOY",
+        "name": "NOBLE BOY",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.008919567801073006,
+        "object_id": "2955971",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.28125,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NORBU THUNDRUP",
+        "name": "NORBU THUNDRUP",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.03854103016250624,
+        "object_id": "2953192",
+        "triangles": 5,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.09375,
+        "betweenness centrality": 1.4,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REGENT TAKTRA",
+        "name": "REGENT TAKTRA",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.01305261755343035,
+        "object_id": "2955087",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.25,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GENERAL CHIANG",
+        "name": "GENERAL CHIANG",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.022503393898210124,
+        "object_id": "2956538",
+        "triangles": 2,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1875,
+        "betweenness centrality": 1.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LUKHANGWA",
+        "name": "LUKHANGWA",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.018075742751723647,
+        "object_id": "2956594",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.25,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAO TSE TUNG",
+        "name": "MAO TSE TUNG",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.013293681056691466,
+        "object_id": "2956807",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.28125,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MOTHER",
+        "name": "MOTHER",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 11,
+        "pagerank": 0.08850605737309422,
+        "object_id": "2952288",
+        "triangles": 17,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.75,
+        "betweenness centrality": 138.38333333333335,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GENERAL CHIANG CHIN-WU",
+        "name": "GENERAL CHIANG CHIN-WU",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.008919567801073006,
+        "object_id": "2956284",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.28125,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MONKS",
+        "name": "MONKS",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 1,
+        "pagerank": 0.011539388646680655,
+        "object_id": "2953028",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.125,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KASHAG MEMBER",
+        "name": "KASHAG MEMBER",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.03843917306153205,
+        "object_id": "2954573",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1875,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TENZIN GYATSO",
+        "name": "TENZIN GYATSO",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 22,
+        "pagerank": 0.231577166339203,
+        "object_id": "2953181",
+        "triangles": 17,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.3125,
+        "betweenness centrality": 392.6333333333334,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "QUESTIONER",
+        "name": "QUESTIONER",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 1,
+        "pagerank": 0.011539388646680655,
+        "object_id": "2954355",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.125,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LORD CHAMBERLAIN",
+        "name": "LORD CHAMBERLAIN",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 6,
+        "pagerank": 0.07213985230522042,
+        "object_id": "2953143",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.09375,
+        "betweenness centrality": 32.83333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LOBSANG",
+        "name": "LOBSANG",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 6,
+        "pagerank": 0.037532687595847894,
+        "object_id": "2952494",
+        "triangles": 11,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.90625,
+        "betweenness centrality": 11.383333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OLD WOMAN",
+        "name": "OLD WOMAN",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.008919567801073006,
+        "object_id": "2957087",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.28125,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RETING RINPOCHE",
+        "name": "RETING RINPOCHE",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.016396607645181784,
+        "object_id": "2952982",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.59375,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ATTENDANT",
+        "name": "ATTENDANT",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.013216520362868238,
+        "object_id": "2953384",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.21875,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BODYGUARD",
+        "name": "BODYGUARD",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.008919567801073006,
+        "object_id": "2955687",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.28125,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KEUSTANG RINPOCHE",
+        "name": "KEUSTANG RINPOCHE",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.017370224706260044,
+        "object_id": "2952627",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.65625,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAN",
+        "name": "MAN",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.016713533684079657,
+        "object_id": "2952358",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.65625,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TIBETAN WOMAN",
+        "name": "TIBETAN WOMAN",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.008919567801073006,
+        "object_id": "2955903",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.28125,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TAKSTER RINPOCHE",
+        "name": "TAKSTER RINPOCHE",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.008919567801073006,
+        "object_id": "2955321",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.28125,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MUSLIM MAN",
+        "name": "MUSLIM MAN",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.008919567801073006,
+        "object_id": "2955871",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.28125,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RADIO VOICE",
+        "name": "RADIO VOICE",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.008633526459203318,
+        "object_id": "2956185",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.0625,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": -59.464504,
+        "y": 272.5026,
+        "name": "LAMA"
+      },
+      {
+        "x": 138.62955,
+        "y": -95.339966,
+        "name": "SOLDIER"
+      },
+      {
+        "x": -88.66668,
+        "y": 186.58354,
+        "name": "LHAMO"
+      },
+      {
+        "x": -5.1929655,
+        "y": 94.16994,
+        "name": "FATHER"
+      },
+      {
+        "x": -54.078724,
+        "y": 222.81837,
+        "name": "SERVANT"
+      },
+      {
+        "x": 115.696,
+        "y": 46.81992,
+        "name": "TAKTRA RINPOCHE"
+      },
+      {
+        "x": 200.98238,
+        "y": 86.32892,
+        "name": "LING RINPOCHE"
+      },
+      {
+        "x": -67.45346,
+        "y": 48.258923,
+        "name": "LOBSANG SAMTEN"
+      },
+      {
+        "x": -121.40863,
+        "y": 250.00435,
+        "name": "CHINESE GOVERNOR"
+      },
+      {
+        "x": 92.21364,
+        "y": 96.427185,
+        "name": "NOBLE BOY"
+      },
+      {
+        "x": 123.5844,
+        "y": 0.71015954,
+        "name": "NORBU THUNDRUP"
+      },
+      {
+        "x": 174.19127,
+        "y": 45.16977,
+        "name": "REGENT TAKTRA"
+      },
+      {
+        "x": 44.200417,
+        "y": -83.3974,
+        "name": "GENERAL CHIANG"
+      },
+      {
+        "x": 17.699484,
+        "y": -51.397312,
+        "name": "LUKHANGWA"
+      },
+      {
+        "x": 158.09203,
+        "y": 0.41311044,
+        "name": "MAO TSE TUNG"
+      },
+      {
+        "x": -40.742413,
+        "y": 157.87538,
+        "name": "MOTHER"
+      },
+      {
+        "x": 2.7937443,
+        "y": -0.13948202,
+        "name": "GENERAL CHIANG CHIN-WU"
+      },
+      {
+        "x": 267.14734,
+        "y": 92.555534,
+        "name": "MONKS"
+      },
+      {
+        "x": 67.66713,
+        "y": -43.729916,
+        "name": "KASHAG MEMBER"
+      },
+      {
+        "x": 76.73113,
+        "y": 5.104283,
+        "name": "TENZIN GYATSO"
+      },
+      {
+        "x": 235.74147,
+        "y": 146.494,
+        "name": "QUESTIONER"
+      },
+      {
+        "x": 103.858665,
+        "y": -49.17739,
+        "name": "LORD CHAMBERLAIN"
+      },
+      {
+        "x": -62.740078,
+        "y": 101.39061,
+        "name": "LOBSANG"
+      },
+      {
+        "x": 136.66022,
+        "y": 99.49935,
+        "name": "OLD WOMAN"
+      },
+      {
+        "x": -113.74545,
+        "y": 112.47747,
+        "name": "RETING RINPOCHE"
+      },
+      {
+        "x": -45.00086,
+        "y": -30.133566,
+        "name": "ATTENDANT"
+      },
+      {
+        "x": 166.56247,
+        "y": -67.45282,
+        "name": "BODYGUARD"
+      },
+      {
+        "x": -147.99525,
+        "y": 215.54901,
+        "name": "KEUSTANG RINPOCHE"
+      },
+      {
+        "x": -22.663214,
+        "y": 251.48842,
+        "name": "MAN"
+      },
+      {
+        "x": 190.10599,
+        "y": -38.664135,
+        "name": "TIBETAN WOMAN"
+      },
+      {
+        "x": 199.59766,
+        "y": -0.1140866,
+        "name": "TAKSTER RINPOCHE"
+      },
+      {
+        "x": 70.222786,
+        "y": -117.28422,
+        "name": "MUSLIM MAN"
+      },
+      {
+        "x": 131.00769,
+        "y": -141.88934,
+        "name": "RADIO VOICE"
+      }
+    ]
+  }
+}

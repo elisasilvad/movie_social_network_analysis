@@ -1,0 +1,766 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "SARAH",
+        "target": "THE CROW",
+        "weight": 2
+      },
+      {
+        "source": "SARAH",
+        "target": "NOAH",
+        "weight": 2
+      },
+      {
+        "source": "SARAH",
+        "target": "WE RISE UP",
+        "weight": 1
+      },
+      {
+        "source": "SARAH",
+        "target": "SIBYL",
+        "weight": 2
+      },
+      {
+        "source": "SARAH",
+        "target": "ASHE",
+        "weight": 5
+      },
+      {
+        "source": "SARAH",
+        "target": "CUSTOMER",
+        "weight": 1
+      },
+      {
+        "source": "SARAH",
+        "target": "CURVE",
+        "weight": 1
+      },
+      {
+        "source": "SARAH",
+        "target": "GRACE",
+        "weight": 1
+      },
+      {
+        "source": "SARAH",
+        "target": "JUDAH",
+        "weight": 4
+      },
+      {
+        "source": "SARAH",
+        "target": "GABRIEL",
+        "weight": 1
+      },
+      {
+        "source": "HOLLY",
+        "target": "ASHE",
+        "weight": 1
+      },
+      {
+        "source": "HOLLY",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "HOLLY",
+        "target": "NEMO",
+        "weight": 1
+      },
+      {
+        "source": "WE RISE UP",
+        "target": "JUDAH",
+        "weight": 1
+      },
+      {
+        "source": "SIBYL",
+        "target": "ASHE",
+        "weight": 1
+      },
+      {
+        "source": "SIBYL",
+        "target": "CURVE",
+        "weight": 2
+      },
+      {
+        "source": "SIBYL",
+        "target": "JUDAH",
+        "weight": 5
+      },
+      {
+        "source": "SIBYL",
+        "target": "KALI",
+        "weight": 1
+      },
+      {
+        "source": "BOY",
+        "target": "ASHE",
+        "weight": 1
+      },
+      {
+        "source": "BOY",
+        "target": "PRIEST",
+        "weight": 1
+      },
+      {
+        "source": "GRACE",
+        "target": "ASHE",
+        "weight": 1
+      },
+      {
+        "source": "GRACE",
+        "target": "THE CROW",
+        "weight": 1
+      },
+      {
+        "source": "THE CROW",
+        "target": "KALI",
+        "weight": 2
+      },
+      {
+        "source": "THE CROW",
+        "target": "ASHE",
+        "weight": 2
+      },
+      {
+        "source": "THE CROW",
+        "target": "ON ASHE",
+        "weight": 1
+      },
+      {
+        "source": "THE CROW",
+        "target": "JUDAH",
+        "weight": 1
+      },
+      {
+        "source": "NOAH",
+        "target": "CURVE",
+        "weight": 2
+      },
+      {
+        "source": "NOAH",
+        "target": "CUSTOMER",
+        "weight": 1
+      },
+      {
+        "source": "NOAH",
+        "target": "KALI",
+        "weight": 1
+      },
+      {
+        "source": "CITY STREET",
+        "target": "ASHE",
+        "weight": 1
+      },
+      {
+        "source": "SCREAMS",
+        "target": "ASHE",
+        "weight": 1
+      },
+      {
+        "source": "SCREAMS",
+        "target": "CURVE",
+        "weight": 1
+      },
+      {
+        "source": "SCREAMS",
+        "target": "DANNY",
+        "weight": 1
+      },
+      {
+        "source": "CUSTOMER",
+        "target": "CURVE",
+        "weight": 1
+      },
+      {
+        "source": "ON ASHE",
+        "target": "ASHE",
+        "weight": 1
+      },
+      {
+        "source": "GABRIEL",
+        "target": "ASHE",
+        "weight": 1
+      },
+      {
+        "source": "CURVE",
+        "target": "ASHE",
+        "weight": 4
+      },
+      {
+        "source": "CURVE",
+        "target": "DANNY",
+        "weight": 2
+      },
+      {
+        "source": "CURVE",
+        "target": "SPIDER MONKEY",
+        "weight": 1
+      },
+      {
+        "source": "CURVE",
+        "target": "JUDAH",
+        "weight": 2
+      },
+      {
+        "source": "CURVE",
+        "target": "NEMO",
+        "weight": 1
+      },
+      {
+        "source": "CURVE",
+        "target": "KALI",
+        "weight": 3
+      },
+      {
+        "source": "ASHE",
+        "target": "SPIDER MONKEY",
+        "weight": 1
+      },
+      {
+        "source": "ASHE",
+        "target": "NEMO",
+        "weight": 2
+      },
+      {
+        "source": "ASHE",
+        "target": "DANNY",
+        "weight": 3
+      },
+      {
+        "source": "ASHE",
+        "target": "JUDAH",
+        "weight": 4
+      },
+      {
+        "source": "ASHE",
+        "target": "KALI",
+        "weight": 2
+      },
+      {
+        "source": "ASHE",
+        "target": "PRIEST",
+        "weight": 2
+      },
+      {
+        "source": "ASHE",
+        "target": "DOLL",
+        "weight": 1
+      },
+      {
+        "source": "ASHE",
+        "target": "ZEKE",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "NEMO",
+        "weight": 1
+      },
+      {
+        "source": "NEMO",
+        "target": "SPIDER MONKEY",
+        "weight": 1
+      },
+      {
+        "source": "NEMO",
+        "target": "DOLL",
+        "weight": 1
+      },
+      {
+        "source": "NEMO",
+        "target": "ZEKE",
+        "weight": 1
+      },
+      {
+        "source": "NEMO",
+        "target": "DANNY",
+        "weight": 1
+      },
+      {
+        "source": "DANNY",
+        "target": "SPIDER MONKEY",
+        "weight": 1
+      },
+      {
+        "source": "DANNY",
+        "target": "JUDAH",
+        "weight": 1
+      },
+      {
+        "source": "ZEKE",
+        "target": "DOLL",
+        "weight": 1
+      },
+      {
+        "source": "JUDAH",
+        "target": "KALI",
+        "weight": 1
+      },
+      {
+        "source": "KALI",
+        "target": "DOLL",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "SARAH",
+        "name": "SARAH",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 10,
+        "pagerank": 0.09592000021589141,
+        "object_id": "1348469",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.608695652173913,
+        "betweenness centrality": 28.17857142857143,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HOLLY",
+        "name": "HOLLY",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.02331977066342713,
+        "object_id": "1350936",
+        "triangles": 2,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 5.7023809523809526,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WE RISE UP",
+        "name": "WE RISE UP",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.014183598422796045,
+        "object_id": "1353546",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.4347826086956523,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SIBYL",
+        "name": "SIBYL",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.05015284363797613,
+        "object_id": "1349496",
+        "triangles": 9,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.826086956521739,
+        "betweenness centrality": 0.16666666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BOY",
+        "name": "BOY",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.01680804164547358,
+        "object_id": "1351425",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0869565217391304,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GRACE",
+        "name": "GRACE",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.019076880303331448,
+        "object_id": "1348957",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9130434782608696,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THE CROW",
+        "name": "THE CROW",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 6,
+        "pagerank": 0.0469431905147439,
+        "object_id": "1348765",
+        "triangles": 8,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7826086956521738,
+        "betweenness centrality": 4.233333333333334,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NOAH",
+        "name": "NOAH",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.03189154663150025,
+        "object_id": "1349080",
+        "triangles": 4,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.130434782608696,
+        "betweenness centrality": 0.8666666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CITY STREET",
+        "name": "CITY STREET",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.010566913154773889,
+        "object_id": "1353463",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.130434782608696,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SCREAMS",
+        "name": "SCREAMS",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.01898252646048288,
+        "object_id": "1350208",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9565217391304348,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CUSTOMER",
+        "name": "CUSTOMER",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.01885088630340699,
+        "object_id": "1349047",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.217391304347826,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ON ASHE",
+        "name": "ON ASHE",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.015000354830219298,
+        "object_id": "1352254",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0869565217391304,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GABRIEL",
+        "name": "GABRIEL",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.014643438627886042,
+        "object_id": "1349913",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9565217391304348,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CURVE",
+        "name": "CURVE",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 11,
+        "pagerank": 0.09427097380282941,
+        "object_id": "1348639",
+        "triangles": 22,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.5217391304347827,
+        "betweenness centrality": 28.935714285714287,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ASHE",
+        "name": "ASHE",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 19,
+        "pagerank": 0.17775510704612404,
+        "object_id": "1348550",
+        "triangles": 31,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.173913043478261,
+        "betweenness centrality": 140.9547619047619,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WOMAN",
+        "name": "WOMAN",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.01797198368237158,
+        "object_id": "1350908",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.608695652173913,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NEMO",
+        "name": "NEMO",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 8,
+        "pagerank": 0.05414923094904778,
+        "object_id": "1348556",
+        "triangles": 11,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.6956521739130435,
+        "betweenness centrality": 21.94761904761905,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DANNY",
+        "name": "DANNY",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 6,
+        "pagerank": 0.04668423059442599,
+        "object_id": "1348544",
+        "triangles": 10,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7391304347826086,
+        "betweenness centrality": 2.90952380952381,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ZEKE",
+        "name": "ZEKE",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.02116670984820439,
+        "object_id": "1351040",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JUDAH",
+        "name": "JUDAH",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 8,
+        "pagerank": 0.08621846246058833,
+        "object_id": "1349490",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.6956521739130435,
+        "betweenness centrality": 12.204761904761906,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KALI",
+        "name": "KALI",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 7,
+        "pagerank": 0.0535059489329699,
+        "object_id": "1351221",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7391304347826086,
+        "betweenness centrality": 7.616666666666668,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PRIEST",
+        "name": "PRIEST",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.022027280967204438,
+        "object_id": "1351348",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0869565217391304,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOLL",
+        "name": "DOLL",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.025813223480994713,
+        "object_id": "1351092",
+        "triangles": 4,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9130434782608696,
+        "betweenness centrality": 1.2833333333333332,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SPIDER MONKEY",
+        "name": "SPIDER MONKEY",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.02409685682333007,
+        "object_id": "1348605",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8695652173913044,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": 53.19612,
+        "y": -41.001934,
+        "name": "SARAH"
+      },
+      {
+        "x": -135.3968,
+        "y": 98.86968,
+        "name": "HOLLY"
+      },
+      {
+        "x": 134.7072,
+        "y": 53.917206,
+        "name": "WE RISE UP"
+      },
+      {
+        "x": 96.04162,
+        "y": 1.9079448,
+        "name": "SIBYL"
+      },
+      {
+        "x": 15.18084,
+        "y": 150.23715,
+        "name": "BOY"
+      },
+      {
+        "x": 56.765266,
+        "y": -124.84887,
+        "name": "GRACE"
+      },
+      {
+        "x": 67.20097,
+        "y": -85.756966,
+        "name": "THE CROW"
+      },
+      {
+        "x": 3.9925401,
+        "y": -98.27303,
+        "name": "NOAH"
+      },
+      {
+        "x": 129.74928,
+        "y": -78.22979,
+        "name": "CITY STREET"
+      },
+      {
+        "x": -93.055466,
+        "y": -28.18842,
+        "name": "SCREAMS"
+      },
+      {
+        "x": -32.203163,
+        "y": -132.46297,
+        "name": "CUSTOMER"
+      },
+      {
+        "x": 89.5338,
+        "y": -142.94795,
+        "name": "ON ASHE"
+      },
+      {
+        "x": 16.999844,
+        "y": -136.37697,
+        "name": "GABRIEL"
+      },
+      {
+        "x": -7.0056744,
+        "y": -30.140097,
+        "name": "CURVE"
+      },
+      {
+        "x": 8.600776,
+        "y": 21.196602,
+        "name": "ASHE"
+      },
+      {
+        "x": -180.38477,
+        "y": 89.38378,
+        "name": "WOMAN"
+      },
+      {
+        "x": -72.28683,
+        "y": 72.81893,
+        "name": "NEMO"
+      },
+      {
+        "x": -47.29035,
+        "y": 14.071138,
+        "name": "DANNY"
+      },
+      {
+        "x": -86.62603,
+        "y": 122.465416,
+        "name": "ZEKE"
+      },
+      {
+        "x": 61.89537,
+        "y": 16.244425,
+        "name": "JUDAH"
+      },
+      {
+        "x": -30.749979,
+        "y": -66.70332,
+        "name": "KALI"
+      },
+      {
+        "x": 25.432175,
+        "y": 108.39477,
+        "name": "PRIEST"
+      },
+      {
+        "x": -115.98322,
+        "y": 35.612823,
+        "name": "DOLL"
+      },
+      {
+        "x": 96.740585,
+        "y": -31.688868,
+        "name": "SPIDER MONKEY"
+      }
+    ]
+  }
+}

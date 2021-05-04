@@ -1,0 +1,1787 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "HARRIET",
+        "target": "ROSE",
+        "weight": 4
+      },
+      {
+        "source": "HARRIET",
+        "target": "MAY",
+        "weight": 3
+      },
+      {
+        "source": "HARRIET",
+        "target": "NEWS ANCHORMAN",
+        "weight": 2
+      },
+      {
+        "source": "HARRIET",
+        "target": "BAND LEADER",
+        "weight": 1
+      },
+      {
+        "source": "HARRIET",
+        "target": "VALET",
+        "weight": 1
+      },
+      {
+        "source": "HARRIET",
+        "target": "LADY",
+        "weight": 1
+      },
+      {
+        "source": "HARRIET",
+        "target": "BELLBOY",
+        "weight": 1
+      },
+      {
+        "source": "HARRIET",
+        "target": "STUART",
+        "weight": 3
+      },
+      {
+        "source": "HARRIET",
+        "target": "DESK CLERK",
+        "weight": 1
+      },
+      {
+        "source": "HARRIET",
+        "target": "WAITER",
+        "weight": 1
+      },
+      {
+        "source": "HARRIET",
+        "target": "RALPH",
+        "weight": 1
+      },
+      {
+        "source": "HARRIET",
+        "target": "CONCIERGE",
+        "weight": 1
+      },
+      {
+        "source": "HARRIET",
+        "target": "SUSAN",
+        "weight": 1
+      },
+      {
+        "source": "HARRIET",
+        "target": "TONY",
+        "weight": 4
+      },
+      {
+        "source": "HARRIET",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "HARRIET",
+        "target": "SCOTTISH MINISTER",
+        "weight": 1
+      },
+      {
+        "source": "HARRIET",
+        "target": "CHARLIE",
+        "weight": 22
+      },
+      {
+        "source": "HARRIET",
+        "target": "THE GROUP",
+        "weight": 1
+      },
+      {
+        "source": "HARRIET",
+        "target": "ONLY YOU",
+        "weight": 1
+      },
+      {
+        "source": "HARRIET",
+        "target": "MR LEVENSTEIN",
+        "weight": 1
+      },
+      {
+        "source": "HARRIET",
+        "target": "CUSTOMER",
+        "weight": 1
+      },
+      {
+        "source": "HARRIET",
+        "target": "STEWARDESS",
+        "weight": 1
+      },
+      {
+        "source": "HARRIET",
+        "target": "ARCADE MAN",
+        "weight": 1
+      },
+      {
+        "source": "HARRIET",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "ROSE",
+        "target": "CHARLIE",
+        "weight": 6
+      },
+      {
+        "source": "ROSE",
+        "target": "NEWS ANCHORMAN",
+        "weight": 1
+      },
+      {
+        "source": "ROSE",
+        "target": "TONY",
+        "weight": 1
+      },
+      {
+        "source": "MAY",
+        "target": "CHARLIE",
+        "weight": 2
+      },
+      {
+        "source": "MAY",
+        "target": "DREAMS",
+        "weight": 1
+      },
+      {
+        "source": "MAY",
+        "target": "ONLY YOU",
+        "weight": 1
+      },
+      {
+        "source": "MAY",
+        "target": "STUART",
+        "weight": 3
+      },
+      {
+        "source": "MAY",
+        "target": "THE GROUP",
+        "weight": 1
+      },
+      {
+        "source": "MAY",
+        "target": "TONY",
+        "weight": 2
+      },
+      {
+        "source": "MAY",
+        "target": "WILLIAM",
+        "weight": 1
+      },
+      {
+        "source": "MAY",
+        "target": "THE HALLWAY",
+        "weight": 1
+      },
+      {
+        "source": "YOUNG GUY",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "YOUNG GUY",
+        "target": "SHERRI",
+        "weight": 1
+      },
+      {
+        "source": "PENNY",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "PENNY",
+        "target": "FRED",
+        "weight": 1
+      },
+      {
+        "source": "UNCLE",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "UNCLE",
+        "target": "TONY",
+        "weight": 1
+      },
+      {
+        "source": "UNCLE",
+        "target": "GIRLS",
+        "weight": 1
+      },
+      {
+        "source": "UNCLE",
+        "target": "JUNE",
+        "weight": 1
+      },
+      {
+        "source": "UNCLE",
+        "target": "SUSAN",
+        "weight": 1
+      },
+      {
+        "source": "LADY",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "BELLBOY",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "BELLBOY",
+        "target": "CONCIERGE",
+        "weight": 1
+      },
+      {
+        "source": "CHARLIE'S FACE",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "CHARLIE'S FACE",
+        "target": "ANGLE ON THE JOURNAL",
+        "weight": 1
+      },
+      {
+        "source": "CHARLIE'S FACE",
+        "target": "THIS POEM SUCKS",
+        "weight": 1
+      },
+      {
+        "source": "CHARLIE'S FACE",
+        "target": "IT'S REALLY HARD",
+        "weight": 1
+      },
+      {
+        "source": "STUART",
+        "target": "CHARLIE",
+        "weight": 4
+      },
+      {
+        "source": "STUART",
+        "target": "DREAMS",
+        "weight": 1
+      },
+      {
+        "source": "STUART",
+        "target": "ONLY YOU",
+        "weight": 1
+      },
+      {
+        "source": "STUART",
+        "target": "THE GROUP",
+        "weight": 1
+      },
+      {
+        "source": "STUART",
+        "target": "TONY",
+        "weight": 3
+      },
+      {
+        "source": "STUART",
+        "target": "WILLIAM",
+        "weight": 1
+      },
+      {
+        "source": "STUART",
+        "target": "SCOTTISH MINISTER",
+        "weight": 1
+      },
+      {
+        "source": "STUART",
+        "target": "THE HALLWAY",
+        "weight": 1
+      },
+      {
+        "source": "DENNIS",
+        "target": "TONY",
+        "weight": 2
+      },
+      {
+        "source": "ASSISTANT",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "ASSISTANT",
+        "target": "OBITUARY ASSISTANT #1",
+        "weight": 1
+      },
+      {
+        "source": "ASSISTANT",
+        "target": "OBITUARY ASSISTANT #2",
+        "weight": 1
+      },
+      {
+        "source": "UNLOV-ING",
+        "target": "CHARLIE",
+        "weight": 2
+      },
+      {
+        "source": "UNLOV-ING",
+        "target": "UNKNOW-ING",
+        "weight": 2
+      },
+      {
+        "source": "UNLOV-ING",
+        "target": "ANGLE ON THE JOURNAL",
+        "weight": 1
+      },
+      {
+        "source": "UNLOV-ING",
+        "target": "THIS POEM SUCKS",
+        "weight": 2
+      },
+      {
+        "source": "UNLOV-ING",
+        "target": "IT'S REALLY HARD",
+        "weight": 1
+      },
+      {
+        "source": "UNLOV-ING",
+        "target": "UNTRUST-ING",
+        "weight": 2
+      },
+      {
+        "source": "THE BEDROOM",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "THE BEDROOM",
+        "target": "SHERRI",
+        "weight": 1
+      },
+      {
+        "source": "THE BEDROOM",
+        "target": "HANDS",
+        "weight": 1
+      },
+      {
+        "source": "UNTRUST-ING",
+        "target": "CHARLIE",
+        "weight": 2
+      },
+      {
+        "source": "UNTRUST-ING",
+        "target": "UNKNOW-ING",
+        "weight": 2
+      },
+      {
+        "source": "UNTRUST-ING",
+        "target": "ANGLE ON THE JOURNAL",
+        "weight": 1
+      },
+      {
+        "source": "UNTRUST-ING",
+        "target": "THIS POEM SUCKS",
+        "weight": 2
+      },
+      {
+        "source": "UNTRUST-ING",
+        "target": "IT'S REALLY HARD",
+        "weight": 1
+      },
+      {
+        "source": "OBITUARY ASSISTANT #1",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "OBITUARY ASSISTANT #1",
+        "target": "OBITUARY ASSISTANT #2",
+        "weight": 1
+      },
+      {
+        "source": "PARK RANGER",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "PARK RANGER",
+        "target": "TONY",
+        "weight": 1
+      },
+      {
+        "source": "OBITUARY ASSISTANT #2",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "VALET",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "MR LEVENSTEIN",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "MR LEVENSTEIN",
+        "target": "CONCIERGE",
+        "weight": 1
+      },
+      {
+        "source": "MR LEVENSTEIN",
+        "target": "BAND LEADER",
+        "weight": 1
+      },
+      {
+        "source": "MR LEVENSTEIN",
+        "target": "TONY",
+        "weight": 1
+      },
+      {
+        "source": "MR LEVENSTEIN",
+        "target": "WAITER",
+        "weight": 1
+      },
+      {
+        "source": "GIRLS",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "GIRLS",
+        "target": "TONY",
+        "weight": 1
+      },
+      {
+        "source": "GIRLS",
+        "target": "JUNE",
+        "weight": 1
+      },
+      {
+        "source": "GIRLS",
+        "target": "SUSAN",
+        "weight": 1
+      },
+      {
+        "source": "HANDS",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "HANDS",
+        "target": "SHERRI",
+        "weight": 1
+      },
+      {
+        "source": "DOCTOR",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "DOCTOR",
+        "target": "NEWS ANCHORMAN",
+        "weight": 1
+      },
+      {
+        "source": "SHERRI",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "DREAMS",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "DREAMS",
+        "target": "TONY",
+        "weight": 1
+      },
+      {
+        "source": "DREAMS",
+        "target": "WILLIAM",
+        "weight": 1
+      },
+      {
+        "source": "DREAMS",
+        "target": "THE HALLWAY",
+        "weight": 1
+      },
+      {
+        "source": "KATHY",
+        "target": "CAPTAIN",
+        "weight": 1
+      },
+      {
+        "source": "KATHY",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "KATHY",
+        "target": "TONY",
+        "weight": 1
+      },
+      {
+        "source": "NEWS ANCHORMAN",
+        "target": "CHARLIE",
+        "weight": 2
+      },
+      {
+        "source": "CUSTOMER",
+        "target": "TOURIST",
+        "weight": 1
+      },
+      {
+        "source": "CUSTOMER",
+        "target": "CHARLIE",
+        "weight": 2
+      },
+      {
+        "source": "CAPTAIN",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "CAPTAIN",
+        "target": "TONY",
+        "weight": 2
+      },
+      {
+        "source": "DESK CLERK",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "WAITER",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "WAITER",
+        "target": "BAND LEADER",
+        "weight": 1
+      },
+      {
+        "source": "WAITER",
+        "target": "TONY",
+        "weight": 1
+      },
+      {
+        "source": "WAITER",
+        "target": "CONCIERGE",
+        "weight": 1
+      },
+      {
+        "source": "TOURIST",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "RALPH",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "DESK SERGEANT",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "CONCIERGE",
+        "target": "TONY",
+        "weight": 1
+      },
+      {
+        "source": "CONCIERGE",
+        "target": "BAND LEADER",
+        "weight": 1
+      },
+      {
+        "source": "CONCIERGE",
+        "target": "CHARLIE",
+        "weight": 2
+      },
+      {
+        "source": "SUSAN",
+        "target": "CHARLIE",
+        "weight": 2
+      },
+      {
+        "source": "SUSAN",
+        "target": "TONY",
+        "weight": 2
+      },
+      {
+        "source": "SUSAN",
+        "target": "JUNE",
+        "weight": 1
+      },
+      {
+        "source": "TONY",
+        "target": "BAND LEADER",
+        "weight": 1
+      },
+      {
+        "source": "TONY",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "TONY",
+        "target": "WILLIAM",
+        "weight": 1
+      },
+      {
+        "source": "TONY",
+        "target": "JUNE",
+        "weight": 1
+      },
+      {
+        "source": "TONY",
+        "target": "CHARLIE",
+        "weight": 8
+      },
+      {
+        "source": "TONY",
+        "target": "THE GROUP",
+        "weight": 1
+      },
+      {
+        "source": "TONY",
+        "target": "ONLY YOU",
+        "weight": 1
+      },
+      {
+        "source": "TONY",
+        "target": "ARCADE MAN",
+        "weight": 1
+      },
+      {
+        "source": "TONY",
+        "target": "THE HALLWAY",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "WILLIAM",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "WILLIAM",
+        "target": "THE HALLWAY",
+        "weight": 1
+      },
+      {
+        "source": "SCOTTISH MINISTER",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "JUNE",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "BAND LEADER",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "CHARLIE",
+        "target": "THE GROUP",
+        "weight": 1
+      },
+      {
+        "source": "CHARLIE",
+        "target": "ONLY YOU",
+        "weight": 1
+      },
+      {
+        "source": "CHARLIE",
+        "target": "ANGLE ON THE JOURNAL",
+        "weight": 1
+      },
+      {
+        "source": "CHARLIE",
+        "target": "IT'S REALLY HARD",
+        "weight": 1
+      },
+      {
+        "source": "CHARLIE",
+        "target": "THIS POEM SUCKS",
+        "weight": 2
+      },
+      {
+        "source": "CHARLIE",
+        "target": "UNKNOW-ING",
+        "weight": 2
+      },
+      {
+        "source": "CHARLIE",
+        "target": "FRED",
+        "weight": 1
+      },
+      {
+        "source": "CHARLIE",
+        "target": "ARCADE MAN",
+        "weight": 1
+      },
+      {
+        "source": "CHARLIE",
+        "target": "THE HALLWAY",
+        "weight": 1
+      },
+      {
+        "source": "THE GROUP",
+        "target": "ONLY YOU",
+        "weight": 1
+      },
+      {
+        "source": "ANGLE ON THE JOURNAL",
+        "target": "UNKNOW-ING",
+        "weight": 1
+      },
+      {
+        "source": "ANGLE ON THE JOURNAL",
+        "target": "THIS POEM SUCKS",
+        "weight": 2
+      },
+      {
+        "source": "ANGLE ON THE JOURNAL",
+        "target": "IT'S REALLY HARD",
+        "weight": 1
+      },
+      {
+        "source": "IT'S REALLY HARD",
+        "target": "UNKNOW-ING",
+        "weight": 1
+      },
+      {
+        "source": "IT'S REALLY HARD",
+        "target": "THIS POEM SUCKS",
+        "weight": 2
+      },
+      {
+        "source": "THIS POEM SUCKS",
+        "target": "UNKNOW-ING",
+        "weight": 2
+      }
+    ],
+    "nodes": [
+      {
+        "id": "HARRIET",
+        "name": "HARRIET",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 24,
+        "pagerank": 0.10828217364758953,
+        "object_id": "4623851",
+        "triangles": 50,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.5384615384615385,
+        "betweenness centrality": 149.46666666666667,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ROSE",
+        "name": "ROSE",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.023274054258121665,
+        "object_id": "4624694",
+        "triangles": 5,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9423076923076923,
+        "betweenness centrality": 0.6666666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAY",
+        "name": "MAY",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 9,
+        "pagerank": 0.02862744412863299,
+        "object_id": "4623973",
+        "triangles": 27,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8461538461538463,
+        "betweenness centrality": 3.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "YOUNG GUY",
+        "name": "YOUNG GUY",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.007431307379150726,
+        "object_id": "4626870",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.019230769230769,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PENNY",
+        "name": "PENNY",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.007903729509416806,
+        "object_id": "4624875",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.019230769230769,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "UNCLE",
+        "name": "UNCLE",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.012234804836167616,
+        "object_id": "4623664",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9423076923076923,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LADY",
+        "name": "LADY",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.006188113496403249,
+        "object_id": "4626464",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BELLBOY",
+        "name": "BELLBOY",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.00806146777266224,
+        "object_id": "4628439",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9807692307692308,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CHARLIE'S FACE",
+        "name": "CHARLIE'S FACE",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 4,
+        "pagerank": 0.010287216776896365,
+        "object_id": "4623803",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.730769230769231,
+        "betweenness centrality": 1.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "STUART",
+        "name": "STUART",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 10,
+        "pagerank": 0.035976156251091344,
+        "object_id": "4623947",
+        "triangles": 29,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8269230769230769,
+        "betweenness centrality": 6.166666666666667,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DENNIS",
+        "name": "DENNIS",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.006175087184889086,
+        "object_id": "4628125",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.519230769230769,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ASSISTANT",
+        "name": "ASSISTANT",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.01049037901911829,
+        "object_id": "4626574",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "UNLOV-ING",
+        "name": "UNLOV-ING",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 6,
+        "pagerank": 0.0201160800927617,
+        "object_id": "4626839",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9230769230769231,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THE BEDROOM",
+        "name": "THE BEDROOM",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.010370246530565376,
+        "object_id": "4623437",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "UNTRUST-ING",
+        "name": "UNTRUST-ING",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 6,
+        "pagerank": 0.0201160800927617,
+        "object_id": "4626837",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9230769230769231,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OBITUARY ASSISTANT #1",
+        "name": "OBITUARY ASSISTANT #1",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.01049037901911829,
+        "object_id": "4626592",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PARK RANGER",
+        "name": "PARK RANGER",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.006216974089345638,
+        "object_id": "4624905",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OBITUARY ASSISTANT #2",
+        "name": "OBITUARY ASSISTANT #2",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.01049037901911829,
+        "object_id": "4626595",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "VALET",
+        "name": "VALET",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.006188113496403249,
+        "object_id": "4627855",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MR LEVENSTEIN",
+        "name": "MR LEVENSTEIN",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.013582223155356753,
+        "object_id": "4628339",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9038461538461537,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GIRLS",
+        "name": "GIRLS",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.012234804836167616,
+        "object_id": "4623746",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9423076923076923,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "STEWARDESS",
+        "name": "STEWARDESS",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 1,
+        "pagerank": 0.004473777339124796,
+        "object_id": "4627043",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.519230769230769,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HANDS",
+        "name": "HANDS",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.010370246530565376,
+        "object_id": "4623393",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOCTOR",
+        "name": "DOCTOR",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.00809915823926896,
+        "object_id": "4626347",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9807692307692308,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SHERRI",
+        "name": "SHERRI",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.013581225768968664,
+        "object_id": "4623460",
+        "triangles": 4,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9807692307692308,
+        "betweenness centrality": 1.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DREAMS",
+        "name": "DREAMS",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 6,
+        "pagerank": 0.013184027318203284,
+        "object_id": "4624218",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9230769230769231,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KATHY",
+        "name": "KATHY",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.008399171152684681,
+        "object_id": "4625991",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9807692307692308,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NEWS ANCHORMAN",
+        "name": "NEWS ANCHORMAN",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.01348944847415939,
+        "object_id": "4626191",
+        "triangles": 5,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9615384615384615,
+        "betweenness centrality": 0.3333333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CUSTOMER",
+        "name": "CUSTOMER",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.01081025695117277,
+        "object_id": "4623349",
+        "triangles": 2,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9807692307692308,
+        "betweenness centrality": 1.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CAPTAIN",
+        "name": "CAPTAIN",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.010269189959792025,
+        "object_id": "4625790",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9807692307692308,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DESK CLERK",
+        "name": "DESK CLERK",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.006188113496403249,
+        "object_id": "4627882",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WAITER",
+        "name": "WAITER",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.013582223155356751,
+        "object_id": "4628397",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9038461538461537,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TOURIST",
+        "name": "TOURIST",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.006841753682435647,
+        "object_id": "4623359",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.019230769230769,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RALPH",
+        "name": "RALPH",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.006188113496403249,
+        "object_id": "4627167",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DESK SERGEANT",
+        "name": "DESK SERGEANT",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.004544524836523736,
+        "object_id": "4625780",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0384615384615383,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CONCIERGE",
+        "name": "CONCIERGE",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 7,
+        "pagerank": 0.017631465464824816,
+        "object_id": "4628221",
+        "triangles": 17,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8846153846153846,
+        "betweenness centrality": 1.6666666666666667,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SUSAN",
+        "name": "SUSAN",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 6,
+        "pagerank": 0.01748708806279132,
+        "object_id": "4623751",
+        "triangles": 12,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9038461538461537,
+        "betweenness centrality": 1.9999999999999998,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TONY",
+        "name": "TONY",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 24,
+        "pagerank": 0.07870377882951932,
+        "object_id": "4623584",
+        "triangles": 62,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.5384615384615385,
+        "betweenness centrality": 141.63333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAN",
+        "name": "MAN",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.010046269680336256,
+        "object_id": "4624269",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9230769230769231,
+        "betweenness centrality": 19.699999999999992,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WILLIAM",
+        "name": "WILLIAM",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 6,
+        "pagerank": 0.013184027318203282,
+        "object_id": "4623995",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9230769230769231,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SCOTTISH MINISTER",
+        "name": "SCOTTISH MINISTER",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.0077975590502104,
+        "object_id": "4627434",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9807692307692308,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JUNE",
+        "name": "JUNE",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.012234804836167614,
+        "object_id": "4623787",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9423076923076923,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BAND LEADER",
+        "name": "BAND LEADER",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.013582223155356751,
+        "object_id": "4628214",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9038461538461537,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CHARLIE",
+        "name": "CHARLIE",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 49,
+        "pagerank": 0.18958061839635887,
+        "object_id": "4623342",
+        "triangles": 99,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.0576923076923077,
+        "betweenness centrality": 962.5666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THE GROUP",
+        "name": "THE GROUP",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 6,
+        "pagerank": 0.012922947907603649,
+        "object_id": "4627236",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9038461538461537,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ONLY YOU",
+        "name": "ONLY YOU",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 6,
+        "pagerank": 0.012922947907603649,
+        "object_id": "4627396",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9038461538461537,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANGLE ON THE JOURNAL",
+        "name": "ANGLE ON THE JOURNAL",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 7,
+        "pagerank": 0.017065046736112,
+        "object_id": "4623807",
+        "triangles": 17,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9038461538461537,
+        "betweenness centrality": 9.433333333333325,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "IT'S REALLY HARD",
+        "name": "IT'S REALLY HARD",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 7,
+        "pagerank": 0.017065046736112,
+        "object_id": "4623818",
+        "triangles": 17,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9038461538461537,
+        "betweenness centrality": 9.433333333333325,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THIS POEM SUCKS",
+        "name": "THIS POEM SUCKS",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 7,
+        "pagerank": 0.02595333125639159,
+        "object_id": "4623827",
+        "triangles": 17,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9038461538461537,
+        "betweenness centrality": 9.433333333333325,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "UNKNOW-ING",
+        "name": "UNKNOW-ING",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 6,
+        "pagerank": 0.0201160800927617,
+        "object_id": "4626838",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9230769230769231,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FRED",
+        "name": "FRED",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.007903729509416806,
+        "object_id": "4624849",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.019230769230769,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ARCADE MAN",
+        "name": "ARCADE MAN",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.00786056274922515,
+        "object_id": "4625404",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9615384615384615,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THE HALLWAY",
+        "name": "THE HALLWAY",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 6,
+        "pagerank": 0.013184027318203284,
+        "object_id": "4624247",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9230769230769231,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": 4.699356,
+        "y": 63.776752,
+        "name": "HARRIET"
+      },
+      {
+        "x": -17.582403,
+        "y": 25.19419,
+        "name": "ROSE"
+      },
+      {
+        "x": -87.94378,
+        "y": -5.3368254,
+        "name": "MAY"
+      },
+      {
+        "x": -154.36623,
+        "y": -178.85992,
+        "name": "YOUNG GUY"
+      },
+      {
+        "x": -216.54861,
+        "y": 62.891277,
+        "name": "PENNY"
+      },
+      {
+        "x": 245.77274,
+        "y": -36.08681,
+        "name": "UNCLE"
+      },
+      {
+        "x": 39.67496,
+        "y": 174.01222,
+        "name": "LADY"
+      },
+      {
+        "x": 127.14377,
+        "y": 114.39799,
+        "name": "BELLBOY"
+      },
+      {
+        "x": 151.93355,
+        "y": -318.63385,
+        "name": "CHARLIE'S FACE"
+      },
+      {
+        "x": -65.35457,
+        "y": 35.652924,
+        "name": "STUART"
+      },
+      {
+        "x": 128.40544,
+        "y": -41.112366,
+        "name": "DENNIS"
+      },
+      {
+        "x": -115.0887,
+        "y": 36.793358,
+        "name": "ASSISTANT"
+      },
+      {
+        "x": 24.425476,
+        "y": -227.24167,
+        "name": "UNLOV-ING"
+      },
+      {
+        "x": -62.203503,
+        "y": -191.71739,
+        "name": "THE BEDROOM"
+      },
+      {
+        "x": 68.00897,
+        "y": -221.89667,
+        "name": "UNTRUST-ING"
+      },
+      {
+        "x": 64.758545,
+        "y": -69.07109,
+        "name": "OBITUARY ASSISTANT #1"
+      },
+      {
+        "x": 115.39701,
+        "y": 149.21855,
+        "name": "PARK RANGER"
+      },
+      {
+        "x": 45.38545,
+        "y": 94.56354,
+        "name": "OBITUARY ASSISTANT #2"
+      },
+      {
+        "x": 75.0019,
+        "y": 189.401,
+        "name": "VALET"
+      },
+      {
+        "x": -75.006714,
+        "y": 210.65454,
+        "name": "MR LEVENSTEIN"
+      },
+      {
+        "x": 206.05666,
+        "y": -58.82017,
+        "name": "GIRLS"
+      },
+      {
+        "x": 189.38562,
+        "y": 121.021454,
+        "name": "STEWARDESS"
+      },
+      {
+        "x": -91.0827,
+        "y": -215.6587,
+        "name": "HANDS"
+      },
+      {
+        "x": 152.54836,
+        "y": 146.19829,
+        "name": "DOCTOR"
+      },
+      {
+        "x": -132.59479,
+        "y": -221.32347,
+        "name": "SHERRI"
+      },
+      {
+        "x": -115.44399,
+        "y": -91.94855,
+        "name": "DREAMS"
+      },
+      {
+        "x": -42.14676,
+        "y": 156.54039,
+        "name": "KATHY"
+      },
+      {
+        "x": 79.72607,
+        "y": 108.98306,
+        "name": "NEWS ANCHORMAN"
+      },
+      {
+        "x": -94.03794,
+        "y": -58.96142,
+        "name": "CUSTOMER"
+      },
+      {
+        "x": -27.182247,
+        "y": 117.087906,
+        "name": "CAPTAIN"
+      },
+      {
+        "x": 118.03141,
+        "y": -9.167768,
+        "name": "DESK CLERK"
+      },
+      {
+        "x": -126.0754,
+        "y": 162.93823,
+        "name": "WAITER"
+      },
+      {
+        "x": -158.91852,
+        "y": -119.84319,
+        "name": "TOURIST"
+      },
+      {
+        "x": -21.006397,
+        "y": 209.42409,
+        "name": "RALPH"
+      },
+      {
+        "x": 23.71578,
+        "y": 216.96596,
+        "name": "DESK SERGEANT"
+      },
+      {
+        "x": -4.2563243,
+        "y": 173.81604,
+        "name": "CONCIERGE"
+      },
+      {
+        "x": 167.50848,
+        "y": -3.8289535,
+        "name": "SUSAN"
+      },
+      {
+        "x": 62.38233,
+        "y": 30.292395,
+        "name": "TONY"
+      },
+      {
+        "x": 115.43812,
+        "y": -123.02924,
+        "name": "MAN"
+      },
+      {
+        "x": -165.042,
+        "y": -12.6350355,
+        "name": "WILLIAM"
+      },
+      {
+        "x": 10.268457,
+        "y": 128.85846,
+        "name": "SCOTTISH MINISTER"
+      },
+      {
+        "x": 229.40036,
+        "y": 8.254492,
+        "name": "JUNE"
+      },
+      {
+        "x": -82.74246,
+        "y": 161.24808,
+        "name": "BAND LEADER"
+      },
+      {
+        "x": 4.07437,
+        "y": -24.478659,
+        "name": "CHARLIE"
+      },
+      {
+        "x": 99.9552,
+        "y": 72.29232,
+        "name": "THE GROUP"
+      },
+      {
+        "x": -88.50227,
+        "y": 89.70945,
+        "name": "ONLY YOU"
+      },
+      {
+        "x": 49.74566,
+        "y": -322.69418,
+        "name": "ANGLE ON THE JOURNAL"
+      },
+      {
+        "x": 100.31154,
+        "y": -307.12128,
+        "name": "IT'S REALLY HARD"
+      },
+      {
+        "x": 74.24102,
+        "y": -265.54205,
+        "name": "THIS POEM SUCKS"
+      },
+      {
+        "x": 22.46866,
+        "y": -267.65707,
+        "name": "UNKNOW-ING"
+      },
+      {
+        "x": -226.90753,
+        "y": 24.909458,
+        "name": "FRED"
+      },
+      {
+        "x": 73.48577,
+        "y": 147.72894,
+        "name": "ARCADE MAN"
+      },
+      {
+        "x": -158.14037,
+        "y": -59.39536,
+        "name": "THE HALLWAY"
+      }
+    ]
+  }
+}

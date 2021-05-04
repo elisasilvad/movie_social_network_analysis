@@ -1,0 +1,1910 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "MARTHA",
+        "target": "DEAN",
+        "weight": 1
+      },
+      {
+        "source": "PRIEST",
+        "target": "DEAN",
+        "weight": 1
+      },
+      {
+        "source": "PRIEST",
+        "target": "REYNOLDS",
+        "weight": 1
+      },
+      {
+        "source": "PRIEST",
+        "target": "HICKS",
+        "weight": 1
+      },
+      {
+        "source": "PRIEST",
+        "target": "CONGREGATION",
+        "weight": 1
+      },
+      {
+        "source": "PRIEST",
+        "target": "STACY",
+        "weight": 1
+      },
+      {
+        "source": "BINGHAM",
+        "target": "PRATT",
+        "weight": 1
+      },
+      {
+        "source": "BINGHAM",
+        "target": "DEAN",
+        "weight": 1
+      },
+      {
+        "source": "CONGREGATION",
+        "target": "DEAN",
+        "weight": 1
+      },
+      {
+        "source": "CONGREGATION",
+        "target": "STACY",
+        "weight": 1
+      },
+      {
+        "source": "CONGREGATION",
+        "target": "REYNOLDS",
+        "weight": 1
+      },
+      {
+        "source": "CHRISTA",
+        "target": "DEAN",
+        "weight": 1
+      },
+      {
+        "source": "CHRISTA",
+        "target": "TECHNICIAN",
+        "weight": 1
+      },
+      {
+        "source": "CHRISTA",
+        "target": "ALBERT",
+        "weight": 1
+      },
+      {
+        "source": "CHRISTA",
+        "target": "JONES",
+        "weight": 1
+      },
+      {
+        "source": "CHRISTA",
+        "target": "COP #1",
+        "weight": 1
+      },
+      {
+        "source": "CHRISTA",
+        "target": "DAVIS",
+        "weight": 1
+      },
+      {
+        "source": "CHRISTA",
+        "target": "HICKS",
+        "weight": 1
+      },
+      {
+        "source": "CHRISTA",
+        "target": "PATRICK",
+        "weight": 1
+      },
+      {
+        "source": "CHRISTA",
+        "target": "COP #2",
+        "weight": 1
+      },
+      {
+        "source": "RACHEL",
+        "target": "DEAN",
+        "weight": 6
+      },
+      {
+        "source": "RACHEL",
+        "target": "JERRY",
+        "weight": 1
+      },
+      {
+        "source": "RACHEL",
+        "target": "PEERS",
+        "weight": 1
+      },
+      {
+        "source": "DEPINTO",
+        "target": "DEAN",
+        "weight": 1
+      },
+      {
+        "source": "DYLAN",
+        "target": "ERIC",
+        "weight": 2
+      },
+      {
+        "source": "DYLAN",
+        "target": "DEAN",
+        "weight": 2
+      },
+      {
+        "source": "DYLAN",
+        "target": "NANNY",
+        "weight": 1
+      },
+      {
+        "source": "FRANKIE",
+        "target": "SAL",
+        "weight": 1
+      },
+      {
+        "source": "FRANKIE",
+        "target": "DEAN",
+        "weight": 1
+      },
+      {
+        "source": "FIEDLER",
+        "target": "REYNOLDS",
+        "weight": 1
+      },
+      {
+        "source": "FIEDLER",
+        "target": "HICKS",
+        "weight": 1
+      },
+      {
+        "source": "ALFONSO",
+        "target": "ZAVITZ",
+        "weight": 1
+      },
+      {
+        "source": "ALFONSO",
+        "target": "NEWSCASTER",
+        "weight": 1
+      },
+      {
+        "source": "HICKS",
+        "target": "DEAN",
+        "weight": 1
+      },
+      {
+        "source": "HICKS",
+        "target": "MARSHAL",
+        "weight": 1
+      },
+      {
+        "source": "HICKS",
+        "target": "COP #1",
+        "weight": 1
+      },
+      {
+        "source": "HICKS",
+        "target": "REYNOLDS",
+        "weight": 6
+      },
+      {
+        "source": "HICKS",
+        "target": "JONES",
+        "weight": 1
+      },
+      {
+        "source": "HICKS",
+        "target": "COP #2",
+        "weight": 1
+      },
+      {
+        "source": "HICKS",
+        "target": "PRATT",
+        "weight": 1
+      },
+      {
+        "source": "HICKS",
+        "target": "TECHNICIAN",
+        "weight": 1
+      },
+      {
+        "source": "HICKS",
+        "target": "DAVIS",
+        "weight": 1
+      },
+      {
+        "source": "HICKS",
+        "target": "SHAFFER",
+        "weight": 1
+      },
+      {
+        "source": "HICKS",
+        "target": "WAITER",
+        "weight": 1
+      },
+      {
+        "source": "LEVIN",
+        "target": "DEAN",
+        "weight": 1
+      },
+      {
+        "source": "TECHNICIAN",
+        "target": "DEAN",
+        "weight": 1
+      },
+      {
+        "source": "TECHNICIAN",
+        "target": "JONES",
+        "weight": 1
+      },
+      {
+        "source": "TECHNICIAN",
+        "target": "REYNOLDS",
+        "weight": 1
+      },
+      {
+        "source": "TECHNICIAN",
+        "target": "SILVERBERG",
+        "weight": 1
+      },
+      {
+        "source": "TECHNICIAN",
+        "target": "DISPATCHER",
+        "weight": 1
+      },
+      {
+        "source": "TECHNICIAN",
+        "target": "COP #2",
+        "weight": 1
+      },
+      {
+        "source": "TECHNICIAN",
+        "target": "COP #1",
+        "weight": 1
+      },
+      {
+        "source": "TECHNICIAN",
+        "target": "DAVIS",
+        "weight": 1
+      },
+      {
+        "source": "TECHNICIAN",
+        "target": "REYNOLDS WIFE",
+        "weight": 1
+      },
+      {
+        "source": "TECHNICIAN",
+        "target": "FBI AGENT",
+        "weight": 1
+      },
+      {
+        "source": "SHAFFER",
+        "target": "REYNOLDS",
+        "weight": 1
+      },
+      {
+        "source": "SHAFFER",
+        "target": "MARSHAL",
+        "weight": 1
+      },
+      {
+        "source": "BRILL",
+        "target": "DEAN",
+        "weight": 13
+      },
+      {
+        "source": "BRILL",
+        "target": "MARSHAL",
+        "weight": 1
+      },
+      {
+        "source": "BRILL",
+        "target": "JONES",
+        "weight": 1
+      },
+      {
+        "source": "BRILL",
+        "target": "COP",
+        "weight": 1
+      },
+      {
+        "source": "BRILL",
+        "target": "PATRICK",
+        "weight": 1
+      },
+      {
+        "source": "BRILL",
+        "target": "KRUG",
+        "weight": 1
+      },
+      {
+        "source": "BRILL",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "BRILL",
+        "target": "ANOTHER MAN",
+        "weight": 1
+      },
+      {
+        "source": "BRILL",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "BRILL",
+        "target": "YOUNG WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "BRILL",
+        "target": "SENATOR ALBERT",
+        "weight": 2
+      },
+      {
+        "source": "BRILL",
+        "target": "NEWSCASTER",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "DEAN",
+        "weight": 2
+      },
+      {
+        "source": "WOMAN",
+        "target": "ZAVITZ",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "ANOTHER MAN",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "SALES CLERK",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "YOUNG WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "SENATOR ALBERT",
+        "weight": 1
+      },
+      {
+        "source": "COP",
+        "target": "DEAN",
+        "weight": 1
+      },
+      {
+        "source": "COP",
+        "target": "KRUG",
+        "weight": 1
+      },
+      {
+        "source": "COP",
+        "target": "JONES",
+        "weight": 1
+      },
+      {
+        "source": "COP",
+        "target": "MARSHAL",
+        "weight": 1
+      },
+      {
+        "source": "COP #2",
+        "target": "COP #1",
+        "weight": 1
+      },
+      {
+        "source": "COP #2",
+        "target": "DAVIS",
+        "weight": 1
+      },
+      {
+        "source": "COP #2",
+        "target": "JONES",
+        "weight": 1
+      },
+      {
+        "source": "OLDER MAN",
+        "target": "DEAN",
+        "weight": 1
+      },
+      {
+        "source": "PEERS",
+        "target": "DEAN",
+        "weight": 1
+      },
+      {
+        "source": "DEAN",
+        "target": "KRUG",
+        "weight": 1
+      },
+      {
+        "source": "DEAN",
+        "target": "SENATOR TASKEN",
+        "weight": 1
+      },
+      {
+        "source": "DEAN",
+        "target": "ALBERT",
+        "weight": 1
+      },
+      {
+        "source": "DEAN",
+        "target": "SALES CLERK",
+        "weight": 1
+      },
+      {
+        "source": "DEAN",
+        "target": "YOUNG WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "DEAN",
+        "target": "SAUNDERS",
+        "weight": 1
+      },
+      {
+        "source": "DEAN",
+        "target": "PARAMEDIC",
+        "weight": 1
+      },
+      {
+        "source": "DEAN",
+        "target": "SILVERBERG",
+        "weight": 1
+      },
+      {
+        "source": "DEAN",
+        "target": "NEWSCASTER",
+        "weight": 1
+      },
+      {
+        "source": "DEAN",
+        "target": "BYSTANDER",
+        "weight": 1
+      },
+      {
+        "source": "DEAN",
+        "target": "JENNY",
+        "weight": 1
+      },
+      {
+        "source": "DEAN",
+        "target": "MEG",
+        "weight": 1
+      },
+      {
+        "source": "DEAN",
+        "target": "DISPATCHER",
+        "weight": 1
+      },
+      {
+        "source": "DEAN",
+        "target": "PRATT",
+        "weight": 1
+      },
+      {
+        "source": "DEAN",
+        "target": "MORELOS",
+        "weight": 1
+      },
+      {
+        "source": "DEAN",
+        "target": "ZAVITZ",
+        "weight": 1
+      },
+      {
+        "source": "DEAN",
+        "target": "MAN",
+        "weight": 3
+      },
+      {
+        "source": "DEAN",
+        "target": "JERRY",
+        "weight": 3
+      },
+      {
+        "source": "DEAN",
+        "target": "SAL",
+        "weight": 1
+      },
+      {
+        "source": "DEAN",
+        "target": "BLAKE",
+        "weight": 1
+      },
+      {
+        "source": "DEAN",
+        "target": "STACY",
+        "weight": 5
+      },
+      {
+        "source": "DEAN",
+        "target": "MARSHAL",
+        "weight": 1
+      },
+      {
+        "source": "DEAN",
+        "target": "ERIC",
+        "weight": 1
+      },
+      {
+        "source": "DEAN",
+        "target": "DESK CLERK",
+        "weight": 1
+      },
+      {
+        "source": "DEAN",
+        "target": "JONES",
+        "weight": 1
+      },
+      {
+        "source": "DEAN",
+        "target": "REYNOLDS",
+        "weight": 2
+      },
+      {
+        "source": "DEAN",
+        "target": "PATRICK",
+        "weight": 1
+      },
+      {
+        "source": "DEAN",
+        "target": "SENATOR ALBERT",
+        "weight": 1
+      },
+      {
+        "source": "DEAN",
+        "target": "ANOTHER MAN",
+        "weight": 1
+      },
+      {
+        "source": "DEAN",
+        "target": "NANNY",
+        "weight": 1
+      },
+      {
+        "source": "SENATOR TASKEN",
+        "target": "STACY",
+        "weight": 1
+      },
+      {
+        "source": "SENATOR TASKEN",
+        "target": "REYNOLDS",
+        "weight": 1
+      },
+      {
+        "source": "ALBERT",
+        "target": "PATRICK",
+        "weight": 1
+      },
+      {
+        "source": "SALES CLERK",
+        "target": "ZAVITZ",
+        "weight": 1
+      },
+      {
+        "source": "YOUNG WOMAN",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "YOUNG WOMAN",
+        "target": "ANOTHER MAN",
+        "weight": 1
+      },
+      {
+        "source": "YOUNG WOMAN",
+        "target": "SENATOR ALBERT",
+        "weight": 1
+      },
+      {
+        "source": "SAUNDERS",
+        "target": "SILVERBERG",
+        "weight": 1
+      },
+      {
+        "source": "SILVERBERG",
+        "target": "BLAKE",
+        "weight": 1
+      },
+      {
+        "source": "SILVERBERG",
+        "target": "REYNOLDS",
+        "weight": 1
+      },
+      {
+        "source": "HAMERSLEY",
+        "target": "REYNOLDS",
+        "weight": 1
+      },
+      {
+        "source": "JONES",
+        "target": "COP #1",
+        "weight": 1
+      },
+      {
+        "source": "JONES",
+        "target": "KRUG",
+        "weight": 1
+      },
+      {
+        "source": "JONES",
+        "target": "ZAVITZ",
+        "weight": 1
+      },
+      {
+        "source": "JONES",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "JONES",
+        "target": "DAVIS",
+        "weight": 2
+      },
+      {
+        "source": "JONES",
+        "target": "DRIVER",
+        "weight": 1
+      },
+      {
+        "source": "JONES",
+        "target": "MARSHAL",
+        "weight": 1
+      },
+      {
+        "source": "NANNY",
+        "target": "ERIC",
+        "weight": 1
+      },
+      {
+        "source": "DISPATCHER",
+        "target": "OLD MAN",
+        "weight": 1
+      },
+      {
+        "source": "PRATT",
+        "target": "REYNOLDS",
+        "weight": 1
+      },
+      {
+        "source": "ZAVITZ",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "ZAVITZ",
+        "target": "NEWSCASTER",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "ANOTHER MAN",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "STACY",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "SENATOR ALBERT",
+        "weight": 1
+      },
+      {
+        "source": "ANOTHER MAN",
+        "target": "SENATOR ALBERT",
+        "weight": 1
+      },
+      {
+        "source": "COP #1",
+        "target": "DAVIS",
+        "weight": 1
+      },
+      {
+        "source": "STACY",
+        "target": "REYNOLDS",
+        "weight": 1
+      },
+      {
+        "source": "WAITER",
+        "target": "REYNOLDS",
+        "weight": 1
+      },
+      {
+        "source": "MARSHAL",
+        "target": "KRUG",
+        "weight": 1
+      },
+      {
+        "source": "MARSHAL",
+        "target": "REYNOLDS",
+        "weight": 1
+      },
+      {
+        "source": "FBI AGENT",
+        "target": "REYNOLDS",
+        "weight": 1
+      },
+      {
+        "source": "FBI AGENT",
+        "target": "REYNOLDS WIFE",
+        "weight": 1
+      },
+      {
+        "source": "REYNOLDS",
+        "target": "REYNOLDS WIFE",
+        "weight": 1
+      },
+      {
+        "source": "PATRICK",
+        "target": "SENATOR ALBERT",
+        "weight": 1
+      },
+      {
+        "source": "NEWSCASTER",
+        "target": "SENATOR ALBERT",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "MARTHA",
+        "name": "MARTHA",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.004634922923943376,
+        "object_id": "1702111",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1864406779661016,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PRIEST",
+        "name": "PRIEST",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 5,
+        "pagerank": 0.013145621844034281,
+        "object_id": "1706074",
+        "triangles": 8,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9661016949152543,
+        "betweenness centrality": 1.470238095238095,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BINGHAM",
+        "name": "BINGHAM",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.007135278463492847,
+        "object_id": "1701979",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.169491525423729,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CONGREGATION",
+        "name": "CONGREGATION",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.011039160621760953,
+        "object_id": "1706126",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0338983050847457,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CHRISTA",
+        "name": "CHRISTA",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 9,
+        "pagerank": 0.02180811500666772,
+        "object_id": "1705545",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8983050847457628,
+        "betweenness centrality": 33.52261904761905,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RACHEL",
+        "name": "RACHEL",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.020564281350038613,
+        "object_id": "1700025",
+        "triangles": 2,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.152542372881356,
+        "betweenness centrality": 0.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DEPINTO",
+        "name": "DEPINTO",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.004634922923943376,
+        "object_id": "1700161",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1864406779661016,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DYLAN",
+        "name": "DYLAN",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.014844664904327079,
+        "object_id": "1700938",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.152542372881356,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FRANKIE",
+        "name": "FRANKIE",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.008060629287953761,
+        "object_id": "1702610",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.169491525423729,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FIEDLER",
+        "name": "FIEDLER",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.0065991846029075235,
+        "object_id": "1701330",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.6440677966101696,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ALFONSO",
+        "name": "ALFONSO",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.007085902206991413,
+        "object_id": "1700324",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.9322033898305087,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HICKS",
+        "name": "HICKS",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 14,
+        "pagerank": 0.04460396238066242,
+        "object_id": "1701152",
+        "triangles": 31,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7966101694915255,
+        "betweenness centrality": 115.10357142857143,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LEVIN",
+        "name": "LEVIN",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.004634922923943376,
+        "object_id": "1701856",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1864406779661016,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TECHNICIAN",
+        "name": "TECHNICIAN",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 12,
+        "pagerank": 0.03028134056110948,
+        "object_id": "1700449",
+        "triangles": 26,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8135593220338984,
+        "betweenness centrality": 102.98095238095239,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SHAFFER",
+        "name": "SHAFFER",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.008662100566846907,
+        "object_id": "1705975",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5762711864406778,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BRILL",
+        "name": "BRILL",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 12,
+        "pagerank": 0.05530787837611456,
+        "object_id": "1703365",
+        "triangles": 30,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8983050847457628,
+        "betweenness centrality": 22.06111111111111,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WOMAN",
+        "name": "WOMAN",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 8,
+        "pagerank": 0.021481649957494738,
+        "object_id": "1700710",
+        "triangles": 19,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0508474576271185,
+        "betweenness centrality": 3.783333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COP",
+        "name": "COP",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.012756776599666078,
+        "object_id": "1705814",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0338983050847457,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COP #2",
+        "name": "COP #2",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.014873135398881228,
+        "object_id": "1706443",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.457627118644068,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OLDER MAN",
+        "name": "OLDER MAN",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.004634922923943376,
+        "object_id": "1699945",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1864406779661016,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PEERS",
+        "name": "PEERS",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.006819643761131089,
+        "object_id": "1701791",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.169491525423729,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DEAN",
+        "name": "DEAN",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 47,
+        "pagerank": 0.18835068406702002,
+        "object_id": "1699949",
+        "triangles": 73,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.2033898305084745,
+        "betweenness centrality": 1303.8047619047618,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SENATOR TASKEN",
+        "name": "SENATOR TASKEN",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.00880440887869214,
+        "object_id": "1701003",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0508474576271185,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ALBERT",
+        "name": "ALBERT",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.008919990137822405,
+        "object_id": "1706515",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1016949152542375,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SALES CLERK",
+        "name": "SALES CLERK",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.008910094275712425,
+        "object_id": "1700720",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.135593220338983,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "YOUNG WOMAN",
+        "name": "YOUNG WOMAN",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 6,
+        "pagerank": 0.01454429014690894,
+        "object_id": "1705419",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1016949152542375,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SAUNDERS",
+        "name": "SAUNDERS",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.007183131795005987,
+        "object_id": "1700467",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.169491525423729,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PARAMEDIC",
+        "name": "PARAMEDIC",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.004634922923943376,
+        "object_id": "1703679",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1864406779661016,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SILVERBERG",
+        "name": "SILVERBERG",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.014988767213921884,
+        "object_id": "1700457",
+        "triangles": 5,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9661016949152543,
+        "betweenness centrality": 8.533333333333335,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HAMERSLEY",
+        "name": "HAMERSLEY",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.0046037884943497046,
+        "object_id": "1699844",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.76271186440678,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BYSTANDER",
+        "name": "BYSTANDER",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.004634922923943376,
+        "object_id": "1700893",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1864406779661016,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JENNY",
+        "name": "JENNY",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.004634922923943376,
+        "object_id": "1702333",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1864406779661016,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JONES",
+        "name": "JONES",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 14,
+        "pagerank": 0.035472211966784475,
+        "object_id": "1700567",
+        "triangles": 33,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7966101694915255,
+        "betweenness centrality": 122.53650793650792,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MEG",
+        "name": "MEG",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.004634922923943376,
+        "object_id": "1702688",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1864406779661016,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NANNY",
+        "name": "NANNY",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.009806578224189243,
+        "object_id": "1700944",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.152542372881356,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DISPATCHER",
+        "name": "DISPATCHER",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.011730423061425636,
+        "object_id": "1706332",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0508474576271185,
+        "betweenness centrality": 58.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PRATT",
+        "name": "PRATT",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.011766414316764496,
+        "object_id": "1701910",
+        "triangles": 4,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9830508474576272,
+        "betweenness centrality": 4.166666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MORELOS",
+        "name": "MORELOS",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.004634922923943376,
+        "object_id": "1701606",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1864406779661016,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ZAVITZ",
+        "name": "ZAVITZ",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 7,
+        "pagerank": 0.0184999718285464,
+        "object_id": "1700234",
+        "triangles": 9,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 37.40079365079366,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAN",
+        "name": "MAN",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 9,
+        "pagerank": 0.025245945600522315,
+        "object_id": "1700536",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9661016949152543,
+        "betweenness centrality": 10.515476190476189,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANOTHER MAN",
+        "name": "ANOTHER MAN",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 6,
+        "pagerank": 0.01454429014690894,
+        "object_id": "1705414",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1016949152542375,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COP #1",
+        "name": "COP #1",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.014873135398881226,
+        "object_id": "1706437",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.457627118644068,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SAL",
+        "name": "SAL",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.008060629287953761,
+        "object_id": "1702602",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.169491525423729,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DAVIS",
+        "name": "DAVIS",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.01693395672853608,
+        "object_id": "1706384",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.457627118644068,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BLAKE",
+        "name": "BLAKE",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.007183131795005987,
+        "object_id": "1702181",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.169491525423729,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "STACY",
+        "name": "STACY",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 6,
+        "pagerank": 0.024304307324953964,
+        "object_id": "1701015",
+        "triangles": 9,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 4.309523809523809,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WAITER",
+        "name": "WAITER",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.0065991846029075235,
+        "object_id": "1703815",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.6440677966101696,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ERIC",
+        "name": "ERIC",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.01246061156691276,
+        "object_id": "1700935",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.152542372881356,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DESK CLERK",
+        "name": "DESK CLERK",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.004634922923943376,
+        "object_id": "1702480",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1864406779661016,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MARSHAL",
+        "name": "MARSHAL",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 8,
+        "pagerank": 0.019415921346271733,
+        "object_id": "1705965",
+        "triangles": 16,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8983050847457628,
+        "betweenness centrality": 25.08968253968253,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FBI AGENT",
+        "name": "FBI AGENT",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.009416782118221882,
+        "object_id": "1706616",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.593220338983051,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REYNOLDS",
+        "name": "REYNOLDS",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 16,
+        "pagerank": 0.05445243730609422,
+        "object_id": "1699836",
+        "triangles": 25,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7796610169491525,
+        "betweenness centrality": 194.4650793650794,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PATRICK",
+        "name": "PATRICK",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.013091065904386313,
+        "object_id": "1705572",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0677966101694913,
+        "betweenness centrality": 2.261904761904762,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KRUG",
+        "name": "KRUG",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.012756776599666078,
+        "object_id": "1705913",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0338983050847457,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NEWSCASTER",
+        "name": "NEWSCASTER",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.013762205125915859,
+        "object_id": "1700274",
+        "triangles": 5,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1016949152542375,
+        "betweenness centrality": 25.07777777777778,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JERRY",
+        "name": "JERRY",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.01108948960901784,
+        "object_id": "1701539",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.169491525423729,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DRIVER",
+        "name": "DRIVER",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 1,
+        "pagerank": 0.004510056808810255,
+        "object_id": "1704242",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.7796610169491527,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OLD MAN",
+        "name": "OLD MAN",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.005823111125899685,
+        "object_id": "1706335",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.0338983050847457,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REYNOLDS WIFE",
+        "name": "REYNOLDS WIFE",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.009416782118221882,
+        "object_id": "1706605",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.593220338983051,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SENATOR ALBERT",
+        "name": "SENATOR ALBERT",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 8,
+        "pagerank": 0.021060869948253652,
+        "object_id": "1702568",
+        "triangles": 19,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0508474576271185,
+        "betweenness centrality": 3.416666666666666,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": -81.258804,
+        "y": -179.15373,
+        "name": "MARTHA"
+      },
+      {
+        "x": -1.4344636,
+        "y": 5.302913,
+        "name": "PRIEST"
+      },
+      {
+        "x": 156.72832,
+        "y": -31.150171,
+        "name": "BINGHAM"
+      },
+      {
+        "x": -6.927897,
+        "y": -43.328686,
+        "name": "CONGREGATION"
+      },
+      {
+        "x": 18.793074,
+        "y": 141.94437,
+        "name": "CHRISTA"
+      },
+      {
+        "x": 135.47675,
+        "y": -148.80879,
+        "name": "RACHEL"
+      },
+      {
+        "x": -58.867157,
+        "y": -105.33734,
+        "name": "DEPINTO"
+      },
+      {
+        "x": 184.48619,
+        "y": 1.993892,
+        "name": "DYLAN"
+      },
+      {
+        "x": -130.78185,
+        "y": -220.48555,
+        "name": "FRANKIE"
+      },
+      {
+        "x": -156.73349,
+        "y": 116.06266,
+        "name": "FIEDLER"
+      },
+      {
+        "x": 237.2829,
+        "y": -332.66315,
+        "name": "ALFONSO"
+      },
+      {
+        "x": -82.201324,
+        "y": 115.96969,
+        "name": "HICKS"
+      },
+      {
+        "x": 156.55458,
+        "y": -264.80472,
+        "name": "LEVIN"
+      },
+      {
+        "x": -43.76049,
+        "y": 200.66632,
+        "name": "TECHNICIAN"
+      },
+      {
+        "x": -40.229225,
+        "y": 133.36102,
+        "name": "SHAFFER"
+      },
+      {
+        "x": 19.058065,
+        "y": -189.87929,
+        "name": "BRILL"
+      },
+      {
+        "x": 39.5825,
+        "y": -311.73615,
+        "name": "WOMAN"
+      },
+      {
+        "x": -147.18881,
+        "y": -105.119705,
+        "name": "COP"
+      },
+      {
+        "x": -80.28309,
+        "y": 254.18825,
+        "name": "COP #2"
+      },
+      {
+        "x": 185.77565,
+        "y": -179.5,
+        "name": "OLDER MAN"
+      },
+      {
+        "x": 219.23788,
+        "y": -156.74672,
+        "name": "PEERS"
+      },
+      {
+        "x": 66.72659,
+        "y": -128.52914,
+        "name": "DEAN"
+      },
+      {
+        "x": 78.279396,
+        "y": -3.9887145,
+        "name": "SENATOR TASKEN"
+      },
+      {
+        "x": 129.86615,
+        "y": 5.6191854,
+        "name": "ALBERT"
+      },
+      {
+        "x": -4.872591,
+        "y": -290.28815,
+        "name": "SALES CLERK"
+      },
+      {
+        "x": -3.74563,
+        "y": -348.41006,
+        "name": "YOUNG WOMAN"
+      },
+      {
+        "x": 220.15201,
+        "y": 1.7910066,
+        "name": "SAUNDERS"
+      },
+      {
+        "x": -34.71148,
+        "y": -233.70825,
+        "name": "PARAMEDIC"
+      },
+      {
+        "x": 135.3063,
+        "y": 79.80244,
+        "name": "SILVERBERG"
+      },
+      {
+        "x": 71.825905,
+        "y": 167.38922,
+        "name": "HAMERSLEY"
+      },
+      {
+        "x": 143.76355,
+        "y": -318.452,
+        "name": "BYSTANDER"
+      },
+      {
+        "x": 45.58329,
+        "y": -41.22762,
+        "name": "JENNY"
+      },
+      {
+        "x": -118.07393,
+        "y": 29.279125,
+        "name": "JONES"
+      },
+      {
+        "x": 183.55046,
+        "y": -215.99156,
+        "name": "MEG"
+      },
+      {
+        "x": 253.9548,
+        "y": 28.289726,
+        "name": "NANNY"
+      },
+      {
+        "x": 117.00544,
+        "y": 194.86763,
+        "name": "DISPATCHER"
+      },
+      {
+        "x": 64.96291,
+        "y": 51.52472,
+        "name": "PRATT"
+      },
+      {
+        "x": 238.20135,
+        "y": -83.01321,
+        "name": "MORELOS"
+      },
+      {
+        "x": 110.79335,
+        "y": -257.5144,
+        "name": "ZAVITZ"
+      },
+      {
+        "x": 38.153526,
+        "y": -246.39984,
+        "name": "MAN"
+      },
+      {
+        "x": 52.09378,
+        "y": -365.9329,
+        "name": "ANOTHER MAN"
+      },
+      {
+        "x": -121.16177,
+        "y": 230.57509,
+        "name": "COP #1"
+      },
+      {
+        "x": -109.6469,
+        "y": -252.81104,
+        "name": "SAL"
+      },
+      {
+        "x": -122.67412,
+        "y": 177.08073,
+        "name": "DAVIS"
+      },
+      {
+        "x": 210.71686,
+        "y": -35.322964,
+        "name": "BLAKE"
+      },
+      {
+        "x": 73.38945,
+        "y": -59.102062,
+        "name": "STACY"
+      },
+      {
+        "x": 10.001336,
+        "y": 212.57878,
+        "name": "WAITER"
+      },
+      {
+        "x": 211.12646,
+        "y": 40.687782,
+        "name": "ERIC"
+      },
+      {
+        "x": -62.69362,
+        "y": -212.01282,
+        "name": "DESK CLERK"
+      },
+      {
+        "x": -108.78454,
+        "y": -38.95553,
+        "name": "MARSHAL"
+      },
+      {
+        "x": -170.29109,
+        "y": 230.71553,
+        "name": "FBI AGENT"
+      },
+      {
+        "x": -23.398989,
+        "y": 80.40421,
+        "name": "REYNOLDS"
+      },
+      {
+        "x": 169.22714,
+        "y": -99.66786,
+        "name": "PATRICK"
+      },
+      {
+        "x": -107.700195,
+        "y": -124.27266,
+        "name": "KRUG"
+      },
+      {
+        "x": 184.11235,
+        "y": -298.62982,
+        "name": "NEWSCASTER"
+      },
+      {
+        "x": 130.77919,
+        "y": -103.70813,
+        "name": "JERRY"
+      },
+      {
+        "x": -233.0146,
+        "y": 144.25114,
+        "name": "DRIVER"
+      },
+      {
+        "x": 174.60646,
+        "y": 292.3708,
+        "name": "OLD MAN"
+      },
+      {
+        "x": -175.5936,
+        "y": 188.42001,
+        "name": "REYNOLDS WIFE"
+      },
+      {
+        "x": 96.447754,
+        "y": -311.09756,
+        "name": "SENATOR ALBERT"
+      }
+    ]
+  }
+}
