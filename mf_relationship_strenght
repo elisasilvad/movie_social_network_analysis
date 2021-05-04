@@ -1,0 +1,80 @@
+import json
+import networkx as nx
+import statistics
+
+# FOUR FEATHERS
+print("------Four Feathers------")
+
+# Read the json data in Python - processed in a dictionary structure
+with open("data/movies/Four_Feathers.json", "r", encoding='utf-8') as data:
+    Four_Feathers = json.load(data)
+print(Four_Feathers)
+
+# Create the movie graph
+Four_Feathers_node_names = []
+Four_Feathers_edges = []
+
+for i in Four_Feathers['network']['nodes']:
+     id = (i['id'])
+     Four_Feathers_node_names.append(id)
+print(Four_Feathers_node_names)
+
+for i in Four_Feathers['network']['edges']:
+        s = (i['source'])
+        t = (i['target'])
+        tuple = (s, t)
+        Four_Feathers_edges.append(tuple)
+print(Four_Feathers_edges)
+
+Four_Feathers_G = nx.Graph()
+Four_Feathers_G.add_nodes_from(Four_Feathers_node_names)
+Four_Feathers_G.add_edges_from(Four_Feathers_edges)
+print(nx.info(Four_Feathers_G))
+
+# Create a list with all the graphs
+Movie_networks = []
+Movie_networks.append(Four_Feathers_G)
+
+# Creating a group with only female characters:
+Four_Feathers_female = ['ETHNE', 'CAROLINE']
+Four_Feathers_male = []
+
+for m in Four_Feathers_node_names:
+    if m not in Four_Feathers_female:
+        Four_Feathers_male.append(m)
+
+# Compute the mean strenght for female-female relationships and female-male relationships
+# female-female
+Tot_female_strenght = []
+for f in Four_Feathers_female:
+    for w in Four_Feathers_female:
+        for i in Four_Feathers['network']['edges']:
+            if (i['source']) == f and (i['target']) == w: # or (i['source']) == w and (i['target']) == f:
+                Tot_female_strenght.append(i['weight'])
+
+#print(Tot_female_strenght)
+print('Average female-female relationship strenght: ', statistics.mean(Tot_female_strenght)) #/len(Tot_female_strenght))
+
+# male-male
+Tot_male_strenght = []
+for f in Four_Feathers_male:
+    for w in Four_Feathers_male:
+        for i in Four_Feathers['network']['edges']:
+            if (i['source']) == f and (i['target']) == w: # or (i['source']) == w and (i['target']) == f:
+                Tot_male_strenght.append(i['weight'])
+
+#print(Tot_male_strenght)
+print('Average male-male relationship strenght: ', statistics.mean(Tot_male_strenght)) #/len(Tot_female_strenght))
+
+# male-female
+Tot_strenght = []
+for f in Four_Feathers_node_names:
+    for w in Four_Feathers_node_names:
+        for i in Four_Feathers['network']['edges']:
+            if (i['source']) == f and (i['target']) == w: # or (i['source']) == w and (i['target']) == f:
+                Tot_strenght.append(i['weight'])
+
+#print(Tot_strenght)
+print('Average male-female relationship strenght: ', statistics.mean(Tot_strenght)) #/len(Tot_female_strenght))
+
+# HOW'S DIFFERENT FROM THE DEGREE????
