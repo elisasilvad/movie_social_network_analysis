@@ -984,6 +984,1382 @@ Movie_networks.append(Batman_G)
 print(Movie_networks)
 
 
+# KUNDUN
+print("------Kundun------")
+
+# Read the json data in Python - processed in a dictionary structure
+with open("data/movies/Kundun.json", "r", encoding='utf-8') as data:
+    Kundun = json.load(data)
+print(Kundun)
+
+# Create the movie graph
+Kundun_node_names = []
+Kundun_edges = []
+
+for i in Kundun['network']['nodes']:
+     id = (i['id'])
+     Kundun_node_names.append(id)
+
+for i in Kundun['network']['edges']:
+        s = (i['source'])
+        t = (i['target'])
+        tuple = (s, t)
+        Kundun_edges.append(tuple)
+
+Kundun_G = nx.Graph()
+Kundun_G.add_nodes_from(Kundun_node_names)
+Kundun_G.add_edges_from(Kundun_edges)
+print(nx.info(Kundun_G))
+
+# Create male and female groups
+Kundun_female = ['MOTHER', 'OLD WOMAN', 'TIBETAN WOMAN']
+Kundun_male = []
+
+for m in Kundun_node_names:
+    if m not in Kundun_female:
+        Kundun_male.append(m)
+
+# Assign gender property to each nodes
+gender = {}
+for n in Kundun_female:
+    gender[n] = 'female'
+
+for n in Kundun_male:
+    gender[n] = 'male'
+
+nx.set_node_attributes(Kundun_G, gender, 'gender')
+print(Kundun_G.nodes(data=True))
+
+# Add the graph to movie network list
+Movie_networks.append(Kundun_G)
+print(Movie_networks)
+
+
+# LOST IN SPACE
+print("------Lost_In_Space------")
+
+# Read the json data in Python - processed in a dictionary structure
+with open("data/movies/Lost_In_Space.json", "r", encoding='utf-8') as data:
+    Lost_In_Space = json.load(data)
+print(Lost_In_Space)
+
+# Create the movie graph
+Lost_In_Space_node_names = []
+Lost_In_Space_edges = []
+
+for i in Lost_In_Space['network']['nodes']:
+     id = (i['id'])
+     Lost_In_Space_node_names.append(id)
+
+for i in Lost_In_Space['network']['edges']:
+        s = (i['source'])
+        t = (i['target'])
+        tuple = (s, t)
+        Lost_In_Space_edges.append(tuple)
+
+Lost_In_Space_G = nx.Graph()
+Lost_In_Space_G.add_nodes_from(Lost_In_Space_node_names)
+Lost_In_Space_G.add_edges_from(Lost_In_Space_edges)
+print(nx.info(Lost_In_Space_G))
+
+# Create male and female groups
+Lost_In_Space_female = ['REPORTER', 'PENNY', 'MAUREEN', 'PRINCIPAL', 'ANNIE', 'JUDY']
+Lost_In_Space_male = []
+
+for m in Lost_In_Space_node_names:
+    if m not in Lost_In_Space_female:
+        Lost_In_Space_male.append(m)
+
+# Assign gender property to each nodes
+gender = {}
+for n in Lost_In_Space_female:
+    gender[n] = 'female'
+
+for n in Lost_In_Space_male:
+    gender[n] = 'male'
+
+nx.set_node_attributes(Lost_In_Space_G, gender, 'gender')
+print(Lost_In_Space_G.nodes(data=True))
+
+# Add the graph to movie network list
+Movie_networks.append(Lost_In_Space_G)
+print(Movie_networks)
+
+
+# FRENCH KISS
+print("------French_Kiss------")
+
+# Read the json data in Python - processed in a dictionary structure
+with open("data/movies/French_Kiss.json", "r", encoding='utf-8') as data:
+    French_Kiss = json.load(data)
+print(French_Kiss)
+
+# Create the movie graph
+French_Kiss_node_names = []
+French_Kiss_edges = []
+
+for i in French_Kiss['network']['nodes']:
+     id = (i['id'])
+     French_Kiss_node_names.append(id)
+
+for i in French_Kiss['network']['edges']:
+        s = (i['source'])
+        t = (i['target'])
+        tuple = (s, t)
+        French_Kiss_edges.append(tuple)
+
+French_Kiss_G = nx.Graph()
+French_Kiss_G.add_nodes_from(French_Kiss_node_names)
+French_Kiss_G.add_edges_from(French_Kiss_edges)
+print(nx.info(French_Kiss_G))
+
+# Create male and female groups
+French_Kiss_female = ["JUDGE HILLIER'S WIFE", 'CLAIRE', 'GIRL #1', 'MATRON', 'LILLIAN', 'CONNIE', 'GIRL #2', 'OLDER NURSE', 'NURSE WITH HYPO', 'WOMAN', 'NURSE', 'WARDROBE MISTRESS', 'WOMEN IN WARD', 'YOUNG NURSE']
+French_Kiss_male = []
+
+for m in French_Kiss_node_names:
+    if m not in French_Kiss_female:
+        French_Kiss_male.append(m)
+
+# Assign gender property to each nodes
+gender = {}
+for n in French_Kiss_female:
+    gender[n] = 'female'
+
+for n in French_Kiss_male:
+    gender[n] = 'male'
+
+nx.set_node_attributes(French_Kiss_G, gender, 'gender')
+print(French_Kiss_G.nodes(data=True))
+
+# Add the graph to movie network list
+Movie_networks.append(French_Kiss_G)
+print(Movie_networks)
+
+
+# JACKIE BROWN
+print("------Jackie_Brown------")
+
+# Read the json data in Python - processed in a dictionary structure
+with open("data/movies/Jackie_Brown.json", "r", encoding='utf-8') as data:
+    Jackie_Brown = json.load(data)
+print(Jackie_Brown)
+
+# Create the movie graph
+Jackie_Brown_node_names = []
+Jackie_Brown_edges = []
+
+for i in Jackie_Brown['network']['nodes']:
+     id = (i['id'])
+     Jackie_Brown_node_names.append(id)
+
+for i in Jackie_Brown['network']['edges']:
+        s = (i['source'])
+        t = (i['target'])
+        tuple = (s, t)
+        Jackie_Brown_edges.append(tuple)
+
+Jackie_Brown_G = nx.Graph()
+Jackie_Brown_G.add_nodes_from(Jackie_Brown_node_names)
+Jackie_Brown_G.add_edges_from(Jackie_Brown_edges)
+print(nx.info(Jackie_Brown_G))
+
+# Create male and female groups
+Jackie_Brown_female = ['NICOLE', 'WANDA', 'AMY', 'ANITA', 'MELANI', 'MELANIE', 'SHERONDA', 'JACKIE', 'YOUNG GIRL', 'SALESGIRL']
+Jackie_Brown_male = []
+
+for m in Jackie_Brown_node_names:
+    if m not in Jackie_Brown_female:
+        Jackie_Brown_male.append(m)
+
+# Assign gender property to each nodes
+gender = {}
+for n in Jackie_Brown_female:
+    gender[n] = 'female'
+
+for n in Jackie_Brown_male:
+    gender[n] = 'male'
+
+nx.set_node_attributes(Jackie_Brown_G, gender, 'gender')
+print(Jackie_Brown_G.nodes(data=True))
+
+# Add the graph to movie network list
+Movie_networks.append(Jackie_Brown_G)
+print(Movie_networks)
+
+
+# THE MATRIX
+print("------The_Matrix------")
+
+# Read the json data in Python - processed in a dictionary structure
+with open("data/movies/The_Matrix.json", "r", encoding='utf-8') as data:
+    The_Matrix = json.load(data)
+print(The_Matrix)
+
+# Create the movie graph
+The_Matrix_node_names = []
+The_Matrix_edges = []
+
+for i in The_Matrix['network']['nodes']:
+     id = (i['id'])
+     The_Matrix_node_names.append(id)
+
+for i in The_Matrix['network']['edges']:
+        s = (i['source'])
+        t = (i['target'])
+        tuple = (s, t)
+        The_Matrix_edges.append(tuple)
+
+The_Matrix_G = nx.Graph()
+The_Matrix_G.add_nodes_from(The_Matrix_node_names)
+The_Matrix_G.add_edges_from(The_Matrix_edges)
+print(nx.info(The_Matrix_G))
+
+# Create male and female groups
+The_Matrix_female = ['ORACLE', 'WOMAN', 'TRINITY', 'SWITCH', 'DUJOUR', 'PRIESTESS']
+The_Matrix_male = []
+
+for m in The_Matrix_node_names:
+    if m not in The_Matrix_female:
+        The_Matrix_male.append(m)
+
+# Assign gender property to each nodes
+gender = {}
+for n in The_Matrix_female:
+    gender[n] = 'female'
+
+for n in The_Matrix_male:
+    gender[n] = 'male'
+
+nx.set_node_attributes(The_Matrix_G, gender, 'gender')
+print(The_Matrix_G.nodes(data=True))
+
+# Add the graph to movie network list
+Movie_networks.append(The_Matrix_G)
+print(Movie_networks)
+
+
+# ENEMY OF THE STATE
+print("------Enemy_Of_The_State------")
+
+# Read the json data in Python - processed in a dictionary structure
+with open("data/movies/Enemy_Of_The_State.json", "r", encoding='utf-8') as data:
+    Enemy_Of_The_State = json.load(data)
+print(Enemy_Of_The_State)
+
+# Create the movie graph
+Enemy_Of_The_State_node_names = []
+Enemy_Of_The_State_edges = []
+
+for i in Enemy_Of_The_State['network']['nodes']:
+     id = (i['id'])
+     Enemy_Of_The_State_node_names.append(id)
+
+for i in Enemy_Of_The_State['network']['edges']:
+        s = (i['source'])
+        t = (i['target'])
+        tuple = (s, t)
+        Enemy_Of_The_State_edges.append(tuple)
+
+Enemy_Of_The_State_G = nx.Graph()
+Enemy_Of_The_State_G.add_nodes_from(Enemy_Of_The_State_node_names)
+Enemy_Of_The_State_G.add_edges_from(Enemy_Of_The_State_edges)
+print(nx.info(Enemy_Of_The_State_G))
+
+# Create male and female groups
+Enemy_Of_The_State_female = ['MARTHA', 'CHRISTA', 'RACHEL', 'WOMAN', 'YOUNG WOMAN', 'BYSTANDER', 'JENNY', 'MEG', 'NANNY', 'SAL', 'STACY', 'REYNOLDS WIFE']
+Enemy_Of_The_State_male = []
+
+for m in Enemy_Of_The_State_node_names:
+    if m not in Enemy_Of_The_State_female:
+        Enemy_Of_The_State_male.append(m)
+
+# Assign gender property to each nodes
+gender = {}
+for n in Enemy_Of_The_State_female:
+    gender[n] = 'female'
+
+for n in Enemy_Of_The_State_male:
+    gender[n] = 'male'
+
+nx.set_node_attributes(Enemy_Of_The_State_G, gender, 'gender')
+print(Enemy_Of_The_State_G.nodes(data=True))
+
+# Add the graph to movie network list
+Movie_networks.append(Enemy_Of_The_State_G)
+print(Movie_networks)
+
+
+# ONE EIGHT SEVEN
+print("------One_Eight_Seven------")
+
+# Read the json data in Python - processed in a dictionary structure
+with open("data/movies/One_Eight_Seven.json", "r", encoding='utf-8') as data:
+    One_Eight_Seven = json.load(data)
+print(One_Eight_Seven)
+
+# Create the movie graph
+One_Eight_Seven_node_names = []
+One_Eight_Seven_edges = []
+
+for i in One_Eight_Seven['network']['nodes']:
+     id = (i['id'])
+     One_Eight_Seven_node_names.append(id)
+
+for i in One_Eight_Seven['network']['edges']:
+        s = (i['source'])
+        t = (i['target'])
+        tuple = (s, t)
+        One_Eight_Seven_edges.append(tuple)
+
+One_Eight_Seven_G = nx.Graph()
+One_Eight_Seven_G.add_nodes_from(One_Eight_Seven_node_names)
+One_Eight_Seven_G.add_edges_from(One_Eight_Seven_edges)
+print(nx.info(One_Eight_Seven_G))
+
+# Create male and female groups
+One_Eight_Seven_female = ['ANGLO WOMAN', 'MRS FORD', 'ASIAN GIRL', 'TEACHER #1', 'ELLEN', 'MRS SANCHEZ', 'LAKESIA', 'IRIS', 'RITA', 'SECRETARY']
+One_Eight_Seven_male = []
+
+for m in One_Eight_Seven_node_names:
+    if m not in One_Eight_Seven_female:
+        One_Eight_Seven_male.append(m)
+
+# Assign gender property to each nodes
+gender = {}
+for n in One_Eight_Seven_female:
+    gender[n] = 'female'
+
+for n in One_Eight_Seven_male:
+    gender[n] = 'male'
+
+nx.set_node_attributes(One_Eight_Seven_G, gender, 'gender')
+print(One_Eight_Seven_G.nodes(data=True))
+
+# Add the graph to movie network list
+Movie_networks.append(One_Eight_Seven_G)
+print(Movie_networks)
+
+
+# THE CROW: CITY OF ANGELS
+print("------The_Crow------")
+
+# Read the json data in Python - processed in a dictionary structure
+with open("data/movies/The_Crow.json", "r", encoding='utf-8') as data:
+    The_Crow = json.load(data)
+print(The_Crow)
+
+# Create the movie graph
+The_Crow_node_names = []
+The_Crow_edges = []
+
+for i in The_Crow['network']['nodes']:
+     id = (i['id'])
+     The_Crow_node_names.append(id)
+
+for i in The_Crow['network']['edges']:
+        s = (i['source'])
+        t = (i['target'])
+        tuple = (s, t)
+        The_Crow_edges.append(tuple)
+
+The_Crow_G = nx.Graph()
+The_Crow_G.add_nodes_from(The_Crow_node_names)
+The_Crow_G.add_edges_from(The_Crow_edges)
+print(nx.info(The_Crow_G))
+
+# Create male and female groups
+The_Crow_female = ['SARAH', 'HOLLY', 'SIBYL', 'GRACE', 'WOMAN', ]
+The_Crow_male = []
+
+for m in The_Crow_node_names:
+    if m not in The_Crow_female:
+        The_Crow_male.append(m)
+
+# Assign gender property to each nodes
+gender = {}
+for n in The_Crow_female:
+    gender[n] = 'female'
+
+for n in The_Crow_male:
+    gender[n] = 'male'
+
+nx.set_node_attributes(The_Crow_G, gender, 'gender')
+print(The_Crow_G.nodes(data=True))
+
+# Add the graph to movie network list
+Movie_networks.append(The_Crow_G)
+print(Movie_networks)
+
+
+# DONNIE BRASCO
+print("------Donnie_Brasco------")
+
+# Read the json data in Python - processed in a dictionary structure
+with open("data/movies/Donnie_Brasco.json", "r", encoding='utf-8') as data:
+    Donnie_Brasco = json.load(data)
+print(Donnie_Brasco)
+
+# Create the movie graph
+Donnie_Brasco_node_names = []
+Donnie_Brasco_edges = []
+
+for i in Donnie_Brasco['network']['nodes']:
+     id = (i['id'])
+     Donnie_Brasco_node_names.append(id)
+
+for i in Donnie_Brasco['network']['edges']:
+        s = (i['source'])
+        t = (i['target'])
+        tuple = (s, t)
+        Donnie_Brasco_edges.append(tuple)
+
+Donnie_Brasco_G = nx.Graph()
+Donnie_Brasco_G.add_nodes_from(Donnie_Brasco_node_names)
+Donnie_Brasco_G.add_edges_from(Donnie_Brasco_edges)
+print(nx.info(Donnie_Brasco_G))
+
+# Create male and female groups
+Donnie_Brasco_female = ['JUDY', 'NURSE', 'LOUISE', 'MAGGIE', 'MA GGIE']
+Donnie_Brasco_male = []
+
+for m in Donnie_Brasco_node_names:
+    if m not in Donnie_Brasco_female:
+        Donnie_Brasco_male.append(m)
+
+# Assign gender property to each nodes
+gender = {}
+for n in Donnie_Brasco_female:
+    gender[n] = 'female'
+
+for n in Donnie_Brasco_male:
+    gender[n] = 'male'
+
+nx.set_node_attributes(Donnie_Brasco_G, gender, 'gender')
+print(Donnie_Brasco_G.nodes(data=True))
+
+# Add the graph to movie network list
+Movie_networks.append(Donnie_Brasco_G)
+print(Movie_networks)
+
+
+# WILD WILD WEST
+print("------Wild_Wild_West------")
+
+# Read the json data in Python - processed in a dictionary structure
+with open("data/movies/Wild_Wild_West.json", "r", encoding='utf-8') as data:
+    Wild_Wild_West = json.load(data)
+print(Wild_Wild_West)
+
+# Create the movie graph
+Wild_Wild_West_node_names = []
+Wild_Wild_West_edges = []
+
+for i in Wild_Wild_West['network']['nodes']:
+     id = (i['id'])
+     Wild_Wild_West_node_names.append(id)
+
+for i in Wild_Wild_West['network']['edges']:
+        s = (i['source'])
+        t = (i['target'])
+        tuple = (s, t)
+        Wild_Wild_West_edges.append(tuple)
+
+Wild_Wild_West_G = nx.Graph()
+Wild_Wild_West_G.add_nodes_from(Wild_Wild_West_node_names)
+Wild_Wild_West_G.add_edges_from(Wild_Wild_West_edges)
+print(nx.info(Wild_Wild_West_G))
+
+# Create male and female groups
+Wild_Wild_West_female = ['SALOON GIRL', 'MISS EAST', 'DRAGON LADY', 'MISS LIPPENREIDER', 'MUNITIA', 'WOMAN', 'RITA', 'DORA', 'AMAZONIA']
+Wild_Wild_West_male = []
+
+for m in Wild_Wild_West_node_names:
+    if m not in Wild_Wild_West_female:
+        Wild_Wild_West_male.append(m)
+
+# Assign gender property to each nodes
+gender = {}
+for n in Wild_Wild_West_female:
+    gender[n] = 'female'
+
+for n in Wild_Wild_West_male:
+    gender[n] = 'male'
+
+nx.set_node_attributes(Wild_Wild_West_G, gender, 'gender')
+print(Wild_Wild_West_G.nodes(data=True))
+
+# Add the graph to movie network list
+Movie_networks.append(Wild_Wild_West_G)
+print(Movie_networks)
+
+
+# BROKEN ARROW
+print("------Broken_Arrow------")
+
+# Read the json data in Python - processed in a dictionary structure
+with open("data/movies/Broken_Arrow.json", "r", encoding='utf-8') as data:
+    Broken_Arrow = json.load(data)
+print(Broken_Arrow)
+
+# Create the movie graph
+Broken_Arrow_node_names = []
+Broken_Arrow_edges = []
+
+for i in Broken_Arrow['network']['nodes']:
+     id = (i['id'])
+     Broken_Arrow_node_names.append(id)
+
+for i in Broken_Arrow['network']['edges']:
+        s = (i['source'])
+        t = (i['target'])
+        tuple = (s, t)
+        Broken_Arrow_edges.append(tuple)
+
+Broken_Arrow_G = nx.Graph()
+Broken_Arrow_G.add_nodes_from(Broken_Arrow_node_names)
+Broken_Arrow_G.add_edges_from(Broken_Arrow_edges)
+print(nx.info(Broken_Arrow_G))
+
+# Create male and female groups
+Broken_Arrow_female = ['WANDA', 'TERRY']
+Broken_Arrow_male = []
+
+for m in Broken_Arrow_node_names:
+    if m not in Broken_Arrow_female:
+        Broken_Arrow_male.append(m)
+
+# Assign gender property to each nodes
+gender = {}
+for n in Broken_Arrow_female:
+    gender[n] = 'female'
+
+for n in Broken_Arrow_male:
+    gender[n] = 'male'
+
+nx.set_node_attributes(Broken_Arrow_G, gender, 'gender')
+print(Broken_Arrow_G.nodes(data=True))
+
+# Add the graph to movie network list
+Movie_networks.append(Broken_Arrow_G)
+print(Movie_networks)
+
+# COPYCAT
+print("------Copycat------")
+
+# Read the json data in Python - processed in a dictionary structure
+with open("data/movies/Copycat.json", "r", encoding='utf-8') as data:
+    Copycat = json.load(data)
+print(Copycat)
+
+# Create the movie graph
+Copycat_node_names = []
+Copycat_edges = []
+
+for i in Copycat['network']['nodes']:
+     id = (i['id'])
+     Copycat_node_names.append(id)
+
+for i in Copycat['network']['edges']:
+        s = (i['source'])
+        t = (i['target'])
+        tuple = (s, t)
+        Copycat_edges.append(tuple)
+
+Copycat_G = nx.Graph()
+Copycat_G.add_nodes_from(Copycat_node_names)
+Copycat_G.add_edges_from(Copycat_edges)
+print(nx.info(Copycat_G))
+
+# Create male and female groups
+Copycat_female = ['GIGI', 'WOMAN', 'SUSAN', 'HELEN']
+Copycat_male = []
+
+for m in Copycat_node_names:
+    if m not in Copycat_female:
+        Copycat_male.append(m)
+
+# Assign gender property to each nodes
+gender = {}
+for n in Copycat_female:
+    gender[n] = 'female'
+
+for n in Copycat_male:
+    gender[n] = 'male'
+
+nx.set_node_attributes(Copycat_G, gender, 'gender')
+print(Copycat_G.nodes(data=True))
+
+# Add the graph to movie network list
+Movie_networks.append(Copycat_G)
+print(Movie_networks)
+
+# BEAN
+print("------Bean------")
+
+# Read the json data in Python - processed in a dictionary structure
+with open("data/movies/Bean.json", "r", encoding='utf-8') as data:
+    Bean = json.load(data)
+print(Bean)
+
+# Create the movie graph
+Bean_node_names = []
+Bean_edges = []
+
+for i in Bean['network']['nodes']:
+     id = (i['id'])
+     Bean_node_names.append(id)
+
+for i in Bean['network']['edges']:
+        s = (i['source'])
+        t = (i['target'])
+        tuple = (s, t)
+        Bean_edges.append(tuple)
+
+Bean_G = nx.Graph()
+Bean_G.add_nodes_from(Bean_node_names)
+Bean_G.add_edges_from(Bean_edges)
+print(nx.info(Bean_G))
+
+# Create male and female groups
+Bean_female = ['NURSE 2', 'ANNIE', 'ALISON', 'OLD LADY 1', 'JENNIFER', 'MISS HUTCHINSON', 'NURSE', 'OLD LADY 2']
+Bean_male = []
+
+for m in Bean_node_names:
+    if m not in Bean_female:
+        Bean_male.append(m)
+
+# Assign gender property to each nodes
+gender = {}
+for n in Bean_female:
+    gender[n] = 'female'
+
+for n in Bean_male:
+    gender[n] = 'male'
+
+nx.set_node_attributes(Bean_G, gender, 'gender')
+print(Bean_G.nodes(data=True))
+
+# Add the graph to movie network list
+Movie_networks.append(Bean_G)
+print(Movie_networks)
+
+
+# SO I MARRIED AN AXE MURDERER?
+print("------Axe_Murderer------")
+
+# Read the json data in Python - processed in a dictionary structure
+with open("data/movies/Axe_Murderer.json", "r", encoding='utf-8') as data:
+    Axe_Murderer = json.load(data)
+print(Axe_Murderer)
+
+# Create the movie graph
+Axe_Murderer_node_names = []
+Axe_Murderer_edges = []
+
+for i in Axe_Murderer['network']['nodes']:
+     id = (i['id'])
+     Axe_Murderer_node_names.append(id)
+
+for i in Axe_Murderer['network']['edges']:
+        s = (i['source'])
+        t = (i['target'])
+        tuple = (s, t)
+        Axe_Murderer_edges.append(tuple)
+
+Axe_Murderer_G = nx.Graph()
+Axe_Murderer_G.add_nodes_from(Axe_Murderer_node_names)
+Axe_Murderer_G.add_edges_from(Axe_Murderer_edges)
+print(nx.info(Axe_Murderer_G))
+
+# Create male and female groups
+Axe_Murderer_female = ['HARRIET', 'ROSE', 'MAY', 'PENNY', 'LADY', 'GIRLS', 'STEWARDESS', 'SHERRI', 'KATHY', 'TOURIST', 'SUSAN']
+Axe_Murderer_male = []
+
+for m in Axe_Murderer_node_names:
+    if m not in Axe_Murderer_female:
+        Axe_Murderer_male.append(m)
+
+# Assign gender property to each nodes
+gender = {}
+for n in Axe_Murderer_female:
+    gender[n] = 'female'
+
+for n in Axe_Murderer_male:
+    gender[n] = 'male'
+
+nx.set_node_attributes(Axe_Murderer_G, gender, 'gender')
+print(Axe_Murderer_G.nodes(data=True))
+
+# Add the graph to movie network list
+Movie_networks.append(Axe_Murderer_G)
+print(Movie_networks)
+
+
+# WONDER BOYS
+print("------Wonder_Boys------")
+
+# Read the json data in Python - processed in a dictionary structure
+with open("data/movies/Wonder_Boys.json", "r", encoding='utf-8') as data:
+    Wonder_Boys = json.load(data)
+print(Wonder_Boys)
+
+# Create the movie graph
+Wonder_Boys_node_names = []
+Wonder_Boys_edges = []
+
+for i in Wonder_Boys['network']['nodes']:
+     id = (i['id'])
+     Wonder_Boys_node_names.append(id)
+
+for i in Wonder_Boys['network']['edges']:
+        s = (i['source'])
+        t = (i['target'])
+        tuple = (s, t)
+        Wonder_Boys_edges.append(tuple)
+
+Wonder_Boys_G = nx.Graph()
+Wonder_Boys_G.add_nodes_from(Wonder_Boys_node_names)
+Wonder_Boys_G.add_edges_from(Wonder_Boys_edges)
+print(nx.info(Wonder_Boys_G))
+
+# Create male and female groups
+Wonder_Boys_female = ['MARILYN', 'MISS SLOVIAK', 'WOMAN', 'OOLA', 'CARRIE MCWHIRTY', 'SARA', 'HANNAH GREEN', 'WAITRESS', 'TANYA', 'AMANDA LEER']
+Wonder_Boys_male = []
+
+for m in Wonder_Boys_node_names:
+    if m not in Wonder_Boys_female:
+        Wonder_Boys_male.append(m)
+
+# Assign gender property to each nodes
+gender = {}
+for n in Wonder_Boys_female:
+    gender[n] = 'female'
+
+for n in Wonder_Boys_male:
+    gender[n] = 'male'
+
+nx.set_node_attributes(Wonder_Boys_G, gender, 'gender')
+print(Wonder_Boys_G.nodes(data=True))
+
+# Add the graph to movie network list
+Movie_networks.append(Wonder_Boys_G)
+print(Movie_networks)
+
+
+# MUMFORD
+print("------Mumford------")
+
+# Read the json data in Python - processed in a dictionary structure
+with open("data/movies/Mumford.json", "r", encoding='utf-8') as data:
+    Mumford = json.load(data)
+print(Mumford)
+
+# Create the movie graph
+Mumford_node_names = []
+Mumford_edges = []
+
+for i in Mumford['network']['nodes']:
+     id = (i['id'])
+     Mumford_node_names.append(id)
+
+for i in Mumford['network']['edges']:
+        s = (i['source'])
+        t = (i['target'])
+        tuple = (s, t)
+        Mumford_edges.append(tuple)
+
+Mumford_G = nx.Graph()
+Mumford_G.add_nodes_from(Mumford_node_names)
+Mumford_G.add_edges_from(Mumford_edges)
+print(nx.info(Mumford_G))
+
+# Create male and female groups
+Mumford_female = ['NESSA', 'LANDLADY', 'LILY', 'ALTHEA', 'SHEELER', 'MRS COOK', 'KATIE', 'SOFIE']
+Mumford_male = []
+
+for m in Mumford_node_names:
+    if m not in Mumford_female:
+        Mumford_male.append(m)
+
+# Assign gender property to each nodes
+gender = {}
+for n in Mumford_female:
+    gender[n] = 'female'
+
+for n in Mumford_male:
+    gender[n] = 'male'
+
+nx.set_node_attributes(Mumford_G, gender, 'gender')
+print(Mumford_G.nodes(data=True))
+
+# Add the graph to movie network list
+Movie_networks.append(Mumford_G)
+print(Movie_networks)
+
+
+# NICK OF TIME
+print("------Nick_Of_Time------")
+
+# Read the json data in Python - processed in a dictionary structure
+with open("data/movies/Nick_Of_Time.json", "r", encoding='utf-8') as data:
+    Nick_Of_Time = json.load(data)
+print(Nick_Of_Time)
+
+# Create the movie graph
+Nick_Of_Time_node_names = []
+Nick_Of_Time_edges = []
+
+for i in Nick_Of_Time['network']['nodes']:
+     id = (i['id'])
+     Nick_Of_Time_node_names.append(id)
+
+for i in Nick_Of_Time['network']['edges']:
+        s = (i['source'])
+        t = (i['target'])
+        tuple = (s, t)
+        Nick_Of_Time_edges.append(tuple)
+
+Nick_Of_Time_G = nx.Graph()
+Nick_Of_Time_G.add_nodes_from(Nick_Of_Time_node_names)
+Nick_Of_Time_G.add_edges_from(Nick_Of_Time_edges)
+print(nx.info(Nick_Of_Time_G))
+
+# Create male and female groups
+Nick_Of_Time_female = ['MR JONES', 'KRISTA', 'WAITRESS', 'ELEANOR GRANT', 'WOMAN', 'LYNN', 'LITTLE GIRL', 'MS JONES', 'IRENE']
+Nick_Of_Time_male = []
+
+for m in Nick_Of_Time_node_names:
+    if m not in Nick_Of_Time_female:
+        Nick_Of_Time_male.append(m)
+
+# Assign gender property to each nodes
+gender = {}
+for n in Nick_Of_Time_female:
+    gender[n] = 'female'
+
+for n in Nick_Of_Time_male:
+    gender[n] = 'male'
+
+nx.set_node_attributes(Nick_Of_Time_G, gender, 'gender')
+print(Nick_Of_Time_G.nodes(data=True))
+
+# Add the graph to movie network list
+Movie_networks.append(Nick_Of_Time_G)
+print(Movie_networks)
+
+
+# LIFE
+print("------Life------")
+
+# Read the json data in Python - processed in a dictionary structure
+with open("data/movies/Life.json", "r", encoding='utf-8') as data:
+    Life = json.load(data)
+print(Life)
+
+# Create the movie graph
+Life_node_names = []
+Life_edges = []
+
+for i in Life['network']['nodes']:
+     id = (i['id'])
+     Life_node_names.append(id)
+
+for i in Life['network']['edges']:
+        s = (i['source'])
+        t = (i['target'])
+        tuple = (s, t)
+        Life_edges.append(tuple)
+
+Life_G = nx.Graph()
+Life_G.add_nodes_from(Life_node_names)
+Life_G.add_edges_from(Life_edges)
+print(nx.info(Life_G))
+
+# Create male and female groups
+Life_female = ['MAMA', 'COCKTAIL WAITRESS', 'SYLVIA', 'WAITRESS', 'MRS ABERNATHY', 'MAMA GIBSON', 'DAISY', 'NURSE HUMPHRIES', 'YVETTE']
+Life_male = []
+
+for m in Life_node_names:
+    if m not in Life_female:
+        Life_male.append(m)
+
+# Assign gender property to each nodes
+gender = {}
+for n in Life_female:
+    gender[n] = 'female'
+
+for n in Life_male:
+    gender[n] = 'male'
+
+nx.set_node_attributes(Life_G, gender, 'gender')
+print(Life_G.nodes(data=True))
+
+# Add the graph to movie network list
+Movie_networks.append(Life_G)
+print(Movie_networks)
+
+
+# MY BEST FRIEND's WEDDING
+print("------Best_Friend_Wedding------")
+
+# Read the json data in Python - processed in a dictionary structure
+with open("data/movies/Best_Friend_Wedding.json", "r", encoding='utf-8') as data:
+    Best_Friend_Wedding = json.load(data)
+print(Best_Friend_Wedding)
+
+# Create the movie graph
+Best_Friend_Wedding_node_names = []
+Best_Friend_Wedding_edges = []
+
+for i in Best_Friend_Wedding['network']['nodes']:
+     id = (i['id'])
+     Best_Friend_Wedding_node_names.append(id)
+
+for i in Best_Friend_Wedding['network']['edges']:
+        s = (i['source'])
+        t = (i['target'])
+        tuple = (s, t)
+        Best_Friend_Wedding_edges.append(tuple)
+
+Best_Friend_Wedding_G = nx.Graph()
+Best_Friend_Wedding_G.add_nodes_from(Best_Friend_Wedding_node_names)
+Best_Friend_Wedding_G.add_edges_from(Best_Friend_Wedding_edges)
+print(nx.info(Best_Friend_Wedding_G))
+
+# Create male and female groups
+Best_Friend_Wedding_female = ['SAMMY', 'WOMAN', 'KIMMY', 'ISABELLE', 'MANDY', 'FLOWER GIRL', 'JULIANNE']
+Best_Friend_Wedding_male = []
+
+for m in Best_Friend_Wedding_node_names:
+    if m not in Best_Friend_Wedding_female:
+        Best_Friend_Wedding_male.append(m)
+
+# Assign gender property to each nodes
+gender = {}
+for n in Best_Friend_Wedding_female:
+    gender[n] = 'female'
+
+for n in Best_Friend_Wedding_male:
+    gender[n] = 'male'
+
+nx.set_node_attributes(Best_Friend_Wedding_G, gender, 'gender')
+print(Best_Friend_Wedding_G.nodes(data=True))
+
+# Add the graph to movie network list
+Movie_networks.append(Best_Friend_Wedding_G)
+print(Movie_networks)
+
+
+# THE DEVIL's ADVOCATE
+print("------Devil_Advocate------")
+
+# Read the json data in Python - processed in a dictionary structure
+with open("data/movies/Devil_Advocate.json", "r", encoding='utf-8') as data:
+    Devil_Advocate = json.load(data)
+print(Devil_Advocate)
+
+# Create the movie graph
+Devil_Advocate_node_names = []
+Devil_Advocate_edges = []
+
+for i in Devil_Advocate['network']['nodes']:
+     id = (i['id'])
+     Devil_Advocate_node_names.append(id)
+
+for i in Devil_Advocate['network']['edges']:
+        s = (i['source'])
+        t = (i['target'])
+        tuple = (s, t)
+        Devil_Advocate_edges.append(tuple)
+
+Devil_Advocate_G = nx.Graph()
+Devil_Advocate_G.add_nodes_from(Devil_Advocate_node_names)
+Devil_Advocate_G.add_edges_from(Devil_Advocate_edges)
+print(nx.info(Devil_Advocate_G))
+
+# Create male and female groups
+Devil_Advocate_female = ['BARBARA', 'REPORTER', 'PAM', 'JACKIE', 'CHRISTABELLA', 'THERAPIST', 'DIANA', 'MRS LOMAX', 'WOMAN JUDGE', 'WOMAN', 'MELISSA', 'DANCER', 'MARY ANN', 'GISELLE']
+Devil_Advocate_male = []
+
+for m in Devil_Advocate_node_names:
+    if m not in Devil_Advocate_female:
+        Devil_Advocate_male.append(m)
+
+# Assign gender property to each nodes
+gender = {}
+for n in Devil_Advocate_female:
+    gender[n] = 'female'
+
+for n in Devil_Advocate_male:
+    gender[n] = 'male'
+
+nx.set_node_attributes(Devil_Advocate_G, gender, 'gender')
+print(Devil_Advocate_G.nodes(data=True))
+
+# Add the graph to movie network list
+Movie_networks.append(Devil_Advocate_G)
+print(Movie_networks)
+
+
+# BEING JOHN MALKOVICH
+print("------John_Malkovich------")
+
+# Read the json data in Python - processed in a dictionary structure
+with open("data/movies/John_Malkovich.json", "r", encoding='utf-8') as data:
+    John_Malkovich = json.load(data)
+print(John_Malkovich)
+
+# Create the movie graph
+John_Malkovich_node_names = []
+John_Malkovich_edges = []
+
+for i in John_Malkovich['network']['nodes']:
+     id = (i['id'])
+     John_Malkovich_node_names.append(id)
+
+for i in John_Malkovich['network']['edges']:
+        s = (i['source'])
+        t = (i['target'])
+        tuple = (s, t)
+        John_Malkovich_edges.append(tuple)
+
+John_Malkovich_G = nx.Graph()
+John_Malkovich_G.add_nodes_from(John_Malkovich_node_names)
+John_Malkovich_G.add_edges_from(John_Malkovich_edges)
+print(nx.info(John_Malkovich_G))
+
+# Create male and female groups
+John_Malkovich_female = ['GIRL MALKOVICH', 'FLORIS', 'GLORIA', 'MAXINE', 'LOTTE', 'WOMAN #1']
+John_Malkovich_male = []
+
+for m in John_Malkovich_node_names:
+    if m not in John_Malkovich_female:
+        John_Malkovich_male.append(m)
+
+# Assign gender property to each nodes
+gender = {}
+for n in John_Malkovich_female:
+    gender[n] = 'female'
+
+for n in John_Malkovich_male:
+    gender[n] = 'male'
+
+nx.set_node_attributes(John_Malkovich_G, gender, 'gender')
+print(John_Malkovich_G.nodes(data=True))
+
+# Add the graph to movie network list
+Movie_networks.append(John_Malkovich_G)
+print(Movie_networks)
+
+
+# BODY OF EVIDENCE
+print("------Body_Of_Evidence------")
+
+# Read the json data in Python - processed in a dictionary structure
+with open("data/movies/Body_Of_Evidence.json", "r", encoding='utf-8') as data:
+    Body_Of_Evidence = json.load(data)
+print(Body_Of_Evidence)
+
+# Create the movie graph
+Body_Of_Evidence_node_names = []
+Body_Of_Evidence_edges = []
+
+for i in Body_Of_Evidence['network']['nodes']:
+     id = (i['id'])
+     Body_Of_Evidence_node_names.append(id)
+
+for i in Body_Of_Evidence['network']['edges']:
+        s = (i['source'])
+        t = (i['target'])
+        tuple = (s, t)
+        Body_Of_Evidence_edges.append(tuple)
+
+Body_Of_Evidence_G = nx.Graph()
+Body_Of_Evidence_G.add_nodes_from(Body_Of_Evidence_node_names)
+Body_Of_Evidence_G.add_edges_from(Body_Of_Evidence_edges)
+print(nx.info(Body_Of_Evidence_G))
+
+# Create male and female groups
+Body_Of_Evidence_female = ['ESTER', 'MISS SELLERS', 'REBECCA', 'SHARON', 'SECRETARY', 'JOANNE']
+Body_Of_Evidence_male = []
+
+for m in Body_Of_Evidence_node_names:
+    if m not in Body_Of_Evidence_female:
+        Body_Of_Evidence_male.append(m)
+
+# Assign gender property to each nodes
+gender = {}
+for n in Body_Of_Evidence_female:
+    gender[n] = 'female'
+
+for n in Body_Of_Evidence_male:
+    gender[n] = 'male'
+
+nx.set_node_attributes(Body_Of_Evidence_G, gender, 'gender')
+print(Body_Of_Evidence_G.nodes(data=True))
+
+# Add the graph to movie network list
+Movie_networks.append(Body_Of_Evidence_G)
+print(Movie_networks)
+
+
+# RACHEL GETTING MARRIED
+print("------Rachel_Getting_Married------")
+
+# Read the json data in Python - processed in a dictionary structure
+with open("data/movies/Rachel_Getting_Married.json", "r", encoding='utf-8') as data:
+    Rachel_Getting_Married = json.load(data)
+print(Rachel_Getting_Married)
+
+# Create the movie graph
+Rachel_Getting_Married_node_names = []
+Rachel_Getting_Married_edges = []
+
+for i in Rachel_Getting_Married['network']['nodes']:
+     id = (i['id'])
+     Rachel_Getting_Married_node_names.append(id)
+
+for i in Rachel_Getting_Married['network']['edges']:
+        s = (i['source'])
+        t = (i['target'])
+        tuple = (s, t)
+        Rachel_Getting_Married_edges.append(tuple)
+
+Rachel_Getting_Married_G = nx.Graph()
+Rachel_Getting_Married_G.add_nodes_from(Rachel_Getting_Married_node_names)
+Rachel_Getting_Married_G.add_edges_from(Rachel_Getting_Married_edges)
+print(nx.info(Rachel_Getting_Married_G))
+
+# Create male and female groups
+Rachel_Getting_Married_female = ['RACHEL', 'SUSANNA', 'ABBY', 'EMMA', 'KYM', 'NURSE', 'MRS WILLIAMS', 'INTERESTING YOUNG WOMAN', 'CAROL', 'ROSA', 'STYLIST']
+Rachel_Getting_Married_male = []
+
+for m in Rachel_Getting_Married_node_names:
+    if m not in Rachel_Getting_Married_female:
+        Rachel_Getting_Married_male.append(m)
+
+# Assign gender property to each nodes
+gender = {}
+for n in Rachel_Getting_Married_female:
+    gender[n] = 'female'
+
+for n in Rachel_Getting_Married_male:
+    gender[n] = 'male'
+
+nx.set_node_attributes(Rachel_Getting_Married_G, gender, 'gender')
+print(Rachel_Getting_Married_G.nodes(data=True))
+
+# Add the graph to movie network list
+Movie_networks.append(Rachel_Getting_Married_G)
+print(Movie_networks)
+
+
+# ROCKNROLLA
+print("------RocknRolla------")
+
+# Read the json data in Python - processed in a dictionary structure
+with open("data/movies/RocknRolla.json", "r", encoding='utf-8') as data:
+    RocknRolla = json.load(data)
+print(RocknRolla)
+
+# Create the movie graph
+RocknRolla_node_names = []
+RocknRolla_edges = []
+
+for i in RocknRolla['network']['nodes']:
+     id = (i['id'])
+     RocknRolla_node_names.append(id)
+
+for i in RocknRolla['network']['edges']:
+        s = (i['source'])
+        t = (i['target'])
+        tuple = (s, t)
+        RocknRolla_edges.append(tuple)
+
+RocknRolla_G = nx.Graph()
+RocknRolla_G.add_nodes_from(RocknRolla_node_names)
+RocknRolla_G.add_edges_from(RocknRolla_edges)
+print(nx.info(RocknRolla_G))
+
+# Create male and female groups
+RocknRolla_female = ['NURSE', 'STELLA', 'DOLLY', 'JACKIE', 'SECRETARY']
+RocknRolla_male = []
+
+for m in RocknRolla_node_names:
+    if m not in RocknRolla_female:
+        RocknRolla_male.append(m)
+
+# Assign gender property to each nodes
+gender = {}
+for n in RocknRolla_female:
+    gender[n] = 'female'
+
+for n in RocknRolla_male:
+    gender[n] = 'male'
+
+nx.set_node_attributes(RocknRolla_G, gender, 'gender')
+print(RocknRolla_G.nodes(data=True))
+
+# Add the graph to movie network list
+Movie_networks.append(RocknRolla_G)
+print(Movie_networks)
+
+
+# ALI
+print("------Ali------")
+
+# Read the json data in Python - processed in a dictionary structure
+with open("data/movies/Ali.json", "r", encoding='utf-8') as data:
+    Ali = json.load(data)
+print(Ali)
+
+# Create the movie graph
+Ali_node_names = []
+Ali_edges = []
+
+for i in Ali['network']['nodes']:
+     id = (i['id'])
+     Ali_node_names.append(id)
+
+for i in Ali['network']['edges']:
+        s = (i['source'])
+        t = (i['target'])
+        tuple = (s, t)
+        Ali_edges.append(tuple)
+
+Ali_G = nx.Graph()
+Ali_G.add_nodes_from(Ali_node_names)
+Ali_G.add_edges_from(Ali_edges)
+print(nx.info(Ali_G))
+
+# Create male and female groups
+Ali_female = ['ORTF INTERVIEWER', 'IRENE', 'BETTY SHABAZZ', 'SONJI', 'ODESSA CLAY', 'GIRL', 'BELINDA', 'VERONICA', 'LANDLADY']
+Ali_male = []
+
+for m in Ali_node_names:
+    if m not in Ali_female:
+        Ali_male.append(m)
+
+# Assign gender property to each nodes
+gender = {}
+for n in Ali_female:
+    gender[n] = 'female'
+
+for n in Ali_male:
+    gender[n] = 'male'
+
+nx.set_node_attributes(Ali_G, gender, 'gender')
+print(Ali_G.nodes(data=True))
+
+# Add the graph to movie network list
+Movie_networks.append(Ali_G)
+print(Movie_networks)
+
+
+# NINJA ASSASSIN
+print("------Ninja_Assassin------")
+
+# Read the json data in Python - processed in a dictionary structure
+with open("data/movies/Ninja_Assassin.json", "r", encoding='utf-8') as data:
+    Ninja_Assassin = json.load(data)
+print(Ninja_Assassin)
+
+# Create the movie graph
+Ninja_Assassin_node_names = []
+Ninja_Assassin_edges = []
+
+for i in Ninja_Assassin['network']['nodes']:
+     id = (i['id'])
+     Ninja_Assassin_node_names.append(id)
+
+for i in Ninja_Assassin['network']['edges']:
+        s = (i['source'])
+        t = (i['target'])
+        tuple = (s, t)
+        Ninja_Assassin_edges.append(tuple)
+
+Ninja_Assassin_G = nx.Graph()
+Ninja_Assassin_G.add_nodes_from(Ninja_Assassin_node_names)
+Ninja_Assassin_G.add_edges_from(Ninja_Assassin_edges)
+print(nx.info(Ninja_Assassin_G))
+
+# Create male and female groups
+Ninja_Assassin_female = ['LANDLADY', 'MIKA', 'KIRIKO', 'PRETTY WOMAN', 'MRS SABATIN']
+Ninja_Assassin_male = []
+
+for m in Ninja_Assassin_node_names:
+    if m not in Ninja_Assassin_female:
+        Ninja_Assassin_male.append(m)
+
+# Assign gender property to each nodes
+gender = {}
+for n in Ninja_Assassin_female:
+    gender[n] = 'female'
+
+for n in Ninja_Assassin_male:
+    gender[n] = 'male'
+
+nx.set_node_attributes(Ninja_Assassin_G, gender, 'gender')
+print(Ninja_Assassin_G.nodes(data=True))
+
+# Add the graph to movie network list
+Movie_networks.append(Ninja_Assassin_G)
+print(Movie_networks)
+
+
+# MIRRORS
+print("------Mirrors------")
+
+# Read the json data in Python - processed in a dictionary structure
+with open("data/movies/Mirrors.json", "r", encoding='utf-8') as data:
+    Mirrors = json.load(data)
+print(Mirrors)
+
+# Create the movie graph
+Mirrors_node_names = []
+Mirrors_edges = []
+
+for i in Mirrors['network']['nodes']:
+     id = (i['id'])
+     Mirrors_node_names.append(id)
+
+for i in Mirrors['network']['edges']:
+        s = (i['source'])
+        t = (i['target'])
+        tuple = (s, t)
+        Mirrors_edges.append(tuple)
+
+Mirrors_G = nx.Graph()
+Mirrors_G.add_nodes_from(Mirrors_node_names)
+Mirrors_G.add_edges_from(Mirrors_edges)
+print(nx.info(Mirrors_G))
+
+# Create male and female groups
+Mirrors_female = ['DAISY', "AMY'S REFLECTION", 'SISTER ANNA', 'SISTER', 'ANNA', 'ROSA', 'AMY OS', "JIMMY'S MOTHER", 'AMY', 'WOMAN', 'MRS LEWIS', 'ANGELA']
+Mirrors_male = []
+
+for m in Mirrors_node_names:
+    if m not in Mirrors_female:
+        Mirrors_male.append(m)
+
+# Assign gender property to each nodes
+gender = {}
+for n in Mirrors_female:
+    gender[n] = 'female'
+
+for n in Mirrors_male:
+    gender[n] = 'male'
+
+nx.set_node_attributes(Mirrors_G, gender, 'gender')
+print(Mirrors_G.nodes(data=True))
+
+# Add the graph to movie network list
+Movie_networks.append(Mirrors_G)
+print(Movie_networks)
+
+
+
 
 
 # MODULARITY --------------------------------------------------------------------------------------------------------------------------
