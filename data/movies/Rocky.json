@@ -1,0 +1,1734 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "FAN",
+        "target": "ANNOUNCER",
+        "weight": 1
+      },
+      {
+        "source": "FAN",
+        "target": "ROCKY",
+        "weight": 1
+      },
+      {
+        "source": "FAN",
+        "target": "CORNERMAN",
+        "weight": 1
+      },
+      {
+        "source": "CAMERAMAN",
+        "target": "DIPPER",
+        "weight": 1
+      },
+      {
+        "source": "CAMERAMAN",
+        "target": "FIGHTER",
+        "weight": 1
+      },
+      {
+        "source": "CAMERAMAN",
+        "target": "MICKEY",
+        "weight": 1
+      },
+      {
+        "source": "CAMERAMAN",
+        "target": "REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "CAMERAMAN",
+        "target": "ROCKY",
+        "weight": 1
+      },
+      {
+        "source": "CAMERAMAN",
+        "target": "BOY",
+        "weight": 1
+      },
+      {
+        "source": "CAMERAMAN",
+        "target": "SOUND MAN",
+        "weight": 1
+      },
+      {
+        "source": "CAMERAMAN",
+        "target": "MIKE",
+        "weight": 1
+      },
+      {
+        "source": "CAMERAMAN",
+        "target": "APOLLO",
+        "weight": 1
+      },
+      {
+        "source": "MARIE",
+        "target": "ROCKY",
+        "weight": 2
+      },
+      {
+        "source": "MARIE",
+        "target": "YOUNG MAN #2",
+        "weight": 1
+      },
+      {
+        "source": "MARIE",
+        "target": "CHIPPED TOOTH",
+        "weight": 1
+      },
+      {
+        "source": "FRAZIER",
+        "target": "ANNOUNCER",
+        "weight": 1
+      },
+      {
+        "source": "FRAZIER",
+        "target": "ROCKY",
+        "weight": 1
+      },
+      {
+        "source": "FRAZIER",
+        "target": "COMMENTATOR #2",
+        "weight": 1
+      },
+      {
+        "source": "FRAZIER",
+        "target": "TRAINER",
+        "weight": 1
+      },
+      {
+        "source": "FRAZIER",
+        "target": "REFEREE",
+        "weight": 1
+      },
+      {
+        "source": "FRAZIER",
+        "target": "MIKE",
+        "weight": 1
+      },
+      {
+        "source": "FRAZIER",
+        "target": "COMMENTATOR #1",
+        "weight": 1
+      },
+      {
+        "source": "FRAZIER",
+        "target": "MICKEY",
+        "weight": 1
+      },
+      {
+        "source": "FRAZIER",
+        "target": "APOLLO",
+        "weight": 1
+      },
+      {
+        "source": "FRAZIER",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "ADRIAN",
+        "target": "OWNER",
+        "weight": 1
+      },
+      {
+        "source": "ADRIAN",
+        "target": "APOLLO",
+        "weight": 1
+      },
+      {
+        "source": "ADRIAN",
+        "target": "MICKEY",
+        "weight": 1
+      },
+      {
+        "source": "ADRIAN",
+        "target": "CUSTOMER",
+        "weight": 1
+      },
+      {
+        "source": "ADRIAN",
+        "target": "ROCKY",
+        "weight": 7
+      },
+      {
+        "source": "ADRIAN",
+        "target": "PAULIE",
+        "weight": 2
+      },
+      {
+        "source": "ADRIAN",
+        "target": "COMMENTATOR",
+        "weight": 2
+      },
+      {
+        "source": "ADRIAN",
+        "target": "REPORTER #1",
+        "weight": 1
+      },
+      {
+        "source": "ADRIAN",
+        "target": "REPORTER #3",
+        "weight": 1
+      },
+      {
+        "source": "ADRIAN",
+        "target": "CLEANER",
+        "weight": 2
+      },
+      {
+        "source": "ADRIAN",
+        "target": "REPORTER #2",
+        "weight": 1
+      },
+      {
+        "source": "ANDY",
+        "target": "ROCKY",
+        "weight": 1
+      },
+      {
+        "source": "ANDY",
+        "target": "COMMENTATOR",
+        "weight": 1
+      },
+      {
+        "source": "ANDY",
+        "target": "PAULIE",
+        "weight": 1
+      },
+      {
+        "source": "ANDY",
+        "target": "APOLLO",
+        "weight": 1
+      },
+      {
+        "source": "ANNOUNCER",
+        "target": "TRAINER",
+        "weight": 1
+      },
+      {
+        "source": "ANNOUNCER",
+        "target": "REFEREE",
+        "weight": 1
+      },
+      {
+        "source": "ANNOUNCER",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "ANNOUNCER",
+        "target": "COMMENTATOR #2",
+        "weight": 1
+      },
+      {
+        "source": "ANNOUNCER",
+        "target": "MIKE",
+        "weight": 1
+      },
+      {
+        "source": "ANNOUNCER",
+        "target": "APOLLO",
+        "weight": 1
+      },
+      {
+        "source": "ANNOUNCER",
+        "target": "ROCKY",
+        "weight": 2
+      },
+      {
+        "source": "ANNOUNCER",
+        "target": "COMMENTATOR #1",
+        "weight": 1
+      },
+      {
+        "source": "ANNOUNCER",
+        "target": "MICKEY",
+        "weight": 1
+      },
+      {
+        "source": "ANNOUNCER",
+        "target": "CORNERMAN",
+        "weight": 1
+      },
+      {
+        "source": "DIPPER",
+        "target": "TRAINER",
+        "weight": 1
+      },
+      {
+        "source": "DIPPER",
+        "target": "FIGHTER",
+        "weight": 1
+      },
+      {
+        "source": "DIPPER",
+        "target": "MICKEY",
+        "weight": 2
+      },
+      {
+        "source": "DIPPER",
+        "target": "REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "DIPPER",
+        "target": "ROCKY",
+        "weight": 2
+      },
+      {
+        "source": "DIPPER",
+        "target": "BOY",
+        "weight": 1
+      },
+      {
+        "source": "DIPPER",
+        "target": "SOUND MAN",
+        "weight": 1
+      },
+      {
+        "source": "DIPPER",
+        "target": "MIKE",
+        "weight": 1
+      },
+      {
+        "source": "DIPPER",
+        "target": "APOLLO",
+        "weight": 1
+      },
+      {
+        "source": "SECRETARY",
+        "target": "ROCKY",
+        "weight": 1
+      },
+      {
+        "source": "GAZZO",
+        "target": "ROCKY",
+        "weight": 3
+      },
+      {
+        "source": "GAZZO",
+        "target": "BODYGUARD",
+        "weight": 3
+      },
+      {
+        "source": "BENNY",
+        "target": "ROCKY",
+        "weight": 1
+      },
+      {
+        "source": "BENNY",
+        "target": "PAULIE",
+        "weight": 1
+      },
+      {
+        "source": "BENNY",
+        "target": "MICKEY",
+        "weight": 1
+      },
+      {
+        "source": "MICKEY",
+        "target": "TRAINER",
+        "weight": 2
+      },
+      {
+        "source": "MICKEY",
+        "target": "COMMENTATOR #2",
+        "weight": 1
+      },
+      {
+        "source": "MICKEY",
+        "target": "REFEREE",
+        "weight": 1
+      },
+      {
+        "source": "MICKEY",
+        "target": "BOY",
+        "weight": 1
+      },
+      {
+        "source": "MICKEY",
+        "target": "SOUND MAN",
+        "weight": 1
+      },
+      {
+        "source": "MICKEY",
+        "target": "MIKE",
+        "weight": 2
+      },
+      {
+        "source": "MICKEY",
+        "target": "APOLLO",
+        "weight": 1
+      },
+      {
+        "source": "MICKEY",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "MICKEY",
+        "target": "ROCKY",
+        "weight": 4
+      },
+      {
+        "source": "MICKEY",
+        "target": "FIGHTER",
+        "weight": 1
+      },
+      {
+        "source": "MICKEY",
+        "target": "REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "MICKEY",
+        "target": "COMMENTATOR #1",
+        "weight": 1
+      },
+      {
+        "source": "MICKEY",
+        "target": "PAULIE",
+        "weight": 1
+      },
+      {
+        "source": "CLEANER",
+        "target": "ROCKY",
+        "weight": 2
+      },
+      {
+        "source": "REPORTER #2",
+        "target": "REPORTER #3",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER #2",
+        "target": "COMMENTATOR",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER #2",
+        "target": "ROCKY",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER #2",
+        "target": "PAULIE",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER #2",
+        "target": "REPORTER #1",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER #2",
+        "target": "APOLLO",
+        "weight": 1
+      },
+      {
+        "source": "YOUNG MAN #2",
+        "target": "ROCKY",
+        "weight": 1
+      },
+      {
+        "source": "YOUNG MAN #2",
+        "target": "CHIPPED TOOTH",
+        "weight": 1
+      },
+      {
+        "source": "CHIPPED TOOTH",
+        "target": "ROCKY",
+        "weight": 1
+      },
+      {
+        "source": "DOCTOR",
+        "target": "TRAINER",
+        "weight": 1
+      },
+      {
+        "source": "DOCTOR",
+        "target": "REFEREE",
+        "weight": 1
+      },
+      {
+        "source": "DOCTOR",
+        "target": "MIKE",
+        "weight": 1
+      },
+      {
+        "source": "DOCTOR",
+        "target": "ROCKY",
+        "weight": 1
+      },
+      {
+        "source": "DOCTOR",
+        "target": "COMMENTATOR #2",
+        "weight": 1
+      },
+      {
+        "source": "DOCTOR",
+        "target": "COMMENTATOR #1",
+        "weight": 1
+      },
+      {
+        "source": "DOCTOR",
+        "target": "APOLLO",
+        "weight": 1
+      },
+      {
+        "source": "SOUND MAN",
+        "target": "MIKE",
+        "weight": 1
+      },
+      {
+        "source": "SOUND MAN",
+        "target": "FIGHTER",
+        "weight": 1
+      },
+      {
+        "source": "SOUND MAN",
+        "target": "BOY",
+        "weight": 1
+      },
+      {
+        "source": "SOUND MAN",
+        "target": "ROCKY",
+        "weight": 1
+      },
+      {
+        "source": "SOUND MAN",
+        "target": "REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "SOUND MAN",
+        "target": "APOLLO",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER #1",
+        "target": "ROCKY",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER #1",
+        "target": "COMMENTATOR",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER #1",
+        "target": "PAULIE",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER #1",
+        "target": "REPORTER #3",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER #1",
+        "target": "APOLLO",
+        "weight": 1
+      },
+      {
+        "source": "APOLLO",
+        "target": "TRAINER",
+        "weight": 4
+      },
+      {
+        "source": "APOLLO",
+        "target": "REFEREE",
+        "weight": 1
+      },
+      {
+        "source": "APOLLO",
+        "target": "JERGENS",
+        "weight": 1
+      },
+      {
+        "source": "APOLLO",
+        "target": "COMMENTATOR #2",
+        "weight": 1
+      },
+      {
+        "source": "APOLLO",
+        "target": "COMMENTATOR",
+        "weight": 1
+      },
+      {
+        "source": "APOLLO",
+        "target": "MIKE",
+        "weight": 1
+      },
+      {
+        "source": "APOLLO",
+        "target": "ROCKY",
+        "weight": 2
+      },
+      {
+        "source": "APOLLO",
+        "target": "REPORTER #3",
+        "weight": 1
+      },
+      {
+        "source": "APOLLO",
+        "target": "FIGHTER",
+        "weight": 1
+      },
+      {
+        "source": "APOLLO",
+        "target": "BOY",
+        "weight": 1
+      },
+      {
+        "source": "APOLLO",
+        "target": "COMMENTATOR #1",
+        "weight": 1
+      },
+      {
+        "source": "APOLLO",
+        "target": "PAULIE",
+        "weight": 1
+      },
+      {
+        "source": "APOLLO",
+        "target": "LAWYER",
+        "weight": 1
+      },
+      {
+        "source": "APOLLO",
+        "target": "REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "REFEREE",
+        "target": "TRAINER",
+        "weight": 1
+      },
+      {
+        "source": "REFEREE",
+        "target": "ROCKY",
+        "weight": 1
+      },
+      {
+        "source": "REFEREE",
+        "target": "MIKE",
+        "weight": 1
+      },
+      {
+        "source": "REFEREE",
+        "target": "COMMENTATOR #2",
+        "weight": 1
+      },
+      {
+        "source": "REFEREE",
+        "target": "COMMENTATOR #1",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER #3",
+        "target": "COMMENTATOR",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER #3",
+        "target": "ROCKY",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER #3",
+        "target": "PAULIE",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "ROCKY",
+        "weight": 1
+      },
+      {
+        "source": "FIGHTER",
+        "target": "REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "FIGHTER",
+        "target": "ROCKY",
+        "weight": 2
+      },
+      {
+        "source": "FIGHTER",
+        "target": "MIKE",
+        "weight": 2
+      },
+      {
+        "source": "FIGHTER",
+        "target": "BOY",
+        "weight": 1
+      },
+      {
+        "source": "BOY",
+        "target": "REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "BOY",
+        "target": "ROCKY",
+        "weight": 1
+      },
+      {
+        "source": "BOY",
+        "target": "MIKE",
+        "weight": 1
+      },
+      {
+        "source": "COMMENTATOR #1",
+        "target": "ROCKY",
+        "weight": 1
+      },
+      {
+        "source": "COMMENTATOR #1",
+        "target": "MIKE",
+        "weight": 1
+      },
+      {
+        "source": "COMMENTATOR #1",
+        "target": "TRAINER",
+        "weight": 1
+      },
+      {
+        "source": "COMMENTATOR #1",
+        "target": "COMMENTATOR #2",
+        "weight": 1
+      },
+      {
+        "source": "FATS",
+        "target": "ROCKY",
+        "weight": 1
+      },
+      {
+        "source": "LAWYER",
+        "target": "TRAINER",
+        "weight": 2
+      },
+      {
+        "source": "LAWYER",
+        "target": "JERGENS",
+        "weight": 1
+      },
+      {
+        "source": "CORNERMAN",
+        "target": "ROCKY",
+        "weight": 1
+      },
+      {
+        "source": "TRAINER",
+        "target": "COMMENTATOR #2",
+        "weight": 1
+      },
+      {
+        "source": "TRAINER",
+        "target": "MIKE",
+        "weight": 1
+      },
+      {
+        "source": "TRAINER",
+        "target": "JERGENS",
+        "weight": 2
+      },
+      {
+        "source": "TRAINER",
+        "target": "ROCKY",
+        "weight": 2
+      },
+      {
+        "source": "ROCKY",
+        "target": "MAYOR",
+        "weight": 1
+      },
+      {
+        "source": "ROCKY",
+        "target": "BODYGUARD",
+        "weight": 3
+      },
+      {
+        "source": "ROCKY",
+        "target": "PAULIE",
+        "weight": 6
+      },
+      {
+        "source": "ROCKY",
+        "target": "FIGHTER #1",
+        "weight": 1
+      },
+      {
+        "source": "ROCKY",
+        "target": "FIGHTER #2",
+        "weight": 1
+      },
+      {
+        "source": "ROCKY",
+        "target": "MIKE",
+        "weight": 4
+      },
+      {
+        "source": "ROCKY",
+        "target": "REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "ROCKY",
+        "target": "CUSTOMER",
+        "weight": 1
+      },
+      {
+        "source": "ROCKY",
+        "target": "JERGENS",
+        "weight": 1
+      },
+      {
+        "source": "ROCKY",
+        "target": "JOSE",
+        "weight": 1
+      },
+      {
+        "source": "ROCKY",
+        "target": "OWNER",
+        "weight": 1
+      },
+      {
+        "source": "ROCKY",
+        "target": "COMMENTATOR",
+        "weight": 2
+      },
+      {
+        "source": "ROCKY",
+        "target": "COMMENTATOR #2",
+        "weight": 1
+      },
+      {
+        "source": "ROCKY",
+        "target": "MAFIA #1",
+        "weight": 1
+      },
+      {
+        "source": "PROMOTER",
+        "target": "FIGHTER #2",
+        "weight": 1
+      },
+      {
+        "source": "PROMOTER",
+        "target": "FIGHTER #1",
+        "weight": 1
+      },
+      {
+        "source": "FIGHTER #2",
+        "target": "FIGHTER #1",
+        "weight": 2
+      },
+      {
+        "source": "PAULIE",
+        "target": "COMMENTATOR",
+        "weight": 3
+      },
+      {
+        "source": "PAULIE",
+        "target": "JOSE",
+        "weight": 1
+      },
+      {
+        "source": "OWNER",
+        "target": "CUSTOMER",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER",
+        "target": "MIKE",
+        "weight": 1
+      },
+      {
+        "source": "MIKE",
+        "target": "COMMENTATOR #2",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "FAN",
+        "name": "FAN",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.009810593843736747,
+        "object_id": "4243406",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9777777777777779,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CAMERAMAN",
+        "name": "CAMERAMAN",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 9,
+        "pagerank": 0.018996490456806736,
+        "object_id": "4247613",
+        "triangles": 36,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8222222222222222,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MARIE",
+        "name": "MARIE",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.013497198192295232,
+        "object_id": "4244813",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9777777777777779,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FRAZIER",
+        "name": "FRAZIER",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 10,
+        "pagerank": 0.02071039796010759,
+        "object_id": "4249255",
+        "triangles": 45,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ADRIAN",
+        "name": "ADRIAN",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 11,
+        "pagerank": 0.0436123409322963,
+        "object_id": "4243771",
+        "triangles": 28,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7777777777777777,
+        "betweenness centrality": 13.25,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANDY",
+        "name": "ANDY",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.010543311871000913,
+        "object_id": "4244585",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9333333333333333,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANNOUNCER",
+        "name": "ANNOUNCER",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 12,
+        "pagerank": 0.02812262226448649,
+        "object_id": "4243436",
+        "triangles": 48,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7555555555555555,
+        "betweenness centrality": 9.8,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DIPPER",
+        "name": "DIPPER",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 10,
+        "pagerank": 0.02433378428038763,
+        "object_id": "4244359",
+        "triangles": 40,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8,
+        "betweenness centrality": 1.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SECRETARY",
+        "name": "SECRETARY",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.005192228820149989,
+        "object_id": "4246359",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.022222222222222,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GAZZO",
+        "name": "GAZZO",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.01574797525154103,
+        "object_id": "4243931",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BENNY",
+        "name": "BENNY",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.008678059569848769,
+        "object_id": "4248555",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9777777777777779,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MICKEY",
+        "name": "MICKEY",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 19,
+        "pagerank": 0.04847144592848815,
+        "object_id": "4244176",
+        "triangles": 86,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.6,
+        "betweenness centrality": 27.03333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CLEANER",
+        "name": "CLEANER",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.010830664527958144,
+        "object_id": "4245738",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REPORTER #2",
+        "name": "REPORTER #2",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 7,
+        "pagerank": 0.016373200529149486,
+        "object_id": "4246509",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8666666666666667,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "YOUNG MAN #2",
+        "name": "YOUNG MAN #2",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.011247260245782043,
+        "object_id": "4244789",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9777777777777779,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CHIPPED TOOTH",
+        "name": "CHIPPED TOOTH",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.01124726024578204,
+        "object_id": "4244754",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9777777777777779,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOCTOR",
+        "name": "DOCTOR",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 10,
+        "pagerank": 0.02071039796010759,
+        "object_id": "4249605",
+        "triangles": 45,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SOUND MAN",
+        "name": "SOUND MAN",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 9,
+        "pagerank": 0.018996490456806736,
+        "object_id": "4247616",
+        "triangles": 36,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8222222222222222,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REPORTER #1",
+        "name": "REPORTER #1",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 7,
+        "pagerank": 0.016373200529149486,
+        "object_id": "4246485",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8666666666666667,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "APOLLO",
+        "name": "APOLLO",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 25,
+        "pagerank": 0.056533173153921194,
+        "object_id": "4244610",
+        "triangles": 109,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.4666666666666666,
+        "betweenness centrality": 89.83333333333334,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REFEREE",
+        "name": "REFEREE",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 10,
+        "pagerank": 0.02071039796010759,
+        "object_id": "4249327",
+        "triangles": 45,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REPORTER #3",
+        "name": "REPORTER #3",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 7,
+        "pagerank": 0.016373200529149486,
+        "object_id": "4246521",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8666666666666667,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WOMAN",
+        "name": "WOMAN",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.005192228820149989,
+        "object_id": "4243517",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.022222222222222,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FIGHTER",
+        "name": "FIGHTER",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 9,
+        "pagerank": 0.022619852498913788,
+        "object_id": "4244124",
+        "triangles": 36,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8222222222222222,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BOY",
+        "name": "BOY",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 9,
+        "pagerank": 0.018996490456806736,
+        "object_id": "4247561",
+        "triangles": 36,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8222222222222222,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COMMENTATOR #1",
+        "name": "COMMENTATOR #1",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 10,
+        "pagerank": 0.02071039796010759,
+        "object_id": "4249079",
+        "triangles": 45,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FATS",
+        "name": "FATS",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.005192228820149989,
+        "object_id": "4243622",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.022222222222222,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LAWYER",
+        "name": "LAWYER",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.010406784168911979,
+        "object_id": "4245047",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.4,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CORNERMAN",
+        "name": "CORNERMAN",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.009810593843736747,
+        "object_id": "4243383",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9777777777777779,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TRAINER",
+        "name": "TRAINER",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 13,
+        "pagerank": 0.03970760955023892,
+        "object_id": "4244363",
+        "triangles": 53,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7333333333333334,
+        "betweenness centrality": 15.499999999999993,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ROCKY",
+        "name": "ROCKY",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 43,
+        "pagerank": 0.16359550161347947,
+        "object_id": "4243388",
+        "triangles": 122,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.0444444444444445,
+        "betweenness centrality": 700.2333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAYOR",
+        "name": "MAYOR",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.005192228820149989,
+        "object_id": "4248597",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.022222222222222,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PROMOTER",
+        "name": "PROMOTER",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.010356785020249013,
+        "object_id": "4243485",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.911111111111111,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FIGHTER #2",
+        "name": "FIGHTER #2",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.016691123767592107,
+        "object_id": "4243465",
+        "triangles": 2,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9555555555555555,
+        "betweenness centrality": 21.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PAULIE",
+        "name": "PAULIE",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 11,
+        "pagerank": 0.04108140368627656,
+        "object_id": "4244456",
+        "triangles": 30,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7777777777777777,
+        "betweenness centrality": 10.416666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OWNER",
+        "name": "OWNER",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.00983134627733458,
+        "object_id": "4243864",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9777777777777779,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CUSTOMER",
+        "name": "CUSTOMER",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.00983134627733458,
+        "object_id": "4243775",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9777777777777779,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JOSE",
+        "name": "JOSE",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.007030087947045307,
+        "object_id": "4247344",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BODYGUARD",
+        "name": "BODYGUARD",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.01574797525154103,
+        "object_id": "4243949",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REPORTER",
+        "name": "REPORTER",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 9,
+        "pagerank": 0.018996490456806733,
+        "object_id": "4247599",
+        "triangles": 36,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8222222222222222,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MIKE",
+        "name": "MIKE",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 16,
+        "pagerank": 0.040662387947848676,
+        "object_id": "4244108",
+        "triangles": 79,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.6666666666666667,
+        "betweenness centrality": 9.699999999999998,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JERGENS",
+        "name": "JERGENS",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.012435526761240165,
+        "object_id": "4245051",
+        "triangles": 5,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9333333333333333,
+        "betweenness centrality": 6.233333333333335,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FIGHTER #1",
+        "name": "FIGHTER #1",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.016691123767592107,
+        "object_id": "4243460",
+        "triangles": 2,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9555555555555555,
+        "betweenness centrality": 21.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COMMENTATOR",
+        "name": "COMMENTATOR",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 8,
+        "pagerank": 0.026206163997176818,
+        "object_id": "4244607",
+        "triangles": 24,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8444444444444446,
+        "betweenness centrality": 1.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COMMENTATOR #2",
+        "name": "COMMENTATOR #2",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 10,
+        "pagerank": 0.02071039796010759,
+        "object_id": "4249095",
+        "triangles": 45,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAFIA #1",
+        "name": "MAFIA #1",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.005192228820149989,
+        "object_id": "4243592",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.022222222222222,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": 236.50313,
+        "y": -75.74265,
+        "name": "FAN"
+      },
+      {
+        "x": -163.12799,
+        "y": -202.74309,
+        "name": "CAMERAMAN"
+      },
+      {
+        "x": -96.34693,
+        "y": 122.67666,
+        "name": "MARIE"
+      },
+      {
+        "x": 72.669556,
+        "y": -310.71286,
+        "name": "FRAZIER"
+      },
+      {
+        "x": 76.19025,
+        "y": 67.23569,
+        "name": "ADRIAN"
+      },
+      {
+        "x": -57.31707,
+        "y": 64.61809,
+        "name": "ANDY"
+      },
+      {
+        "x": 140.70032,
+        "y": -206.55496,
+        "name": "ANNOUNCER"
+      },
+      {
+        "x": -114.49984,
+        "y": -97.80312,
+        "name": "DIPPER"
+      },
+      {
+        "x": -71.65747,
+        "y": -100.18731,
+        "name": "SECRETARY"
+      },
+      {
+        "x": 93.25986,
+        "y": -3.063814,
+        "name": "GAZZO"
+      },
+      {
+        "x": 103.68853,
+        "y": -45.44351,
+        "name": "BENNY"
+      },
+      {
+        "x": -37.471867,
+        "y": -152.82597,
+        "name": "MICKEY"
+      },
+      {
+        "x": 121.40758,
+        "y": 50.673325,
+        "name": "CLEANER"
+      },
+      {
+        "x": 31.808687,
+        "y": 169.32031,
+        "name": "REPORTER #2"
+      },
+      {
+        "x": -145.14204,
+        "y": 151.47011,
+        "name": "YOUNG MAN #2"
+      },
+      {
+        "x": -111.55693,
+        "y": 178.99258,
+        "name": "CHIPPED TOOTH"
+      },
+      {
+        "x": 121.87791,
+        "y": -278.53442,
+        "name": "DOCTOR"
+      },
+      {
+        "x": -207.4297,
+        "y": -116.111595,
+        "name": "SOUND MAN"
+      },
+      {
+        "x": 51.53589,
+        "y": 121.37573,
+        "name": "REPORTER #1"
+      },
+      {
+        "x": 23.437536,
+        "y": -111.82016,
+        "name": "APOLLO"
+      },
+      {
+        "x": 9.30803,
+        "y": -262.96167,
+        "name": "REFEREE"
+      },
+      {
+        "x": 95.73627,
+        "y": 141.31589,
+        "name": "REPORTER #3"
+      },
+      {
+        "x": 184.53716,
+        "y": -66.093254,
+        "name": "WOMAN"
+      },
+      {
+        "x": -135.25078,
+        "y": -148.1698,
+        "name": "FIGHTER"
+      },
+      {
+        "x": -172.7043,
+        "y": -78.19892,
+        "name": "BOY"
+      },
+      {
+        "x": 16.05196,
+        "y": -315.09106,
+        "name": "COMMENTATOR #1"
+      },
+      {
+        "x": 34.620426,
+        "y": -220.71805,
+        "name": "FATS"
+      },
+      {
+        "x": 164.41513,
+        "y": -152.07774,
+        "name": "LAWYER"
+      },
+      {
+        "x": 241.19853,
+        "y": -117.40878,
+        "name": "CORNERMAN"
+      },
+      {
+        "x": 72.576965,
+        "y": -178.47809,
+        "name": "TRAINER"
+      },
+      {
+        "x": 20.078726,
+        "y": -17.8318,
+        "name": "ROCKY"
+      },
+      {
+        "x": 179.88474,
+        "y": -18.668692,
+        "name": "MAYOR"
+      },
+      {
+        "x": -4.6052914,
+        "y": 364.79587,
+        "name": "PROMOTER"
+      },
+      {
+        "x": -17.22473,
+        "y": 284.5153,
+        "name": "FIGHTER #2"
+      },
+      {
+        "x": 18.454515,
+        "y": 64.408134,
+        "name": "PAULIE"
+      },
+      {
+        "x": 134.92548,
+        "y": 183.19974,
+        "name": "OWNER"
+      },
+      {
+        "x": 167.23267,
+        "y": 151.71367,
+        "name": "CUSTOMER"
+      },
+      {
+        "x": 146.18636,
+        "y": 90.67682,
+        "name": "JOSE"
+      },
+      {
+        "x": 119.781296,
+        "y": 9.388026,
+        "name": "BODYGUARD"
+      },
+      {
+        "x": -202.0239,
+        "y": -167.06714,
+        "name": "REPORTER"
+      },
+      {
+        "x": -65.26165,
+        "y": -213.11806,
+        "name": "MIKE"
+      },
+      {
+        "x": 135.6137,
+        "y": -116.902435,
+        "name": "JERGENS"
+      },
+      {
+        "x": 20.212252,
+        "y": 288.99268,
+        "name": "FIGHTER #1"
+      },
+      {
+        "x": -2.7189531,
+        "y": 115.02389,
+        "name": "COMMENTATOR"
+      },
+      {
+        "x": 72.30461,
+        "y": -251.54352,
+        "name": "COMMENTATOR #2"
+      },
+      {
+        "x": -111.080475,
+        "y": 62.021725,
+        "name": "MAFIA #1"
+      }
+    ]
+  }
+}

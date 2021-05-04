@@ -1,0 +1,1150 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "DRIVER",
+        "target": "MARY",
+        "weight": 1
+      },
+      {
+        "source": "DRIVER",
+        "target": "CLAY",
+        "weight": 1
+      },
+      {
+        "source": "DRIVER",
+        "target": "MED CLOSE",
+        "weight": 1
+      },
+      {
+        "source": "DRIVER",
+        "target": "STEVE",
+        "weight": 1
+      },
+      {
+        "source": "DRIVER",
+        "target": "ANOTHER ANGLE",
+        "weight": 1
+      },
+      {
+        "source": "JIM",
+        "target": "MARY",
+        "weight": 1
+      },
+      {
+        "source": "JIM",
+        "target": "CLAY",
+        "weight": 1
+      },
+      {
+        "source": "JIM",
+        "target": "MED CLOSE",
+        "weight": 1
+      },
+      {
+        "source": "JIM",
+        "target": "DISSOLVE",
+        "weight": 1
+      },
+      {
+        "source": "JIM",
+        "target": "ANOTHER ANGLE",
+        "weight": 1
+      },
+      {
+        "source": "JIM",
+        "target": "MARCIA",
+        "weight": 1
+      },
+      {
+        "source": "JIM",
+        "target": "CLAYTON",
+        "weight": 1
+      },
+      {
+        "source": "JIM",
+        "target": "HELEN",
+        "weight": 1
+      },
+      {
+        "source": "JIM",
+        "target": "STEVE",
+        "weight": 1
+      },
+      {
+        "source": "ELAINE",
+        "target": "GRAHAM",
+        "weight": 1
+      },
+      {
+        "source": "ELAINE",
+        "target": "CLAY",
+        "weight": 2
+      },
+      {
+        "source": "ELAINE",
+        "target": "MED CLOSE",
+        "weight": 1
+      },
+      {
+        "source": "ELAINE",
+        "target": "DISSOLVE",
+        "weight": 2
+      },
+      {
+        "source": "ELAINE",
+        "target": "ANOTHER ANGLE",
+        "weight": 2
+      },
+      {
+        "source": "ELAINE",
+        "target": "MARCIA",
+        "weight": 1
+      },
+      {
+        "source": "ELAINE",
+        "target": "MRS WYATT",
+        "weight": 1
+      },
+      {
+        "source": "ELAINE",
+        "target": "STEVE",
+        "weight": 2
+      },
+      {
+        "source": "ELAINE",
+        "target": "HELEN",
+        "weight": 3
+      },
+      {
+        "source": "ELAINE",
+        "target": "MARY",
+        "weight": 2
+      },
+      {
+        "source": "DOCTOR",
+        "target": "MARY",
+        "weight": 1
+      },
+      {
+        "source": "DOCTOR",
+        "target": "CLAY",
+        "weight": 1
+      },
+      {
+        "source": "DOCTOR",
+        "target": "STEVE",
+        "weight": 1
+      },
+      {
+        "source": "SAM",
+        "target": "CLAY",
+        "weight": 1
+      },
+      {
+        "source": "SAM",
+        "target": "STEVE",
+        "weight": 1
+      },
+      {
+        "source": "MARCIA",
+        "target": "GRAHAM",
+        "weight": 1
+      },
+      {
+        "source": "MARCIA",
+        "target": "CLAY",
+        "weight": 1
+      },
+      {
+        "source": "MARCIA",
+        "target": "MED CLOSE",
+        "weight": 1
+      },
+      {
+        "source": "MARCIA",
+        "target": "DISSOLVE",
+        "weight": 2
+      },
+      {
+        "source": "MARCIA",
+        "target": "ANOTHER ANGLE",
+        "weight": 1
+      },
+      {
+        "source": "MARCIA",
+        "target": "CLAYTON",
+        "weight": 1
+      },
+      {
+        "source": "MARCIA",
+        "target": "STEVE",
+        "weight": 1
+      },
+      {
+        "source": "MARCIA",
+        "target": "HELEN",
+        "weight": 1
+      },
+      {
+        "source": "MARCIA",
+        "target": "MARY",
+        "weight": 1
+      },
+      {
+        "source": "STEVE",
+        "target": "FOWLER",
+        "weight": 1
+      },
+      {
+        "source": "STEVE",
+        "target": "MARY",
+        "weight": 8
+      },
+      {
+        "source": "STEVE",
+        "target": "CLAY",
+        "weight": 13
+      },
+      {
+        "source": "STEVE",
+        "target": "HELEN",
+        "weight": 5
+      },
+      {
+        "source": "STEVE",
+        "target": "HAYES",
+        "weight": 1
+      },
+      {
+        "source": "STEVE",
+        "target": "CLAYTON",
+        "weight": 1
+      },
+      {
+        "source": "STEVE",
+        "target": "MED CLOSE",
+        "weight": 9
+      },
+      {
+        "source": "STEVE",
+        "target": "DISSOLVE OUT",
+        "weight": 2
+      },
+      {
+        "source": "STEVE",
+        "target": "DISSOLVE",
+        "weight": 7
+      },
+      {
+        "source": "STEVE",
+        "target": "ANOTHER ANGLE",
+        "weight": 7
+      },
+      {
+        "source": "STEVE",
+        "target": "GARDNER",
+        "weight": 1
+      },
+      {
+        "source": "STEVE",
+        "target": "WYATT",
+        "weight": 1
+      },
+      {
+        "source": "GRAHAM",
+        "target": "MARY",
+        "weight": 1
+      },
+      {
+        "source": "GRAHAM",
+        "target": "CLAY",
+        "weight": 1
+      },
+      {
+        "source": "GRAHAM",
+        "target": "DISSOLVE",
+        "weight": 1
+      },
+      {
+        "source": "GRAHAM",
+        "target": "ANOTHER ANGLE",
+        "weight": 1
+      },
+      {
+        "source": "GRAHAM",
+        "target": "GARDNER",
+        "weight": 1
+      },
+      {
+        "source": "GRAHAM",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "GRAHAM",
+        "target": "HELEN",
+        "weight": 1
+      },
+      {
+        "source": "CLAY",
+        "target": "CLAYTON",
+        "weight": 2
+      },
+      {
+        "source": "CLAY",
+        "target": "MED CLOSE",
+        "weight": 9
+      },
+      {
+        "source": "CLAY",
+        "target": "DISSOLVE OUT",
+        "weight": 4
+      },
+      {
+        "source": "CLAY",
+        "target": "GARDNER",
+        "weight": 1
+      },
+      {
+        "source": "CLAY",
+        "target": "MARY",
+        "weight": 14
+      },
+      {
+        "source": "CLAY",
+        "target": "FOWLER",
+        "weight": 2
+      },
+      {
+        "source": "CLAY",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "CLAY",
+        "target": "HELEN",
+        "weight": 6
+      },
+      {
+        "source": "CLAY",
+        "target": "HAYES",
+        "weight": 1
+      },
+      {
+        "source": "CLAY",
+        "target": "WYATT",
+        "weight": 2
+      },
+      {
+        "source": "CLAY",
+        "target": "DISSOLVE",
+        "weight": 10
+      },
+      {
+        "source": "CLAY",
+        "target": "ANOTHER ANGLE",
+        "weight": 10
+      },
+      {
+        "source": "CLAY",
+        "target": "LEDNOV",
+        "weight": 1
+      },
+      {
+        "source": "CLAY",
+        "target": "MRS WYATT",
+        "weight": 2
+      },
+      {
+        "source": "MCCALL",
+        "target": "PETERS",
+        "weight": 1
+      },
+      {
+        "source": "MCCALL",
+        "target": "MED CLOSE",
+        "weight": 1
+      },
+      {
+        "source": "MCCALL",
+        "target": "FOWLER",
+        "weight": 1
+      },
+      {
+        "source": "MCCALL",
+        "target": "DISSOLVE",
+        "weight": 2
+      },
+      {
+        "source": "MCCALL",
+        "target": "ANOTHER ANGLE",
+        "weight": 4
+      },
+      {
+        "source": "MCCALL",
+        "target": "LEDNOV",
+        "weight": 3
+      },
+      {
+        "source": "MCCALL",
+        "target": "MRS WYATT",
+        "weight": 1
+      },
+      {
+        "source": "MCCALL",
+        "target": "HELEN",
+        "weight": 1
+      },
+      {
+        "source": "MCCALL",
+        "target": "WYATT",
+        "weight": 1
+      },
+      {
+        "source": "MED CLOSE",
+        "target": "FOWLER",
+        "weight": 2
+      },
+      {
+        "source": "MED CLOSE",
+        "target": "MARY",
+        "weight": 9
+      },
+      {
+        "source": "MED CLOSE",
+        "target": "HELEN",
+        "weight": 5
+      },
+      {
+        "source": "MED CLOSE",
+        "target": "PETERS",
+        "weight": 1
+      },
+      {
+        "source": "MED CLOSE",
+        "target": "CLAYTON",
+        "weight": 1
+      },
+      {
+        "source": "MED CLOSE",
+        "target": "DISSOLVE OUT",
+        "weight": 1
+      },
+      {
+        "source": "MED CLOSE",
+        "target": "DISSOLVE",
+        "weight": 9
+      },
+      {
+        "source": "MED CLOSE",
+        "target": "ANOTHER ANGLE",
+        "weight": 8
+      },
+      {
+        "source": "MED CLOSE",
+        "target": "LEDNOV",
+        "weight": 1
+      },
+      {
+        "source": "DISSOLVE OUT",
+        "target": "MARY",
+        "weight": 1
+      },
+      {
+        "source": "DISSOLVE OUT",
+        "target": "WYATT",
+        "weight": 1
+      },
+      {
+        "source": "DISSOLVE OUT",
+        "target": "DISSOLVE",
+        "weight": 1
+      },
+      {
+        "source": "DISSOLVE OUT",
+        "target": "ANOTHER ANGLE",
+        "weight": 1
+      },
+      {
+        "source": "DISSOLVE OUT",
+        "target": "LEDNOV",
+        "weight": 2
+      },
+      {
+        "source": "DISSOLVE OUT",
+        "target": "MRS WYATT",
+        "weight": 1
+      },
+      {
+        "source": "DISSOLVE OUT",
+        "target": "HELEN",
+        "weight": 1
+      },
+      {
+        "source": "GARDNER",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "GARDNER",
+        "target": "ANOTHER ANGLE",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "FOWLER",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "HELEN",
+        "weight": 7
+      },
+      {
+        "source": "MARY",
+        "target": "CLAYTON",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "DISSOLVE",
+        "weight": 10
+      },
+      {
+        "source": "MARY",
+        "target": "ANOTHER ANGLE",
+        "weight": 8
+      },
+      {
+        "source": "MARY",
+        "target": "WYATT",
+        "weight": 1
+      },
+      {
+        "source": "FOWLER",
+        "target": "DISSOLVE",
+        "weight": 2
+      },
+      {
+        "source": "FOWLER",
+        "target": "ANOTHER ANGLE",
+        "weight": 2
+      },
+      {
+        "source": "FOWLER",
+        "target": "LEDNOV",
+        "weight": 2
+      },
+      {
+        "source": "FOWLER",
+        "target": "HELEN",
+        "weight": 2
+      },
+      {
+        "source": "MAN",
+        "target": "ANOTHER ANGLE",
+        "weight": 1
+      },
+      {
+        "source": "CLAYTON",
+        "target": "DISSOLVE",
+        "weight": 1
+      },
+      {
+        "source": "CLAYTON",
+        "target": "ANOTHER ANGLE",
+        "weight": 1
+      },
+      {
+        "source": "CLAYTON",
+        "target": "HELEN",
+        "weight": 1
+      },
+      {
+        "source": "HELEN",
+        "target": "PETERS",
+        "weight": 1
+      },
+      {
+        "source": "HELEN",
+        "target": "WYATT",
+        "weight": 1
+      },
+      {
+        "source": "HELEN",
+        "target": "DISSOLVE",
+        "weight": 6
+      },
+      {
+        "source": "HELEN",
+        "target": "ANOTHER ANGLE",
+        "weight": 5
+      },
+      {
+        "source": "HELEN",
+        "target": "LEDNOV",
+        "weight": 1
+      },
+      {
+        "source": "HELEN",
+        "target": "MRS WYATT",
+        "weight": 1
+      },
+      {
+        "source": "PETERS",
+        "target": "WYATT",
+        "weight": 2
+      },
+      {
+        "source": "PETERS",
+        "target": "ANOTHER ANGLE",
+        "weight": 1
+      },
+      {
+        "source": "PETERS",
+        "target": "LEDNOV",
+        "weight": 3
+      },
+      {
+        "source": "PETERS",
+        "target": "MRS WYATT",
+        "weight": 1
+      },
+      {
+        "source": "HAYES",
+        "target": "ANOTHER ANGLE",
+        "weight": 1
+      },
+      {
+        "source": "WYATT",
+        "target": "DISSOLVE",
+        "weight": 1
+      },
+      {
+        "source": "WYATT",
+        "target": "ANOTHER ANGLE",
+        "weight": 2
+      },
+      {
+        "source": "WYATT",
+        "target": "LEDNOV",
+        "weight": 2
+      },
+      {
+        "source": "WYATT",
+        "target": "MRS WYATT",
+        "weight": 4
+      },
+      {
+        "source": "DISSOLVE",
+        "target": "ANOTHER ANGLE",
+        "weight": 12
+      },
+      {
+        "source": "DISSOLVE",
+        "target": "LEDNOV",
+        "weight": 3
+      },
+      {
+        "source": "DISSOLVE",
+        "target": "MRS WYATT",
+        "weight": 1
+      },
+      {
+        "source": "ANOTHER ANGLE",
+        "target": "LEDNOV",
+        "weight": 3
+      },
+      {
+        "source": "ANOTHER ANGLE",
+        "target": "MRS WYATT",
+        "weight": 1
+      },
+      {
+        "source": "LEDNOV",
+        "target": "MRS WYATT",
+        "weight": 3
+      }
+    ],
+    "nodes": [
+      {
+        "id": "DRIVER",
+        "name": "DRIVER",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 5,
+        "pagerank": 0.011823962387565489,
+        "object_id": "4276229",
+        "triangles": 10,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7916666666666667,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JIM",
+        "name": "JIM",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 9,
+        "pagerank": 0.017215484524487137,
+        "object_id": "4271401",
+        "triangles": 36,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.625,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ELAINE",
+        "name": "ELAINE",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 10,
+        "pagerank": 0.027119798096191538,
+        "object_id": "4269875",
+        "triangles": 38,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.5833333333333333,
+        "betweenness centrality": 1.0646825396825397,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOCTOR",
+        "name": "DOCTOR",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.009518024364339536,
+        "object_id": "4276840",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9583333333333333,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SAM",
+        "name": "SAM",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.00838481071511152,
+        "object_id": "4270064",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MARCIA",
+        "name": "MARCIA",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 11,
+        "pagerank": 0.021650600917632924,
+        "object_id": "4269869",
+        "triangles": 49,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.5416666666666667,
+        "betweenness centrality": 0.851190476190476,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "STEVE",
+        "name": "STEVE",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 18,
+        "pagerank": 0.08892277279934385,
+        "object_id": "4270056",
+        "triangles": 72,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.25,
+        "betweenness centrality": 26.548809523809517,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GRAHAM",
+        "name": "GRAHAM",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 9,
+        "pagerank": 0.01975775713503694,
+        "object_id": "4269809",
+        "triangles": 26,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.625,
+        "betweenness centrality": 2.916666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CLAY",
+        "name": "CLAY",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 22,
+        "pagerank": 0.11990437347766898,
+        "object_id": "4270059",
+        "triangles": 96,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.0833333333333333,
+        "betweenness centrality": 49.232539682539695,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MCCALL",
+        "name": "MCCALL",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 9,
+        "pagerank": 0.02517983979407574,
+        "object_id": "4272589",
+        "triangles": 30,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7083333333333333,
+        "betweenness centrality": 0.8456349206349207,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MED CLOSE",
+        "name": "MED CLOSE",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 16,
+        "pagerank": 0.07963390199110101,
+        "object_id": "4270996",
+        "triangles": 74,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.3333333333333333,
+        "betweenness centrality": 10.13452380952381,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DISSOLVE OUT",
+        "name": "DISSOLVE OUT",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 10,
+        "pagerank": 0.02444602423156326,
+        "object_id": "4270008",
+        "triangles": 39,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.5833333333333333,
+        "betweenness centrality": 0.7468253968253968,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GARDNER",
+        "name": "GARDNER",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.014112431081633816,
+        "object_id": "4270170",
+        "triangles": 8,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7916666666666667,
+        "betweenness centrality": 0.4583333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MARY",
+        "name": "MARY",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 16,
+        "pagerank": 0.08932520879635235,
+        "object_id": "4269832",
+        "triangles": 73,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.3333333333333333,
+        "betweenness centrality": 10.838095238095237,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FOWLER",
+        "name": "FOWLER",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 9,
+        "pagerank": 0.024029554673685723,
+        "object_id": "4274548",
+        "triangles": 31,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.625,
+        "betweenness centrality": 1.0011904761904762,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAN",
+        "name": "MAN",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.01262828910389591,
+        "object_id": "4270165",
+        "triangles": 6,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8333333333333333,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CLAYTON",
+        "name": "CLAYTON",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 9,
+        "pagerank": 0.018457576094666618,
+        "object_id": "4271296",
+        "triangles": 36,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.625,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HELEN",
+        "name": "HELEN",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 18,
+        "pagerank": 0.06735309595849595,
+        "object_id": "4269850",
+        "triangles": 94,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.25,
+        "betweenness centrality": 11.817063492063491,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PETERS",
+        "name": "PETERS",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 7,
+        "pagerank": 0.019248648091162883,
+        "object_id": "4272607",
+        "triangles": 19,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7916666666666667,
+        "betweenness centrality": 0.21111111111111108,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HAYES",
+        "name": "HAYES",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.009562622973364977,
+        "object_id": "4270325",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.875,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WYATT",
+        "name": "WYATT",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 11,
+        "pagerank": 0.02995719572591332,
+        "object_id": "4272500",
+        "triangles": 42,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.5416666666666667,
+        "betweenness centrality": 2.8202380952380945,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DISSOLVE",
+        "name": "DISSOLVE",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 17,
+        "pagerank": 0.093613322185504,
+        "object_id": "4269683",
+        "triangles": 88,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.2916666666666667,
+        "betweenness centrality": 8.476587301587301,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANOTHER ANGLE",
+        "name": "ANOTHER ANGLE",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 22,
+        "pagerank": 0.10253889580873563,
+        "object_id": "4269805",
+        "triangles": 106,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.0833333333333333,
+        "betweenness centrality": 39.25039682539682,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LEDNOV",
+        "name": "LEDNOV",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 11,
+        "pagerank": 0.038251307324047946,
+        "object_id": "4272509",
+        "triangles": 44,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.5416666666666667,
+        "betweenness centrality": 1.8646825396825397,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MRS WYATT",
+        "name": "MRS WYATT",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 10,
+        "pagerank": 0.027364501748423014,
+        "object_id": "4272575",
+        "triangles": 35,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.5833333333333333,
+        "betweenness centrality": 1.9214285714285713,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": -90.70128,
+        "y": 36.770863,
+        "name": "DRIVER"
+      },
+      {
+        "x": 43.847763,
+        "y": 134.22229,
+        "name": "JIM"
+      },
+      {
+        "x": 96.60901,
+        "y": -63.651775,
+        "name": "ELAINE"
+      },
+      {
+        "x": -104.88293,
+        "y": 89.75542,
+        "name": "DOCTOR"
+      },
+      {
+        "x": 98.94191,
+        "y": 161.49391,
+        "name": "SAM"
+      },
+      {
+        "x": 133.89221,
+        "y": 69.604485,
+        "name": "MARCIA"
+      },
+      {
+        "x": 17.370834,
+        "y": 45.818478,
+        "name": "STEVE"
+      },
+      {
+        "x": -29.449759,
+        "y": 113.47503,
+        "name": "GRAHAM"
+      },
+      {
+        "x": -10.536823,
+        "y": 8.638507,
+        "name": "CLAY"
+      },
+      {
+        "x": 77.67541,
+        "y": -137.66501,
+        "name": "MCCALL"
+      },
+      {
+        "x": 78.95095,
+        "y": -9.800168,
+        "name": "MED CLOSE"
+      },
+      {
+        "x": -77.63877,
+        "y": -50.202457,
+        "name": "DISSOLVE OUT"
+      },
+      {
+        "x": -49.1629,
+        "y": 167.61528,
+        "name": "GARDNER"
+      },
+      {
+        "x": 54.812485,
+        "y": 21.881649,
+        "name": "MARY"
+      },
+      {
+        "x": 133.05965,
+        "y": -36.400383,
+        "name": "FOWLER"
+      },
+      {
+        "x": -96.50112,
+        "y": 146.92053,
+        "name": "MAN"
+      },
+      {
+        "x": 87.14019,
+        "y": 102.82027,
+        "name": "CLAYTON"
+      },
+      {
+        "x": -7.909442,
+        "y": -44.85515,
+        "name": "HELEN"
+      },
+      {
+        "x": 35.726044,
+        "y": -197.6058,
+        "name": "PETERS"
+      },
+      {
+        "x": 17.750053,
+        "y": -162.70934,
+        "name": "HAYES"
+      },
+      {
+        "x": -26.470226,
+        "y": -147.68098,
+        "name": "WYATT"
+      },
+      {
+        "x": 32.496296,
+        "y": -14.026266,
+        "name": "DISSOLVE"
+      },
+      {
+        "x": 42.678013,
+        "y": -55.97111,
+        "name": "ANOTHER ANGLE"
+      },
+      {
+        "x": 21.59619,
+        "y": -122.928955,
+        "name": "LEDNOV"
+      },
+      {
+        "x": -66.834045,
+        "y": -130.20157,
+        "name": "MRS WYATT"
+      }
+    ]
+  }
+}

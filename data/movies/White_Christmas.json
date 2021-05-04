@@ -1,0 +1,1112 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "ED",
+        "target": "BETTY",
+        "weight": 1
+      },
+      {
+        "source": "ED",
+        "target": "LEADER",
+        "weight": 1
+      },
+      {
+        "source": "ED",
+        "target": "BOB",
+        "weight": 1
+      },
+      {
+        "source": "BANDLEADER",
+        "target": "NOVELLO",
+        "weight": 1
+      },
+      {
+        "source": "BANDLEADER",
+        "target": "OSCAR",
+        "weight": 1
+      },
+      {
+        "source": "BANDLEADER",
+        "target": "RITA",
+        "weight": 1
+      },
+      {
+        "source": "BANDLEADER",
+        "target": "BOB",
+        "weight": 1
+      },
+      {
+        "source": "BANDLEADER",
+        "target": "JUDY",
+        "weight": 1
+      },
+      {
+        "source": "BANDLEADER",
+        "target": "PHIL",
+        "weight": 1
+      },
+      {
+        "source": "BANDLEADER",
+        "target": "BETTY",
+        "weight": 1
+      },
+      {
+        "source": "BANDLEADER",
+        "target": "COOKE",
+        "weight": 1
+      },
+      {
+        "source": "NOVELLO",
+        "target": "RITA",
+        "weight": 1
+      },
+      {
+        "source": "NOVELLO",
+        "target": "OSCAR",
+        "weight": 1
+      },
+      {
+        "source": "NOVELLO",
+        "target": "LANDLORD",
+        "weight": 1
+      },
+      {
+        "source": "NOVELLO",
+        "target": "BOB",
+        "weight": 1
+      },
+      {
+        "source": "NOVELLO",
+        "target": "JUDY",
+        "weight": 1
+      },
+      {
+        "source": "NOVELLO",
+        "target": "PHIL",
+        "weight": 1
+      },
+      {
+        "source": "NOVELLO",
+        "target": "BETTY",
+        "weight": 1
+      },
+      {
+        "source": "NOVELLO",
+        "target": "SHERIFF",
+        "weight": 1
+      },
+      {
+        "source": "NOVELLO",
+        "target": "COOKE",
+        "weight": 1
+      },
+      {
+        "source": "SYLVIA",
+        "target": "RITA",
+        "weight": 1
+      },
+      {
+        "source": "SYLVIA",
+        "target": "GIRLS",
+        "weight": 1
+      },
+      {
+        "source": "SYLVIA",
+        "target": "BOB",
+        "weight": 1
+      },
+      {
+        "source": "SYLVIA",
+        "target": "JUDY",
+        "weight": 1
+      },
+      {
+        "source": "SYLVIA",
+        "target": "PHIL",
+        "weight": 1
+      },
+      {
+        "source": "SYLVIA",
+        "target": "BETTY",
+        "weight": 1
+      },
+      {
+        "source": "SYLVIA",
+        "target": "MARTHA",
+        "weight": 1
+      },
+      {
+        "source": "SYLVIA",
+        "target": "ALBERT",
+        "weight": 1
+      },
+      {
+        "source": "SERGEANT",
+        "target": "GENERAL CARLTON",
+        "weight": 1
+      },
+      {
+        "source": "SERGEANT",
+        "target": "ADJUTANT",
+        "weight": 1
+      },
+      {
+        "source": "SERGEANT",
+        "target": "GENERAL WAVERLY",
+        "weight": 1
+      },
+      {
+        "source": "SERGEANT",
+        "target": "BOB",
+        "weight": 1
+      },
+      {
+        "source": "SERGEANT",
+        "target": "WAVERLY",
+        "weight": 1
+      },
+      {
+        "source": "GENERAL CARLTON",
+        "target": "GENERAL WAVERLY",
+        "weight": 1
+      },
+      {
+        "source": "GENERAL CARLTON",
+        "target": "ADJUTANT",
+        "weight": 1
+      },
+      {
+        "source": "GENERAL CARLTON",
+        "target": "BOB",
+        "weight": 1
+      },
+      {
+        "source": "GENERAL CARLTON",
+        "target": "WAVERLY",
+        "weight": 1
+      },
+      {
+        "source": "MARTHA",
+        "target": "WAVERLY",
+        "weight": 3
+      },
+      {
+        "source": "MARTHA",
+        "target": "RITA",
+        "weight": 1
+      },
+      {
+        "source": "MARTHA",
+        "target": "GIRLS",
+        "weight": 1
+      },
+      {
+        "source": "MARTHA",
+        "target": "GENERAL",
+        "weight": 1
+      },
+      {
+        "source": "MARTHA",
+        "target": "ALBERT",
+        "weight": 1
+      },
+      {
+        "source": "MARTHA",
+        "target": "PETE",
+        "weight": 1
+      },
+      {
+        "source": "MARTHA",
+        "target": "BETTY",
+        "weight": 5
+      },
+      {
+        "source": "MARTHA",
+        "target": "BOB",
+        "weight": 6
+      },
+      {
+        "source": "MARTHA",
+        "target": "JUDY",
+        "weight": 2
+      },
+      {
+        "source": "MARTHA",
+        "target": "PHIL",
+        "weight": 5
+      },
+      {
+        "source": "MARTHA",
+        "target": "SUSAN",
+        "weight": 4
+      },
+      {
+        "source": "COOKE",
+        "target": "RITA",
+        "weight": 1
+      },
+      {
+        "source": "COOKE",
+        "target": "OSCAR",
+        "weight": 1
+      },
+      {
+        "source": "COOKE",
+        "target": "BOB",
+        "weight": 1
+      },
+      {
+        "source": "COOKE",
+        "target": "JUDY",
+        "weight": 1
+      },
+      {
+        "source": "COOKE",
+        "target": "PHIL",
+        "weight": 1
+      },
+      {
+        "source": "COOKE",
+        "target": "BETTY",
+        "weight": 1
+      },
+      {
+        "source": "ALBERT",
+        "target": "RITA",
+        "weight": 1
+      },
+      {
+        "source": "ALBERT",
+        "target": "GIRLS",
+        "weight": 1
+      },
+      {
+        "source": "ALBERT",
+        "target": "BOB",
+        "weight": 1
+      },
+      {
+        "source": "ALBERT",
+        "target": "JUDY",
+        "weight": 1
+      },
+      {
+        "source": "ALBERT",
+        "target": "PHIL",
+        "weight": 1
+      },
+      {
+        "source": "ALBERT",
+        "target": "BETTY",
+        "weight": 1
+      },
+      {
+        "source": "BOB",
+        "target": "WAVERLY",
+        "weight": 5
+      },
+      {
+        "source": "BOB",
+        "target": "BETTY",
+        "weight": 9
+      },
+      {
+        "source": "BOB",
+        "target": "RITA",
+        "weight": 2
+      },
+      {
+        "source": "BOB",
+        "target": "GIRLS",
+        "weight": 1
+      },
+      {
+        "source": "BOB",
+        "target": "GENERAL",
+        "weight": 2
+      },
+      {
+        "source": "BOB",
+        "target": "SHERIFF",
+        "weight": 1
+      },
+      {
+        "source": "BOB",
+        "target": "HANK",
+        "weight": 1
+      },
+      {
+        "source": "BOB",
+        "target": "GENERAL WAVERLY",
+        "weight": 1
+      },
+      {
+        "source": "BOB",
+        "target": "OSCAR",
+        "weight": 1
+      },
+      {
+        "source": "BOB",
+        "target": "LEADER",
+        "weight": 1
+      },
+      {
+        "source": "BOB",
+        "target": "LANDLORD",
+        "weight": 1
+      },
+      {
+        "source": "BOB",
+        "target": "JUDY",
+        "weight": 8
+      },
+      {
+        "source": "BOB",
+        "target": "PHIL",
+        "weight": 8
+      },
+      {
+        "source": "BOB",
+        "target": "ADJUTANT",
+        "weight": 1
+      },
+      {
+        "source": "BOB",
+        "target": "SUSAN",
+        "weight": 2
+      },
+      {
+        "source": "BOB",
+        "target": "BOB AND PHIL",
+        "weight": 1
+      },
+      {
+        "source": "BETTY",
+        "target": "RITA",
+        "weight": 1
+      },
+      {
+        "source": "BETTY",
+        "target": "GENERAL",
+        "weight": 1
+      },
+      {
+        "source": "BETTY",
+        "target": "WAVERLY",
+        "weight": 2
+      },
+      {
+        "source": "BETTY",
+        "target": "OSCAR",
+        "weight": 1
+      },
+      {
+        "source": "BETTY",
+        "target": "LEADER",
+        "weight": 1
+      },
+      {
+        "source": "BETTY",
+        "target": "GIRLS",
+        "weight": 1
+      },
+      {
+        "source": "BETTY",
+        "target": "JUDY",
+        "weight": 7
+      },
+      {
+        "source": "BETTY",
+        "target": "PHIL",
+        "weight": 5
+      },
+      {
+        "source": "BETTY",
+        "target": "SUSAN",
+        "weight": 2
+      },
+      {
+        "source": "GENERAL",
+        "target": "WAVERLY",
+        "weight": 2
+      },
+      {
+        "source": "GENERAL",
+        "target": "PHIL",
+        "weight": 2
+      },
+      {
+        "source": "GENERAL",
+        "target": "JUDY",
+        "weight": 1
+      },
+      {
+        "source": "RITA",
+        "target": "OSCAR",
+        "weight": 1
+      },
+      {
+        "source": "RITA",
+        "target": "GIRLS",
+        "weight": 1
+      },
+      {
+        "source": "RITA",
+        "target": "JUDY",
+        "weight": 2
+      },
+      {
+        "source": "RITA",
+        "target": "PHIL",
+        "weight": 2
+      },
+      {
+        "source": "GIRLS",
+        "target": "JUDY",
+        "weight": 1
+      },
+      {
+        "source": "GIRLS",
+        "target": "PHIL",
+        "weight": 1
+      },
+      {
+        "source": "WAVERLY",
+        "target": "FIRST OWNER",
+        "weight": 1
+      },
+      {
+        "source": "WAVERLY",
+        "target": "PETE",
+        "weight": 1
+      },
+      {
+        "source": "WAVERLY",
+        "target": "GENERAL WAVERLY",
+        "weight": 1
+      },
+      {
+        "source": "WAVERLY",
+        "target": "JUDY",
+        "weight": 2
+      },
+      {
+        "source": "WAVERLY",
+        "target": "PHIL",
+        "weight": 6
+      },
+      {
+        "source": "WAVERLY",
+        "target": "ADJUTANT",
+        "weight": 1
+      },
+      {
+        "source": "WAVERLY",
+        "target": "SUSAN",
+        "weight": 1
+      },
+      {
+        "source": "WAVERLY",
+        "target": "BOB AND PHIL",
+        "weight": 1
+      },
+      {
+        "source": "SHERIFF",
+        "target": "PHIL",
+        "weight": 2
+      },
+      {
+        "source": "SHERIFF",
+        "target": "LANDLORD",
+        "weight": 2
+      },
+      {
+        "source": "SHERIFF",
+        "target": "HANK",
+        "weight": 2
+      },
+      {
+        "source": "HANK",
+        "target": "PHIL",
+        "weight": 2
+      },
+      {
+        "source": "PETE",
+        "target": "SUSAN",
+        "weight": 1
+      },
+      {
+        "source": "GENERAL WAVERLY",
+        "target": "ADJUTANT",
+        "weight": 1
+      },
+      {
+        "source": "OSCAR",
+        "target": "JUDY",
+        "weight": 1
+      },
+      {
+        "source": "OSCAR",
+        "target": "PHIL",
+        "weight": 1
+      },
+      {
+        "source": "LANDLORD",
+        "target": "PHIL",
+        "weight": 1
+      },
+      {
+        "source": "JUDY",
+        "target": "PHIL",
+        "weight": 6
+      },
+      {
+        "source": "PHIL",
+        "target": "BOB AND PHIL",
+        "weight": 1
+      },
+      {
+        "source": "PHIL",
+        "target": "SUSAN",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "ED",
+        "name": "ED",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.012902559839832711,
+        "object_id": "5434781",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.962962962962963,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BANDLEADER",
+        "name": "BANDLEADER",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 8,
+        "pagerank": 0.022244098450181347,
+        "object_id": "5431473",
+        "triangles": 28,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7777777777777777,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NOVELLO",
+        "name": "NOVELLO",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 10,
+        "pagerank": 0.02777060321872707,
+        "object_id": "5431518",
+        "triangles": 33,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7037037037037037,
+        "betweenness centrality": 4.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SYLVIA",
+        "name": "SYLVIA",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 8,
+        "pagerank": 0.021687863355358647,
+        "object_id": "5433706",
+        "triangles": 28,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7407407407407407,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SERGEANT",
+        "name": "SERGEANT",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.019491099527360722,
+        "object_id": "5430990",
+        "triangles": 10,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8148148148148149,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GENERAL CARLTON",
+        "name": "GENERAL CARLTON",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.019491099527360722,
+        "object_id": "5430941",
+        "triangles": 10,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8148148148148149,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MARTHA",
+        "name": "MARTHA",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 12,
+        "pagerank": 0.07011044746060804,
+        "object_id": "5432478",
+        "triangles": 43,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.5555555555555556,
+        "betweenness centrality": 13.133333333333331,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COOKE",
+        "name": "COOKE",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 8,
+        "pagerank": 0.02224409845018135,
+        "object_id": "5431220",
+        "triangles": 28,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7777777777777777,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ALBERT",
+        "name": "ALBERT",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 8,
+        "pagerank": 0.021687863355358647,
+        "object_id": "5433653",
+        "triangles": 28,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7407407407407407,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BOB",
+        "name": "BOB",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 25,
+        "pagerank": 0.13714479146370434,
+        "object_id": "5431057",
+        "triangles": 85,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.0740740740740742,
+        "betweenness centrality": 130.66666666666669,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BETTY",
+        "name": "BETTY",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 17,
+        "pagerank": 0.09231883971742212,
+        "object_id": "5431375",
+        "triangles": 66,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.3703703703703705,
+        "betweenness centrality": 28.33333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GENERAL",
+        "name": "GENERAL",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 6,
+        "pagerank": 0.023316613781939572,
+        "object_id": "5434117",
+        "triangles": 15,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7777777777777777,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RITA",
+        "name": "RITA",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 12,
+        "pagerank": 0.037121580474384,
+        "object_id": "5431321",
+        "triangles": 50,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.5925925925925926,
+        "betweenness centrality": 3.5333333333333323,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GIRLS",
+        "name": "GIRLS",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 8,
+        "pagerank": 0.021687863355358647,
+        "object_id": "5433722",
+        "triangles": 28,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7407407407407407,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WAVERLY",
+        "name": "WAVERLY",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 14,
+        "pagerank": 0.0730169569623126,
+        "object_id": "5431071",
+        "triangles": 33,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.4814814814814814,
+        "betweenness centrality": 52.06666666666665,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FIRST OWNER",
+        "name": "FIRST OWNER",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.007573797379546498,
+        "object_id": "5433336",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.4444444444444446,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SHERIFF",
+        "name": "SHERIFF",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.024916145695423452,
+        "object_id": "5431981",
+        "triangles": 8,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8888888888888888,
+        "betweenness centrality": 0.6666666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HANK",
+        "name": "HANK",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.016490930140047273,
+        "object_id": "5432103",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.962962962962963,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PETE",
+        "name": "PETE",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.01168176058447273,
+        "object_id": "5435315",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.2222222222222223,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GENERAL WAVERLY",
+        "name": "GENERAL WAVERLY",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.019491099527360722,
+        "object_id": "5430957",
+        "triangles": 10,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8148148148148149,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OSCAR",
+        "name": "OSCAR",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 8,
+        "pagerank": 0.02224409845018135,
+        "object_id": "5431244",
+        "triangles": 28,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7777777777777777,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LEADER",
+        "name": "LEADER",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.012902559839832711,
+        "object_id": "5434610",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.962962962962963,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LANDLORD",
+        "name": "LANDLORD",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.016919669769930812,
+        "object_id": "5431977",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9259259259259258,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JUDY",
+        "name": "JUDY",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 14,
+        "pagerank": 0.07720173597684275,
+        "object_id": "5431423",
+        "triangles": 59,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.4814814814814814,
+        "betweenness centrality": 9.266666666666667,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PHIL",
+        "name": "PHIL",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 19,
+        "pagerank": 0.10908515679180264,
+        "object_id": "5431226",
+        "triangles": 72,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.2962962962962963,
+        "betweenness centrality": 40.666666666666664,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ADJUTANT",
+        "name": "ADJUTANT",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.019491099527360722,
+        "object_id": "5430945",
+        "triangles": 10,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8148148148148149,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SUSAN",
+        "name": "SUSAN",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 6,
+        "pagerank": 0.02828425591523174,
+        "object_id": "5432473",
+        "triangles": 12,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7777777777777777,
+        "betweenness centrality": 3.666666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BOB AND PHIL",
+        "name": "BOB AND PHIL",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.011481311461876103,
+        "object_id": "5433182",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8888888888888888,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": 110.706635,
+        "y": 169.30528,
+        "name": "ED"
+      },
+      {
+        "x": 117.19252,
+        "y": 31.863102,
+        "name": "BANDLEADER"
+      },
+      {
+        "x": 104.33799,
+        "y": -45.60313,
+        "name": "NOVELLO"
+      },
+      {
+        "x": -15.73904,
+        "y": 202.57932,
+        "name": "SYLVIA"
+      },
+      {
+        "x": -55.756607,
+        "y": -202.48547,
+        "name": "SERGEANT"
+      },
+      {
+        "x": -99.9257,
+        "y": -168.60701,
+        "name": "GENERAL CARLTON"
+      },
+      {
+        "x": -58.51083,
+        "y": 89.569725,
+        "name": "MARTHA"
+      },
+      {
+        "x": 158.79393,
+        "y": 3.4603424,
+        "name": "COOKE"
+      },
+      {
+        "x": -56.73808,
+        "y": 171.23642,
+        "name": "ALBERT"
+      },
+      {
+        "x": 6.3461995,
+        "y": 8.994801,
+        "name": "BOB"
+      },
+      {
+        "x": 36.25769,
+        "y": 65.05592,
+        "name": "BETTY"
+      },
+      {
+        "x": -106.44185,
+        "y": 28.341074,
+        "name": "GENERAL"
+      },
+      {
+        "x": 79.80733,
+        "y": 117.56057,
+        "name": "RITA"
+      },
+      {
+        "x": 28.79717,
+        "y": 179.18373,
+        "name": "GIRLS"
+      },
+      {
+        "x": -73.07933,
+        "y": -14.147226,
+        "name": "WAVERLY"
+      },
+      {
+        "x": -185.92876,
+        "y": 97.237686,
+        "name": "FIRST OWNER"
+      },
+      {
+        "x": -37.149902,
+        "y": -81.55528,
+        "name": "SHERIFF"
+      },
+      {
+        "x": -95.77824,
+        "y": -63.345318,
+        "name": "HANK"
+      },
+      {
+        "x": -182.75885,
+        "y": 56.281986,
+        "name": "PETE"
+      },
+      {
+        "x": -11.720824,
+        "y": -177.46669,
+        "name": "GENERAL WAVERLY"
+      },
+      {
+        "x": 154.90724,
+        "y": 68.76829,
+        "name": "OSCAR"
+      },
+      {
+        "x": 151.26744,
+        "y": 136.20781,
+        "name": "LEADER"
+      },
+      {
+        "x": 13.525866,
+        "y": -96.52932,
+        "name": "LANDLORD"
+      },
+      {
+        "x": 3.264673,
+        "y": 95.31019,
+        "name": "JUDY"
+      },
+      {
+        "x": -32.273193,
+        "y": 43.11819,
+        "name": "PHIL"
+      },
+      {
+        "x": -56.38453,
+        "y": -153.24466,
+        "name": "ADJUTANT"
+      },
+      {
+        "x": -107.82522,
+        "y": 78.78078,
+        "name": "SUSAN"
+      },
+      {
+        "x": 54.563026,
+        "y": -25.830206,
+        "name": "BOB AND PHIL"
+      }
+    ]
+  }
+}

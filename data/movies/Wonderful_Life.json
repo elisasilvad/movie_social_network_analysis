@@ -1,0 +1,3035 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "MARY",
+        "target": "POTTER",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "MRS HATCH",
+        "weight": 2
+      },
+      {
+        "source": "MARY",
+        "target": "MRS THOMPSON",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "BOYS",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "SAM",
+        "weight": 3
+      },
+      {
+        "source": "MARY",
+        "target": "GOWER",
+        "weight": 2
+      },
+      {
+        "source": "MARY",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "PASSERBY",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "ED",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "VIOLET",
+        "weight": 2
+      },
+      {
+        "source": "MARY",
+        "target": "MICKEY",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "TOM",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "RANDALL",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "ANOTHER ANGLE",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "CLARENCE",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "MEDIUM CLOSEUP",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "JANIE",
+        "weight": 2
+      },
+      {
+        "source": "MARY",
+        "target": "BERT",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "HARRY",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "MAN",
+        "weight": 2
+      },
+      {
+        "source": "MARY",
+        "target": "ANOTHER MAN",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "MARTINI",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "MARTY",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "ERNIE",
+        "weight": 3
+      },
+      {
+        "source": "MARY",
+        "target": "PRINCIPAL",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "FRANKLIN",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "FREDDIE",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "TOMMY",
+        "weight": 3
+      },
+      {
+        "source": "MARY",
+        "target": "GEORGE",
+        "weight": 17
+      },
+      {
+        "source": "MARY",
+        "target": "ZUZU",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "WIDER ANGLE",
+        "weight": 2
+      },
+      {
+        "source": "MARY",
+        "target": "UNCLE BILLY",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "JANE",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "MRS DAVIS",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "MRS BAILEY",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "CHILDREN",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "PETE",
+        "weight": 5
+      },
+      {
+        "source": "MARY",
+        "target": "JOSEPH",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "MONTAGE SEQUENCE",
+        "weight": 1
+      },
+      {
+        "source": "SCHULTZ",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "SCHULTZ",
+        "target": "MARTINI",
+        "weight": 1
+      },
+      {
+        "source": "SCHULTZ",
+        "target": "MARIA",
+        "weight": 1
+      },
+      {
+        "source": "BOYS",
+        "target": "VIOLET",
+        "weight": 1
+      },
+      {
+        "source": "BOYS",
+        "target": "GOWER",
+        "weight": 1
+      },
+      {
+        "source": "BOYS",
+        "target": "MOTHER",
+        "weight": 1
+      },
+      {
+        "source": "BOYS",
+        "target": "BOY",
+        "weight": 1
+      },
+      {
+        "source": "BOYS",
+        "target": "GEORGE",
+        "weight": 3
+      },
+      {
+        "source": "BOYS",
+        "target": "WIDER ANGLE",
+        "weight": 2
+      },
+      {
+        "source": "BOYS",
+        "target": "ANOTHER ANGLE",
+        "weight": 1
+      },
+      {
+        "source": "BOYS",
+        "target": "ANNIE",
+        "weight": 1
+      },
+      {
+        "source": "BOYS",
+        "target": "CLARENCE",
+        "weight": 2
+      },
+      {
+        "source": "BOYS",
+        "target": "JOSEPH",
+        "weight": 2
+      },
+      {
+        "source": "BOYS",
+        "target": "POP",
+        "weight": 1
+      },
+      {
+        "source": "BOYS",
+        "target": "HARRY",
+        "weight": 1
+      },
+      {
+        "source": "PEOPLE",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "COUSIN EUSTACE",
+        "target": "GEORGE",
+        "weight": 4
+      },
+      {
+        "source": "COUSIN EUSTACE",
+        "target": "DR CAMPBELL",
+        "weight": 1
+      },
+      {
+        "source": "COUSIN EUSTACE",
+        "target": "UNCLE BILLY",
+        "weight": 3
+      },
+      {
+        "source": "COUSIN EUSTACE",
+        "target": "ERNIE",
+        "weight": 1
+      },
+      {
+        "source": "COUSIN EUSTACE",
+        "target": "VIOLET",
+        "weight": 1
+      },
+      {
+        "source": "COUSIN EUSTACE",
+        "target": "CARTER",
+        "weight": 1
+      },
+      {
+        "source": "COUSIN EUSTACE",
+        "target": "COUSIN TILLY",
+        "weight": 3
+      },
+      {
+        "source": "COUSIN EUSTACE",
+        "target": "LAP DISSOLVE",
+        "weight": 1
+      },
+      {
+        "source": "MOTHER",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "MOTHER",
+        "target": "ANOTHER ANGLE",
+        "weight": 1
+      },
+      {
+        "source": "MOTHER",
+        "target": "ANNIE",
+        "weight": 1
+      },
+      {
+        "source": "MOTHER",
+        "target": "POP",
+        "weight": 1
+      },
+      {
+        "source": "MOTHER",
+        "target": "HARRY",
+        "weight": 1
+      },
+      {
+        "source": "TOMMY",
+        "target": "GEORGE",
+        "weight": 4
+      },
+      {
+        "source": "TOMMY",
+        "target": "JANIE",
+        "weight": 2
+      },
+      {
+        "source": "TOMMY",
+        "target": "PETE",
+        "weight": 3
+      },
+      {
+        "source": "ED",
+        "target": "RANDALL",
+        "weight": 1
+      },
+      {
+        "source": "ED",
+        "target": "MRS THOMPSON",
+        "weight": 1
+      },
+      {
+        "source": "ED",
+        "target": "MRS DAVIS",
+        "weight": 1
+      },
+      {
+        "source": "ED",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "ED",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "ED",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "ED",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "ED",
+        "target": "TOM",
+        "weight": 1
+      },
+      {
+        "source": "GOWER",
+        "target": "BOUNCER",
+        "weight": 1
+      },
+      {
+        "source": "GOWER",
+        "target": "MRS BAILEY",
+        "weight": 1
+      },
+      {
+        "source": "GOWER",
+        "target": "ERNIE",
+        "weight": 1
+      },
+      {
+        "source": "GOWER",
+        "target": "MARTINI",
+        "weight": 1
+      },
+      {
+        "source": "GOWER",
+        "target": "FRANKLIN",
+        "weight": 1
+      },
+      {
+        "source": "GOWER",
+        "target": "MEDIUM CLOSEUP",
+        "weight": 1
+      },
+      {
+        "source": "GOWER",
+        "target": "GEORGE",
+        "weight": 4
+      },
+      {
+        "source": "GOWER",
+        "target": "WIDER ANGLE",
+        "weight": 1
+      },
+      {
+        "source": "GOWER",
+        "target": "ANOTHER ANGLE",
+        "weight": 1
+      },
+      {
+        "source": "GOWER",
+        "target": "CLARENCE",
+        "weight": 2
+      },
+      {
+        "source": "GOWER",
+        "target": "NICK",
+        "weight": 1
+      },
+      {
+        "source": "GOWER",
+        "target": "JOSEPH",
+        "weight": 1
+      },
+      {
+        "source": "GOWER",
+        "target": "ZUZU",
+        "weight": 1
+      },
+      {
+        "source": "GOWER",
+        "target": "JANIE",
+        "weight": 1
+      },
+      {
+        "source": "GOWER",
+        "target": "BERT",
+        "weight": 1
+      },
+      {
+        "source": "GOWER",
+        "target": "VIOLET",
+        "weight": 1
+      },
+      {
+        "source": "BAILEY",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "BAILEY",
+        "target": "POTTER",
+        "weight": 1
+      },
+      {
+        "source": "MICKEY",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "MICKEY",
+        "target": "MARTY",
+        "weight": 1
+      },
+      {
+        "source": "MICKEY",
+        "target": "PRINCIPAL",
+        "weight": 1
+      },
+      {
+        "source": "MICKEY",
+        "target": "MEDIUM CLOSEUP",
+        "weight": 1
+      },
+      {
+        "source": "MICKEY",
+        "target": "WIDER ANGLE",
+        "weight": 1
+      },
+      {
+        "source": "MICKEY",
+        "target": "FREDDIE",
+        "weight": 1
+      },
+      {
+        "source": "MICKEY",
+        "target": "HARRY",
+        "weight": 1
+      },
+      {
+        "source": "MICKEY",
+        "target": "VIOLET",
+        "weight": 1
+      },
+      {
+        "source": "MICKEY",
+        "target": "SAM",
+        "weight": 1
+      },
+      {
+        "source": "TOM",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "TOM",
+        "target": "MRS THOMPSON",
+        "weight": 1
+      },
+      {
+        "source": "TOM",
+        "target": "MRS DAVIS",
+        "weight": 1
+      },
+      {
+        "source": "TOM",
+        "target": "RANDALL",
+        "weight": 1
+      },
+      {
+        "source": "TOM",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "TOM",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "TOM",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "RANDALL",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "RANDALL",
+        "target": "MRS THOMPSON",
+        "weight": 1
+      },
+      {
+        "source": "RANDALL",
+        "target": "MRS DAVIS",
+        "weight": 1
+      },
+      {
+        "source": "RANDALL",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "RANDALL",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "RANDALL",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "MARTINI",
+        "target": "ERNIE",
+        "weight": 1
+      },
+      {
+        "source": "MARTINI",
+        "target": "NICK",
+        "weight": 1
+      },
+      {
+        "source": "MARTINI",
+        "target": "FRANKLIN",
+        "weight": 1
+      },
+      {
+        "source": "MARTINI",
+        "target": "GEORGE",
+        "weight": 2
+      },
+      {
+        "source": "MARTINI",
+        "target": "ZUZU",
+        "weight": 1
+      },
+      {
+        "source": "MARTINI",
+        "target": "MARIA",
+        "weight": 1
+      },
+      {
+        "source": "MARTINI",
+        "target": "CLARENCE",
+        "weight": 1
+      },
+      {
+        "source": "MARTINI",
+        "target": "MRS BAILEY",
+        "weight": 1
+      },
+      {
+        "source": "MARTINI",
+        "target": "JANIE",
+        "weight": 1
+      },
+      {
+        "source": "MARTINI",
+        "target": "BERT",
+        "weight": 1
+      },
+      {
+        "source": "MARTINI",
+        "target": "JOSEPH",
+        "weight": 1
+      },
+      {
+        "source": "MARTINI",
+        "target": "WELCH",
+        "weight": 1
+      },
+      {
+        "source": "MARTINI",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "ANOTHER ANGLE",
+        "target": "JOSEPH",
+        "weight": 1
+      },
+      {
+        "source": "ANOTHER ANGLE",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "ANOTHER ANGLE",
+        "target": "WIDER ANGLE",
+        "weight": 1
+      },
+      {
+        "source": "ANOTHER ANGLE",
+        "target": "ANNIE",
+        "weight": 1
+      },
+      {
+        "source": "ANOTHER ANGLE",
+        "target": "CLARENCE",
+        "weight": 1
+      },
+      {
+        "source": "ANOTHER ANGLE",
+        "target": "VIOLET",
+        "weight": 1
+      },
+      {
+        "source": "ANOTHER ANGLE",
+        "target": "POP",
+        "weight": 1
+      },
+      {
+        "source": "ANOTHER ANGLE",
+        "target": "HARRY",
+        "weight": 1
+      },
+      {
+        "source": "ANNIE",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "ANNIE",
+        "target": "MRS BAILEY",
+        "weight": 1
+      },
+      {
+        "source": "ANNIE",
+        "target": "POP",
+        "weight": 1
+      },
+      {
+        "source": "ANNIE",
+        "target": "HARRY",
+        "weight": 1
+      },
+      {
+        "source": "CLARENCE",
+        "target": "MEDIUM CLOSEUP",
+        "weight": 1
+      },
+      {
+        "source": "CLARENCE",
+        "target": "ZUZU",
+        "weight": 1
+      },
+      {
+        "source": "CLARENCE",
+        "target": "OWNER",
+        "weight": 1
+      },
+      {
+        "source": "CLARENCE",
+        "target": "NICK",
+        "weight": 1
+      },
+      {
+        "source": "CLARENCE",
+        "target": "MRS BAILEY",
+        "weight": 1
+      },
+      {
+        "source": "CLARENCE",
+        "target": "JANIE",
+        "weight": 1
+      },
+      {
+        "source": "CLARENCE",
+        "target": "BERT",
+        "weight": 2
+      },
+      {
+        "source": "CLARENCE",
+        "target": "HARRY",
+        "weight": 1
+      },
+      {
+        "source": "CLARENCE",
+        "target": "BOUNCER",
+        "weight": 1
+      },
+      {
+        "source": "CLARENCE",
+        "target": "ERNIE",
+        "weight": 2
+      },
+      {
+        "source": "CLARENCE",
+        "target": "CUSTOMER",
+        "weight": 1
+      },
+      {
+        "source": "CLARENCE",
+        "target": "FRANKLIN",
+        "weight": 1
+      },
+      {
+        "source": "CLARENCE",
+        "target": "BOY",
+        "weight": 1
+      },
+      {
+        "source": "CLARENCE",
+        "target": "GEORGE",
+        "weight": 6
+      },
+      {
+        "source": "CLARENCE",
+        "target": "WIDER ANGLE",
+        "weight": 2
+      },
+      {
+        "source": "CLARENCE",
+        "target": "TOLLKEEPER",
+        "weight": 1
+      },
+      {
+        "source": "CLARENCE",
+        "target": "LAP DISSOLVE",
+        "weight": 1
+      },
+      {
+        "source": "CLARENCE",
+        "target": "JOSEPH",
+        "weight": 4
+      },
+      {
+        "source": "CLARENCE",
+        "target": "VIOLET",
+        "weight": 1
+      },
+      {
+        "source": "CLARENCE",
+        "target": "JOE",
+        "weight": 1
+      },
+      {
+        "source": "MA BAILEY",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "SAM",
+        "target": "MRS HATCH",
+        "weight": 1
+      },
+      {
+        "source": "SAM",
+        "target": "MARTY",
+        "weight": 1
+      },
+      {
+        "source": "SAM",
+        "target": "MEDIUM CLOSEUP",
+        "weight": 1
+      },
+      {
+        "source": "SAM",
+        "target": "FREDDIE",
+        "weight": 1
+      },
+      {
+        "source": "SAM",
+        "target": "GEORGE",
+        "weight": 3
+      },
+      {
+        "source": "SAM",
+        "target": "WIDER ANGLE",
+        "weight": 1
+      },
+      {
+        "source": "SAM",
+        "target": "JANE",
+        "weight": 1
+      },
+      {
+        "source": "SAM",
+        "target": "VIOLET",
+        "weight": 1
+      },
+      {
+        "source": "SAM",
+        "target": "HARRY",
+        "weight": 1
+      },
+      {
+        "source": "SAM",
+        "target": "PRINCIPAL",
+        "weight": 1
+      },
+      {
+        "source": "CLOSER ANGLE",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "BERT",
+        "target": "ERNIE",
+        "weight": 4
+      },
+      {
+        "source": "BERT",
+        "target": "FRANKLIN",
+        "weight": 1
+      },
+      {
+        "source": "BERT",
+        "target": "GEORGE",
+        "weight": 2
+      },
+      {
+        "source": "BERT",
+        "target": "ZUZU",
+        "weight": 1
+      },
+      {
+        "source": "BERT",
+        "target": "MRS BAILEY",
+        "weight": 1
+      },
+      {
+        "source": "BERT",
+        "target": "JOSEPH",
+        "weight": 1
+      },
+      {
+        "source": "BERT",
+        "target": "JANIE",
+        "weight": 1
+      },
+      {
+        "source": "BERT",
+        "target": "VIOLET",
+        "weight": 1
+      },
+      {
+        "source": "BERT",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "WELCH",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "WELCH",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "WELCH",
+        "target": "NICK",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "POTTER",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "MRS THOMPSON",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "DR CAMPBELL",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "HARRY",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "ANOTHER MAN",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "NICK",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "ERNIE",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "LAWYER",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "GEORGE",
+        "weight": 4
+      },
+      {
+        "source": "MAN",
+        "target": "UNCLE BILLY",
+        "weight": 2
+      },
+      {
+        "source": "MAN",
+        "target": "MRS DAVIS",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "VIOLET",
+        "weight": 1
+      },
+      {
+        "source": "DR CAMPBELL",
+        "target": "POTTER",
+        "weight": 1
+      },
+      {
+        "source": "DR CAMPBELL",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "DR CAMPBELL",
+        "target": "COUSIN TILLY",
+        "weight": 1
+      },
+      {
+        "source": "DR CAMPBELL",
+        "target": "LAP DISSOLVE",
+        "weight": 1
+      },
+      {
+        "source": "DR CAMPBELL",
+        "target": "ERNIE",
+        "weight": 1
+      },
+      {
+        "source": "DR CAMPBELL",
+        "target": "UNCLE BILLY",
+        "weight": 1
+      },
+      {
+        "source": "DR CAMPBELL",
+        "target": "LAWYER",
+        "weight": 1
+      },
+      {
+        "source": "MARTY",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "MARTY",
+        "target": "PRINCIPAL",
+        "weight": 1
+      },
+      {
+        "source": "MARTY",
+        "target": "MEDIUM CLOSEUP",
+        "weight": 1
+      },
+      {
+        "source": "MARTY",
+        "target": "WIDER ANGLE",
+        "weight": 1
+      },
+      {
+        "source": "MARTY",
+        "target": "FREDDIE",
+        "weight": 1
+      },
+      {
+        "source": "MARTY",
+        "target": "VIOLET",
+        "weight": 1
+      },
+      {
+        "source": "MARTY",
+        "target": "HARRY",
+        "weight": 1
+      },
+      {
+        "source": "COP",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "COP",
+        "target": "MEDIUM CLOSEUP",
+        "weight": 1
+      },
+      {
+        "source": "FRANKLIN",
+        "target": "MRS BAILEY",
+        "weight": 1
+      },
+      {
+        "source": "FRANKLIN",
+        "target": "ERNIE",
+        "weight": 1
+      },
+      {
+        "source": "FRANKLIN",
+        "target": "ZUZU",
+        "weight": 1
+      },
+      {
+        "source": "FRANKLIN",
+        "target": "JOSEPH",
+        "weight": 1
+      },
+      {
+        "source": "FRANKLIN",
+        "target": "JANIE",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "MRS THOMPSON",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "MRS DAVIS",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "FREDDIE",
+        "target": "WIDER ANGLE",
+        "weight": 1
+      },
+      {
+        "source": "FREDDIE",
+        "target": "PRINCIPAL",
+        "weight": 1
+      },
+      {
+        "source": "FREDDIE",
+        "target": "MEDIUM CLOSEUP",
+        "weight": 1
+      },
+      {
+        "source": "FREDDIE",
+        "target": "HARRY",
+        "weight": 1
+      },
+      {
+        "source": "FREDDIE",
+        "target": "VIOLET",
+        "weight": 1
+      },
+      {
+        "source": "FREDDIE",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "ZUZU",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "ZUZU",
+        "target": "MRS BAILEY",
+        "weight": 1
+      },
+      {
+        "source": "ZUZU",
+        "target": "ERNIE",
+        "weight": 1
+      },
+      {
+        "source": "ZUZU",
+        "target": "JANIE",
+        "weight": 2
+      },
+      {
+        "source": "ZUZU",
+        "target": "JOSEPH",
+        "weight": 1
+      },
+      {
+        "source": "UNCLE BILLY",
+        "target": "COUSIN TILLY",
+        "weight": 4
+      },
+      {
+        "source": "UNCLE BILLY",
+        "target": "ERNIE",
+        "weight": 1
+      },
+      {
+        "source": "UNCLE BILLY",
+        "target": "INSERT",
+        "weight": 1
+      },
+      {
+        "source": "UNCLE BILLY",
+        "target": "RUTH",
+        "weight": 1
+      },
+      {
+        "source": "UNCLE BILLY",
+        "target": "LAWYER",
+        "weight": 1
+      },
+      {
+        "source": "UNCLE BILLY",
+        "target": "HARRY",
+        "weight": 1
+      },
+      {
+        "source": "UNCLE BILLY",
+        "target": "GEORGE",
+        "weight": 10
+      },
+      {
+        "source": "UNCLE BILLY",
+        "target": "LAP DISSOLVE",
+        "weight": 1
+      },
+      {
+        "source": "UNCLE BILLY",
+        "target": "VIOLET",
+        "weight": 1
+      },
+      {
+        "source": "UNCLE BILLY",
+        "target": "POTTER",
+        "weight": 1
+      },
+      {
+        "source": "UNCLE BILLY",
+        "target": "JOSEPH",
+        "weight": 1
+      },
+      {
+        "source": "INSERT",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "INSERT",
+        "target": "COUSIN TILLY",
+        "weight": 1
+      },
+      {
+        "source": "MEDIUM CLOSEUP",
+        "target": "BOUNCER",
+        "weight": 1
+      },
+      {
+        "source": "MEDIUM CLOSEUP",
+        "target": "NICK",
+        "weight": 1
+      },
+      {
+        "source": "MEDIUM CLOSEUP",
+        "target": "PRINCIPAL",
+        "weight": 1
+      },
+      {
+        "source": "MEDIUM CLOSEUP",
+        "target": "HARRY",
+        "weight": 1
+      },
+      {
+        "source": "MEDIUM CLOSEUP",
+        "target": "GEORGE",
+        "weight": 3
+      },
+      {
+        "source": "MEDIUM CLOSEUP",
+        "target": "WIDER ANGLE",
+        "weight": 1
+      },
+      {
+        "source": "MEDIUM CLOSEUP",
+        "target": "VIOLET",
+        "weight": 1
+      },
+      {
+        "source": "MEDIUM CLOSEUP",
+        "target": "POTTER",
+        "weight": 1
+      },
+      {
+        "source": "MEDIUM CLOSEUP",
+        "target": "JOSEPH",
+        "weight": 1
+      },
+      {
+        "source": "JOSEPH",
+        "target": "POTTER",
+        "weight": 1
+      },
+      {
+        "source": "JOSEPH",
+        "target": "BOY",
+        "weight": 1
+      },
+      {
+        "source": "JOSEPH",
+        "target": "JANIE",
+        "weight": 1
+      },
+      {
+        "source": "JOSEPH",
+        "target": "HARRY",
+        "weight": 1
+      },
+      {
+        "source": "JOSEPH",
+        "target": "ERNIE",
+        "weight": 1
+      },
+      {
+        "source": "JOSEPH",
+        "target": "CUSTOMER",
+        "weight": 1
+      },
+      {
+        "source": "JOSEPH",
+        "target": "GEORGE",
+        "weight": 4
+      },
+      {
+        "source": "JOSEPH",
+        "target": "WIDER ANGLE",
+        "weight": 2
+      },
+      {
+        "source": "JOSEPH",
+        "target": "LAP DISSOLVE",
+        "weight": 1
+      },
+      {
+        "source": "JOSEPH",
+        "target": "MRS BAILEY",
+        "weight": 1
+      },
+      {
+        "source": "JOSEPH",
+        "target": "VIOLET",
+        "weight": 1
+      },
+      {
+        "source": "JOSEPH",
+        "target": "JOE",
+        "weight": 1
+      },
+      {
+        "source": "POTTER",
+        "target": "SECRETARY",
+        "weight": 1
+      },
+      {
+        "source": "POTTER",
+        "target": "REINEMAN",
+        "weight": 1
+      },
+      {
+        "source": "POTTER",
+        "target": "LAWYER",
+        "weight": 1
+      },
+      {
+        "source": "POTTER",
+        "target": "GEORGE",
+        "weight": 4
+      },
+      {
+        "source": "POTTER",
+        "target": "MONTAGE SEQUENCE",
+        "weight": 1
+      },
+      {
+        "source": "MRS HATCH",
+        "target": "GEORGE",
+        "weight": 2
+      },
+      {
+        "source": "MRS THOMPSON",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "MRS THOMPSON",
+        "target": "MRS DAVIS",
+        "weight": 1
+      },
+      {
+        "source": "MRS THOMPSON",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "SECRETARY",
+        "target": "REINEMAN",
+        "weight": 1
+      },
+      {
+        "source": "VIOLET",
+        "target": "PRINCIPAL",
+        "weight": 1
+      },
+      {
+        "source": "VIOLET",
+        "target": "COUSIN TILLY",
+        "weight": 2
+      },
+      {
+        "source": "VIOLET",
+        "target": "GEORGE",
+        "weight": 6
+      },
+      {
+        "source": "VIOLET",
+        "target": "WIDER ANGLE",
+        "weight": 2
+      },
+      {
+        "source": "VIOLET",
+        "target": "HARRY",
+        "weight": 1
+      },
+      {
+        "source": "VIOLET",
+        "target": "ERNIE",
+        "weight": 1
+      },
+      {
+        "source": "MARIA",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "BOUNCER",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "BOUNCER",
+        "target": "NICK",
+        "weight": 1
+      },
+      {
+        "source": "CHARLIE",
+        "target": "MRS DAVIS",
+        "weight": 1
+      },
+      {
+        "source": "CHARLIE",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "PASSERBY",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "PASSERBY",
+        "target": "ERNIE",
+        "weight": 1
+      },
+      {
+        "source": "PRINCIPAL",
+        "target": "WIDER ANGLE",
+        "weight": 1
+      },
+      {
+        "source": "PRINCIPAL",
+        "target": "HARRY",
+        "weight": 1
+      },
+      {
+        "source": "PRINCIPAL",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "COUSIN TILLY",
+        "target": "GEORGE",
+        "weight": 5
+      },
+      {
+        "source": "COUSIN TILLY",
+        "target": "LAP DISSOLVE",
+        "weight": 1
+      },
+      {
+        "source": "COUSIN TILLY",
+        "target": "ERNIE",
+        "weight": 1
+      },
+      {
+        "source": "COUSIN TILLY",
+        "target": "CARTER",
+        "weight": 1
+      },
+      {
+        "source": "OWNER",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "JANIE",
+        "target": "ERNIE",
+        "weight": 1
+      },
+      {
+        "source": "JANIE",
+        "target": "GEORGE",
+        "weight": 3
+      },
+      {
+        "source": "JANIE",
+        "target": "PETE",
+        "weight": 1
+      },
+      {
+        "source": "JANIE",
+        "target": "MRS BAILEY",
+        "weight": 1
+      },
+      {
+        "source": "CARTER",
+        "target": "GEORGE",
+        "weight": 2
+      },
+      {
+        "source": "CARTER",
+        "target": "SHERIFF",
+        "weight": 1
+      },
+      {
+        "source": "HARRY",
+        "target": "RUTH",
+        "weight": 1
+      },
+      {
+        "source": "HARRY",
+        "target": "BOY",
+        "weight": 1
+      },
+      {
+        "source": "HARRY",
+        "target": "GEORGE",
+        "weight": 5
+      },
+      {
+        "source": "HARRY",
+        "target": "WIDER ANGLE",
+        "weight": 2
+      },
+      {
+        "source": "HARRY",
+        "target": "POP",
+        "weight": 1
+      },
+      {
+        "source": "SHERIFF",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "ERNIE",
+        "target": "GEORGE",
+        "weight": 5
+      },
+      {
+        "source": "ERNIE",
+        "target": "LAP DISSOLVE",
+        "weight": 1
+      },
+      {
+        "source": "ERNIE",
+        "target": "MRS BAILEY",
+        "weight": 1
+      },
+      {
+        "source": "ANOTHER MAN",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "NICK",
+        "target": "GEORGE",
+        "weight": 2
+      },
+      {
+        "source": "RUTH",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "CUSTOMER",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "CUSTOMER",
+        "target": "JOE",
+        "weight": 1
+      },
+      {
+        "source": "LAWYER",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "GEORGE",
+        "target": "PETE",
+        "weight": 5
+      },
+      {
+        "source": "GEORGE",
+        "target": "MRS BAILEY",
+        "weight": 1
+      },
+      {
+        "source": "GEORGE",
+        "target": "BOY",
+        "weight": 1
+      },
+      {
+        "source": "GEORGE",
+        "target": "WIDER ANGLE",
+        "weight": 3
+      },
+      {
+        "source": "GEORGE",
+        "target": "TOLLKEEPER",
+        "weight": 1
+      },
+      {
+        "source": "GEORGE",
+        "target": "JANE",
+        "weight": 1
+      },
+      {
+        "source": "GEORGE",
+        "target": "MRS DAVIS",
+        "weight": 1
+      },
+      {
+        "source": "GEORGE",
+        "target": "LAP DISSOLVE",
+        "weight": 1
+      },
+      {
+        "source": "GEORGE",
+        "target": "CHILDREN",
+        "weight": 1
+      },
+      {
+        "source": "GEORGE",
+        "target": "POP",
+        "weight": 1
+      },
+      {
+        "source": "GEORGE",
+        "target": "JOE",
+        "weight": 1
+      },
+      {
+        "source": "GEORGE",
+        "target": "MONTAGE SEQUENCE",
+        "weight": 1
+      },
+      {
+        "source": "WIDER ANGLE",
+        "target": "BOY",
+        "weight": 1
+      },
+      {
+        "source": "CHILDREN",
+        "target": "PETE",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "MARY",
+        "name": "MARY",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 40,
+        "pagerank": 0.06696028588453759,
+        "object_id": "2727002",
+        "triangles": 196,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.4202898550724639,
+        "betweenness centrality": 275.7618506493507,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SCHULTZ",
+        "name": "SCHULTZ",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.005417102390656497,
+        "object_id": "2731726",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BOYS",
+        "name": "BOYS",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 13,
+        "pagerank": 0.017753850548639073,
+        "object_id": "2727189",
+        "triangles": 52,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.855072463768116,
+        "betweenness centrality": 6.69141414141414,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PEOPLE",
+        "name": "PEOPLE",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.0029709069344440757,
+        "object_id": "2736070",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0434782608695654,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COUSIN EUSTACE",
+        "name": "COUSIN EUSTACE",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 8,
+        "pagerank": 0.015216090673983823,
+        "object_id": "2728086",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9275362318840579,
+        "betweenness centrality": 2.0595238095238098,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MOTHER",
+        "name": "MOTHER",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.0076601212813159625,
+        "object_id": "2728204",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9710144927536233,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TOMMY",
+        "name": "TOMMY",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.011976407179683764,
+        "object_id": "2733466",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9855072463768115,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ED",
+        "name": "ED",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 9,
+        "pagerank": 0.010816335799578925,
+        "object_id": "2731160",
+        "triangles": 36,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8985507246376812,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GOWER",
+        "name": "GOWER",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 18,
+        "pagerank": 0.02165181832914527,
+        "object_id": "2726983",
+        "triangles": 92,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7826086956521738,
+        "betweenness centrality": 14.619751082251083,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BAILEY",
+        "name": "BAILEY",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.004091235406851017,
+        "object_id": "2727657",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MICKEY",
+        "name": "MICKEY",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 10,
+        "pagerank": 0.010601428080204733,
+        "object_id": "2728859",
+        "triangles": 45,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8985507246376812,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TOM",
+        "name": "TOM",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 9,
+        "pagerank": 0.010816335799578925,
+        "object_id": "2731192",
+        "triangles": 36,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8985507246376812,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RANDALL",
+        "name": "RANDALL",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 9,
+        "pagerank": 0.010816335799578925,
+        "object_id": "2731216",
+        "triangles": 36,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8985507246376812,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MARTINI",
+        "name": "MARTINI",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 16,
+        "pagerank": 0.018228424729429597,
+        "object_id": "2726987",
+        "triangles": 68,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7971014492753623,
+        "betweenness centrality": 24.937536075036075,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANOTHER ANGLE",
+        "name": "ANOTHER ANGLE",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 12,
+        "pagerank": 0.012630316697182384,
+        "object_id": "2727437",
+        "triangles": 47,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8695652173913044,
+        "betweenness centrality": 4.9914141414141415,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANNIE",
+        "name": "ANNIE",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 7,
+        "pagerank": 0.008573359328428672,
+        "object_id": "2728220",
+        "triangles": 16,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9420289855072463,
+        "betweenness centrality": 1.6242424242424243,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CLARENCE",
+        "name": "CLARENCE",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 25,
+        "pagerank": 0.03658136904312389,
+        "object_id": "2727055",
+        "triangles": 115,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.681159420289855,
+        "betweenness centrality": 63.66998556998556,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MA BAILEY",
+        "name": "MA BAILEY",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.0029709069344440757,
+        "object_id": "2735590",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0434782608695654,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SAM",
+        "name": "SAM",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 12,
+        "pagerank": 0.016248049522378436,
+        "object_id": "2728588",
+        "triangles": 49,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8695652173913044,
+        "betweenness centrality": 5.666666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CLOSER ANGLE",
+        "name": "CLOSER ANGLE",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.0030674875025817542,
+        "object_id": "2734355",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.6666666666666665,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BERT",
+        "name": "BERT",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 13,
+        "pagerank": 0.01700780087306944,
+        "object_id": "2726994",
+        "triangles": 65,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8405797101449275,
+        "betweenness centrality": 4.141107503607503,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WELCH",
+        "name": "WELCH",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.00579436061089852,
+        "object_id": "2734205",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9710144927536233,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAN",
+        "name": "MAN",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 22,
+        "pagerank": 0.029367850772120917,
+        "object_id": "2729181",
+        "triangles": 75,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.681159420289855,
+        "betweenness centrality": 126.58452380952383,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DR CAMPBELL",
+        "name": "DR CAMPBELL",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 9,
+        "pagerank": 0.010446891003545958,
+        "object_id": "2729361",
+        "triangles": 25,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8695652173913044,
+        "betweenness centrality": 5.8500000000000005,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MARTY",
+        "name": "MARTY",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 10,
+        "pagerank": 0.010601428080204733,
+        "object_id": "2728681",
+        "triangles": 45,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8985507246376812,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COP",
+        "name": "COP",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.00384516056110699,
+        "object_id": "2735297",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.028985507246377,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FRANKLIN",
+        "name": "FRANKLIN",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 10,
+        "pagerank": 0.010387801771584182,
+        "object_id": "2727019",
+        "triangles": 45,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0579710144927534,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WOMAN",
+        "name": "WOMAN",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 9,
+        "pagerank": 0.010816335799578925,
+        "object_id": "2731308",
+        "triangles": 36,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8985507246376812,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FREDDIE",
+        "name": "FREDDIE",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 10,
+        "pagerank": 0.010601428080204733,
+        "object_id": "2728740",
+        "triangles": 45,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8985507246376812,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ZUZU",
+        "name": "ZUZU",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 11,
+        "pagerank": 0.012053904035971171,
+        "object_id": "2727010",
+        "triangles": 54,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8840579710144927,
+        "betweenness centrality": 0.9129329004329005,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "UNCLE BILLY",
+        "name": "UNCLE BILLY",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 15,
+        "pagerank": 0.02908677165483917,
+        "object_id": "2727595",
+        "triangles": 50,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7826086956521738,
+        "betweenness centrality": 24.859722222222214,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "INSERT",
+        "name": "INSERT",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.00464499525525575,
+        "object_id": "2727555",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0144927536231885,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MEDIUM CLOSEUP",
+        "name": "MEDIUM CLOSEUP",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 17,
+        "pagerank": 0.01954290502970359,
+        "object_id": "2728764",
+        "triangles": 73,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7681159420289856,
+        "betweenness centrality": 29.713492063492065,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JOSEPH",
+        "name": "JOSEPH",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 23,
+        "pagerank": 0.02923974349350974,
+        "object_id": "2727022",
+        "triangles": 115,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.681159420289855,
+        "betweenness centrality": 49.74677128427128,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "POTTER",
+        "name": "POTTER",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 12,
+        "pagerank": 0.01976656396706333,
+        "object_id": "2727660",
+        "triangles": 23,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.826086956521739,
+        "betweenness centrality": 144.13888888888889,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MRS HATCH",
+        "name": "MRS HATCH",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.006243104036622709,
+        "object_id": "2730328",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MRS THOMPSON",
+        "name": "MRS THOMPSON",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 9,
+        "pagerank": 0.010816335799578925,
+        "object_id": "2731250",
+        "triangles": 36,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8985507246376812,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SECRETARY",
+        "name": "SECRETARY",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.005676506742111256,
+        "object_id": "2731871",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.7971014492753623,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "VIOLET",
+        "name": "VIOLET",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 21,
+        "pagerank": 0.02650385286015337,
+        "object_id": "2727317",
+        "triangles": 106,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7246376811594204,
+        "betweenness centrality": 30.82142857142858,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MARIA",
+        "name": "MARIA",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.005417102390656497,
+        "object_id": "2731743",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BOUNCER",
+        "name": "BOUNCER",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.006450933283108122,
+        "object_id": "2735116",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9710144927536233,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CHARLIE",
+        "name": "CHARLIE",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 9,
+        "pagerank": 0.010816335799578925,
+        "object_id": "2731163",
+        "triangles": 36,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8985507246376812,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PASSERBY",
+        "name": "PASSERBY",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.00454956602378599,
+        "object_id": "2730912",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PRINCIPAL",
+        "name": "PRINCIPAL",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 10,
+        "pagerank": 0.010601428080204735,
+        "object_id": "2728653",
+        "triangles": 45,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8985507246376812,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COUSIN TILLY",
+        "name": "COUSIN TILLY",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 9,
+        "pagerank": 0.018998185430422913,
+        "object_id": "2727615",
+        "triangles": 23,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9130434782608696,
+        "betweenness centrality": 4.2976190476190474,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OWNER",
+        "name": "OWNER",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.0037891170792474574,
+        "object_id": "2734285",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0144927536231885,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JANIE",
+        "name": "JANIE",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 13,
+        "pagerank": 0.01713083712461514,
+        "object_id": "2727006",
+        "triangles": 59,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.855072463768116,
+        "betweenness centrality": 7.2462662337662325,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CARTER",
+        "name": "CARTER",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.007301321531577926,
+        "object_id": "2732788",
+        "triangles": 4,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 1.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HARRY",
+        "name": "HARRY",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 21,
+        "pagerank": 0.025398867151300096,
+        "object_id": "2727186",
+        "triangles": 96,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7246376811594204,
+        "betweenness centrality": 41.808639971139975,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SHERIFF",
+        "name": "SHERIFF",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.004212143435994194,
+        "object_id": "2736150",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.028985507246377,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ERNIE",
+        "name": "ERNIE",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 19,
+        "pagerank": 0.026890724593953617,
+        "object_id": "2726998",
+        "triangles": 91,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7536231884057971,
+        "betweenness centrality": 29.682178932178935,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANOTHER MAN",
+        "name": "ANOTHER MAN",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.0046860430950681695,
+        "object_id": "2735891",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9855072463768115,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NICK",
+        "name": "NICK",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 8,
+        "pagerank": 0.010455478277130984,
+        "object_id": "2734164",
+        "triangles": 18,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9130434782608696,
+        "betweenness centrality": 3.9523809523809526,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RUTH",
+        "name": "RUTH",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.004625354819034027,
+        "object_id": "2729804",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0144927536231885,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CUSTOMER",
+        "name": "CUSTOMER",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.005829519694325879,
+        "object_id": "2727920",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9855072463768115,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REINEMAN",
+        "name": "REINEMAN",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.005676506742111256,
+        "object_id": "2731861",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.7971014492753623,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LAWYER",
+        "name": "LAWYER",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 5,
+        "pagerank": 0.006826752181351139,
+        "object_id": "2729404",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9420289855072463,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GEORGE",
+        "name": "GEORGE",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 65,
+        "pagerank": 0.14515246294397957,
+        "object_id": "2727177",
+        "triangles": 260,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.0579710144927537,
+        "betweenness centrality": 1326.0305194805198,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WIDER ANGLE",
+        "name": "WIDER ANGLE",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 16,
+        "pagerank": 0.02237386875475532,
+        "object_id": "2727213",
+        "triangles": 82,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8115942028985508,
+        "betweenness centrality": 7.594444444444442,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TOLLKEEPER",
+        "name": "TOLLKEEPER",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.0037891170792474574,
+        "object_id": "2734419",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0144927536231885,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JANE",
+        "name": "JANE",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.004624548444136293,
+        "object_id": "2731950",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MRS DAVIS",
+        "name": "MRS DAVIS",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 9,
+        "pagerank": 0.010816335799578925,
+        "object_id": "2731418",
+        "triangles": 36,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8985507246376812,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LAP DISSOLVE",
+        "name": "LAP DISSOLVE",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 8,
+        "pagerank": 0.008902041077435181,
+        "object_id": "2729681",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9275362318840579,
+        "betweenness centrality": 1.5761904761904761,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MRS BAILEY",
+        "name": "MRS BAILEY",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 12,
+        "pagerank": 0.012270605250582363,
+        "object_id": "2726991",
+        "triangles": 55,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8695652173913044,
+        "betweenness centrality": 5.353841991341991,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CHILDREN",
+        "name": "CHILDREN",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.004605415985795607,
+        "object_id": "2733379",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "POP",
+        "name": "POP",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.0076601212813159625,
+        "object_id": "2728209",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9710144927536233,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PETE",
+        "name": "PETE",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 5,
+        "pagerank": 0.014894350063242318,
+        "object_id": "2733394",
+        "triangles": 8,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9710144927536233,
+        "betweenness centrality": 0.6666666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BOY",
+        "name": "BOY",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.00705174739149652,
+        "object_id": "2727151",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9565217391304348,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JOE",
+        "name": "JOE",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.005829519694325878,
+        "object_id": "2727915",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9855072463768115,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MONTAGE SEQUENCE",
+        "name": "MONTAGE SEQUENCE",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.004881741207750499,
+        "object_id": "2732335",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9710144927536233,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": 93.01941,
+        "y": -61.183155,
+        "name": "MARY"
+      },
+      {
+        "x": 349.77695,
+        "y": -156.4134,
+        "name": "SCHULTZ"
+      },
+      {
+        "x": -20.8054,
+        "y": 181.07394,
+        "name": "BOYS"
+      },
+      {
+        "x": -144.96956,
+        "y": -212.59651,
+        "name": "PEOPLE"
+      },
+      {
+        "x": -127.69651,
+        "y": -67.41007,
+        "name": "COUSIN EUSTACE"
+      },
+      {
+        "x": -120.392746,
+        "y": 318.16522,
+        "name": "MOTHER"
+      },
+      {
+        "x": 141.69269,
+        "y": -89.34262,
+        "name": "TOMMY"
+      },
+      {
+        "x": -106.07249,
+        "y": -330.9004,
+        "name": "ED"
+      },
+      {
+        "x": 198.76154,
+        "y": 36.642616,
+        "name": "GOWER"
+      },
+      {
+        "x": -170.24876,
+        "y": 120.8689,
+        "name": "BAILEY"
+      },
+      {
+        "x": 269.32208,
+        "y": 240.53589,
+        "name": "MICKEY"
+      },
+      {
+        "x": -83.54689,
+        "y": -398.6962,
+        "name": "TOM"
+      },
+      {
+        "x": -130.51152,
+        "y": -387.35825,
+        "name": "RANDALL"
+      },
+      {
+        "x": 187.79106,
+        "y": -178.279,
+        "name": "MARTINI"
+      },
+      {
+        "x": -0.7698241,
+        "y": 287.05682,
+        "name": "ANOTHER ANGLE"
+      },
+      {
+        "x": -75.55042,
+        "y": 272.33987,
+        "name": "ANNIE"
+      },
+      {
+        "x": 111.10262,
+        "y": 47.785286,
+        "name": "CLARENCE"
+      },
+      {
+        "x": -202.5413,
+        "y": 121.46768,
+        "name": "MA BAILEY"
+      },
+      {
+        "x": 186.18767,
+        "y": 129.34818,
+        "name": "SAM"
+      },
+      {
+        "x": 216.39856,
+        "y": -33.224216,
+        "name": "CLOSER ANGLE"
+      },
+      {
+        "x": 185.38463,
+        "y": -83.77711,
+        "name": "BERT"
+      },
+      {
+        "x": -133.64722,
+        "y": -160.2542,
+        "name": "WELCH"
+      },
+      {
+        "x": -63.259056,
+        "y": -176.82954,
+        "name": "MAN"
+      },
+      {
+        "x": -226.23111,
+        "y": -89.90939,
+        "name": "DR CAMPBELL"
+      },
+      {
+        "x": 165.64935,
+        "y": 286.92627,
+        "name": "MARTY"
+      },
+      {
+        "x": 196.8615,
+        "y": 320.2668,
+        "name": "COP"
+      },
+      {
+        "x": 314.98276,
+        "y": -54.286057,
+        "name": "FRANKLIN"
+      },
+      {
+        "x": -172.05785,
+        "y": -355.99872,
+        "name": "WOMAN"
+      },
+      {
+        "x": 221.84024,
+        "y": 268.7539,
+        "name": "FREDDIE"
+      },
+      {
+        "x": 292.97824,
+        "y": -115.3577,
+        "name": "ZUZU"
+      },
+      {
+        "x": -100.37707,
+        "y": -13.699162,
+        "name": "UNCLE BILLY"
+      },
+      {
+        "x": -15.195209,
+        "y": -163.38469,
+        "name": "INSERT"
+      },
+      {
+        "x": 165.18896,
+        "y": 206.69911,
+        "name": "MEDIUM CLOSEUP"
+      },
+      {
+        "x": 33.84646,
+        "y": 76.039566,
+        "name": "JOSEPH"
+      },
+      {
+        "x": -165.90186,
+        "y": 56.64465,
+        "name": "POTTER"
+      },
+      {
+        "x": 35.108025,
+        "y": -92.55133,
+        "name": "MRS HATCH"
+      },
+      {
+        "x": -55.864548,
+        "y": -335.104,
+        "name": "MRS THOMPSON"
+      },
+      {
+        "x": -365.02176,
+        "y": 150.23315,
+        "name": "SECRETARY"
+      },
+      {
+        "x": 93.420135,
+        "y": 115.646576,
+        "name": "VIOLET"
+      },
+      {
+        "x": 327.76575,
+        "y": -197.031,
+        "name": "MARIA"
+      },
+      {
+        "x": 45.267395,
+        "y": 158.01033,
+        "name": "BOUNCER"
+      },
+      {
+        "x": -153.12267,
+        "y": -305.68448,
+        "name": "CHARLIE"
+      },
+      {
+        "x": 83.508064,
+        "y": -230.89941,
+        "name": "PASSERBY"
+      },
+      {
+        "x": 245.7665,
+        "y": 191.21335,
+        "name": "PRINCIPAL"
+      },
+      {
+        "x": -78.0912,
+        "y": -64.84772,
+        "name": "COUSIN TILLY"
+      },
+      {
+        "x": -85.55874,
+        "y": 104.5955,
+        "name": "OWNER"
+      },
+      {
+        "x": 240.17139,
+        "y": -63.534622,
+        "name": "JANIE"
+      },
+      {
+        "x": -34.96032,
+        "y": -219.99161,
+        "name": "CARTER"
+      },
+      {
+        "x": 32.4502,
+        "y": 225.83066,
+        "name": "HARRY"
+      },
+      {
+        "x": 22.077623,
+        "y": -278.5771,
+        "name": "SHERIFF"
+      },
+      {
+        "x": 75.00754,
+        "y": -141.23497,
+        "name": "ERNIE"
+      },
+      {
+        "x": -155.4554,
+        "y": -133.74893,
+        "name": "ANOTHER MAN"
+      },
+      {
+        "x": -46.85636,
+        "y": 47.628,
+        "name": "NICK"
+      },
+      {
+        "x": -142.19537,
+        "y": 167.14458,
+        "name": "RUTH"
+      },
+      {
+        "x": -107.55988,
+        "y": -177.77118,
+        "name": "CUSTOMER"
+      },
+      {
+        "x": -354.16833,
+        "y": 184.2609,
+        "name": "REINEMAN"
+      },
+      {
+        "x": -256.38782,
+        "y": -32.638573,
+        "name": "LAWYER"
+      },
+      {
+        "x": 12.920585,
+        "y": -14.1918545,
+        "name": "GEORGE"
+      },
+      {
+        "x": 106.69104,
+        "y": 184.76529,
+        "name": "WIDER ANGLE"
+      },
+      {
+        "x": 97.05389,
+        "y": 221.12979,
+        "name": "TOLLKEEPER"
+      },
+      {
+        "x": -24.966417,
+        "y": 109.88589,
+        "name": "JANE"
+      },
+      {
+        "x": -31.050919,
+        "y": -382.59283,
+        "name": "MRS DAVIS"
+      },
+      {
+        "x": -177.97824,
+        "y": -27.718182,
+        "name": "LAP DISSOLVE"
+      },
+      {
+        "x": 236.86662,
+        "y": -120.92756,
+        "name": "MRS BAILEY"
+      },
+      {
+        "x": 217.55457,
+        "y": -221.55286,
+        "name": "CHILDREN"
+      },
+      {
+        "x": -73.96714,
+        "y": 346.70834,
+        "name": "POP"
+      },
+      {
+        "x": 121.919174,
+        "y": -119.04982,
+        "name": "PETE"
+      },
+      {
+        "x": -71.82179,
+        "y": 205.94537,
+        "name": "BOY"
+      },
+      {
+        "x": -94.25048,
+        "y": -110.0997,
+        "name": "JOE"
+      },
+      {
+        "x": 125.13629,
+        "y": -6.387922,
+        "name": "MONTAGE SEQUENCE"
+      }
+    ]
+  }
+}

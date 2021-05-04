@@ -1,0 +1,1498 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "WHAT THEY SEE",
+        "target": "DISSOLVE",
+        "weight": 1
+      },
+      {
+        "source": "WHAT THEY SEE",
+        "target": "APOLLONIO",
+        "weight": 1
+      },
+      {
+        "source": "WHAT THEY SEE",
+        "target": "MURIEL",
+        "weight": 1
+      },
+      {
+        "source": "WHAT THEY SEE",
+        "target": "JIM",
+        "weight": 1
+      },
+      {
+        "source": "MR JONES",
+        "target": "BILL",
+        "weight": 1
+      },
+      {
+        "source": "MR JONES",
+        "target": "JONES",
+        "weight": 1
+      },
+      {
+        "source": "MR JONES",
+        "target": "MURIEL",
+        "weight": 1
+      },
+      {
+        "source": "MR JONES",
+        "target": "SLOW DISSOLVE",
+        "weight": 1
+      },
+      {
+        "source": "FAST DISSOLVE",
+        "target": "BILL",
+        "weight": 2
+      },
+      {
+        "source": "FAST DISSOLVE",
+        "target": "SIMPSON",
+        "weight": 1
+      },
+      {
+        "source": "FAST DISSOLVE",
+        "target": "MURPHY",
+        "weight": 1
+      },
+      {
+        "source": "TESANDER",
+        "target": "DISSOLVE",
+        "weight": 2
+      },
+      {
+        "source": "TESANDER",
+        "target": "RETCH",
+        "weight": 1
+      },
+      {
+        "source": "TESANDER",
+        "target": "JIM'S COST CHART",
+        "weight": 1
+      },
+      {
+        "source": "TESANDER",
+        "target": "GUSSIE",
+        "weight": 1
+      },
+      {
+        "source": "TESANDER",
+        "target": "JIM AND MURIEL",
+        "weight": 1
+      },
+      {
+        "source": "TESANDER",
+        "target": "BILL",
+        "weight": 2
+      },
+      {
+        "source": "TESANDER",
+        "target": "JIM",
+        "weight": 3
+      },
+      {
+        "source": "TESANDER",
+        "target": "MURIEL",
+        "weight": 1
+      },
+      {
+        "source": "TESANDER",
+        "target": "SIMMS",
+        "weight": 2
+      },
+      {
+        "source": "JIM'S COST CHART",
+        "target": "JIM",
+        "weight": 2
+      },
+      {
+        "source": "JIM'S COST CHART",
+        "target": "SMITH",
+        "weight": 1
+      },
+      {
+        "source": "JIM'S COST CHART",
+        "target": "JOAN",
+        "weight": 1
+      },
+      {
+        "source": "JIM'S COST CHART",
+        "target": "DISSOLVE",
+        "weight": 2
+      },
+      {
+        "source": "JIM'S COST CHART",
+        "target": "PRIVATE",
+        "weight": 1
+      },
+      {
+        "source": "JIM'S COST CHART",
+        "target": "GUSSIE",
+        "weight": 1
+      },
+      {
+        "source": "JIM'S COST CHART",
+        "target": "DOOR",
+        "weight": 1
+      },
+      {
+        "source": "JIM'S COST CHART",
+        "target": "BILL",
+        "weight": 1
+      },
+      {
+        "source": "JIM'S COST CHART",
+        "target": "MURIEL",
+        "weight": 2
+      },
+      {
+        "source": "JIM'S COST CHART",
+        "target": "MR COLE",
+        "weight": 1
+      },
+      {
+        "source": "JIM'S COST CHART",
+        "target": "BETSY",
+        "weight": 1
+      },
+      {
+        "source": "JIM",
+        "target": "WHAT HE SEES",
+        "weight": 1
+      },
+      {
+        "source": "JIM",
+        "target": "ZUCCA",
+        "weight": 1
+      },
+      {
+        "source": "JIM",
+        "target": "DISSOLVE",
+        "weight": 25
+      },
+      {
+        "source": "JIM",
+        "target": "HACKETT",
+        "weight": 2
+      },
+      {
+        "source": "JIM",
+        "target": "APOLLONIO",
+        "weight": 1
+      },
+      {
+        "source": "JIM",
+        "target": "GUSSIE",
+        "weight": 3
+      },
+      {
+        "source": "JIM",
+        "target": "DOOR",
+        "weight": 1
+      },
+      {
+        "source": "JIM",
+        "target": "JIM, MURIEL AND SMITH",
+        "weight": 1
+      },
+      {
+        "source": "JIM",
+        "target": "MARY",
+        "weight": 4
+      },
+      {
+        "source": "JIM",
+        "target": "MURIEL",
+        "weight": 18
+      },
+      {
+        "source": "JIM",
+        "target": "JUDGE QUARLES",
+        "weight": 1
+      },
+      {
+        "source": "JIM",
+        "target": "MR COLE",
+        "weight": 1
+      },
+      {
+        "source": "JIM",
+        "target": "PRIVATE",
+        "weight": 1
+      },
+      {
+        "source": "JIM",
+        "target": "SMITH",
+        "weight": 3
+      },
+      {
+        "source": "JIM",
+        "target": "WORKMAN",
+        "weight": 2
+      },
+      {
+        "source": "JIM",
+        "target": "JOAN",
+        "weight": 5
+      },
+      {
+        "source": "JIM",
+        "target": "RETCH",
+        "weight": 1
+      },
+      {
+        "source": "JIM",
+        "target": "JIM AND MURIEL",
+        "weight": 2
+      },
+      {
+        "source": "JIM",
+        "target": "BILL",
+        "weight": 11
+      },
+      {
+        "source": "JIM",
+        "target": "CARPENTER",
+        "weight": 1
+      },
+      {
+        "source": "JIM",
+        "target": "BETSY",
+        "weight": 6
+      },
+      {
+        "source": "JIM",
+        "target": "SIMMS",
+        "weight": 5
+      },
+      {
+        "source": "JIM",
+        "target": "FUNKHAUSER",
+        "weight": 1
+      },
+      {
+        "source": "WHAT HE SEES",
+        "target": "DISSOLVE",
+        "weight": 1
+      },
+      {
+        "source": "WHAT HE SEES",
+        "target": "BILL",
+        "weight": 1
+      },
+      {
+        "source": "WHAT HE SEES",
+        "target": "JIM, MURIEL AND SMITH",
+        "weight": 1
+      },
+      {
+        "source": "WHAT HE SEES",
+        "target": "MURIEL",
+        "weight": 1
+      },
+      {
+        "source": "WHAT HE SEES",
+        "target": "SMITH",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "DISSOLVE",
+        "weight": 4
+      },
+      {
+        "source": "MARY",
+        "target": "BILL",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "BETSY",
+        "weight": 1
+      },
+      {
+        "source": "JIM AND MURIEL",
+        "target": "DISSOLVE",
+        "weight": 1
+      },
+      {
+        "source": "JIM AND MURIEL",
+        "target": "GUSSIE",
+        "weight": 1
+      },
+      {
+        "source": "JIM AND MURIEL",
+        "target": "BILL",
+        "weight": 1
+      },
+      {
+        "source": "JIM AND MURIEL",
+        "target": "MURIEL",
+        "weight": 2
+      },
+      {
+        "source": "JIM AND MURIEL",
+        "target": "SIMMS",
+        "weight": 1
+      },
+      {
+        "source": "SMITH",
+        "target": "JOAN",
+        "weight": 1
+      },
+      {
+        "source": "SMITH",
+        "target": "DISSOLVE",
+        "weight": 3
+      },
+      {
+        "source": "SMITH",
+        "target": "HACKETT",
+        "weight": 2
+      },
+      {
+        "source": "SMITH",
+        "target": "BETSY",
+        "weight": 1
+      },
+      {
+        "source": "SMITH",
+        "target": "GUSSIE",
+        "weight": 1
+      },
+      {
+        "source": "SMITH",
+        "target": "DOOR",
+        "weight": 1
+      },
+      {
+        "source": "SMITH",
+        "target": "PRIVATE",
+        "weight": 1
+      },
+      {
+        "source": "SMITH",
+        "target": "BILL",
+        "weight": 2
+      },
+      {
+        "source": "SMITH",
+        "target": "JIM, MURIEL AND SMITH",
+        "weight": 1
+      },
+      {
+        "source": "SMITH",
+        "target": "MR COLE",
+        "weight": 1
+      },
+      {
+        "source": "SMITH",
+        "target": "MURIEL",
+        "weight": 2
+      },
+      {
+        "source": "SMITH",
+        "target": "JUDGE QUARLES",
+        "weight": 1
+      },
+      {
+        "source": "CHARLIE",
+        "target": "DISSOLVE",
+        "weight": 1
+      },
+      {
+        "source": "CHARLIE",
+        "target": "PEDELFORD",
+        "weight": 1
+      },
+      {
+        "source": "CHARLIE",
+        "target": "MURIEL",
+        "weight": 1
+      },
+      {
+        "source": "DISSOLVE",
+        "target": "HACKETT",
+        "weight": 2
+      },
+      {
+        "source": "DISSOLVE",
+        "target": "APOLLONIO",
+        "weight": 1
+      },
+      {
+        "source": "DISSOLVE",
+        "target": "GUSSIE",
+        "weight": 1
+      },
+      {
+        "source": "DISSOLVE",
+        "target": "DOOR",
+        "weight": 1
+      },
+      {
+        "source": "DISSOLVE",
+        "target": "JIM, MURIEL AND SMITH",
+        "weight": 1
+      },
+      {
+        "source": "DISSOLVE",
+        "target": "MR COLE",
+        "weight": 1
+      },
+      {
+        "source": "DISSOLVE",
+        "target": "JUDGE QUARLES",
+        "weight": 1
+      },
+      {
+        "source": "DISSOLVE",
+        "target": "PEDELFORD",
+        "weight": 1
+      },
+      {
+        "source": "DISSOLVE",
+        "target": "PRIVATE",
+        "weight": 1
+      },
+      {
+        "source": "DISSOLVE",
+        "target": "MURIEL",
+        "weight": 18
+      },
+      {
+        "source": "DISSOLVE",
+        "target": "JOAN",
+        "weight": 5
+      },
+      {
+        "source": "DISSOLVE",
+        "target": "JONES",
+        "weight": 1
+      },
+      {
+        "source": "DISSOLVE",
+        "target": "RETCH",
+        "weight": 2
+      },
+      {
+        "source": "DISSOLVE",
+        "target": "BILL",
+        "weight": 17
+      },
+      {
+        "source": "DISSOLVE",
+        "target": "BETSY",
+        "weight": 6
+      },
+      {
+        "source": "DISSOLVE",
+        "target": "SIMMS",
+        "weight": 5
+      },
+      {
+        "source": "DISSOLVE",
+        "target": "FUNKHAUSER",
+        "weight": 1
+      },
+      {
+        "source": "HACKETT",
+        "target": "BILL",
+        "weight": 1
+      },
+      {
+        "source": "HACKETT",
+        "target": "MURIEL",
+        "weight": 1
+      },
+      {
+        "source": "HACKETT",
+        "target": "JUDGE QUARLES",
+        "weight": 1
+      },
+      {
+        "source": "HACKETT",
+        "target": "WRECKER",
+        "weight": 1
+      },
+      {
+        "source": "APOLLONIO",
+        "target": "MURIEL",
+        "weight": 1
+      },
+      {
+        "source": "GUSSIE",
+        "target": "BETSY",
+        "weight": 2
+      },
+      {
+        "source": "GUSSIE",
+        "target": "JOAN",
+        "weight": 2
+      },
+      {
+        "source": "GUSSIE",
+        "target": "PRIVATE",
+        "weight": 1
+      },
+      {
+        "source": "GUSSIE",
+        "target": "DOOR",
+        "weight": 1
+      },
+      {
+        "source": "GUSSIE",
+        "target": "BILL",
+        "weight": 1
+      },
+      {
+        "source": "GUSSIE",
+        "target": "MR COLE",
+        "weight": 1
+      },
+      {
+        "source": "GUSSIE",
+        "target": "MURIEL",
+        "weight": 3
+      },
+      {
+        "source": "GUSSIE",
+        "target": "SIMMS",
+        "weight": 1
+      },
+      {
+        "source": "THE GIRLS",
+        "target": "MURIEL",
+        "weight": 1
+      },
+      {
+        "source": "THE GIRLS",
+        "target": "FUNKHAUSER",
+        "weight": 1
+      },
+      {
+        "source": "DOOR",
+        "target": "PRIVATE",
+        "weight": 1
+      },
+      {
+        "source": "DOOR",
+        "target": "BETSY",
+        "weight": 1
+      },
+      {
+        "source": "DOOR",
+        "target": "MURIEL",
+        "weight": 1
+      },
+      {
+        "source": "DOOR",
+        "target": "MR COLE",
+        "weight": 1
+      },
+      {
+        "source": "DOOR",
+        "target": "JOAN",
+        "weight": 1
+      },
+      {
+        "source": "JIM, MURIEL AND SMITH",
+        "target": "BILL",
+        "weight": 1
+      },
+      {
+        "source": "JIM, MURIEL AND SMITH",
+        "target": "MURIEL",
+        "weight": 1
+      },
+      {
+        "source": "MR COLE",
+        "target": "PRIVATE",
+        "weight": 1
+      },
+      {
+        "source": "MR COLE",
+        "target": "BETSY",
+        "weight": 1
+      },
+      {
+        "source": "MR COLE",
+        "target": "JOAN",
+        "weight": 1
+      },
+      {
+        "source": "MR COLE",
+        "target": "MURIEL",
+        "weight": 1
+      },
+      {
+        "source": "MURIEL",
+        "target": "ZUCCA",
+        "weight": 1
+      },
+      {
+        "source": "MURIEL",
+        "target": "CARPENTER",
+        "weight": 1
+      },
+      {
+        "source": "MURIEL",
+        "target": "BILL",
+        "weight": 9
+      },
+      {
+        "source": "MURIEL",
+        "target": "PRIVATE",
+        "weight": 1
+      },
+      {
+        "source": "MURIEL",
+        "target": "JONES",
+        "weight": 1
+      },
+      {
+        "source": "MURIEL",
+        "target": "WORKMAN",
+        "weight": 1
+      },
+      {
+        "source": "MURIEL",
+        "target": "JOAN",
+        "weight": 4
+      },
+      {
+        "source": "MURIEL",
+        "target": "PEDELFORD",
+        "weight": 1
+      },
+      {
+        "source": "MURIEL",
+        "target": "SLOW DISSOLVE",
+        "weight": 1
+      },
+      {
+        "source": "MURIEL",
+        "target": "BETSY",
+        "weight": 3
+      },
+      {
+        "source": "MURIEL",
+        "target": "SIMMS",
+        "weight": 3
+      },
+      {
+        "source": "MURIEL",
+        "target": "FUNKHAUSER",
+        "weight": 2
+      },
+      {
+        "source": "JUDGE QUARLES",
+        "target": "BILL",
+        "weight": 1
+      },
+      {
+        "source": "MURPHY",
+        "target": "BILL",
+        "weight": 1
+      },
+      {
+        "source": "SIMPSON",
+        "target": "BILL",
+        "weight": 1
+      },
+      {
+        "source": "JONES",
+        "target": "BILL",
+        "weight": 2
+      },
+      {
+        "source": "JONES",
+        "target": "SLOW DISSOLVE",
+        "weight": 1
+      },
+      {
+        "source": "WORKMAN",
+        "target": "BILL",
+        "weight": 1
+      },
+      {
+        "source": "WORKMAN",
+        "target": "CARPENTER",
+        "weight": 1
+      },
+      {
+        "source": "JOAN",
+        "target": "PRIVATE",
+        "weight": 1
+      },
+      {
+        "source": "JOAN",
+        "target": "BETSY",
+        "weight": 4
+      },
+      {
+        "source": "JOAN",
+        "target": "BILL",
+        "weight": 2
+      },
+      {
+        "source": "JOAN",
+        "target": "SIMMS",
+        "weight": 1
+      },
+      {
+        "source": "ZUCCA",
+        "target": "BILL",
+        "weight": 1
+      },
+      {
+        "source": "RETCH",
+        "target": "BILL",
+        "weight": 1
+      },
+      {
+        "source": "RETCH",
+        "target": "SIMMS",
+        "weight": 1
+      },
+      {
+        "source": "SLOW DISSOLVE",
+        "target": "BILL",
+        "weight": 1
+      },
+      {
+        "source": "PRIVATE",
+        "target": "BETSY",
+        "weight": 1
+      },
+      {
+        "source": "BILL",
+        "target": "CARPENTER",
+        "weight": 1
+      },
+      {
+        "source": "BILL",
+        "target": "BETSY",
+        "weight": 2
+      },
+      {
+        "source": "BILL",
+        "target": "SIMMS",
+        "weight": 3
+      },
+      {
+        "source": "BETSY",
+        "target": "SIMMS",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "WHAT THEY SEE",
+        "name": "WHAT THEY SEE",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.009487779813297213,
+        "object_id": "3543685",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MR JONES",
+        "name": "MR JONES",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.010639328066294869,
+        "object_id": "3547247",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9166666666666667,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FAST DISSOLVE",
+        "name": "FAST DISSOLVE",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.013483499369118534,
+        "object_id": "3543731",
+        "triangles": 2,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1944444444444446,
+        "betweenness centrality": 0.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TESANDER",
+        "name": "TESANDER",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 9,
+        "pagerank": 0.021053592636886328,
+        "object_id": "3545188",
+        "triangles": 30,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7777777777777777,
+        "betweenness centrality": 1.2845238095238096,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JIM'S COST CHART",
+        "name": "JIM'S COST CHART",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 12,
+        "pagerank": 0.02227319090602169,
+        "object_id": "3543013",
+        "triangles": 57,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.6944444444444444,
+        "betweenness centrality": 2.552380952380952,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JIM",
+        "name": "JIM",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 26,
+        "pagerank": 0.13503137465573073,
+        "object_id": "3541183",
+        "triangles": 108,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.2777777777777777,
+        "betweenness centrality": 80.72499999999998,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WHAT HE SEES",
+        "name": "WHAT HE SEES",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 6,
+        "pagerank": 0.011639177124947915,
+        "object_id": "3542550",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8611111111111112,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MARY",
+        "name": "MARY",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.015346376657147411,
+        "object_id": "3542262",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9444444444444444,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JIM AND MURIEL",
+        "name": "JIM AND MURIEL",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 7,
+        "pagerank": 0.014660660956215465,
+        "object_id": "3541458",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8333333333333333,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SMITH",
+        "name": "SMITH",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 15,
+        "pagerank": 0.03297772216327437,
+        "object_id": "3542424",
+        "triangles": 69,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.5833333333333333,
+        "betweenness centrality": 11.342857142857142,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CHARLIE",
+        "name": "CHARLIE",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.008870662154154193,
+        "object_id": "3546515",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0277777777777777,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DISSOLVE",
+        "name": "DISSOLVE",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 26,
+        "pagerank": 0.13804390832391358,
+        "object_id": "3540975",
+        "triangles": 106,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.2777777777777777,
+        "betweenness centrality": 92.39166666666667,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HACKETT",
+        "name": "HACKETT",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 7,
+        "pagerank": 0.020189298476882243,
+        "object_id": "3542707",
+        "triangles": 14,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8055555555555556,
+        "betweenness centrality": 35.34285714285714,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "APOLLONIO",
+        "name": "APOLLONIO",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.009487779813297213,
+        "object_id": "3543623",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GUSSIE",
+        "name": "GUSSIE",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 14,
+        "pagerank": 0.028311103506833767,
+        "object_id": "3541213",
+        "triangles": 70,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.6388888888888888,
+        "betweenness centrality": 4.770238095238096,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THE GIRLS",
+        "name": "THE GIRLS",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.007234251622085774,
+        "object_id": "3541926",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.138888888888889,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOOR",
+        "name": "DOOR",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 10,
+        "pagerank": 0.016216574328773565,
+        "object_id": "3543075",
+        "triangles": 45,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8333333333333333,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JIM, MURIEL AND SMITH",
+        "name": "JIM, MURIEL AND SMITH",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 6,
+        "pagerank": 0.011639177124947915,
+        "object_id": "3542446",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8611111111111112,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MR COLE",
+        "name": "MR COLE",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 10,
+        "pagerank": 0.016216574328773565,
+        "object_id": "3543079",
+        "triangles": 45,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8333333333333333,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MURIEL",
+        "name": "MURIEL",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 29,
+        "pagerank": 0.11718399274030777,
+        "object_id": "3541247",
+        "triangles": 108,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.1944444444444444,
+        "betweenness centrality": 160.69880952380962,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JUDGE QUARLES",
+        "name": "JUDGE QUARLES",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.010520596904714644,
+        "object_id": "3543341",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8888888888888888,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MURPHY",
+        "name": "MURPHY",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.00816464467663274,
+        "object_id": "3543741",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.2222222222222223,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SIMPSON",
+        "name": "SIMPSON",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.00816464467663274,
+        "object_id": "3543726",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.2222222222222223,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JONES",
+        "name": "JONES",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.013368378870349844,
+        "object_id": "3543756",
+        "triangles": 8,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8888888888888888,
+        "betweenness centrality": 0.6666666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WRECKER",
+        "name": "WRECKER",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.005770139339691369,
+        "object_id": "3544167",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.7777777777777777,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WORKMAN",
+        "name": "WORKMAN",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.01071483591287008,
+        "object_id": "3545736",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9166666666666667,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JOAN",
+        "name": "JOAN",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 12,
+        "pagerank": 0.03716804751857485,
+        "object_id": "3541197",
+        "triangles": 58,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.6944444444444444,
+        "betweenness centrality": 2.267857142857143,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ZUCCA",
+        "name": "ZUCCA",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.00759869355270597,
+        "object_id": "3545053",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9444444444444444,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PEDELFORD",
+        "name": "PEDELFORD",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.008870662154154193,
+        "object_id": "3546424",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0277777777777777,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RETCH",
+        "name": "RETCH",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 5,
+        "pagerank": 0.011089078804044568,
+        "object_id": "3545488",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9166666666666667,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SLOW DISSOLVE",
+        "name": "SLOW DISSOLVE",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.010639328066294869,
+        "object_id": "3547345",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9166666666666667,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PRIVATE",
+        "name": "PRIVATE",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 10,
+        "pagerank": 0.016216574328773565,
+        "object_id": "3543080",
+        "triangles": 45,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8333333333333333,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BILL",
+        "name": "BILL",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 26,
+        "pagerank": 0.09955854147815965,
+        "object_id": "3541050",
+        "triangles": 86,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.2777777777777777,
+        "betweenness centrality": 166.75595238095238,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CARPENTER",
+        "name": "CARPENTER",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.00942022969562354,
+        "object_id": "3545645",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9166666666666667,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BETSY",
+        "name": "BETSY",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 13,
+        "pagerank": 0.03954949339620053,
+        "object_id": "3541180",
+        "triangles": 61,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.6666666666666667,
+        "betweenness centrality": 4.934523809523808,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SIMMS",
+        "name": "SIMMS",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 10,
+        "pagerank": 0.03146812203773375,
+        "object_id": "3543792",
+        "triangles": 36,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.75,
+        "betweenness centrality": 1.8619047619047617,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FUNKHAUSER",
+        "name": "FUNKHAUSER",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.011731963817938944,
+        "object_id": "3541923",
+        "triangles": 4,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 1.9047619047619047,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": -121.757324,
+        "y": 23.53762,
+        "name": "WHAT THEY SEE"
+      },
+      {
+        "x": -91.22967,
+        "y": -168.4211,
+        "name": "MR JONES"
+      },
+      {
+        "x": 245.30661,
+        "y": -80.15235,
+        "name": "FAST DISSOLVE"
+      },
+      {
+        "x": 138.89609,
+        "y": -7.7456875,
+        "name": "TESANDER"
+      },
+      {
+        "x": 84.32289,
+        "y": 153.2884,
+        "name": "JIM'S COST CHART"
+      },
+      {
+        "x": 56.66181,
+        "y": 25.559965,
+        "name": "JIM"
+      },
+      {
+        "x": 193.90215,
+        "y": 13.442942,
+        "name": "WHAT HE SEES"
+      },
+      {
+        "x": -38.668488,
+        "y": 14.278322,
+        "name": "MARY"
+      },
+      {
+        "x": -47.79054,
+        "y": -50.167007,
+        "name": "JIM AND MURIEL"
+      },
+      {
+        "x": -36.52441,
+        "y": 86.29894,
+        "name": "SMITH"
+      },
+      {
+        "x": -179.28188,
+        "y": -30.692638,
+        "name": "CHARLIE"
+      },
+      {
+        "x": 10.649878,
+        "y": 27.296625,
+        "name": "DISSOLVE"
+      },
+      {
+        "x": 73.65358,
+        "y": -93.18872,
+        "name": "HACKETT"
+      },
+      {
+        "x": -119.23035,
+        "y": -31.536926,
+        "name": "APOLLONIO"
+      },
+      {
+        "x": 13.078217,
+        "y": 142.09843,
+        "name": "GUSSIE"
+      },
+      {
+        "x": 121.4869,
+        "y": -194.87756,
+        "name": "THE GIRLS"
+      },
+      {
+        "x": 36.744522,
+        "y": 216.47528,
+        "name": "DOOR"
+      },
+      {
+        "x": 161.61493,
+        "y": 91.56046,
+        "name": "JIM, MURIEL AND SMITH"
+      },
+      {
+        "x": -23.854687,
+        "y": 209.84663,
+        "name": "MR COLE"
+      },
+      {
+        "x": 9.276586,
+        "y": -24.51561,
+        "name": "MURIEL"
+      },
+      {
+        "x": 163.62506,
+        "y": 45.391747,
+        "name": "JUDGE QUARLES"
+      },
+      {
+        "x": 287.51474,
+        "y": -51.047016,
+        "name": "MURPHY"
+      },
+      {
+        "x": 277.45795,
+        "y": -110.53114,
+        "name": "SIMPSON"
+      },
+      {
+        "x": -36.919724,
+        "y": -144.1204,
+        "name": "JONES"
+      },
+      {
+        "x": 145.56221,
+        "y": -244.58783,
+        "name": "WRECKER"
+      },
+      {
+        "x": 153.55069,
+        "y": -85.19522,
+        "name": "WORKMAN"
+      },
+      {
+        "x": 15.0430155,
+        "y": 90.614136,
+        "name": "JOAN"
+      },
+      {
+        "x": 33.740105,
+        "y": -159.61374,
+        "name": "ZUCCA"
+      },
+      {
+        "x": -169.00363,
+        "y": 11.009656,
+        "name": "PEDELFORD"
+      },
+      {
+        "x": 25.253311,
+        "y": -100.56288,
+        "name": "RETCH"
+      },
+      {
+        "x": -53.526894,
+        "y": -200.38222,
+        "name": "SLOW DISSOLVE"
+      },
+      {
+        "x": -70.08192,
+        "y": 171.73546,
+        "name": "PRIVATE"
+      },
+      {
+        "x": 77.122215,
+        "y": -34.242912,
+        "name": "BILL"
+      },
+      {
+        "x": 148.33737,
+        "y": -132.82997,
+        "name": "CARPENTER"
+      },
+      {
+        "x": 61.424717,
+        "y": 95.07188,
+        "name": "BETSY"
+      },
+      {
+        "x": 105.27337,
+        "y": 33.068222,
+        "name": "SIMMS"
+      },
+      {
+        "x": 76.824776,
+        "y": -144.62692,
+        "name": "FUNKHAUSER"
+      }
+    ]
+  }
+}

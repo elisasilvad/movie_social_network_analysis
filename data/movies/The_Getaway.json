@@ -1,0 +1,899 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "CANNON",
+        "target": "LAUGHLIN",
+        "weight": 1
+      },
+      {
+        "source": "CULLY",
+        "target": "LAUGHLIN",
+        "weight": 1
+      },
+      {
+        "source": "CULLY",
+        "target": "ACCOUNTANT",
+        "weight": 1
+      },
+      {
+        "source": "CULLY",
+        "target": "SWAIN",
+        "weight": 1
+      },
+      {
+        "source": "CULLY",
+        "target": "CAROL",
+        "weight": 1
+      },
+      {
+        "source": "CULLY",
+        "target": "SECRETARY",
+        "weight": 1
+      },
+      {
+        "source": "CULLY",
+        "target": "HAYHOE",
+        "weight": 1
+      },
+      {
+        "source": "SWAIN",
+        "target": "ACCOUNTANT",
+        "weight": 1
+      },
+      {
+        "source": "SWAIN",
+        "target": "SECRETARY",
+        "weight": 1
+      },
+      {
+        "source": "SWAIN",
+        "target": "HAYHOE",
+        "weight": 1
+      },
+      {
+        "source": "SWAIN",
+        "target": "CAROL",
+        "weight": 1
+      },
+      {
+        "source": "SOLDIER",
+        "target": "LOUDSPEAKER VOICE",
+        "weight": 1
+      },
+      {
+        "source": "SOLDIER",
+        "target": "DOC",
+        "weight": 1
+      },
+      {
+        "source": "SOLDIER",
+        "target": "CAROL",
+        "weight": 1
+      },
+      {
+        "source": "KID",
+        "target": "THIEF",
+        "weight": 1
+      },
+      {
+        "source": "KID",
+        "target": "DOC",
+        "weight": 1
+      },
+      {
+        "source": "SECRETARY",
+        "target": "ACCOUNTANT",
+        "weight": 1
+      },
+      {
+        "source": "SECRETARY",
+        "target": "CAROL",
+        "weight": 1
+      },
+      {
+        "source": "JACKSON",
+        "target": "RUDY",
+        "weight": 1
+      },
+      {
+        "source": "JACKSON",
+        "target": "BEYNON",
+        "weight": 1
+      },
+      {
+        "source": "JACKSON",
+        "target": "DOC",
+        "weight": 2
+      },
+      {
+        "source": "TICKET-SELLER",
+        "target": "DAPPER MAN",
+        "weight": 1
+      },
+      {
+        "source": "TICKET-SELLER",
+        "target": "CAROL",
+        "weight": 1
+      },
+      {
+        "source": "PROPRIETOR",
+        "target": "DOC",
+        "weight": 1
+      },
+      {
+        "source": "LAUGHLIN",
+        "target": "DOC",
+        "weight": 1
+      },
+      {
+        "source": "LAUGHLIN",
+        "target": "RUDY",
+        "weight": 1
+      },
+      {
+        "source": "BEYNON",
+        "target": "RUDY",
+        "weight": 1
+      },
+      {
+        "source": "BEYNON",
+        "target": "DOC",
+        "weight": 2
+      },
+      {
+        "source": "BEYNON",
+        "target": "CAROL",
+        "weight": 1
+      },
+      {
+        "source": "DETECTIVE",
+        "target": "THIEF",
+        "weight": 1
+      },
+      {
+        "source": "SLIM",
+        "target": "OFFICIAL",
+        "weight": 1
+      },
+      {
+        "source": "SLIM",
+        "target": "DOC",
+        "weight": 2
+      },
+      {
+        "source": "SLIM",
+        "target": "CAROL",
+        "weight": 1
+      },
+      {
+        "source": "HAYHOE",
+        "target": "ACCOUNTANT",
+        "weight": 2
+      },
+      {
+        "source": "SECOND MAN",
+        "target": "LAWYER",
+        "weight": 1
+      },
+      {
+        "source": "SECOND MAN",
+        "target": "CHAIRMAN",
+        "weight": 1
+      },
+      {
+        "source": "SECOND MAN",
+        "target": "DOC",
+        "weight": 1
+      },
+      {
+        "source": "CONDUCTOR",
+        "target": "DOC",
+        "weight": 1
+      },
+      {
+        "source": "LAWYER",
+        "target": "CHAIRMAN",
+        "weight": 1
+      },
+      {
+        "source": "LAWYER",
+        "target": "DOC",
+        "weight": 1
+      },
+      {
+        "source": "HAROLD",
+        "target": "RUDY",
+        "weight": 1
+      },
+      {
+        "source": "HAROLD",
+        "target": "FRAN",
+        "weight": 1
+      },
+      {
+        "source": "CHAIRMAN",
+        "target": "DOC",
+        "weight": 1
+      },
+      {
+        "source": "DOC",
+        "target": "GIRL",
+        "weight": 1
+      },
+      {
+        "source": "DOC",
+        "target": "LOUDSPEAKER VOICE",
+        "weight": 1
+      },
+      {
+        "source": "DOC",
+        "target": "DENTIST",
+        "weight": 1
+      },
+      {
+        "source": "DOC",
+        "target": "CAROL",
+        "weight": 21
+      },
+      {
+        "source": "DOC",
+        "target": "RUDY",
+        "weight": 5
+      },
+      {
+        "source": "DOC",
+        "target": "ACCOUNTANT",
+        "weight": 1
+      },
+      {
+        "source": "DOC",
+        "target": "SALESMAN",
+        "weight": 2
+      },
+      {
+        "source": "DOC",
+        "target": "FRAN",
+        "weight": 1
+      },
+      {
+        "source": "GIRL",
+        "target": "CAROL",
+        "weight": 1
+      },
+      {
+        "source": "FRAN",
+        "target": "RUDY",
+        "weight": 3
+      },
+      {
+        "source": "FRAN",
+        "target": "CAROL",
+        "weight": 1
+      },
+      {
+        "source": "LOUDSPEAKER VOICE",
+        "target": "CAROL",
+        "weight": 1
+      },
+      {
+        "source": "DAPPER MAN",
+        "target": "CAROL",
+        "weight": 1
+      },
+      {
+        "source": "CAROL",
+        "target": "ACCOUNTANT",
+        "weight": 3
+      },
+      {
+        "source": "CAROL",
+        "target": "RUDY",
+        "weight": 2
+      },
+      {
+        "source": "CAROL",
+        "target": "SALESMAN",
+        "weight": 1
+      },
+      {
+        "source": "RUDY",
+        "target": "ACCOUNTANT",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "CANNON",
+        "name": "CANNON",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.010327388838995104,
+        "object_id": "2076016",
+        "triangles": 0,
+        "eccentricity": 5.0,
+        "closeness centrality": 3.033333333333333,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CULLY",
+        "name": "CULLY",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.031555607000185754,
+        "object_id": "2072047",
+        "triangles": 8,
+        "eccentricity": 5.0,
+        "closeness centrality": 2.3,
+        "betweenness centrality": 11.899999999999999,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SWAIN",
+        "name": "SWAIN",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.02610026703966018,
+        "object_id": "2072050",
+        "triangles": 8,
+        "eccentricity": 5.0,
+        "closeness centrality": 2.3666666666666667,
+        "betweenness centrality": 3.233333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SOLDIER",
+        "name": "SOLDIER",
+        "color": "#A795C7",
+        "group": 4,
+        "degree": 3,
+        "pagerank": 0.01737387736661273,
+        "object_id": "2074826",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1333333333333333,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KID",
+        "name": "KID",
+        "color": "#F2A468",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.020496229163992276,
+        "object_id": "2075498",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.2333333333333334,
+        "betweenness centrality": 56.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SECRETARY",
+        "name": "SECRETARY",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.021395292223247105,
+        "object_id": "2072038",
+        "triangles": 6,
+        "eccentricity": 5.0,
+        "closeness centrality": 2.4,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JACKSON",
+        "name": "JACKSON",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.02066332521240845,
+        "object_id": "2072771",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2666666666666666,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TICKET-SELLER",
+        "name": "TICKET-SELLER",
+        "color": "#A795C7",
+        "group": 4,
+        "degree": 2,
+        "pagerank": 0.0148658840840077,
+        "object_id": "2074601",
+        "triangles": 1,
+        "eccentricity": 5.0,
+        "closeness centrality": 2.566666666666667,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PROPRIETOR",
+        "name": "PROPRIETOR",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.00874213023783906,
+        "object_id": "2076156",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.3666666666666667,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LAUGHLIN",
+        "name": "LAUGHLIN",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.025829305756755593,
+        "object_id": "2076019",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.066666666666667,
+        "betweenness centrality": 33.202380952380956,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BEYNON",
+        "name": "BEYNON",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.024584121408582217,
+        "object_id": "2072089",
+        "triangles": 5,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.066666666666667,
+        "betweenness centrality": 1.542857142857143,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DETECTIVE",
+        "name": "DETECTIVE",
+        "color": "#F2A468",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.016592808603572567,
+        "object_id": "2075930",
+        "triangles": 0,
+        "eccentricity": 5.0,
+        "closeness centrality": 4.1,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SLIM",
+        "name": "SLIM",
+        "color": "#A795C7",
+        "group": 4,
+        "degree": 3,
+        "pagerank": 0.02497955313114575,
+        "object_id": "2077848",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1,
+        "betweenness centrality": 29.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HAYHOE",
+        "name": "HAYHOE",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.021626132145826288,
+        "object_id": "2074072",
+        "triangles": 3,
+        "eccentricity": 5.0,
+        "closeness centrality": 2.7666666666666666,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SECOND MAN",
+        "name": "SECOND MAN",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.020174028272518615,
+        "object_id": "2071849",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.3,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CONDUCTOR",
+        "name": "CONDUCTOR",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.00874213023783906,
+        "object_id": "2075411",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.3666666666666667,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LAWYER",
+        "name": "LAWYER",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.020174028272518615,
+        "object_id": "2071780",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.3,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HAROLD",
+        "name": "HAROLD",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.012845924403247961,
+        "object_id": "2074721",
+        "triangles": 1,
+        "eccentricity": 5.0,
+        "closeness centrality": 2.8,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CHAIRMAN",
+        "name": "CHAIRMAN",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.020174028272518615,
+        "object_id": "2071773",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.3,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOC",
+        "name": "DOC",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 19,
+        "pagerank": 0.21583157872709055,
+        "object_id": "2071784",
+        "triangles": 19,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.4,
+        "betweenness centrality": 270.79523809523806,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GIRL",
+        "name": "GIRL",
+        "color": "#A795C7",
+        "group": 4,
+        "degree": 2,
+        "pagerank": 0.012451296275506575,
+        "object_id": "2076531",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1666666666666665,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FRAN",
+        "name": "FRAN",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.02942629952739922,
+        "object_id": "2074758",
+        "triangles": 4,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.066666666666667,
+        "betweenness centrality": 10.416666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LOUDSPEAKER VOICE",
+        "name": "LOUDSPEAKER VOICE",
+        "color": "#A795C7",
+        "group": 4,
+        "degree": 3,
+        "pagerank": 0.01737387736661273,
+        "object_id": "2075038",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1333333333333333,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DAPPER MAN",
+        "name": "DAPPER MAN",
+        "color": "#A795C7",
+        "group": 4,
+        "degree": 2,
+        "pagerank": 0.0148658840840077,
+        "object_id": "2074661",
+        "triangles": 1,
+        "eccentricity": 5.0,
+        "closeness centrality": 2.566666666666667,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DENTIST",
+        "name": "DENTIST",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.00874213023783906,
+        "object_id": "2073431",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.3666666666666667,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THIEF",
+        "name": "THIEF",
+        "color": "#F2A468",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.027649312836624966,
+        "object_id": "2075791",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.1333333333333333,
+        "betweenness centrality": 29.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CAROL",
+        "name": "CAROL",
+        "color": "#A795C7",
+        "group": 4,
+        "degree": 15,
+        "pagerank": 0.16582427857881268,
+        "object_id": "2071957",
+        "triangles": 20,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.6333333333333333,
+        "betweenness centrality": 126.32857142857144,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RUDY",
+        "name": "RUDY",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 8,
+        "pagerank": 0.06773869193677239,
+        "object_id": "2072746",
+        "triangles": 11,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.8666666666666667,
+        "betweenness centrality": 28.378571428571433,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ACCOUNTANT",
+        "name": "ACCOUNTANT",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 7,
+        "pagerank": 0.04635306692939396,
+        "object_id": "2072075",
+        "triangles": 11,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.9333333333333333,
+        "betweenness centrality": 35.202380952380956,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SALESMAN",
+        "name": "SALESMAN",
+        "color": "#A795C7",
+        "group": 4,
+        "degree": 2,
+        "pagerank": 0.01635471683592628,
+        "object_id": "2076225",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1666666666666665,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OFFICIAL",
+        "name": "OFFICIAL",
+        "color": "#A795C7",
+        "group": 4,
+        "degree": 1,
+        "pagerank": 0.010146804992540065,
+        "object_id": "2077964",
+        "triangles": 0,
+        "eccentricity": 5.0,
+        "closeness centrality": 3.066666666666667,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": 59.286015,
+        "y": -192.94312,
+        "name": "CANNON"
+      },
+      {
+        "x": -12.220884,
+        "y": -161.58054,
+        "name": "CULLY"
+      },
+      {
+        "x": -66.43428,
+        "y": -148.21753,
+        "name": "SWAIN"
+      },
+      {
+        "x": -69.59339,
+        "y": 124.31932,
+        "name": "SOLDIER"
+      },
+      {
+        "x": -148.73177,
+        "y": -66.4321,
+        "name": "KID"
+      },
+      {
+        "x": -81.36464,
+        "y": -106.48935,
+        "name": "SECRETARY"
+      },
+      {
+        "x": 14.397732,
+        "y": 136.9491,
+        "name": "JACKSON"
+      },
+      {
+        "x": 131.77975,
+        "y": -46.360188,
+        "name": "TICKET-SELLER"
+      },
+      {
+        "x": -13.407753,
+        "y": 180.41801,
+        "name": "PROPRIETOR"
+      },
+      {
+        "x": 42.392677,
+        "y": -105.15679,
+        "name": "LAUGHLIN"
+      },
+      {
+        "x": -20.215935,
+        "y": 112.20091,
+        "name": "BEYNON"
+      },
+      {
+        "x": -199.50642,
+        "y": -223.6951,
+        "name": "DETECTIVE"
+      },
+      {
+        "x": -86.22913,
+        "y": 50.32171,
+        "name": "SLIM"
+      },
+      {
+        "x": -24.789818,
+        "y": -122.73307,
+        "name": "HAYHOE"
+      },
+      {
+        "x": 138.47868,
+        "y": 122.39115,
+        "name": "SECOND MAN"
+      },
+      {
+        "x": 124.70632,
+        "y": 28.534348,
+        "name": "CONDUCTOR"
+      },
+      {
+        "x": 160.854,
+        "y": 82.29028,
+        "name": "LAWYER"
+      },
+      {
+        "x": -73.94097,
+        "y": -6.2001176,
+        "name": "HAROLD"
+      },
+      {
+        "x": 181.233,
+        "y": 119.4955,
+        "name": "CHAIRMAN"
+      },
+      {
+        "x": 21.755747,
+        "y": 59.105526,
+        "name": "DOC"
+      },
+      {
+        "x": 90.38121,
+        "y": 53.93772,
+        "name": "GIRL"
+      },
+      {
+        "x": 45.517918,
+        "y": -9.334074,
+        "name": "FRAN"
+      },
+      {
+        "x": -96.55676,
+        "y": 94.38534,
+        "name": "LOUDSPEAKER VOICE"
+      },
+      {
+        "x": 101.79272,
+        "y": -68.6904,
+        "name": "DAPPER MAN"
+      },
+      {
+        "x": 119.215065,
+        "y": 159.60527,
+        "name": "DENTIST"
+      },
+      {
+        "x": -201.64423,
+        "y": -168.2943,
+        "name": "THIEF"
+      },
+      {
+        "x": 6.1894665,
+        "y": 8.19731,
+        "name": "CAROL"
+      },
+      {
+        "x": -31.837173,
+        "y": 36.139355,
+        "name": "RUDY"
+      },
+      {
+        "x": -29.167326,
+        "y": -68.51759,
+        "name": "ACCOUNTANT"
+      },
+      {
+        "x": 58.835117,
+        "y": 102.03696,
+        "name": "SALESMAN"
+      },
+      {
+        "x": -168.18242,
+        "y": 49.850975,
+        "name": "OFFICIAL"
+      }
+    ]
+  }
+}

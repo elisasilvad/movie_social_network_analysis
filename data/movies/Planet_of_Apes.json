@@ -1,0 +1,651 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "PRESIDENT",
+        "target": "CORNELIUS",
+        "weight": 1
+      },
+      {
+        "source": "PRESIDENT",
+        "target": "BAILIFF",
+        "weight": 1
+      },
+      {
+        "source": "PRESIDENT",
+        "target": "HONORIUS",
+        "weight": 2
+      },
+      {
+        "source": "PRESIDENT",
+        "target": "MAXIMUS",
+        "weight": 2
+      },
+      {
+        "source": "PRESIDENT",
+        "target": "TAYLOR",
+        "weight": 3
+      },
+      {
+        "source": "PRESIDENT",
+        "target": "ZAIUS",
+        "weight": 2
+      },
+      {
+        "source": "PRESIDENT",
+        "target": "ZIRA",
+        "weight": 2
+      },
+      {
+        "source": "GALEN",
+        "target": "NURSE",
+        "weight": 1
+      },
+      {
+        "source": "GALEN",
+        "target": "ZIRA",
+        "weight": 1
+      },
+      {
+        "source": "LEADER",
+        "target": "FIRST HUNTER",
+        "weight": 1
+      },
+      {
+        "source": "LEADER",
+        "target": "LUCIUS",
+        "weight": 1
+      },
+      {
+        "source": "LEADER",
+        "target": "ZIRA",
+        "weight": 1
+      },
+      {
+        "source": "CORNELIUS",
+        "target": "MARCUS",
+        "weight": 1
+      },
+      {
+        "source": "CORNELIUS",
+        "target": "LUCIUS",
+        "weight": 4
+      },
+      {
+        "source": "CORNELIUS",
+        "target": "BAILIFF",
+        "weight": 1
+      },
+      {
+        "source": "CORNELIUS",
+        "target": "HONORIUS",
+        "weight": 2
+      },
+      {
+        "source": "CORNELIUS",
+        "target": "MAXIMUS",
+        "weight": 3
+      },
+      {
+        "source": "CORNELIUS",
+        "target": "TAYLOR",
+        "weight": 4
+      },
+      {
+        "source": "CORNELIUS",
+        "target": "ZAIUS",
+        "weight": 5
+      },
+      {
+        "source": "CORNELIUS",
+        "target": "ZIRA",
+        "weight": 7
+      },
+      {
+        "source": "MAXIMUS",
+        "target": "BAILIFF",
+        "weight": 1
+      },
+      {
+        "source": "MAXIMUS",
+        "target": "HONORIUS",
+        "weight": 1
+      },
+      {
+        "source": "MAXIMUS",
+        "target": "TAYLOR",
+        "weight": 2
+      },
+      {
+        "source": "MAXIMUS",
+        "target": "ZAIUS",
+        "weight": 2
+      },
+      {
+        "source": "MAXIMUS",
+        "target": "ZIRA",
+        "weight": 3
+      },
+      {
+        "source": "ASTRONAUT",
+        "target": "TAYLOR",
+        "weight": 1
+      },
+      {
+        "source": "FIRST HUNTER",
+        "target": "LUCIUS",
+        "weight": 1
+      },
+      {
+        "source": "FIRST HUNTER",
+        "target": "ZIRA",
+        "weight": 1
+      },
+      {
+        "source": "JULIUS",
+        "target": "LIEUTENANT",
+        "weight": 1
+      },
+      {
+        "source": "JULIUS",
+        "target": "TAYLOR",
+        "weight": 2
+      },
+      {
+        "source": "JULIUS",
+        "target": "LUCIUS",
+        "weight": 1
+      },
+      {
+        "source": "JULIUS",
+        "target": "ZAIUS",
+        "weight": 1
+      },
+      {
+        "source": "JULIUS",
+        "target": "ZIRA",
+        "weight": 2
+      },
+      {
+        "source": "ZAIUS",
+        "target": "LUCIUS",
+        "weight": 2
+      },
+      {
+        "source": "ZAIUS",
+        "target": "BAILIFF",
+        "weight": 1
+      },
+      {
+        "source": "ZAIUS",
+        "target": "TAYLOR",
+        "weight": 6
+      },
+      {
+        "source": "ZAIUS",
+        "target": "HONORIUS",
+        "weight": 1
+      },
+      {
+        "source": "ZAIUS",
+        "target": "MARCUS",
+        "weight": 1
+      },
+      {
+        "source": "ZAIUS",
+        "target": "ZIRA",
+        "weight": 6
+      },
+      {
+        "source": "LIEUTENANT",
+        "target": "TAYLOR",
+        "weight": 1
+      },
+      {
+        "source": "LIEUTENANT",
+        "target": "ZIRA",
+        "weight": 1
+      },
+      {
+        "source": "NURSE",
+        "target": "ZIRA",
+        "weight": 1
+      },
+      {
+        "source": "LUCIUS",
+        "target": "MARCUS",
+        "weight": 1
+      },
+      {
+        "source": "LUCIUS",
+        "target": "TAYLOR",
+        "weight": 6
+      },
+      {
+        "source": "LUCIUS",
+        "target": "ZIRA",
+        "weight": 5
+      },
+      {
+        "source": "BAILIFF",
+        "target": "HONORIUS",
+        "weight": 1
+      },
+      {
+        "source": "BAILIFF",
+        "target": "TAYLOR",
+        "weight": 1
+      },
+      {
+        "source": "BAILIFF",
+        "target": "ZIRA",
+        "weight": 1
+      },
+      {
+        "source": "HONORIUS",
+        "target": "TAYLOR",
+        "weight": 2
+      },
+      {
+        "source": "HONORIUS",
+        "target": "ZIRA",
+        "weight": 1
+      },
+      {
+        "source": "DODGE",
+        "target": "LANDON",
+        "weight": 6
+      },
+      {
+        "source": "DODGE",
+        "target": "TAYLOR",
+        "weight": 6
+      },
+      {
+        "source": "LANDON",
+        "target": "TAYLOR",
+        "weight": 5
+      },
+      {
+        "source": "TAYLOR",
+        "target": "MARCUS",
+        "weight": 1
+      },
+      {
+        "source": "TAYLOR",
+        "target": "ZIRA",
+        "weight": 7
+      },
+      {
+        "source": "MARCUS",
+        "target": "ZIRA",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "PRESIDENT",
+        "name": "PRESIDENT",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 7,
+        "pagerank": 0.048432707052528425,
+        "object_id": "3932518",
+        "triangles": 21,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.6111111111111112,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GALEN",
+        "name": "GALEN",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.019256549139687645,
+        "object_id": "3930747",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0555555555555554,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LEADER",
+        "name": "LEADER",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.019871983076715873,
+        "object_id": "3933509",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CORNELIUS",
+        "name": "CORNELIUS",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 9,
+        "pagerank": 0.09607117388920515,
+        "object_id": "3931248",
+        "triangles": 28,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.5,
+        "betweenness centrality": 2.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAXIMUS",
+        "name": "MAXIMUS",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 7,
+        "pagerank": 0.051251523287432564,
+        "object_id": "3931795",
+        "triangles": 21,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.6111111111111112,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ASTRONAUT",
+        "name": "ASTRONAUT",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.01089341510871902,
+        "object_id": "3929412",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1666666666666665,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FIRST HUNTER",
+        "name": "FIRST HUNTER",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.019871983076715873,
+        "object_id": "3933550",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JULIUS",
+        "name": "JULIUS",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.03141342221073737,
+        "object_id": "3930899",
+        "triangles": 8,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7222222222222223,
+        "betweenness centrality": 0.6666666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ZAIUS",
+        "name": "ZAIUS",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 10,
+        "pagerank": 0.09305387086853913,
+        "object_id": "3931085",
+        "triangles": 31,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.4444444444444444,
+        "betweenness centrality": 3.833333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LIEUTENANT",
+        "name": "LIEUTENANT",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.017885425568093076,
+        "object_id": "3931899",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8333333333333333,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NURSE",
+        "name": "NURSE",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.019256549139687645,
+        "object_id": "3930768",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0555555555555554,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LUCIUS",
+        "name": "LUCIUS",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 8,
+        "pagerank": 0.0782992846696178,
+        "object_id": "3933322",
+        "triangles": 16,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.5555555555555556,
+        "betweenness centrality": 8.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BAILIFF",
+        "name": "BAILIFF",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 7,
+        "pagerank": 0.029498395961712536,
+        "object_id": "3932506",
+        "triangles": 21,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.6111111111111112,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HONORIUS",
+        "name": "HONORIUS",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 7,
+        "pagerank": 0.0388592198699116,
+        "object_id": "3932571",
+        "triangles": 21,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.6111111111111112,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DODGE",
+        "name": "DODGE",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.04545387592340529,
+        "object_id": "3929698",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.111111111111111,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LANDON",
+        "name": "LANDON",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.0422051278752148,
+        "object_id": "3929666",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.111111111111111,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TAYLOR",
+        "name": "TAYLOR",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 14,
+        "pagerank": 0.16581093489606,
+        "object_id": "3929466",
+        "triangles": 34,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.2222222222222223,
+        "betweenness centrality": 54.49999999999999,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MARCUS",
+        "name": "MARCUS",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 5,
+        "pagerank": 0.02308615269555629,
+        "object_id": "3934983",
+        "triangles": 10,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7222222222222223,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ZIRA",
+        "name": "ZIRA",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 15,
+        "pagerank": 0.14952840569045958,
+        "object_id": "3930743",
+        "triangles": 37,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.1666666666666667,
+        "betweenness centrality": 57.49999999999999,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": -102.60679,
+        "y": -63.69287,
+        "name": "PRESIDENT"
+      },
+      {
+        "x": -113.72017,
+        "y": 79.51239,
+        "name": "GALEN"
+      },
+      {
+        "x": 11.020756,
+        "y": 82.88676,
+        "name": "LEADER"
+      },
+      {
+        "x": -29.494068,
+        "y": -71.39604,
+        "name": "CORNELIUS"
+      },
+      {
+        "x": -70.5142,
+        "y": -93.26466,
+        "name": "MAXIMUS"
+      },
+      {
+        "x": 127.84092,
+        "y": -61.40168,
+        "name": "ASTRONAUT"
+      },
+      {
+        "x": 52.821163,
+        "y": 73.357124,
+        "name": "FIRST HUNTER"
+      },
+      {
+        "x": 23.447512,
+        "y": -119.90107,
+        "name": "JULIUS"
+      },
+      {
+        "x": -58.921883,
+        "y": -43.277122,
+        "name": "ZAIUS"
+      },
+      {
+        "x": 66.56804,
+        "y": -144.96632,
+        "name": "LIEUTENANT"
+      },
+      {
+        "x": -77.8805,
+        "y": 94.855286,
+        "name": "NURSE"
+      },
+      {
+        "x": 22.249962,
+        "y": -14.392117,
+        "name": "LUCIUS"
+      },
+      {
+        "x": -122.8796,
+        "y": -118.54452,
+        "name": "BAILIFF"
+      },
+      {
+        "x": -57.889637,
+        "y": -136.86497,
+        "name": "HONORIUS"
+      },
+      {
+        "x": 62.394897,
+        "y": -66.05376,
+        "name": "DODGE"
+      },
+      {
+        "x": 63.625683,
+        "y": -93.48346,
+        "name": "LANDON"
+      },
+      {
+        "x": 14.653086,
+        "y": -67.85441,
+        "name": "TAYLOR"
+      },
+      {
+        "x": 68.16505,
+        "y": 2.3228972,
+        "name": "MARCUS"
+      },
+      {
+        "x": -24.415567,
+        "y": -16.987333,
+        "name": "ZIRA"
+      }
+    ]
+  }
+}

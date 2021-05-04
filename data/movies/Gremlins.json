@@ -1,0 +1,2409 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "AT THE TREE'S BOTTOM",
+        "target": "CLOSE-UP",
+        "weight": 1
+      },
+      {
+        "source": "AT THE TREE'S BOTTOM",
+        "target": "BILLY AND TRACY",
+        "weight": 1
+      },
+      {
+        "source": "AT THE TREE'S BOTTOM",
+        "target": "RAND PELTZER",
+        "weight": 1
+      },
+      {
+        "source": "AT THE TREE'S BOTTOM",
+        "target": "CAMERA PULLS BACK",
+        "weight": 1
+      },
+      {
+        "source": "AT THE TREE'S BOTTOM",
+        "target": "TRACY",
+        "weight": 1
+      },
+      {
+        "source": "AT THE TREE'S BOTTOM",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "AT THE TREE'S BOTTOM",
+        "target": "SUDDENLY",
+        "weight": 1
+      },
+      {
+        "source": "AT THE TREE'S BOTTOM",
+        "target": "INSIDE",
+        "weight": 1
+      },
+      {
+        "source": "AT THE TREE'S BOTTOM",
+        "target": "THE CREATURES",
+        "weight": 1
+      },
+      {
+        "source": "AT THE TREE'S BOTTOM",
+        "target": "THE TOOL BOX",
+        "weight": 1
+      },
+      {
+        "source": "AT THE TREE'S BOTTOM",
+        "target": "RAND",
+        "weight": 1
+      },
+      {
+        "source": "AT THE TREE'S BOTTOM",
+        "target": "REV 4/30/82",
+        "weight": 1
+      },
+      {
+        "source": "AT THE TREE'S BOTTOM",
+        "target": "BILLY",
+        "weight": 1
+      },
+      {
+        "source": "AT THE TREE'S BOTTOM",
+        "target": "THE WORKER",
+        "weight": 1
+      },
+      {
+        "source": "LYNN",
+        "target": "RAND -",
+        "weight": 1
+      },
+      {
+        "source": "LYNN",
+        "target": "RAND",
+        "weight": 1
+      },
+      {
+        "source": "LYNN",
+        "target": "BILLY",
+        "weight": 2
+      },
+      {
+        "source": "LYNN",
+        "target": "THE CAR",
+        "weight": 1
+      },
+      {
+        "source": "LYNN",
+        "target": "DINING ROOM",
+        "weight": 1
+      },
+      {
+        "source": "CAROLERS",
+        "target": "LIVING ROOM",
+        "weight": 1
+      },
+      {
+        "source": "CAROLERS",
+        "target": "MOGWAI",
+        "weight": 1
+      },
+      {
+        "source": "CAROLERS",
+        "target": "REV 4/30/82",
+        "weight": 1
+      },
+      {
+        "source": "CAROLERS",
+        "target": "THE CREATURE",
+        "weight": 1
+      },
+      {
+        "source": "CAROLERS",
+        "target": "CAMERA PANS",
+        "weight": 1
+      },
+      {
+        "source": "CAROLERS",
+        "target": "MOTHER",
+        "weight": 1
+      },
+      {
+        "source": "CAROLERS",
+        "target": "SUDDENLY",
+        "weight": 1
+      },
+      {
+        "source": "CAROLERS",
+        "target": "PEGGY",
+        "weight": 1
+      },
+      {
+        "source": "CAROLERS",
+        "target": "BILLY",
+        "weight": 1
+      },
+      {
+        "source": "CAROLERS",
+        "target": "PETE",
+        "weight": 1
+      },
+      {
+        "source": "CAR RADIO",
+        "target": "PETE",
+        "weight": 1
+      },
+      {
+        "source": "CAR RADIO",
+        "target": "BILLY",
+        "weight": 1
+      },
+      {
+        "source": "THE PACK OF CREATURES",
+        "target": "MR FUTTERS",
+        "weight": 1
+      },
+      {
+        "source": "THE PACK OF CREATURES",
+        "target": "THEM",
+        "weight": 1
+      },
+      {
+        "source": "THE PACK OF CREATURES",
+        "target": "INSIDE",
+        "weight": 1
+      },
+      {
+        "source": "THE PACK OF CREATURES",
+        "target": "TRACY",
+        "weight": 1
+      },
+      {
+        "source": "THE PACK OF CREATURES",
+        "target": "THE CREATURES",
+        "weight": 1
+      },
+      {
+        "source": "THE PACK OF CREATURES",
+        "target": "MR DEAGLE",
+        "weight": 1
+      },
+      {
+        "source": "THE PACK OF CREATURES",
+        "target": "BILLY",
+        "weight": 2
+      },
+      {
+        "source": "THE PACK OF CREATURES",
+        "target": "MRS DEAGLE",
+        "weight": 1
+      },
+      {
+        "source": "THE PACK OF CREATURES",
+        "target": "THE POLICE CAR",
+        "weight": 1
+      },
+      {
+        "source": "FRANK",
+        "target": "TRACY",
+        "weight": 2
+      },
+      {
+        "source": "FRANK",
+        "target": "THEN",
+        "weight": 1
+      },
+      {
+        "source": "FRANK",
+        "target": "REV 4/30/82",
+        "weight": 1
+      },
+      {
+        "source": "FRANK",
+        "target": "BILLY",
+        "weight": 2
+      },
+      {
+        "source": "FRANK",
+        "target": "GARY",
+        "weight": 1
+      },
+      {
+        "source": "SUDDENLY",
+        "target": "LIVING ROOM",
+        "weight": 1
+      },
+      {
+        "source": "SUDDENLY",
+        "target": "CLOSE-UP",
+        "weight": 1
+      },
+      {
+        "source": "SUDDENLY",
+        "target": "CAMERA PANS",
+        "weight": 1
+      },
+      {
+        "source": "SUDDENLY",
+        "target": "CAMERA PULLS BACK",
+        "weight": 1
+      },
+      {
+        "source": "SUDDENLY",
+        "target": "REV 4/30/82",
+        "weight": 3
+      },
+      {
+        "source": "SUDDENLY",
+        "target": "BILLY AND TRACY",
+        "weight": 2
+      },
+      {
+        "source": "SUDDENLY",
+        "target": "PEGGY",
+        "weight": 1
+      },
+      {
+        "source": "SUDDENLY",
+        "target": "THE TOOL BOX",
+        "weight": 1
+      },
+      {
+        "source": "SUDDENLY",
+        "target": "THE WATER",
+        "weight": 1
+      },
+      {
+        "source": "SUDDENLY",
+        "target": "BILLY",
+        "weight": 4
+      },
+      {
+        "source": "SUDDENLY",
+        "target": "THE WORKER",
+        "weight": 1
+      },
+      {
+        "source": "SUDDENLY",
+        "target": "TRACY",
+        "weight": 2
+      },
+      {
+        "source": "SUDDENLY",
+        "target": "PETE",
+        "weight": 1
+      },
+      {
+        "source": "SUDDENLY",
+        "target": "RAND PELTZER",
+        "weight": 1
+      },
+      {
+        "source": "SUDDENLY",
+        "target": "MOGWAI",
+        "weight": 2
+      },
+      {
+        "source": "SUDDENLY",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "SUDDENLY",
+        "target": "HALLWAY",
+        "weight": 1
+      },
+      {
+        "source": "SUDDENLY",
+        "target": "THE CREATURE",
+        "weight": 1
+      },
+      {
+        "source": "SUDDENLY",
+        "target": "INSIDE",
+        "weight": 2
+      },
+      {
+        "source": "SUDDENLY",
+        "target": "MOTHER",
+        "weight": 1
+      },
+      {
+        "source": "SUDDENLY",
+        "target": "THE CREATURES",
+        "weight": 1
+      },
+      {
+        "source": "SUDDENLY",
+        "target": "RAND",
+        "weight": 1
+      },
+      {
+        "source": "SUDDENLY",
+        "target": "THE POLICE CAR",
+        "weight": 1
+      },
+      {
+        "source": "BILLY AND TRACY",
+        "target": "THE WORKER",
+        "weight": 1
+      },
+      {
+        "source": "BILLY AND TRACY",
+        "target": "CLOSE-UP",
+        "weight": 1
+      },
+      {
+        "source": "BILLY AND TRACY",
+        "target": "RAND PELTZER",
+        "weight": 1
+      },
+      {
+        "source": "BILLY AND TRACY",
+        "target": "CAMERA PULLS BACK",
+        "weight": 1
+      },
+      {
+        "source": "BILLY AND TRACY",
+        "target": "TRACY",
+        "weight": 2
+      },
+      {
+        "source": "BILLY AND TRACY",
+        "target": "MOGWAI",
+        "weight": 1
+      },
+      {
+        "source": "BILLY AND TRACY",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "BILLY AND TRACY",
+        "target": "INSIDE",
+        "weight": 1
+      },
+      {
+        "source": "BILLY AND TRACY",
+        "target": "THE CREATURES",
+        "weight": 1
+      },
+      {
+        "source": "BILLY AND TRACY",
+        "target": "THE TOOL BOX",
+        "weight": 1
+      },
+      {
+        "source": "BILLY AND TRACY",
+        "target": "RAND",
+        "weight": 1
+      },
+      {
+        "source": "BILLY AND TRACY",
+        "target": "REV 4/30/82",
+        "weight": 2
+      },
+      {
+        "source": "BILLY AND TRACY",
+        "target": "BILLY",
+        "weight": 2
+      },
+      {
+        "source": "BILLY AND TRACY",
+        "target": "THE POLICE CAR",
+        "weight": 1
+      },
+      {
+        "source": "PEGGY",
+        "target": "LIVING ROOM",
+        "weight": 1
+      },
+      {
+        "source": "PEGGY",
+        "target": "MOGWAI",
+        "weight": 1
+      },
+      {
+        "source": "PEGGY",
+        "target": "THE CREATURE",
+        "weight": 1
+      },
+      {
+        "source": "PEGGY",
+        "target": "CAMERA PANS",
+        "weight": 1
+      },
+      {
+        "source": "PEGGY",
+        "target": "REV 4/30/82",
+        "weight": 1
+      },
+      {
+        "source": "PEGGY",
+        "target": "MOTHER",
+        "weight": 1
+      },
+      {
+        "source": "PEGGY",
+        "target": "BILLY",
+        "weight": 1
+      },
+      {
+        "source": "PEGGY",
+        "target": "PETE",
+        "weight": 1
+      },
+      {
+        "source": "RAND -",
+        "target": "RAND",
+        "weight": 2
+      },
+      {
+        "source": "RAND -",
+        "target": "BILLY",
+        "weight": 1
+      },
+      {
+        "source": "RAND -",
+        "target": "ORIENTAL MAN",
+        "weight": 1
+      },
+      {
+        "source": "THE WATER",
+        "target": "HALLWAY",
+        "weight": 1
+      },
+      {
+        "source": "THE WATER",
+        "target": "BILLY",
+        "weight": 1
+      },
+      {
+        "source": "PETE",
+        "target": "LIVING ROOM",
+        "weight": 1
+      },
+      {
+        "source": "PETE",
+        "target": "ROY",
+        "weight": 1
+      },
+      {
+        "source": "PETE",
+        "target": "CAMERA PANS",
+        "weight": 1
+      },
+      {
+        "source": "PETE",
+        "target": "LI",
+        "weight": 1
+      },
+      {
+        "source": "PETE",
+        "target": "DORRY",
+        "weight": 1
+      },
+      {
+        "source": "PETE",
+        "target": "MOTHER",
+        "weight": 1
+      },
+      {
+        "source": "PETE",
+        "target": "MOGWAI",
+        "weight": 1
+      },
+      {
+        "source": "PETE",
+        "target": "THE CREATURE",
+        "weight": 1
+      },
+      {
+        "source": "PETE",
+        "target": "REV 4/30/82",
+        "weight": 1
+      },
+      {
+        "source": "PETE",
+        "target": "BILLY",
+        "weight": 3
+      },
+      {
+        "source": "THE WORKER",
+        "target": "THE CREATURES",
+        "weight": 1
+      },
+      {
+        "source": "THE WORKER",
+        "target": "CLOSE-UP",
+        "weight": 1
+      },
+      {
+        "source": "THE WORKER",
+        "target": "RAND PELTZER",
+        "weight": 1
+      },
+      {
+        "source": "THE WORKER",
+        "target": "CAMERA PULLS BACK",
+        "weight": 1
+      },
+      {
+        "source": "THE WORKER",
+        "target": "TRACY",
+        "weight": 1
+      },
+      {
+        "source": "THE WORKER",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "THE WORKER",
+        "target": "INSIDE",
+        "weight": 1
+      },
+      {
+        "source": "THE WORKER",
+        "target": "THE TOOL BOX",
+        "weight": 1
+      },
+      {
+        "source": "THE WORKER",
+        "target": "REV 4/30/82",
+        "weight": 1
+      },
+      {
+        "source": "THE WORKER",
+        "target": "RAND",
+        "weight": 1
+      },
+      {
+        "source": "THE WORKER",
+        "target": "BILLY",
+        "weight": 1
+      },
+      {
+        "source": "AN OBJECT",
+        "target": "LIVING ROOM",
+        "weight": 1
+      },
+      {
+        "source": "AN OBJECT",
+        "target": "REV 4/30/82",
+        "weight": 1
+      },
+      {
+        "source": "AN OBJECT",
+        "target": "THE CREATURE",
+        "weight": 1
+      },
+      {
+        "source": "AN OBJECT",
+        "target": "INSIDE",
+        "weight": 1
+      },
+      {
+        "source": "AN OBJECT",
+        "target": "HALLWAY",
+        "weight": 1
+      },
+      {
+        "source": "AN OBJECT",
+        "target": "UPSTAIRS HALLWAY",
+        "weight": 1
+      },
+      {
+        "source": "AN OBJECT",
+        "target": "BILLY",
+        "weight": 1
+      },
+      {
+        "source": "PROJECTION BOOTH",
+        "target": "THE CREATURES",
+        "weight": 1
+      },
+      {
+        "source": "PROJECTION BOOTH",
+        "target": "BILLY",
+        "weight": 1
+      },
+      {
+        "source": "GREMLINS",
+        "target": "RAND PELTZER",
+        "weight": 1
+      },
+      {
+        "source": "GREMLINS",
+        "target": "RAND",
+        "weight": 1
+      },
+      {
+        "source": "GREMLINS",
+        "target": "ORIENTAL MAN",
+        "weight": 1
+      },
+      {
+        "source": "GREMLINS",
+        "target": "INSIDE",
+        "weight": 1
+      },
+      {
+        "source": "RAND PELTZER",
+        "target": "CLOSE-UP",
+        "weight": 1
+      },
+      {
+        "source": "RAND PELTZER",
+        "target": "ORIENTAL MAN",
+        "weight": 1
+      },
+      {
+        "source": "RAND PELTZER",
+        "target": "CAMERA PULLS BACK",
+        "weight": 1
+      },
+      {
+        "source": "RAND PELTZER",
+        "target": "TRACY",
+        "weight": 1
+      },
+      {
+        "source": "RAND PELTZER",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "RAND PELTZER",
+        "target": "INSIDE",
+        "weight": 1
+      },
+      {
+        "source": "RAND PELTZER",
+        "target": "THE CREATURES",
+        "weight": 1
+      },
+      {
+        "source": "RAND PELTZER",
+        "target": "THE TOOL BOX",
+        "weight": 1
+      },
+      {
+        "source": "RAND PELTZER",
+        "target": "RAND",
+        "weight": 2
+      },
+      {
+        "source": "RAND PELTZER",
+        "target": "REV 4/30/82",
+        "weight": 1
+      },
+      {
+        "source": "RAND PELTZER",
+        "target": "BILLY",
+        "weight": 1
+      },
+      {
+        "source": "MR FUTTERS",
+        "target": "THEM",
+        "weight": 1
+      },
+      {
+        "source": "MR FUTTERS",
+        "target": "INSIDE",
+        "weight": 1
+      },
+      {
+        "source": "MR FUTTERS",
+        "target": "THE CREATURES",
+        "weight": 1
+      },
+      {
+        "source": "MR FUTTERS",
+        "target": "MR DEAGLE",
+        "weight": 1
+      },
+      {
+        "source": "MR FUTTERS",
+        "target": "BILLY",
+        "weight": 1
+      },
+      {
+        "source": "MR FUTTERS",
+        "target": "MRS DEAGLE",
+        "weight": 1
+      },
+      {
+        "source": "MR FUTTERS",
+        "target": "THE POLICE CAR",
+        "weight": 1
+      },
+      {
+        "source": "MOGWAI",
+        "target": "LIVING ROOM",
+        "weight": 1
+      },
+      {
+        "source": "MOGWAI",
+        "target": "CAMERA PANS",
+        "weight": 1
+      },
+      {
+        "source": "MOGWAI",
+        "target": "BILLY",
+        "weight": 2
+      },
+      {
+        "source": "MOGWAI",
+        "target": "TRACY",
+        "weight": 1
+      },
+      {
+        "source": "MOGWAI",
+        "target": "THE CREATURE",
+        "weight": 1
+      },
+      {
+        "source": "MOGWAI",
+        "target": "INSIDE",
+        "weight": 1
+      },
+      {
+        "source": "MOGWAI",
+        "target": "MOTHER",
+        "weight": 1
+      },
+      {
+        "source": "MOGWAI",
+        "target": "REV 4/30/82",
+        "weight": 2
+      },
+      {
+        "source": "MOGWAI",
+        "target": "THE POLICE CAR",
+        "weight": 1
+      },
+      {
+        "source": "GARY",
+        "target": "TRACY",
+        "weight": 5
+      },
+      {
+        "source": "GARY",
+        "target": "REV 4/30/82",
+        "weight": 1
+      },
+      {
+        "source": "GARY",
+        "target": "INSIDE",
+        "weight": 1
+      },
+      {
+        "source": "GARY",
+        "target": "DORRY",
+        "weight": 4
+      },
+      {
+        "source": "GARY",
+        "target": "THEN",
+        "weight": 1
+      },
+      {
+        "source": "GARY",
+        "target": "BILLY",
+        "weight": 8
+      },
+      {
+        "source": "INSIDE",
+        "target": "LIVING ROOM",
+        "weight": 1
+      },
+      {
+        "source": "INSIDE",
+        "target": "THEM",
+        "weight": 1
+      },
+      {
+        "source": "INSIDE",
+        "target": "THE CREATURE",
+        "weight": 1
+      },
+      {
+        "source": "INSIDE",
+        "target": "DORRY",
+        "weight": 2
+      },
+      {
+        "source": "INSIDE",
+        "target": "UPSTAIRS HALLWAY",
+        "weight": 1
+      },
+      {
+        "source": "INSIDE",
+        "target": "ROLAND",
+        "weight": 1
+      },
+      {
+        "source": "INSIDE",
+        "target": "MRS DEAGLE",
+        "weight": 3
+      },
+      {
+        "source": "INSIDE",
+        "target": "CLOSE-UP",
+        "weight": 1
+      },
+      {
+        "source": "INSIDE",
+        "target": "THE TOOL BOX",
+        "weight": 1
+      },
+      {
+        "source": "INSIDE",
+        "target": "BILLY",
+        "weight": 4
+      },
+      {
+        "source": "INSIDE",
+        "target": "CAMERA PULLS BACK",
+        "weight": 1
+      },
+      {
+        "source": "INSIDE",
+        "target": "ORIENTAL MAN",
+        "weight": 1
+      },
+      {
+        "source": "INSIDE",
+        "target": "ROY",
+        "weight": 1
+      },
+      {
+        "source": "INSIDE",
+        "target": "MR DEAGLE",
+        "weight": 1
+      },
+      {
+        "source": "INSIDE",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "INSIDE",
+        "target": "HALLWAY",
+        "weight": 1
+      },
+      {
+        "source": "INSIDE",
+        "target": "STEWARDESS",
+        "weight": 1
+      },
+      {
+        "source": "INSIDE",
+        "target": "TRACY",
+        "weight": 2
+      },
+      {
+        "source": "INSIDE",
+        "target": "THE CREATURES",
+        "weight": 2
+      },
+      {
+        "source": "INSIDE",
+        "target": "REV 4/30/82",
+        "weight": 2
+      },
+      {
+        "source": "INSIDE",
+        "target": "RAND",
+        "weight": 3
+      },
+      {
+        "source": "INSIDE",
+        "target": "THE POLICE CAR",
+        "weight": 1
+      },
+      {
+        "source": "MOTHER",
+        "target": "LIVING ROOM",
+        "weight": 1
+      },
+      {
+        "source": "MOTHER",
+        "target": "THE CREATURE",
+        "weight": 1
+      },
+      {
+        "source": "MOTHER",
+        "target": "CAMERA PANS",
+        "weight": 1
+      },
+      {
+        "source": "MOTHER",
+        "target": "REV 4/30/82",
+        "weight": 1
+      },
+      {
+        "source": "MOTHER",
+        "target": "BILLY",
+        "weight": 1
+      },
+      {
+        "source": "BRENT",
+        "target": "BILLY",
+        "weight": 1
+      },
+      {
+        "source": "THE CREATURE",
+        "target": "LIVING ROOM",
+        "weight": 1
+      },
+      {
+        "source": "THE CREATURE",
+        "target": "CAMERA PANS",
+        "weight": 1
+      },
+      {
+        "source": "THE CREATURE",
+        "target": "UPSTAIRS HALLWAY",
+        "weight": 1
+      },
+      {
+        "source": "THE CREATURE",
+        "target": "BILLY",
+        "weight": 2
+      },
+      {
+        "source": "THE CREATURE",
+        "target": "REV 4/30/82",
+        "weight": 2
+      },
+      {
+        "source": "THE CREATURE",
+        "target": "HALLWAY",
+        "weight": 1
+      },
+      {
+        "source": "LIVING ROOM",
+        "target": "CAMERA PANS",
+        "weight": 1
+      },
+      {
+        "source": "LIVING ROOM",
+        "target": "UPSTAIRS HALLWAY",
+        "weight": 1
+      },
+      {
+        "source": "LIVING ROOM",
+        "target": "BILLY",
+        "weight": 1
+      },
+      {
+        "source": "LIVING ROOM",
+        "target": "REV 4/30/82",
+        "weight": 2
+      },
+      {
+        "source": "LIVING ROOM",
+        "target": "HALLWAY",
+        "weight": 2
+      },
+      {
+        "source": "LIVING ROOM",
+        "target": "RAND",
+        "weight": 1
+      },
+      {
+        "source": "ROLAND",
+        "target": "MRS DEAGLE",
+        "weight": 1
+      },
+      {
+        "source": "ROLAND",
+        "target": "RAND",
+        "weight": 1
+      },
+      {
+        "source": "ROLAND",
+        "target": "STEWARDESS",
+        "weight": 1
+      },
+      {
+        "source": "ROLAND",
+        "target": "BILLY",
+        "weight": 1
+      },
+      {
+        "source": "THEM",
+        "target": "THE CREATURES",
+        "weight": 1
+      },
+      {
+        "source": "THEM",
+        "target": "MR DEAGLE",
+        "weight": 1
+      },
+      {
+        "source": "THEM",
+        "target": "BILLY",
+        "weight": 1
+      },
+      {
+        "source": "THEM",
+        "target": "MRS DEAGLE",
+        "weight": 1
+      },
+      {
+        "source": "THEM",
+        "target": "THE POLICE CAR",
+        "weight": 1
+      },
+      {
+        "source": "CAMERA PANS",
+        "target": "BILLY",
+        "weight": 1
+      },
+      {
+        "source": "CAMERA PANS",
+        "target": "REV 4/30/82",
+        "weight": 1
+      },
+      {
+        "source": "LI",
+        "target": "BILLY",
+        "weight": 1
+      },
+      {
+        "source": "DORRY",
+        "target": "TRACY",
+        "weight": 4
+      },
+      {
+        "source": "DORRY",
+        "target": "BILLY",
+        "weight": 7
+      },
+      {
+        "source": "UPSTAIRS HALLWAY",
+        "target": "HALLWAY",
+        "weight": 1
+      },
+      {
+        "source": "UPSTAIRS HALLWAY",
+        "target": "REV 4/30/82",
+        "weight": 1
+      },
+      {
+        "source": "UPSTAIRS HALLWAY",
+        "target": "BILLY",
+        "weight": 1
+      },
+      {
+        "source": "MRS DEAGLE",
+        "target": "STEWARDESS",
+        "weight": 1
+      },
+      {
+        "source": "MRS DEAGLE",
+        "target": "ROY",
+        "weight": 1
+      },
+      {
+        "source": "MRS DEAGLE",
+        "target": "MR DEAGLE",
+        "weight": 1
+      },
+      {
+        "source": "MRS DEAGLE",
+        "target": "CLOSE-UP",
+        "weight": 1
+      },
+      {
+        "source": "MRS DEAGLE",
+        "target": "THE CREATURES",
+        "weight": 1
+      },
+      {
+        "source": "MRS DEAGLE",
+        "target": "RAND",
+        "weight": 2
+      },
+      {
+        "source": "MRS DEAGLE",
+        "target": "BILLY",
+        "weight": 4
+      },
+      {
+        "source": "MRS DEAGLE",
+        "target": "THE POLICE CAR",
+        "weight": 1
+      },
+      {
+        "source": "SHERIFF",
+        "target": "THE CREATURES",
+        "weight": 1
+      },
+      {
+        "source": "SHERIFF",
+        "target": "BILLY",
+        "weight": 1
+      },
+      {
+        "source": "REV 4/30/82",
+        "target": "CAMERA PULLS BACK",
+        "weight": 1
+      },
+      {
+        "source": "REV 4/30/82",
+        "target": "CLOSE-UP",
+        "weight": 1
+      },
+      {
+        "source": "REV 4/30/82",
+        "target": "THE TOOL BOX",
+        "weight": 1
+      },
+      {
+        "source": "REV 4/30/82",
+        "target": "RAND",
+        "weight": 1
+      },
+      {
+        "source": "REV 4/30/82",
+        "target": "TRACY",
+        "weight": 3
+      },
+      {
+        "source": "REV 4/30/82",
+        "target": "BILLY",
+        "weight": 3
+      },
+      {
+        "source": "REV 4/30/82",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "REV 4/30/82",
+        "target": "HALLWAY",
+        "weight": 1
+      },
+      {
+        "source": "REV 4/30/82",
+        "target": "THE CREATURES",
+        "weight": 1
+      },
+      {
+        "source": "REV 4/30/82",
+        "target": "THE POLICE CAR",
+        "weight": 1
+      },
+      {
+        "source": "THE CAR",
+        "target": "BILLY",
+        "weight": 1
+      },
+      {
+        "source": "CLOSE-UP",
+        "target": "THE TOOL BOX",
+        "weight": 1
+      },
+      {
+        "source": "CLOSE-UP",
+        "target": "ROY",
+        "weight": 1
+      },
+      {
+        "source": "CLOSE-UP",
+        "target": "TRACY",
+        "weight": 1
+      },
+      {
+        "source": "CLOSE-UP",
+        "target": "CAMERA PULLS BACK",
+        "weight": 1
+      },
+      {
+        "source": "CLOSE-UP",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "CLOSE-UP",
+        "target": "THE CREATURES",
+        "weight": 1
+      },
+      {
+        "source": "CLOSE-UP",
+        "target": "RAND",
+        "weight": 1
+      },
+      {
+        "source": "CLOSE-UP",
+        "target": "BILLY",
+        "weight": 2
+      },
+      {
+        "source": "THE TOOL BOX",
+        "target": "TRACY",
+        "weight": 1
+      },
+      {
+        "source": "THE TOOL BOX",
+        "target": "CAMERA PULLS BACK",
+        "weight": 1
+      },
+      {
+        "source": "THE TOOL BOX",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "THE TOOL BOX",
+        "target": "THE CREATURES",
+        "weight": 1
+      },
+      {
+        "source": "THE TOOL BOX",
+        "target": "RAND",
+        "weight": 1
+      },
+      {
+        "source": "THE TOOL BOX",
+        "target": "BILLY",
+        "weight": 1
+      },
+      {
+        "source": "BILLY",
+        "target": "CAMERA PULLS BACK",
+        "weight": 1
+      },
+      {
+        "source": "BILLY",
+        "target": "RAND",
+        "weight": 5
+      },
+      {
+        "source": "BILLY",
+        "target": "ROY",
+        "weight": 2
+      },
+      {
+        "source": "BILLY",
+        "target": "MR DEAGLE",
+        "weight": 1
+      },
+      {
+        "source": "BILLY",
+        "target": "DINING ROOM",
+        "weight": 1
+      },
+      {
+        "source": "BILLY",
+        "target": "TRACY",
+        "weight": 11
+      },
+      {
+        "source": "BILLY",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "BILLY",
+        "target": "HALLWAY",
+        "weight": 2
+      },
+      {
+        "source": "BILLY",
+        "target": "STEWARDESS",
+        "weight": 1
+      },
+      {
+        "source": "BILLY",
+        "target": "THE CREATURES",
+        "weight": 3
+      },
+      {
+        "source": "BILLY",
+        "target": "THEN",
+        "weight": 1
+      },
+      {
+        "source": "BILLY",
+        "target": "THE POLICE CAR",
+        "weight": 1
+      },
+      {
+        "source": "CAMERA PULLS BACK",
+        "target": "THE CREATURES",
+        "weight": 1
+      },
+      {
+        "source": "CAMERA PULLS BACK",
+        "target": "TRACY",
+        "weight": 1
+      },
+      {
+        "source": "CAMERA PULLS BACK",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "CAMERA PULLS BACK",
+        "target": "RAND",
+        "weight": 1
+      },
+      {
+        "source": "RAND",
+        "target": "STEWARDESS",
+        "weight": 1
+      },
+      {
+        "source": "RAND",
+        "target": "ROY",
+        "weight": 1
+      },
+      {
+        "source": "RAND",
+        "target": "DINING ROOM",
+        "weight": 1
+      },
+      {
+        "source": "RAND",
+        "target": "ORIENTAL MAN",
+        "weight": 2
+      },
+      {
+        "source": "RAND",
+        "target": "TRACY",
+        "weight": 1
+      },
+      {
+        "source": "RAND",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "RAND",
+        "target": "HALLWAY",
+        "weight": 1
+      },
+      {
+        "source": "RAND",
+        "target": "THE CREATURES",
+        "weight": 1
+      },
+      {
+        "source": "MR DEAGLE",
+        "target": "THE CREATURES",
+        "weight": 1
+      },
+      {
+        "source": "MR DEAGLE",
+        "target": "THE POLICE CAR",
+        "weight": 1
+      },
+      {
+        "source": "TRACY",
+        "target": "THE CREATURES",
+        "weight": 1
+      },
+      {
+        "source": "TRACY",
+        "target": "THE POLICE CAR",
+        "weight": 1
+      },
+      {
+        "source": "TRACY",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "TRACY",
+        "target": "THEN",
+        "weight": 1
+      },
+      {
+        "source": "DOCTOR",
+        "target": "THE CREATURES",
+        "weight": 1
+      },
+      {
+        "source": "THE CREATURES",
+        "target": "THE POLICE CAR",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "AT THE TREE'S BOTTOM",
+        "name": "AT THE TREE'S BOTTOM",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 14,
+        "pagerank": 0.017676407416888314,
+        "object_id": "2250691",
+        "triangles": 91,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.72,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LYNN",
+        "name": "LYNN",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.012123859655290286,
+        "object_id": "2246097",
+        "triangles": 6,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9,
+        "betweenness centrality": 2.4166666666666665,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CAROLERS",
+        "name": "CAROLERS",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 10,
+        "pagerank": 0.01416442011351316,
+        "object_id": "2248210",
+        "triangles": 45,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.84,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CAR RADIO",
+        "name": "CAR RADIO",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.0052236301064466015,
+        "object_id": "2245875",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THE PACK OF CREATURES",
+        "name": "THE PACK OF CREATURES",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 9,
+        "pagerank": 0.014319305368292205,
+        "object_id": "2248922",
+        "triangles": 32,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.82,
+        "betweenness centrality": 0.7428571428571429,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FRANK",
+        "name": "FRANK",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.010562829057260435,
+        "object_id": "2248483",
+        "triangles": 9,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.94,
+        "betweenness centrality": 0.25,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SUDDENLY",
+        "name": "SUDDENLY",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 25,
+        "pagerank": 0.04046382003940468,
+        "object_id": "2247712",
+        "triangles": 156,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.5,
+        "betweenness centrality": 42.83704751131222,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BILLY AND TRACY",
+        "name": "BILLY AND TRACY",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 16,
+        "pagerank": 0.023985504422937832,
+        "object_id": "2250367",
+        "triangles": 103,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.68,
+        "betweenness centrality": 2.5595238095238093,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PEGGY",
+        "name": "PEGGY",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 10,
+        "pagerank": 0.01416442011351316,
+        "object_id": "2248097",
+        "triangles": 45,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.84,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RAND -",
+        "name": "RAND -",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.009405240659451461,
+        "object_id": "2245433",
+        "triangles": 4,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.92,
+        "betweenness centrality": 2.790605636193871,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THE WATER",
+        "name": "THE WATER",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.006212564399431612,
+        "object_id": "2248391",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.98,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PETE",
+        "name": "PETE",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 14,
+        "pagerank": 0.02301205811866873,
+        "object_id": "2245908",
+        "triangles": 49,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.76,
+        "betweenness centrality": 18.516666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THE WORKER",
+        "name": "THE WORKER",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 14,
+        "pagerank": 0.01767640741688831,
+        "object_id": "2250942",
+        "triangles": 91,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.72,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "AN OBJECT",
+        "name": "AN OBJECT",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 7,
+        "pagerank": 0.01077840403018745,
+        "object_id": "2247776",
+        "triangles": 21,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.86,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PROJECTION BOOTH",
+        "name": "PROJECTION BOOTH",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.0051063484797184725,
+        "object_id": "2250152",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GREMLINS",
+        "name": "GREMLINS",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.007647729628676349,
+        "object_id": "2245252",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.2,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RAND PELTZER",
+        "name": "RAND PELTZER",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 16,
+        "pagerank": 0.021867540013920078,
+        "object_id": "2245269",
+        "triangles": 96,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.68,
+        "betweenness centrality": 15.04628272054743,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MR FUTTERS",
+        "name": "MR FUTTERS",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 8,
+        "pagerank": 0.01221019279246695,
+        "object_id": "2248758",
+        "triangles": 28,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.84,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MOGWAI",
+        "name": "MOGWAI",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 14,
+        "pagerank": 0.02151830491328351,
+        "object_id": "2248300",
+        "triangles": 65,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.72,
+        "betweenness centrality": 6.339730122818358,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GARY",
+        "name": "GARY",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 7,
+        "pagerank": 0.025197999847646632,
+        "object_id": "2245774",
+        "triangles": 15,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.86,
+        "betweenness centrality": 2.158766233766234,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "INSIDE",
+        "name": "INSIDE",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 33,
+        "pagerank": 0.054374705491793775,
+        "object_id": "2245338",
+        "triangles": 180,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.34,
+        "betweenness centrality": 135.2137117784176,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MOTHER",
+        "name": "MOTHER",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 10,
+        "pagerank": 0.01416442011351316,
+        "object_id": "2248092",
+        "triangles": 45,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.84,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BRENT",
+        "name": "BRENT",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.004001150647961941,
+        "object_id": "2248597",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.02,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THE CREATURE",
+        "name": "THE CREATURE",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 14,
+        "pagerank": 0.02114789249536813,
+        "object_id": "2247836",
+        "triangles": 66,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.72,
+        "betweenness centrality": 5.906396789485025,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LIVING ROOM",
+        "name": "LIVING ROOM",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 15,
+        "pagerank": 0.022392018314918157,
+        "object_id": "2247092",
+        "triangles": 71,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7,
+        "betweenness centrality": 8.530650721827191,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ROLAND",
+        "name": "ROLAND",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 5,
+        "pagerank": 0.00873872580434828,
+        "object_id": "2245662",
+        "triangles": 10,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THEM",
+        "name": "THEM",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 8,
+        "pagerank": 0.01221019279246695,
+        "object_id": "2248740",
+        "triangles": 28,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.84,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CAMERA PANS",
+        "name": "CAMERA PANS",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 10,
+        "pagerank": 0.01416442011351316,
+        "object_id": "2248218",
+        "triangles": 45,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.84,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LI",
+        "name": "LI",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.0052236301064466015,
+        "object_id": "2246744",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DORRY",
+        "name": "DORRY",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.02159307206952834,
+        "object_id": "2245989",
+        "triangles": 7,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9,
+        "betweenness centrality": 0.779656862745098,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "UPSTAIRS HALLWAY",
+        "name": "UPSTAIRS HALLWAY",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 7,
+        "pagerank": 0.01077840403018745,
+        "object_id": "2247857",
+        "triangles": 21,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.86,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MRS DEAGLE",
+        "name": "MRS DEAGLE",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 13,
+        "pagerank": 0.025133783543268094,
+        "object_id": "2245577",
+        "triangles": 46,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.74,
+        "betweenness centrality": 8.85,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SHERIFF",
+        "name": "SHERIFF",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.0051063484797184725,
+        "object_id": "2249011",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REV 4/30/82",
+        "name": "REV 4/30/82",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 28,
+        "pagerank": 0.04581491612729799,
+        "object_id": "2247913",
+        "triangles": 171,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.44,
+        "betweenness centrality": 60.33477478403948,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THE CAR",
+        "name": "THE CAR",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.005718780142431385,
+        "object_id": "2247667",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CLOSE-UP",
+        "name": "CLOSE-UP",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 16,
+        "pagerank": 0.02116232661630047,
+        "object_id": "2247287",
+        "triangles": 99,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.68,
+        "betweenness centrality": 4.442857142857142,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THE TOOL BOX",
+        "name": "THE TOOL BOX",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 14,
+        "pagerank": 0.01767640741688831,
+        "object_id": "2250946",
+        "triangles": 91,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.72,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BILLY",
+        "name": "BILLY",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 48,
+        "pagerank": 0.12345599665289858,
+        "object_id": "2245574",
+        "triangles": 230,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.04,
+        "betweenness centrality": 547.3206185154713,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CAMERA PULLS BACK",
+        "name": "CAMERA PULLS BACK",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 14,
+        "pagerank": 0.01767640741688831,
+        "object_id": "2250816",
+        "triangles": 91,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.72,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RAND",
+        "name": "RAND",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 25,
+        "pagerank": 0.04530766025963383,
+        "object_id": "2245278",
+        "triangles": 126,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.5,
+        "betweenness centrality": 74.16130462674583,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ORIENTAL MAN",
+        "name": "ORIENTAL MAN",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.01048679194114563,
+        "object_id": "2245317",
+        "triangles": 7,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.18,
+        "betweenness centrality": 1.1666666666666665,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ROY",
+        "name": "ROY",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 6,
+        "pagerank": 0.010593623246862005,
+        "object_id": "2246923",
+        "triangles": 11,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.88,
+        "betweenness centrality": 1.3176470588235296,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MR DEAGLE",
+        "name": "MR DEAGLE",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 8,
+        "pagerank": 0.01221019279246695,
+        "object_id": "2248820",
+        "triangles": 28,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.84,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DINING ROOM",
+        "name": "DINING ROOM",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.006819158123775837,
+        "object_id": "2246140",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.94,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TRACY",
+        "name": "TRACY",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 21,
+        "pagerank": 0.05015776695739646,
+        "object_id": "2245747",
+        "triangles": 119,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.58,
+        "betweenness centrality": 28.30248917748917,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOCTOR",
+        "name": "DOCTOR",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 14,
+        "pagerank": 0.01767640741688831,
+        "object_id": "2250895",
+        "triangles": 91,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.72,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HALLWAY",
+        "name": "HALLWAY",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 10,
+        "pagerank": 0.016939068115759272,
+        "object_id": "2247085",
+        "triangles": 33,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8,
+        "betweenness centrality": 4.03888888888889,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "STEWARDESS",
+        "name": "STEWARDESS",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 5,
+        "pagerank": 0.00873872580434828,
+        "object_id": "2245524",
+        "triangles": 10,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THE CREATURES",
+        "name": "THE CREATURES",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 22,
+        "pagerank": 0.03250599347985159,
+        "object_id": "2248706",
+        "triangles": 127,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.56,
+        "betweenness centrality": 37.15714285714286,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THEN",
+        "name": "THEN",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.007272617363675371,
+        "object_id": "2249077",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.96,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THE POLICE CAR",
+        "name": "THE POLICE CAR",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 13,
+        "pagerank": 0.017441409528572694,
+        "object_id": "2248713",
+        "triangles": 53,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.74,
+        "betweenness centrality": 5.819047619047618,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": -215.32718,
+        "y": -69.63979,
+        "name": "AT THE TREE'S BOTTOM"
+      },
+      {
+        "x": 139.12685,
+        "y": 99.29578,
+        "name": "LYNN"
+      },
+      {
+        "x": 251.32022,
+        "y": -163.15181,
+        "name": "CAROLERS"
+      },
+      {
+        "x": 140.65038,
+        "y": -233.1462,
+        "name": "CAR RADIO"
+      },
+      {
+        "x": -182.48721,
+        "y": 181.65923,
+        "name": "THE PACK OF CREATURES"
+      },
+      {
+        "x": 94.77773,
+        "y": 93.85422,
+        "name": "FRANK"
+      },
+      {
+        "x": 26.661608,
+        "y": -143.39655,
+        "name": "SUDDENLY"
+      },
+      {
+        "x": -122.82664,
+        "y": -73.50033,
+        "name": "BILLY AND TRACY"
+      },
+      {
+        "x": 299.0996,
+        "y": -191.56326,
+        "name": "PEGGY"
+      },
+      {
+        "x": 142.49196,
+        "y": 171.3333,
+        "name": "RAND -"
+      },
+      {
+        "x": 24.540207,
+        "y": -85.98085,
+        "name": "THE WATER"
+      },
+      {
+        "x": 170.16568,
+        "y": -159.91087,
+        "name": "PETE"
+      },
+      {
+        "x": -103.40578,
+        "y": -167.87383,
+        "name": "THE WORKER"
+      },
+      {
+        "x": 232.45697,
+        "y": 91.15823,
+        "name": "AN OBJECT"
+      },
+      {
+        "x": -62.114014,
+        "y": -136.46765,
+        "name": "PROJECTION BOOTH"
+      },
+      {
+        "x": -24.720116,
+        "y": 246.70464,
+        "name": "GREMLINS"
+      },
+      {
+        "x": -74.23114,
+        "y": -82.942566,
+        "name": "RAND PELTZER"
+      },
+      {
+        "x": -247.24442,
+        "y": 220.52403,
+        "name": "MR FUTTERS"
+      },
+      {
+        "x": 157.09415,
+        "y": -99.18054,
+        "name": "MOGWAI"
+      },
+      {
+        "x": 46.76517,
+        "y": 64.16564,
+        "name": "GARY"
+      },
+      {
+        "x": -70.40583,
+        "y": 94.80909,
+        "name": "INSIDE"
+      },
+      {
+        "x": 239.22304,
+        "y": -221.22691,
+        "name": "MOTHER"
+      },
+      {
+        "x": -119.78673,
+        "y": -249.07294,
+        "name": "BRENT"
+      },
+      {
+        "x": 237.21994,
+        "y": -83.56388,
+        "name": "THE CREATURE"
+      },
+      {
+        "x": 260.39386,
+        "y": -28.472967,
+        "name": "LIVING ROOM"
+      },
+      {
+        "x": 60.988255,
+        "y": 230.52348,
+        "name": "ROLAND"
+      },
+      {
+        "x": -261.1974,
+        "y": 169.6663,
+        "name": "THEM"
+      },
+      {
+        "x": 306.28506,
+        "y": -129.23788,
+        "name": "CAMERA PANS"
+      },
+      {
+        "x": -39.490597,
+        "y": -56.449867,
+        "name": "LI"
+      },
+      {
+        "x": -1.0524073,
+        "y": 46.960052,
+        "name": "DORRY"
+      },
+      {
+        "x": 268.1932,
+        "y": 54.402008,
+        "name": "UPSTAIRS HALLWAY"
+      },
+      {
+        "x": -96.89405,
+        "y": 189.56918,
+        "name": "MRS DEAGLE"
+      },
+      {
+        "x": -102.20942,
+        "y": -217.146,
+        "name": "SHERIFF"
+      },
+      {
+        "x": 82.92809,
+        "y": -80.78107,
+        "name": "REV 4/30/82"
+      },
+      {
+        "x": 159.85362,
+        "y": 13.335062,
+        "name": "THE CAR"
+      },
+      {
+        "x": -147.82285,
+        "y": -12.160061,
+        "name": "CLOSE-UP"
+      },
+      {
+        "x": -160.51273,
+        "y": -121.71615,
+        "name": "THE TOOL BOX"
+      },
+      {
+        "x": 33.470207,
+        "y": 7.077281,
+        "name": "BILLY"
+      },
+      {
+        "x": -219.86389,
+        "y": -134.06424,
+        "name": "CAMERA PULLS BACK"
+      },
+      {
+        "x": 4.420673,
+        "y": 111.551636,
+        "name": "RAND"
+      },
+      {
+        "x": 20.763048,
+        "y": 238.1918,
+        "name": "ORIENTAL MAN"
+      },
+      {
+        "x": -4.5753684,
+        "y": 171.6915,
+        "name": "ROY"
+      },
+      {
+        "x": -199.47942,
+        "y": 245.36563,
+        "name": "MR DEAGLE"
+      },
+      {
+        "x": -70.35203,
+        "y": 44.707527,
+        "name": "DINING ROOM"
+      },
+      {
+        "x": -40.4206,
+        "y": -5.365616,
+        "name": "TRACY"
+      },
+      {
+        "x": -167.47566,
+        "y": -183.65991,
+        "name": "DOCTOR"
+      },
+      {
+        "x": 193.13182,
+        "y": 33.20889,
+        "name": "HALLWAY"
+      },
+      {
+        "x": 67.84912,
+        "y": 191.00987,
+        "name": "STEWARDESS"
+      },
+      {
+        "x": -209.67435,
+        "y": 23.019205,
+        "name": "THE CREATURES"
+      },
+      {
+        "x": 117.350784,
+        "y": 195.77252,
+        "name": "THEN"
+      },
+      {
+        "x": -177.95024,
+        "y": 110.84674,
+        "name": "THE POLICE CAR"
+      }
+    ]
+  }
+}

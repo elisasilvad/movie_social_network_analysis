@@ -1,0 +1,856 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "FLORENCE",
+        "target": "NATHAN",
+        "weight": 1
+      },
+      {
+        "source": "POLICEMAN",
+        "target": "UNIFORMED COP",
+        "weight": 1
+      },
+      {
+        "source": "POLICEMAN",
+        "target": "BYRUM",
+        "weight": 1
+      },
+      {
+        "source": "POLICEMAN",
+        "target": "COP",
+        "weight": 1
+      },
+      {
+        "source": "POLICEMAN",
+        "target": "NATHAN",
+        "weight": 1
+      },
+      {
+        "source": "POLICEMAN",
+        "target": "FBI #2",
+        "weight": 1
+      },
+      {
+        "source": "POLICEMAN",
+        "target": "FBI #1",
+        "weight": 1
+      },
+      {
+        "source": "SECOND MAN",
+        "target": "HI",
+        "weight": 2
+      },
+      {
+        "source": "SECOND MAN",
+        "target": "CHAIRMAN",
+        "weight": 2
+      },
+      {
+        "source": "COUNSELOR",
+        "target": "EVELLE",
+        "weight": 1
+      },
+      {
+        "source": "COUNSELOR",
+        "target": "CON",
+        "weight": 1
+      },
+      {
+        "source": "COUNSELOR",
+        "target": "GALE",
+        "weight": 1
+      },
+      {
+        "source": "CASHIER",
+        "target": "EVELLE",
+        "weight": 1
+      },
+      {
+        "source": "GALE",
+        "target": "EVELLE",
+        "weight": 9
+      },
+      {
+        "source": "GALE",
+        "target": "HI",
+        "weight": 3
+      },
+      {
+        "source": "GALE",
+        "target": "ED",
+        "weight": 3
+      },
+      {
+        "source": "GALE",
+        "target": "HAYSEED",
+        "weight": 1
+      },
+      {
+        "source": "SHERIFF",
+        "target": "HI",
+        "weight": 1
+      },
+      {
+        "source": "SHERIFF",
+        "target": "ED",
+        "weight": 1
+      },
+      {
+        "source": "UNIFORMED COP",
+        "target": "BYRUM",
+        "weight": 1
+      },
+      {
+        "source": "UNIFORMED COP",
+        "target": "COP",
+        "weight": 1
+      },
+      {
+        "source": "UNIFORMED COP",
+        "target": "NATHAN",
+        "weight": 1
+      },
+      {
+        "source": "UNIFORMED COP",
+        "target": "FBI #2",
+        "weight": 1
+      },
+      {
+        "source": "UNIFORMED COP",
+        "target": "FBI #1",
+        "weight": 1
+      },
+      {
+        "source": "COP",
+        "target": "BYRUM",
+        "weight": 1
+      },
+      {
+        "source": "COP",
+        "target": "NATHAN",
+        "weight": 1
+      },
+      {
+        "source": "COP",
+        "target": "FBI #2",
+        "weight": 1
+      },
+      {
+        "source": "COP",
+        "target": "FBI #1",
+        "weight": 1
+      },
+      {
+        "source": "DOT",
+        "target": "HI",
+        "weight": 1
+      },
+      {
+        "source": "DOT",
+        "target": "ED",
+        "weight": 3
+      },
+      {
+        "source": "DOT",
+        "target": "GLEN",
+        "weight": 1
+      },
+      {
+        "source": "SECRETARY",
+        "target": "NATHAN",
+        "weight": 1
+      },
+      {
+        "source": "SMALLS",
+        "target": "NATHAN",
+        "weight": 1
+      },
+      {
+        "source": "SMALLS",
+        "target": "BIKER",
+        "weight": 1
+      },
+      {
+        "source": "KID",
+        "target": "HI",
+        "weight": 1
+      },
+      {
+        "source": "KID",
+        "target": "GLEN",
+        "weight": 1
+      },
+      {
+        "source": "HI",
+        "target": "EVELLE",
+        "weight": 3
+      },
+      {
+        "source": "HI",
+        "target": "NATHAN",
+        "weight": 2
+      },
+      {
+        "source": "HI",
+        "target": "CON",
+        "weight": 1
+      },
+      {
+        "source": "HI",
+        "target": "ED",
+        "weight": 11
+      },
+      {
+        "source": "HI",
+        "target": "CHAIRMAN",
+        "weight": 3
+      },
+      {
+        "source": "HI",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "HI",
+        "target": "GLEN",
+        "weight": 4
+      },
+      {
+        "source": "HI",
+        "target": "BUD",
+        "weight": 1
+      },
+      {
+        "source": "HI",
+        "target": "MOSES",
+        "weight": 1
+      },
+      {
+        "source": "HI",
+        "target": "DRIVER",
+        "weight": 1
+      },
+      {
+        "source": "HAYSEED",
+        "target": "EVELLE",
+        "weight": 1
+      },
+      {
+        "source": "FBI #1",
+        "target": "BYRUM",
+        "weight": 1
+      },
+      {
+        "source": "FBI #1",
+        "target": "NATHAN",
+        "weight": 1
+      },
+      {
+        "source": "FBI #1",
+        "target": "FBI #2",
+        "weight": 1
+      },
+      {
+        "source": "NATHAN",
+        "target": "FBI #2",
+        "weight": 1
+      },
+      {
+        "source": "NATHAN",
+        "target": "ED",
+        "weight": 1
+      },
+      {
+        "source": "NATHAN",
+        "target": "BYRUM",
+        "weight": 1
+      },
+      {
+        "source": "NATHAN",
+        "target": "BIKER",
+        "weight": 1
+      },
+      {
+        "source": "FBI #2",
+        "target": "BYRUM",
+        "weight": 1
+      },
+      {
+        "source": "ED",
+        "target": "EVELLE",
+        "weight": 3
+      },
+      {
+        "source": "ED",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "ED",
+        "target": "GLEN",
+        "weight": 1
+      },
+      {
+        "source": "CHAIRMAN",
+        "target": "WOMAN",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "FLORENCE",
+        "name": "FLORENCE",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.010395462499241167,
+        "object_id": "4105185",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.642857142857143,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "POLICEMAN",
+        "name": "POLICEMAN",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 6,
+        "pagerank": 0.035645774444764605,
+        "object_id": "4106184",
+        "triangles": 15,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.4642857142857144,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SECOND MAN",
+        "name": "SECOND MAN",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.021698505262628884,
+        "object_id": "4104204",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.392857142857143,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COUNSELOR",
+        "name": "COUNSELOR",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.01846518567591533,
+        "object_id": "4103975",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.0,
+        "betweenness centrality": 2.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CASHIER",
+        "name": "CASHIER",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 1,
+        "pagerank": 0.008836917219823232,
+        "object_id": "4104525",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.107142857142857,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GALE",
+        "name": "GALE",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.07108518536323583,
+        "object_id": "4104148",
+        "triangles": 5,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1785714285714284,
+        "betweenness centrality": 21.333333333333332,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SHERIFF",
+        "name": "SHERIFF",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.012650561013762551,
+        "object_id": "4103885",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.392857142857143,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "UNIFORMED COP",
+        "name": "UNIFORMED COP",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 6,
+        "pagerank": 0.035645774444764605,
+        "object_id": "4106269",
+        "triangles": 15,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.4642857142857144,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COP",
+        "name": "COP",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 6,
+        "pagerank": 0.035645774444764605,
+        "object_id": "4106281",
+        "triangles": 15,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.4642857142857144,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOT",
+        "name": "DOT",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.0239581681676933,
+        "object_id": "4106640",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.357142857142857,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SECRETARY",
+        "name": "SECRETARY",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.010395462499241167,
+        "object_id": "4108315",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.642857142857143,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SMALLS",
+        "name": "SMALLS",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.018079375506258728,
+        "object_id": "4108391",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.607142857142857,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KID",
+        "name": "KID",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.013188147227535212,
+        "object_id": "4106811",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.392857142857143,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HI",
+        "name": "HI",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 15,
+        "pagerank": 0.16467749745079882,
+        "object_id": "4103896",
+        "triangles": 12,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.4642857142857142,
+        "betweenness centrality": 223.50000000000006,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HAYSEED",
+        "name": "HAYSEED",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.012391076997001621,
+        "object_id": "4109389",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.0714285714285716,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FBI #1",
+        "name": "FBI #1",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 6,
+        "pagerank": 0.035645774444764605,
+        "object_id": "4106251",
+        "triangles": 15,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.4642857142857144,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NATHAN",
+        "name": "NATHAN",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 12,
+        "pagerank": 0.0798795219681408,
+        "object_id": "4104865",
+        "triangles": 17,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.6785714285714286,
+        "betweenness centrality": 209.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CON",
+        "name": "CON",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.014292251411754373,
+        "object_id": "4103946",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.357142857142857,
+        "betweenness centrality": 5.333333333333331,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FBI #2",
+        "name": "FBI #2",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 6,
+        "pagerank": 0.03564577444476461,
+        "object_id": "4106259",
+        "triangles": 15,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.4642857142857144,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ED",
+        "name": "ED",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 8,
+        "pagerank": 0.1013671915733865,
+        "object_id": "4103900",
+        "triangles": 9,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7142857142857142,
+        "betweenness centrality": 60.50000000000002,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CHAIRMAN",
+        "name": "CHAIRMAN",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.030882315128769496,
+        "object_id": "4104004",
+        "triangles": 2,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.357142857142857,
+        "betweenness centrality": 0.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BYRUM",
+        "name": "BYRUM",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 6,
+        "pagerank": 0.03564577444476461,
+        "object_id": "4106219",
+        "triangles": 15,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.4642857142857144,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "EVELLE",
+        "name": "EVELLE",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.07760336583226086,
+        "object_id": "4104152",
+        "triangles": 5,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.142857142857143,
+        "betweenness centrality": 48.33333333333334,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WOMAN",
+        "name": "WOMAN",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.01702546650791886,
+        "object_id": "4103893",
+        "triangles": 2,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.357142857142857,
+        "betweenness centrality": 0.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MOSES",
+        "name": "MOSES",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.009060554033709856,
+        "object_id": "4104175",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.4285714285714284,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BUD",
+        "name": "BUD",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.009060554033709856,
+        "object_id": "4104488",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.4285714285714284,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GLEN",
+        "name": "GLEN",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.03399265841865727,
+        "object_id": "4106645",
+        "triangles": 4,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.3214285714285716,
+        "betweenness centrality": 1.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BIKER",
+        "name": "BIKER",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.018079375506258728,
+        "object_id": "4108364",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.607142857142857,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DRIVER",
+        "name": "DRIVER",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.009060554033709856,
+        "object_id": "4107518",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.4285714285714284,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": -106.869995,
+        "y": 128.23582,
+        "name": "FLORENCE"
+      },
+      {
+        "x": -69.64488,
+        "y": 300.969,
+        "name": "POLICEMAN"
+      },
+      {
+        "x": -17.431734,
+        "y": -116.87418,
+        "name": "SECOND MAN"
+      },
+      {
+        "x": 174.97499,
+        "y": -66.87041,
+        "name": "COUNSELOR"
+      },
+      {
+        "x": 24.240309,
+        "y": 7.9956617,
+        "name": "CASHIER"
+      },
+      {
+        "x": 101.09152,
+        "y": -60.73823,
+        "name": "GALE"
+      },
+      {
+        "x": 78.420654,
+        "y": -8.519402,
+        "name": "SHERIFF"
+      },
+      {
+        "x": -108.330154,
+        "y": 274.89914,
+        "name": "UNIFORMED COP"
+      },
+      {
+        "x": -67.12849,
+        "y": 352.46487,
+        "name": "COP"
+      },
+      {
+        "x": 21.738737,
+        "y": -109.151405,
+        "name": "DOT"
+      },
+      {
+        "x": 2.1801877,
+        "y": 154.70934,
+        "name": "SECRETARY"
+      },
+      {
+        "x": -154.30376,
+        "y": 158.72061,
+        "name": "SMALLS"
+      },
+      {
+        "x": -84.19554,
+        "y": -39.14598,
+        "name": "KID"
+      },
+      {
+        "x": 13.765348,
+        "y": -41.24811,
+        "name": "HI"
+      },
+      {
+        "x": 149.0756,
+        "y": -124.38374,
+        "name": "HAYSEED"
+      },
+      {
+        "x": -21.856035,
+        "y": 325.9408,
+        "name": "FBI #1"
+      },
+      {
+        "x": -54.663986,
+        "y": 176.50137,
+        "name": "NATHAN"
+      },
+      {
+        "x": 151.88867,
+        "y": -21.017267,
+        "name": "CON"
+      },
+      {
+        "x": -32.055496,
+        "y": 274.3235,
+        "name": "FBI #2"
+      },
+      {
+        "x": 46.00751,
+        "y": -67.20772,
+        "name": "ED"
+      },
+      {
+        "x": -41.006916,
+        "y": -91.64823,
+        "name": "CHAIRMAN"
+      },
+      {
+        "x": -114.19405,
+        "y": 327.87653,
+        "name": "BYRUM"
+      },
+      {
+        "x": 89.69554,
+        "y": -91.66798,
+        "name": "EVELLE"
+      },
+      {
+        "x": -55.986416,
+        "y": -131.75264,
+        "name": "WOMAN"
+      },
+      {
+        "x": 28.920362,
+        "y": 42.419212,
+        "name": "MOSES"
+      },
+      {
+        "x": 73.48872,
+        "y": 34.4262,
+        "name": "BUD"
+      },
+      {
+        "x": -35.53709,
+        "y": -48.300175,
+        "name": "GLEN"
+      },
+      {
+        "x": -128.35925,
+        "y": 184.97955,
+        "name": "BIKER"
+      },
+      {
+        "x": 53.930786,
+        "y": -145.64273,
+        "name": "DRIVER"
+      }
+    ]
+  }
+}

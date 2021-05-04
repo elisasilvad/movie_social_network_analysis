@@ -1,0 +1,1378 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "COUNTESS",
+        "target": "BROOKSIDE",
+        "weight": 2
+      },
+      {
+        "source": "COUNTESS",
+        "target": "TAPEWELL",
+        "weight": 1
+      },
+      {
+        "source": "COUNTESS",
+        "target": "RODERICK",
+        "weight": 6
+      },
+      {
+        "source": "COUNTESS",
+        "target": "PATRICK",
+        "weight": 2
+      },
+      {
+        "source": "COUNTESS",
+        "target": "HUNT",
+        "weight": 1
+      },
+      {
+        "source": "DASCHER",
+        "target": "CHEVALIER",
+        "weight": 1
+      },
+      {
+        "source": "DASCHER",
+        "target": "ANOTHER OFFICER",
+        "weight": 1
+      },
+      {
+        "source": "DASCHER",
+        "target": "RODERICK",
+        "weight": 1
+      },
+      {
+        "source": "MINISTER GALGENSTEIN",
+        "target": "PRIVATE",
+        "weight": 1
+      },
+      {
+        "source": "MINISTER GALGENSTEIN",
+        "target": "CAPTAIN GALGENSTEIN",
+        "weight": 3
+      },
+      {
+        "source": "MINISTER GALGENSTEIN",
+        "target": "RODERICK",
+        "weight": 2
+      },
+      {
+        "source": "PATRICK",
+        "target": "RODERICK",
+        "weight": 4
+      },
+      {
+        "source": "PATRICK",
+        "target": "HUNT",
+        "weight": 1
+      },
+      {
+        "source": "PRIVATE",
+        "target": "RODERICK",
+        "weight": 1
+      },
+      {
+        "source": "PRIVATE",
+        "target": "CAPTAIN GALGENSTEIN",
+        "weight": 1
+      },
+      {
+        "source": "ANOTHER OFFICER",
+        "target": "RODERICK",
+        "weight": 1
+      },
+      {
+        "source": "DOROTHY",
+        "target": "CAPTAIN BEST",
+        "weight": 1
+      },
+      {
+        "source": "DOROTHY",
+        "target": "CAPTAIN GROGAN",
+        "weight": 1
+      },
+      {
+        "source": "DOROTHY",
+        "target": "MICHAEL",
+        "weight": 1
+      },
+      {
+        "source": "DOROTHY",
+        "target": "RODERICK",
+        "weight": 2
+      },
+      {
+        "source": "DOROTHY",
+        "target": "ORDERLY",
+        "weight": 1
+      },
+      {
+        "source": "CAPTAIN O'REILLY",
+        "target": "MRS O'REILLY",
+        "weight": 2
+      },
+      {
+        "source": "CAPTAIN O'REILLY",
+        "target": "RODERICK",
+        "weight": 1
+      },
+      {
+        "source": "CAPTAIN GROGAN",
+        "target": "HARRY",
+        "weight": 1
+      },
+      {
+        "source": "CAPTAIN GROGAN",
+        "target": "MICHAEL",
+        "weight": 1
+      },
+      {
+        "source": "CAPTAIN GROGAN",
+        "target": "CAPTAIN",
+        "weight": 1
+      },
+      {
+        "source": "CAPTAIN GROGAN",
+        "target": "CAPTAIN BEST",
+        "weight": 2
+      },
+      {
+        "source": "CAPTAIN GROGAN",
+        "target": "AUNT",
+        "weight": 1
+      },
+      {
+        "source": "CAPTAIN GROGAN",
+        "target": "ORDERLY",
+        "weight": 1
+      },
+      {
+        "source": "CAPTAIN GROGAN",
+        "target": "RODERICK",
+        "weight": 6
+      },
+      {
+        "source": "CAPTAIN GROGAN",
+        "target": "UNCLE",
+        "weight": 1
+      },
+      {
+        "source": "CAPTAIN",
+        "target": "RODERICK",
+        "weight": 1
+      },
+      {
+        "source": "HENRI",
+        "target": "EARL OF CRABS",
+        "weight": 1
+      },
+      {
+        "source": "HENRI",
+        "target": "RODERICK",
+        "weight": 1
+      },
+      {
+        "source": "PRUSSIAN OFFICER",
+        "target": "CHEVALIER",
+        "weight": 2
+      },
+      {
+        "source": "PRUSSIAN OFFICER",
+        "target": "RODERICK",
+        "weight": 1
+      },
+      {
+        "source": "NARRATOR",
+        "target": "TAPEWELL",
+        "weight": 1
+      },
+      {
+        "source": "NARRATOR",
+        "target": "RODERICK",
+        "weight": 1
+      },
+      {
+        "source": "SIR WILLIAM",
+        "target": "RODERICK",
+        "weight": 2
+      },
+      {
+        "source": "NEWCOMBE",
+        "target": "RODERICK",
+        "weight": 1
+      },
+      {
+        "source": "VALET",
+        "target": "RODERICK",
+        "weight": 1
+      },
+      {
+        "source": "VALET",
+        "target": "HUNT",
+        "weight": 1
+      },
+      {
+        "source": "FOOTMAN",
+        "target": "COUNTRY FELLOW #2",
+        "weight": 1
+      },
+      {
+        "source": "FOOTMAN",
+        "target": "MRS O'REILLY",
+        "weight": 1
+      },
+      {
+        "source": "FOOTMAN",
+        "target": "RODERICK",
+        "weight": 1
+      },
+      {
+        "source": "FOOTMAN",
+        "target": "COUNTRY FELLOW #1",
+        "weight": 1
+      },
+      {
+        "source": "COUNTRY FELLOW #1",
+        "target": "MRS O'REILLY",
+        "weight": 1
+      },
+      {
+        "source": "COUNTRY FELLOW #1",
+        "target": "COUNTRY FELLOW #2",
+        "weight": 1
+      },
+      {
+        "source": "COUNTRY FELLOW #1",
+        "target": "RODERICK",
+        "weight": 1
+      },
+      {
+        "source": "CAPTAIN BEST",
+        "target": "HARRY",
+        "weight": 2
+      },
+      {
+        "source": "CAPTAIN BEST",
+        "target": "MICHAEL",
+        "weight": 2
+      },
+      {
+        "source": "CAPTAIN BEST",
+        "target": "AUNT",
+        "weight": 1
+      },
+      {
+        "source": "CAPTAIN BEST",
+        "target": "ORDERLY",
+        "weight": 1
+      },
+      {
+        "source": "CAPTAIN BEST",
+        "target": "RODERICK",
+        "weight": 3
+      },
+      {
+        "source": "CAPTAIN BEST",
+        "target": "UNCLE",
+        "weight": 1
+      },
+      {
+        "source": "JOHNSON",
+        "target": "RODERICK",
+        "weight": 1
+      },
+      {
+        "source": "LANGEAC",
+        "target": "RODERICK",
+        "weight": 1
+      },
+      {
+        "source": "TAPEWELL",
+        "target": "RODERICK",
+        "weight": 1
+      },
+      {
+        "source": "TAPEWELL",
+        "target": "BROOKSIDE",
+        "weight": 1
+      },
+      {
+        "source": "CHEVALIER",
+        "target": "CHAMBERMAID",
+        "weight": 1
+      },
+      {
+        "source": "CHEVALIER",
+        "target": "CAPTAIN GALGENSTEIN",
+        "weight": 1
+      },
+      {
+        "source": "CHEVALIER",
+        "target": "PRINCE",
+        "weight": 1
+      },
+      {
+        "source": "CHEVALIER",
+        "target": "RODERICK",
+        "weight": 5
+      },
+      {
+        "source": "CHEVALIER",
+        "target": "LANDLORD",
+        "weight": 1
+      },
+      {
+        "source": "COUNT",
+        "target": "RODERICK",
+        "weight": 1
+      },
+      {
+        "source": "PRINCE",
+        "target": "RODERICK",
+        "weight": 1
+      },
+      {
+        "source": "DUKE OF RUTLAND",
+        "target": "RODERICK",
+        "weight": 1
+      },
+      {
+        "source": "VALDEZ",
+        "target": "RODERICK",
+        "weight": 1
+      },
+      {
+        "source": "ARMED GENTLEMAN",
+        "target": "RODERICK",
+        "weight": 1
+      },
+      {
+        "source": "AUNT",
+        "target": "RODERICK",
+        "weight": 1
+      },
+      {
+        "source": "AUNT",
+        "target": "HARRY",
+        "weight": 1
+      },
+      {
+        "source": "AUNT",
+        "target": "UNCLE",
+        "weight": 1
+      },
+      {
+        "source": "CAPTAIN GALGENSTEIN",
+        "target": "CHAMBERMAID",
+        "weight": 1
+      },
+      {
+        "source": "CAPTAIN GALGENSTEIN",
+        "target": "RODERICK",
+        "weight": 4
+      },
+      {
+        "source": "CAPTAIN GALGENSTEIN",
+        "target": "LANDLORD",
+        "weight": 1
+      },
+      {
+        "source": "BROOKSIDE",
+        "target": "RODERICK",
+        "weight": 3
+      },
+      {
+        "source": "LINK-BOY",
+        "target": "RODERICK",
+        "weight": 1
+      },
+      {
+        "source": "MRS O'REILLY",
+        "target": "COUNTRY FELLOW #2",
+        "weight": 1
+      },
+      {
+        "source": "MRS O'REILLY",
+        "target": "RODERICK",
+        "weight": 5
+      },
+      {
+        "source": "RODERICK",
+        "target": "HARRY",
+        "weight": 2
+      },
+      {
+        "source": "RODERICK",
+        "target": "LORD WEST",
+        "weight": 2
+      },
+      {
+        "source": "RODERICK",
+        "target": "ORDERLY",
+        "weight": 1
+      },
+      {
+        "source": "RODERICK",
+        "target": "UNCLE",
+        "weight": 1
+      },
+      {
+        "source": "RODERICK",
+        "target": "STRANGER",
+        "weight": 1
+      },
+      {
+        "source": "RODERICK",
+        "target": "COUNTRY FELLOW #2",
+        "weight": 1
+      },
+      {
+        "source": "RODERICK",
+        "target": "MICHAEL",
+        "weight": 2
+      },
+      {
+        "source": "RODERICK",
+        "target": "HUNT",
+        "weight": 2
+      },
+      {
+        "source": "RODERICK",
+        "target": "LAKENHAM",
+        "weight": 2
+      },
+      {
+        "source": "RODERICK",
+        "target": "MOTHER",
+        "weight": 2
+      },
+      {
+        "source": "RODERICK",
+        "target": "EARL OF CRABS",
+        "weight": 1
+      },
+      {
+        "source": "HARRY",
+        "target": "MICHAEL",
+        "weight": 1
+      },
+      {
+        "source": "HARRY",
+        "target": "MOTHER",
+        "weight": 1
+      },
+      {
+        "source": "HARRY",
+        "target": "UNCLE",
+        "weight": 1
+      },
+      {
+        "source": "ORDERLY",
+        "target": "MICHAEL",
+        "weight": 1
+      },
+      {
+        "source": "LANDLORD",
+        "target": "CHAMBERMAID",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "COUNTESS",
+        "name": "COUNTESS",
+        "color": "#F2A468",
+        "group": 4,
+        "degree": 5,
+        "pagerank": 0.0378488557918204,
+        "object_id": "606920",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.934782608695652,
+        "betweenness centrality": 2.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DASCHER",
+        "name": "DASCHER",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.013083675248544962,
+        "object_id": "606456",
+        "triangles": 2,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.934782608695652,
+        "betweenness centrality": 1.1666666666666665,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MINISTER GALGENSTEIN",
+        "name": "MINISTER GALGENSTEIN",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.020662837378898784,
+        "object_id": "605229",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.934782608695652,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PATRICK",
+        "name": "PATRICK",
+        "color": "#F2A468",
+        "group": 4,
+        "degree": 3,
+        "pagerank": 0.02293528783704146,
+        "object_id": "608273",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9782608695652173,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PRIVATE",
+        "name": "PRIVATE",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.01177180065965009,
+        "object_id": "604685",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.934782608695652,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANOTHER OFFICER",
+        "name": "ANOTHER OFFICER",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.009721774276075457,
+        "object_id": "606468",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOROTHY",
+        "name": "DOROTHY",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.019319842051628545,
+        "object_id": "602368",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.934782608695652,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CAPTAIN O'REILLY",
+        "name": "CAPTAIN O'REILLY",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.011765774566073497,
+        "object_id": "603872",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CAPTAIN GROGAN",
+        "name": "CAPTAIN GROGAN",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 9,
+        "pagerank": 0.045203998064831614,
+        "object_id": "602838",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8478260869565217,
+        "betweenness centrality": 5.833333333333332,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CAPTAIN",
+        "name": "CAPTAIN",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.008576115098000263,
+        "object_id": "604561",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HENRI",
+        "name": "HENRI",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.010460167647895752,
+        "object_id": "608221",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PRUSSIAN OFFICER",
+        "name": "PRUSSIAN OFFICER",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.011889464383432517,
+        "object_id": "605831",
+        "triangles": 1,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9565217391304348,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NARRATOR",
+        "name": "NARRATOR",
+        "color": "#F2A468",
+        "group": 4,
+        "degree": 2,
+        "pagerank": 0.009315623128553864,
+        "object_id": "609716",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SIR WILLIAM",
+        "name": "SIR WILLIAM",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.008837799381411104,
+        "object_id": "606797",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0217391304347827,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NEWCOMBE",
+        "name": "NEWCOMBE",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.006014644371556617,
+        "object_id": "609237",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0217391304347827,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "VALET",
+        "name": "VALET",
+        "color": "#F2A468",
+        "group": 4,
+        "degree": 2,
+        "pagerank": 0.009104014534848307,
+        "object_id": "608811",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FOOTMAN",
+        "name": "FOOTMAN",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.0154613031635779,
+        "object_id": "603675",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9565217391304348,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COUNTRY FELLOW #1",
+        "name": "COUNTRY FELLOW #1",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.0154613031635779,
+        "object_id": "603682",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9565217391304348,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CAPTAIN BEST",
+        "name": "CAPTAIN BEST",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 8,
+        "pagerank": 0.038435585501721256,
+        "object_id": "602676",
+        "triangles": 20,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8695652173913044,
+        "betweenness centrality": 2.333333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JOHNSON",
+        "name": "JOHNSON",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.006014644371556617,
+        "object_id": "608164",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0217391304347827,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LANGEAC",
+        "name": "LANGEAC",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.006014644371556617,
+        "object_id": "606346",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0217391304347827,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TAPEWELL",
+        "name": "TAPEWELL",
+        "color": "#F2A468",
+        "group": 4,
+        "degree": 4,
+        "pagerank": 0.015533668177890033,
+        "object_id": "609551",
+        "triangles": 4,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9565217391304348,
+        "betweenness centrality": 1.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CHEVALIER",
+        "name": "CHEVALIER",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 7,
+        "pagerank": 0.04147043007296022,
+        "object_id": "605377",
+        "triangles": 7,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8478260869565217,
+        "betweenness centrality": 47.33333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COUNT",
+        "name": "COUNT",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.006014644371556617,
+        "object_id": "606372",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0217391304347827,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PRINCE",
+        "name": "PRINCE",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.008952054377494568,
+        "object_id": "605649",
+        "triangles": 1,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9565217391304348,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DUKE OF RUTLAND",
+        "name": "DUKE OF RUTLAND",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.006014644371556617,
+        "object_id": "608461",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0217391304347827,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "VALDEZ",
+        "name": "VALDEZ",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.006014644371556617,
+        "object_id": "606300",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0217391304347827,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ARMED GENTLEMAN",
+        "name": "ARMED GENTLEMAN",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.006014644371556617,
+        "object_id": "603633",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0217391304347827,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "AUNT",
+        "name": "AUNT",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.01653631304138679,
+        "object_id": "602929",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.934782608695652,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CAPTAIN GALGENSTEIN",
+        "name": "CAPTAIN GALGENSTEIN",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 6,
+        "pagerank": 0.0366226450381056,
+        "object_id": "604890",
+        "triangles": 7,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8695652173913044,
+        "betweenness centrality": 42.666666666666664,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BROOKSIDE",
+        "name": "BROOKSIDE",
+        "color": "#F2A468",
+        "group": 4,
+        "degree": 3,
+        "pagerank": 0.02032374142089253,
+        "object_id": "607419",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9782608695652173,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LINK-BOY",
+        "name": "LINK-BOY",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.006014644371556617,
+        "object_id": "604289",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0217391304347827,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MRS O'REILLY",
+        "name": "MRS O'REILLY",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.03383131399375364,
+        "object_id": "603708",
+        "triangles": 7,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.934782608695652,
+        "betweenness centrality": 1.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RODERICK",
+        "name": "RODERICK",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 44,
+        "pagerank": 0.26901806722050553,
+        "object_id": "602236",
+        "triangles": 46,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.0434782608695652,
+        "betweenness centrality": 951.6666666666669,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HARRY",
+        "name": "HARRY",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 7,
+        "pagerank": 0.027911300631533534,
+        "object_id": "602970",
+        "triangles": 14,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.891304347826087,
+        "betweenness centrality": 3.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LORD WEST",
+        "name": "LORD WEST",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.008837799381411104,
+        "object_id": "608000",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0217391304347827,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ORDERLY",
+        "name": "ORDERLY",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.016438995723706933,
+        "object_id": "602649",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.934782608695652,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "UNCLE",
+        "name": "UNCLE",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.01653631304138679,
+        "object_id": "602925",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.934782608695652,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LANDLORD",
+        "name": "LANDLORD",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.012500798910301435,
+        "object_id": "606015",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.739130434782609,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "STRANGER",
+        "name": "STRANGER",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.006014644371556617,
+        "object_id": "606587",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0217391304347827,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CHAMBERMAID",
+        "name": "CHAMBERMAID",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.012500798910301435,
+        "object_id": "606027",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.739130434782609,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COUNTRY FELLOW #2",
+        "name": "COUNTRY FELLOW #2",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.015461303163577904,
+        "object_id": "603686",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9565217391304348,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MICHAEL",
+        "name": "MICHAEL",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 6,
+        "pagerank": 0.02459288991291094,
+        "object_id": "602789",
+        "triangles": 13,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9130434782608696,
+        "betweenness centrality": 0.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HUNT",
+        "name": "HUNT",
+        "color": "#F2A468",
+        "group": 4,
+        "degree": 4,
+        "pagerank": 0.018172742982783173,
+        "object_id": "608778",
+        "triangles": 4,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9565217391304348,
+        "betweenness centrality": 1.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LAKENHAM",
+        "name": "LAKENHAM",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.008837799381411104,
+        "object_id": "604638",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0217391304347827,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MOTHER",
+        "name": "MOTHER",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.011473835748197443,
+        "object_id": "603224",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "EARL OF CRABS",
+        "name": "EARL OF CRABS",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.010460167647895752,
+        "object_id": "608032",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": 85.07741,
+        "y": -9.178859,
+        "name": "COUNTESS"
+      },
+      {
+        "x": -7.3842864,
+        "y": -164.28842,
+        "name": "DASCHER"
+      },
+      {
+        "x": 133.74721,
+        "y": 40.446358,
+        "name": "MINISTER GALGENSTEIN"
+      },
+      {
+        "x": 48.510235,
+        "y": -53.811768,
+        "name": "PATRICK"
+      },
+      {
+        "x": 163.36305,
+        "y": 81.88724,
+        "name": "PRIVATE"
+      },
+      {
+        "x": -13.695371,
+        "y": -202.46538,
+        "name": "ANOTHER OFFICER"
+      },
+      {
+        "x": -109.63715,
+        "y": 80.56066,
+        "name": "DOROTHY"
+      },
+      {
+        "x": -106.43392,
+        "y": -31.32457,
+        "name": "CAPTAIN O'REILLY"
+      },
+      {
+        "x": -35.21914,
+        "y": 92.86161,
+        "name": "CAPTAIN GROGAN"
+      },
+      {
+        "x": 43.124832,
+        "y": 129.51793,
+        "name": "CAPTAIN"
+      },
+      {
+        "x": 93.4702,
+        "y": -174.21097,
+        "name": "HENRI"
+      },
+      {
+        "x": 59.823196,
+        "y": -131.21864,
+        "name": "PRUSSIAN OFFICER"
+      },
+      {
+        "x": 214.04797,
+        "y": -49.321804,
+        "name": "NARRATOR"
+      },
+      {
+        "x": -47.49449,
+        "y": -13.0151415,
+        "name": "SIR WILLIAM"
+      },
+      {
+        "x": -32.732124,
+        "y": -91.824715,
+        "name": "NEWCOMBE"
+      },
+      {
+        "x": 59.90113,
+        "y": -172.00197,
+        "name": "VALET"
+      },
+      {
+        "x": -168.89552,
+        "y": -115.14345,
+        "name": "FOOTMAN"
+      },
+      {
+        "x": -155.61714,
+        "y": -73.16417,
+        "name": "COUNTRY FELLOW #1"
+      },
+      {
+        "x": -49.509586,
+        "y": 143.97005,
+        "name": "CAPTAIN BEST"
+      },
+      {
+        "x": 91.142715,
+        "y": 94.02123,
+        "name": "JOHNSON"
+      },
+      {
+        "x": -99.838715,
+        "y": 19.827953,
+        "name": "LANGEAC"
+      },
+      {
+        "x": 199.67494,
+        "y": -9.5311365,
+        "name": "TAPEWELL"
+      },
+      {
+        "x": 76.375626,
+        "y": -95.35859,
+        "name": "CHEVALIER"
+      },
+      {
+        "x": -132.93983,
+        "y": -3.6380105,
+        "name": "COUNT"
+      },
+      {
+        "x": 149.91652,
+        "y": -66.111404,
+        "name": "PRINCE"
+      },
+      {
+        "x": 80.88002,
+        "y": 151.64203,
+        "name": "DUKE OF RUTLAND"
+      },
+      {
+        "x": -52.38412,
+        "y": -121.23296,
+        "name": "VALDEZ"
+      },
+      {
+        "x": 154.38228,
+        "y": -100.954834,
+        "name": "ARMED GENTLEMAN"
+      },
+      {
+        "x": -41.937935,
+        "y": 205.73404,
+        "name": "AUNT"
+      },
+      {
+        "x": 146.18715,
+        "y": -5.440782,
+        "name": "CAPTAIN GALGENSTEIN"
+      },
+      {
+        "x": 115.51883,
+        "y": -28.083736,
+        "name": "BROOKSIDE"
+      },
+      {
+        "x": 118.2051,
+        "y": 115.43071,
+        "name": "LINK-BOY"
+      },
+      {
+        "x": -78.16502,
+        "y": -57.68244,
+        "name": "MRS O'REILLY"
+      },
+      {
+        "x": 18.628899,
+        "y": 1.7758404,
+        "name": "RODERICK"
+      },
+      {
+        "x": -2.956974,
+        "y": 164.06178,
+        "name": "HARRY"
+      },
+      {
+        "x": 79.91671,
+        "y": -46.79925,
+        "name": "LORD WEST"
+      },
+      {
+        "x": -145.2713,
+        "y": 129.6408,
+        "name": "ORDERLY"
+      },
+      {
+        "x": -89.06107,
+        "y": 125.49351,
+        "name": "UNCLE"
+      },
+      {
+        "x": 214.87033,
+        "y": -120.51378,
+        "name": "LANDLORD"
+      },
+      {
+        "x": 184.72154,
+        "y": 52.067,
+        "name": "STRANGER"
+      },
+      {
+        "x": 183.99918,
+        "y": -150.04323,
+        "name": "CHAMBERMAID"
+      },
+      {
+        "x": -124.99091,
+        "y": -120.598114,
+        "name": "COUNTRY FELLOW #2"
+      },
+      {
+        "x": -96.090065,
+        "y": 165.7949,
+        "name": "MICHAEL"
+      },
+      {
+        "x": 114.36866,
+        "y": -95.11787,
+        "name": "HUNT"
+      },
+      {
+        "x": -8.288379,
+        "y": -62.48954,
+        "name": "LAKENHAM"
+      },
+      {
+        "x": 34.330753,
+        "y": 91.29149,
+        "name": "MOTHER"
+      },
+      {
+        "x": 28.447756,
+        "y": -152.31528,
+        "name": "EARL OF CRABS"
+      }
+    ]
+  }
+}

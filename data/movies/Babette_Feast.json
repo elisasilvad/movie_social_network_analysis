@@ -1,0 +1,1831 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "NEWSCASTER",
+        "target": "BOZO",
+        "weight": 1
+      },
+      {
+        "source": "NEWSCASTER",
+        "target": "GRANDMA",
+        "weight": 1
+      },
+      {
+        "source": "NEWSCASTER",
+        "target": "ADULTERER",
+        "weight": 1
+      },
+      {
+        "source": "NEWSCASTER",
+        "target": "BEER GUY",
+        "weight": 1
+      },
+      {
+        "source": "NEWSCASTER",
+        "target": "COACH",
+        "weight": 1
+      },
+      {
+        "source": "NEWSCASTER",
+        "target": "BARTENDER",
+        "weight": 1
+      },
+      {
+        "source": "NEWSCASTER",
+        "target": "MAIN BAR",
+        "weight": 1
+      },
+      {
+        "source": "NEWSCASTER",
+        "target": "TUFFY",
+        "weight": 1
+      },
+      {
+        "source": "NEWSCASTER",
+        "target": "CODY",
+        "weight": 1
+      },
+      {
+        "source": "NEWSCASTER",
+        "target": "BELLE",
+        "weight": 1
+      },
+      {
+        "source": "NEWSCASTER",
+        "target": "BOSS MAN",
+        "weight": 1
+      },
+      {
+        "source": "NEWSCASTER",
+        "target": "SECOND FLOOR",
+        "weight": 1
+      },
+      {
+        "source": "NEWSCASTER",
+        "target": "PARA",
+        "weight": 1
+      },
+      {
+        "source": "NEWSCASTER",
+        "target": "HEROINE",
+        "weight": 1
+      },
+      {
+        "source": "NEWSCASTER",
+        "target": "REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "NEWSCASTER",
+        "target": "ROADIE",
+        "weight": 1
+      },
+      {
+        "source": "NEWSCASTER",
+        "target": "TRAMPY",
+        "weight": 1
+      },
+      {
+        "source": "NEWSCASTER",
+        "target": "GRANDPA",
+        "weight": 1
+      },
+      {
+        "source": "BOZO",
+        "target": "PARA",
+        "weight": 6
+      },
+      {
+        "source": "BOZO",
+        "target": "BASEMENT",
+        "weight": 1
+      },
+      {
+        "source": "BOZO",
+        "target": "COACH",
+        "weight": 4
+      },
+      {
+        "source": "BOZO",
+        "target": "BARTENDER",
+        "weight": 6
+      },
+      {
+        "source": "BOZO",
+        "target": "TUFFY",
+        "weight": 4
+      },
+      {
+        "source": "BOZO",
+        "target": "SECOND FLOOR",
+        "weight": 2
+      },
+      {
+        "source": "BOZO",
+        "target": "BEER GUY",
+        "weight": 5
+      },
+      {
+        "source": "BOZO",
+        "target": "INSIDE",
+        "weight": 1
+      },
+      {
+        "source": "BOZO",
+        "target": "CODY",
+        "weight": 1
+      },
+      {
+        "source": "BOZO",
+        "target": "REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "BOZO",
+        "target": "HEROINE",
+        "weight": 7
+      },
+      {
+        "source": "BOZO",
+        "target": "ROADIE",
+        "weight": 3
+      },
+      {
+        "source": "BOZO",
+        "target": "INSIDE KEG ELEVATOR",
+        "weight": 1
+      },
+      {
+        "source": "BOZO",
+        "target": "GRANDPA",
+        "weight": 3
+      },
+      {
+        "source": "BOZO",
+        "target": "LITTLE GIRL",
+        "weight": 1
+      },
+      {
+        "source": "BOZO",
+        "target": "HERO",
+        "weight": 1
+      },
+      {
+        "source": "BOZO",
+        "target": "ADULTERER",
+        "weight": 7
+      },
+      {
+        "source": "BOZO",
+        "target": "BOSS MAN",
+        "weight": 4
+      },
+      {
+        "source": "BOZO",
+        "target": "MAIN BAR",
+        "weight": 3
+      },
+      {
+        "source": "BOZO",
+        "target": "EDGY CAT",
+        "weight": 2
+      },
+      {
+        "source": "BOZO",
+        "target": "BELLE",
+        "weight": 2
+      },
+      {
+        "source": "BOZO",
+        "target": "GRANDMA",
+        "weight": 3
+      },
+      {
+        "source": "BOZO",
+        "target": "TRAMPY",
+        "weight": 3
+      },
+      {
+        "source": "TUBBS",
+        "target": "HEROINE",
+        "weight": 1
+      },
+      {
+        "source": "TUBBS",
+        "target": "HERO",
+        "weight": 1
+      },
+      {
+        "source": "BASEMENT",
+        "target": "LITTLE GIRL",
+        "weight": 1
+      },
+      {
+        "source": "BASEMENT",
+        "target": "GRANDMA",
+        "weight": 1
+      },
+      {
+        "source": "BASEMENT",
+        "target": "ADULTERER",
+        "weight": 1
+      },
+      {
+        "source": "BASEMENT",
+        "target": "BEER GUY",
+        "weight": 1
+      },
+      {
+        "source": "BASEMENT",
+        "target": "COACH",
+        "weight": 1
+      },
+      {
+        "source": "BASEMENT",
+        "target": "BARTENDER",
+        "weight": 1
+      },
+      {
+        "source": "BASEMENT",
+        "target": "TUFFY",
+        "weight": 1
+      },
+      {
+        "source": "BASEMENT",
+        "target": "SECOND FLOOR",
+        "weight": 1
+      },
+      {
+        "source": "BASEMENT",
+        "target": "GRANDPA",
+        "weight": 1
+      },
+      {
+        "source": "BASEMENT",
+        "target": "BELLE",
+        "weight": 1
+      },
+      {
+        "source": "BASEMENT",
+        "target": "BOSS MAN",
+        "weight": 1
+      },
+      {
+        "source": "BASEMENT",
+        "target": "INSIDE",
+        "weight": 1
+      },
+      {
+        "source": "BASEMENT",
+        "target": "PARA",
+        "weight": 1
+      },
+      {
+        "source": "BASEMENT",
+        "target": "HEROINE",
+        "weight": 1
+      },
+      {
+        "source": "BASEMENT",
+        "target": "ROADIE",
+        "weight": 1
+      },
+      {
+        "source": "BASEMENT",
+        "target": "TRAMPY",
+        "weight": 1
+      },
+      {
+        "source": "BASEMENT",
+        "target": "MAIN BAR",
+        "weight": 1
+      },
+      {
+        "source": "COACH",
+        "target": "PARA",
+        "weight": 5
+      },
+      {
+        "source": "COACH",
+        "target": "BARTENDER",
+        "weight": 4
+      },
+      {
+        "source": "COACH",
+        "target": "TUFFY",
+        "weight": 3
+      },
+      {
+        "source": "COACH",
+        "target": "SECOND FLOOR",
+        "weight": 2
+      },
+      {
+        "source": "COACH",
+        "target": "BOSS MAN",
+        "weight": 4
+      },
+      {
+        "source": "COACH",
+        "target": "INSIDE",
+        "weight": 1
+      },
+      {
+        "source": "COACH",
+        "target": "CODY",
+        "weight": 1
+      },
+      {
+        "source": "COACH",
+        "target": "REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "COACH",
+        "target": "HEROINE",
+        "weight": 6
+      },
+      {
+        "source": "COACH",
+        "target": "ROADIE",
+        "weight": 4
+      },
+      {
+        "source": "COACH",
+        "target": "INSIDE KEG ELEVATOR",
+        "weight": 1
+      },
+      {
+        "source": "COACH",
+        "target": "GRANDPA",
+        "weight": 2
+      },
+      {
+        "source": "COACH",
+        "target": "LITTLE GIRL",
+        "weight": 1
+      },
+      {
+        "source": "COACH",
+        "target": "ADULTERER",
+        "weight": 5
+      },
+      {
+        "source": "COACH",
+        "target": "GRANDMA",
+        "weight": 2
+      },
+      {
+        "source": "COACH",
+        "target": "BEER GUY",
+        "weight": 5
+      },
+      {
+        "source": "COACH",
+        "target": "MAIN BAR",
+        "weight": 3
+      },
+      {
+        "source": "COACH",
+        "target": "EDGY CAT",
+        "weight": 1
+      },
+      {
+        "source": "COACH",
+        "target": "BELLE",
+        "weight": 2
+      },
+      {
+        "source": "COACH",
+        "target": "TRAMPY",
+        "weight": 3
+      },
+      {
+        "source": "BARTENDER",
+        "target": "PARA",
+        "weight": 4
+      },
+      {
+        "source": "BARTENDER",
+        "target": "TUFFY",
+        "weight": 5
+      },
+      {
+        "source": "BARTENDER",
+        "target": "SECOND FLOOR",
+        "weight": 3
+      },
+      {
+        "source": "BARTENDER",
+        "target": "BEER GUY",
+        "weight": 3
+      },
+      {
+        "source": "BARTENDER",
+        "target": "INSIDE",
+        "weight": 1
+      },
+      {
+        "source": "BARTENDER",
+        "target": "CODY",
+        "weight": 1
+      },
+      {
+        "source": "BARTENDER",
+        "target": "REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "BARTENDER",
+        "target": "HEROINE",
+        "weight": 6
+      },
+      {
+        "source": "BARTENDER",
+        "target": "ROADIE",
+        "weight": 4
+      },
+      {
+        "source": "BARTENDER",
+        "target": "INSIDE KEG ELEVATOR",
+        "weight": 1
+      },
+      {
+        "source": "BARTENDER",
+        "target": "GRANDPA",
+        "weight": 3
+      },
+      {
+        "source": "BARTENDER",
+        "target": "HERO",
+        "weight": 1
+      },
+      {
+        "source": "BARTENDER",
+        "target": "LITTLE GIRL",
+        "weight": 1
+      },
+      {
+        "source": "BARTENDER",
+        "target": "ADULTERER",
+        "weight": 7
+      },
+      {
+        "source": "BARTENDER",
+        "target": "GRANDMA",
+        "weight": 3
+      },
+      {
+        "source": "BARTENDER",
+        "target": "BOSS MAN",
+        "weight": 5
+      },
+      {
+        "source": "BARTENDER",
+        "target": "MAIN BAR",
+        "weight": 3
+      },
+      {
+        "source": "BARTENDER",
+        "target": "EDGY CAT",
+        "weight": 1
+      },
+      {
+        "source": "BARTENDER",
+        "target": "BELLE",
+        "weight": 3
+      },
+      {
+        "source": "BARTENDER",
+        "target": "TRAMPY",
+        "weight": 3
+      },
+      {
+        "source": "TUFFY",
+        "target": "PARA",
+        "weight": 4
+      },
+      {
+        "source": "TUFFY",
+        "target": "SECOND FLOOR",
+        "weight": 2
+      },
+      {
+        "source": "TUFFY",
+        "target": "BEER GUY",
+        "weight": 4
+      },
+      {
+        "source": "TUFFY",
+        "target": "INSIDE",
+        "weight": 1
+      },
+      {
+        "source": "TUFFY",
+        "target": "CODY",
+        "weight": 2
+      },
+      {
+        "source": "TUFFY",
+        "target": "REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "TUFFY",
+        "target": "HEROINE",
+        "weight": 9
+      },
+      {
+        "source": "TUFFY",
+        "target": "ROADIE",
+        "weight": 2
+      },
+      {
+        "source": "TUFFY",
+        "target": "INSIDE KEG ELEVATOR",
+        "weight": 1
+      },
+      {
+        "source": "TUFFY",
+        "target": "GRANDPA",
+        "weight": 2
+      },
+      {
+        "source": "TUFFY",
+        "target": "LITTLE GIRL",
+        "weight": 1
+      },
+      {
+        "source": "TUFFY",
+        "target": "ADULTERER",
+        "weight": 5
+      },
+      {
+        "source": "TUFFY",
+        "target": "GRANDMA",
+        "weight": 2
+      },
+      {
+        "source": "TUFFY",
+        "target": "BOSS MAN",
+        "weight": 3
+      },
+      {
+        "source": "TUFFY",
+        "target": "MAIN BAR",
+        "weight": 2
+      },
+      {
+        "source": "TUFFY",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "TUFFY",
+        "target": "BELLE",
+        "weight": 2
+      },
+      {
+        "source": "TUFFY",
+        "target": "TRAMPY",
+        "weight": 3
+      },
+      {
+        "source": "SECOND FLOOR",
+        "target": "PARA",
+        "weight": 1
+      },
+      {
+        "source": "SECOND FLOOR",
+        "target": "CODY",
+        "weight": 1
+      },
+      {
+        "source": "SECOND FLOOR",
+        "target": "BEER GUY",
+        "weight": 1
+      },
+      {
+        "source": "SECOND FLOOR",
+        "target": "INSIDE",
+        "weight": 1
+      },
+      {
+        "source": "SECOND FLOOR",
+        "target": "REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "SECOND FLOOR",
+        "target": "HEROINE",
+        "weight": 3
+      },
+      {
+        "source": "SECOND FLOOR",
+        "target": "ROADIE",
+        "weight": 2
+      },
+      {
+        "source": "SECOND FLOOR",
+        "target": "GRANDPA",
+        "weight": 1
+      },
+      {
+        "source": "SECOND FLOOR",
+        "target": "HERO",
+        "weight": 1
+      },
+      {
+        "source": "SECOND FLOOR",
+        "target": "LITTLE GIRL",
+        "weight": 1
+      },
+      {
+        "source": "SECOND FLOOR",
+        "target": "ADULTERER",
+        "weight": 1
+      },
+      {
+        "source": "SECOND FLOOR",
+        "target": "GRANDMA",
+        "weight": 1
+      },
+      {
+        "source": "SECOND FLOOR",
+        "target": "BOSS MAN",
+        "weight": 1
+      },
+      {
+        "source": "SECOND FLOOR",
+        "target": "MAIN BAR",
+        "weight": 4
+      },
+      {
+        "source": "SECOND FLOOR",
+        "target": "EDGY CAT",
+        "weight": 1
+      },
+      {
+        "source": "SECOND FLOOR",
+        "target": "BELLE",
+        "weight": 1
+      },
+      {
+        "source": "SECOND FLOOR",
+        "target": "TRAMPY",
+        "weight": 1
+      },
+      {
+        "source": "BOSS MAN",
+        "target": "REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "BOSS MAN",
+        "target": "BEER GUY",
+        "weight": 3
+      },
+      {
+        "source": "BOSS MAN",
+        "target": "INSIDE",
+        "weight": 1
+      },
+      {
+        "source": "BOSS MAN",
+        "target": "CODY",
+        "weight": 2
+      },
+      {
+        "source": "BOSS MAN",
+        "target": "PARA",
+        "weight": 2
+      },
+      {
+        "source": "BOSS MAN",
+        "target": "HEROINE",
+        "weight": 4
+      },
+      {
+        "source": "BOSS MAN",
+        "target": "ROADIE",
+        "weight": 4
+      },
+      {
+        "source": "BOSS MAN",
+        "target": "INSIDE KEG ELEVATOR",
+        "weight": 1
+      },
+      {
+        "source": "BOSS MAN",
+        "target": "GRANDPA",
+        "weight": 2
+      },
+      {
+        "source": "BOSS MAN",
+        "target": "LITTLE GIRL",
+        "weight": 1
+      },
+      {
+        "source": "BOSS MAN",
+        "target": "GRANDMA",
+        "weight": 2
+      },
+      {
+        "source": "BOSS MAN",
+        "target": "ADULTERER",
+        "weight": 4
+      },
+      {
+        "source": "BOSS MAN",
+        "target": "MAIN BAR",
+        "weight": 2
+      },
+      {
+        "source": "BOSS MAN",
+        "target": "BELLE",
+        "weight": 2
+      },
+      {
+        "source": "BOSS MAN",
+        "target": "TRAMPY",
+        "weight": 3
+      },
+      {
+        "source": "INSIDE",
+        "target": "HEROINE",
+        "weight": 1
+      },
+      {
+        "source": "INSIDE",
+        "target": "LITTLE GIRL",
+        "weight": 1
+      },
+      {
+        "source": "INSIDE",
+        "target": "ADULTERER",
+        "weight": 1
+      },
+      {
+        "source": "INSIDE",
+        "target": "GRANDMA",
+        "weight": 1
+      },
+      {
+        "source": "INSIDE",
+        "target": "BEER GUY",
+        "weight": 1
+      },
+      {
+        "source": "INSIDE",
+        "target": "GRANDPA",
+        "weight": 1
+      },
+      {
+        "source": "INSIDE",
+        "target": "BELLE",
+        "weight": 1
+      },
+      {
+        "source": "INSIDE",
+        "target": "PARA",
+        "weight": 1
+      },
+      {
+        "source": "INSIDE",
+        "target": "ROADIE",
+        "weight": 1
+      },
+      {
+        "source": "INSIDE",
+        "target": "TRAMPY",
+        "weight": 1
+      },
+      {
+        "source": "INSIDE",
+        "target": "MAIN BAR",
+        "weight": 1
+      },
+      {
+        "source": "CODY",
+        "target": "PARA",
+        "weight": 1
+      },
+      {
+        "source": "CODY",
+        "target": "GRANDMA",
+        "weight": 1
+      },
+      {
+        "source": "CODY",
+        "target": "ADULTERER",
+        "weight": 1
+      },
+      {
+        "source": "CODY",
+        "target": "BEER GUY",
+        "weight": 1
+      },
+      {
+        "source": "CODY",
+        "target": "MAIN BAR",
+        "weight": 1
+      },
+      {
+        "source": "CODY",
+        "target": "BELLE",
+        "weight": 1
+      },
+      {
+        "source": "CODY",
+        "target": "REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "CODY",
+        "target": "HEROINE",
+        "weight": 1
+      },
+      {
+        "source": "CODY",
+        "target": "ROADIE",
+        "weight": 1
+      },
+      {
+        "source": "CODY",
+        "target": "TRAMPY",
+        "weight": 1
+      },
+      {
+        "source": "CODY",
+        "target": "GRANDPA",
+        "weight": 1
+      },
+      {
+        "source": "PARA",
+        "target": "BEER GUY",
+        "weight": 4
+      },
+      {
+        "source": "PARA",
+        "target": "REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "PARA",
+        "target": "HEROINE",
+        "weight": 5
+      },
+      {
+        "source": "PARA",
+        "target": "ROADIE",
+        "weight": 3
+      },
+      {
+        "source": "PARA",
+        "target": "INSIDE KEG ELEVATOR",
+        "weight": 1
+      },
+      {
+        "source": "PARA",
+        "target": "GRANDPA",
+        "weight": 1
+      },
+      {
+        "source": "PARA",
+        "target": "LITTLE GIRL",
+        "weight": 1
+      },
+      {
+        "source": "PARA",
+        "target": "ADULTERER",
+        "weight": 4
+      },
+      {
+        "source": "PARA",
+        "target": "GRANDMA",
+        "weight": 1
+      },
+      {
+        "source": "PARA",
+        "target": "MAIN BAR",
+        "weight": 2
+      },
+      {
+        "source": "PARA",
+        "target": "EDGY CAT",
+        "weight": 1
+      },
+      {
+        "source": "PARA",
+        "target": "BELLE",
+        "weight": 2
+      },
+      {
+        "source": "PARA",
+        "target": "TRAMPY",
+        "weight": 4
+      },
+      {
+        "source": "HEROINE",
+        "target": "BEER GUY",
+        "weight": 6
+      },
+      {
+        "source": "HEROINE",
+        "target": "REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "HEROINE",
+        "target": "ROADIE",
+        "weight": 6
+      },
+      {
+        "source": "HEROINE",
+        "target": "INSIDE KEG ELEVATOR",
+        "weight": 1
+      },
+      {
+        "source": "HEROINE",
+        "target": "GRANDPA",
+        "weight": 3
+      },
+      {
+        "source": "HEROINE",
+        "target": "HERO",
+        "weight": 2
+      },
+      {
+        "source": "HEROINE",
+        "target": "LITTLE GIRL",
+        "weight": 1
+      },
+      {
+        "source": "HEROINE",
+        "target": "GRANDMA",
+        "weight": 3
+      },
+      {
+        "source": "HEROINE",
+        "target": "ADULTERER",
+        "weight": 9
+      },
+      {
+        "source": "HEROINE",
+        "target": "MAIN BAR",
+        "weight": 4
+      },
+      {
+        "source": "HEROINE",
+        "target": "EDGY CAT",
+        "weight": 1
+      },
+      {
+        "source": "HEROINE",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "HEROINE",
+        "target": "BELLE",
+        "weight": 3
+      },
+      {
+        "source": "HEROINE",
+        "target": "TRAMPY",
+        "weight": 5
+      },
+      {
+        "source": "HEROINE",
+        "target": "THE MAN IN TAN",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER",
+        "target": "GRANDMA",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER",
+        "target": "ADULTERER",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER",
+        "target": "BEER GUY",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER",
+        "target": "MAIN BAR",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER",
+        "target": "BELLE",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER",
+        "target": "ROADIE",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER",
+        "target": "TRAMPY",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER",
+        "target": "GRANDPA",
+        "weight": 1
+      },
+      {
+        "source": "ROADIE",
+        "target": "BEER GUY",
+        "weight": 3
+      },
+      {
+        "source": "ROADIE",
+        "target": "INSIDE KEG ELEVATOR",
+        "weight": 1
+      },
+      {
+        "source": "ROADIE",
+        "target": "GRANDPA",
+        "weight": 1
+      },
+      {
+        "source": "ROADIE",
+        "target": "LITTLE GIRL",
+        "weight": 1
+      },
+      {
+        "source": "ROADIE",
+        "target": "GRANDMA",
+        "weight": 1
+      },
+      {
+        "source": "ROADIE",
+        "target": "ADULTERER",
+        "weight": 3
+      },
+      {
+        "source": "ROADIE",
+        "target": "MAIN BAR",
+        "weight": 3
+      },
+      {
+        "source": "ROADIE",
+        "target": "BELLE",
+        "weight": 2
+      },
+      {
+        "source": "ROADIE",
+        "target": "TRAMPY",
+        "weight": 2
+      },
+      {
+        "source": "INSIDE KEG ELEVATOR",
+        "target": "ADULTERER",
+        "weight": 1
+      },
+      {
+        "source": "INSIDE KEG ELEVATOR",
+        "target": "BEER GUY",
+        "weight": 1
+      },
+      {
+        "source": "INSIDE KEG ELEVATOR",
+        "target": "TRAMPY",
+        "weight": 1
+      },
+      {
+        "source": "INSIDE KEG ELEVATOR",
+        "target": "MAIN BAR",
+        "weight": 1
+      },
+      {
+        "source": "GRANDPA",
+        "target": "LITTLE GIRL",
+        "weight": 1
+      },
+      {
+        "source": "GRANDPA",
+        "target": "ADULTERER",
+        "weight": 1
+      },
+      {
+        "source": "GRANDPA",
+        "target": "BEER GUY",
+        "weight": 1
+      },
+      {
+        "source": "GRANDPA",
+        "target": "MAIN BAR",
+        "weight": 1
+      },
+      {
+        "source": "GRANDPA",
+        "target": "BELLE",
+        "weight": 2
+      },
+      {
+        "source": "GRANDPA",
+        "target": "TRAMPY",
+        "weight": 1
+      },
+      {
+        "source": "GRANDPA",
+        "target": "GRANDMA",
+        "weight": 4
+      },
+      {
+        "source": "HERO",
+        "target": "MAIN BAR",
+        "weight": 1
+      },
+      {
+        "source": "HERO",
+        "target": "EDGY CAT",
+        "weight": 1
+      },
+      {
+        "source": "LITTLE GIRL",
+        "target": "GRANDMA",
+        "weight": 1
+      },
+      {
+        "source": "LITTLE GIRL",
+        "target": "ADULTERER",
+        "weight": 1
+      },
+      {
+        "source": "LITTLE GIRL",
+        "target": "BEER GUY",
+        "weight": 1
+      },
+      {
+        "source": "LITTLE GIRL",
+        "target": "MAIN BAR",
+        "weight": 1
+      },
+      {
+        "source": "LITTLE GIRL",
+        "target": "BELLE",
+        "weight": 1
+      },
+      {
+        "source": "LITTLE GIRL",
+        "target": "TRAMPY",
+        "weight": 1
+      },
+      {
+        "source": "GRANDMA",
+        "target": "ADULTERER",
+        "weight": 1
+      },
+      {
+        "source": "GRANDMA",
+        "target": "BEER GUY",
+        "weight": 1
+      },
+      {
+        "source": "GRANDMA",
+        "target": "MAIN BAR",
+        "weight": 1
+      },
+      {
+        "source": "GRANDMA",
+        "target": "BELLE",
+        "weight": 2
+      },
+      {
+        "source": "GRANDMA",
+        "target": "TRAMPY",
+        "weight": 1
+      },
+      {
+        "source": "ADULTERER",
+        "target": "BEER GUY",
+        "weight": 4
+      },
+      {
+        "source": "ADULTERER",
+        "target": "MAIN BAR",
+        "weight": 2
+      },
+      {
+        "source": "ADULTERER",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "ADULTERER",
+        "target": "BELLE",
+        "weight": 2
+      },
+      {
+        "source": "ADULTERER",
+        "target": "TRAMPY",
+        "weight": 6
+      },
+      {
+        "source": "BEER GUY",
+        "target": "MAIN BAR",
+        "weight": 2
+      },
+      {
+        "source": "BEER GUY",
+        "target": "BELLE",
+        "weight": 2
+      },
+      {
+        "source": "BEER GUY",
+        "target": "TRAMPY",
+        "weight": 3
+      },
+      {
+        "source": "MAIN BAR",
+        "target": "EDGY CAT",
+        "weight": 1
+      },
+      {
+        "source": "MAIN BAR",
+        "target": "BELLE",
+        "weight": 1
+      },
+      {
+        "source": "MAIN BAR",
+        "target": "TRAMPY",
+        "weight": 2
+      },
+      {
+        "source": "BELLE",
+        "target": "TRAMPY",
+        "weight": 2
+      },
+      {
+        "source": "THE MAN IN TAN",
+        "target": "TECH",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "NEWSCASTER",
+        "name": "NEWSCASTER",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 18,
+        "pagerank": 0.01947873122100171,
+        "object_id": "1845088",
+        "triangles": 153,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.3928571428571428,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BOZO",
+        "name": "BOZO",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 24,
+        "pagerank": 0.06386559618764115,
+        "object_id": "1844952",
+        "triangles": 223,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.1785714285714286,
+        "betweenness centrality": 7.288690476190476,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TUBBS",
+        "name": "TUBBS",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.0075246693549473305,
+        "object_id": "1846655",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9642857142857142,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BASEMENT",
+        "name": "BASEMENT",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 18,
+        "pagerank": 0.01950724694594182,
+        "object_id": "1847427",
+        "triangles": 153,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.3928571428571428,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COACH",
+        "name": "COACH",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 23,
+        "pagerank": 0.05490107876984001,
+        "object_id": "1844907",
+        "triangles": 218,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.2142857142857142,
+        "betweenness centrality": 3.7053571428571432,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BARTENDER",
+        "name": "BARTENDER",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 24,
+        "pagerank": 0.06274671237772668,
+        "object_id": "1845030",
+        "triangles": 223,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.1785714285714286,
+        "betweenness centrality": 7.288690476190476,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TUFFY",
+        "name": "TUFFY",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 23,
+        "pagerank": 0.05525186601303529,
+        "object_id": "1845213",
+        "triangles": 214,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.2142857142857142,
+        "betweenness centrality": 8.062499999999998,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SECOND FLOOR",
+        "name": "SECOND FLOOR",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 23,
+        "pagerank": 0.03368341946084761,
+        "object_id": "1845549",
+        "triangles": 212,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.2142857142857142,
+        "betweenness centrality": 6.038690476190478,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BOSS MAN",
+        "name": "BOSS MAN",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 22,
+        "pagerank": 0.04745142261951972,
+        "object_id": "1845114",
+        "triangles": 212,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.25,
+        "betweenness centrality": 1.3958333333333337,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "INSIDE",
+        "name": "INSIDE",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 18,
+        "pagerank": 0.01950724694594182,
+        "object_id": "1847025",
+        "triangles": 153,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.3928571428571428,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CODY",
+        "name": "CODY",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 18,
+        "pagerank": 0.021035457738968557,
+        "object_id": "1845399",
+        "triangles": 153,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.3928571428571428,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PARA",
+        "name": "PARA",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 23,
+        "pagerank": 0.05001596031585499,
+        "object_id": "1844948",
+        "triangles": 218,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.2142857142857142,
+        "betweenness centrality": 3.7053571428571432,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HEROINE",
+        "name": "HEROINE",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 27,
+        "pagerank": 0.08908360736592844,
+        "object_id": "1845573",
+        "triangles": 226,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.0357142857142858,
+        "betweenness centrality": 89.45535714285715,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REPORTER",
+        "name": "REPORTER",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 18,
+        "pagerank": 0.01947873122100171,
+        "object_id": "1846190",
+        "triangles": 153,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.3928571428571428,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ROADIE",
+        "name": "ROADIE",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 22,
+        "pagerank": 0.04516309836142891,
+        "object_id": "1845118",
+        "triangles": 212,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.25,
+        "betweenness centrality": 1.3958333333333337,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "INSIDE KEG ELEVATOR",
+        "name": "INSIDE KEG ELEVATOR",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 12,
+        "pagerank": 0.014394123803023566,
+        "object_id": "1848499",
+        "triangles": 66,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.6071428571428572,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GRANDPA",
+        "name": "GRANDPA",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 21,
+        "pagerank": 0.03253069623765289,
+        "object_id": "1845326",
+        "triangles": 201,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.2857142857142858,
+        "betweenness centrality": 0.5625,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HERO",
+        "name": "HERO",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 7,
+        "pagerank": 0.014392555137998355,
+        "object_id": "1845456",
+        "triangles": 16,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7857142857142858,
+        "betweenness centrality": 2.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LITTLE GIRL",
+        "name": "LITTLE GIRL",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 18,
+        "pagerank": 0.01950724694594182,
+        "object_id": "1847567",
+        "triangles": 153,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.3928571428571428,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GRANDMA",
+        "name": "GRANDMA",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 21,
+        "pagerank": 0.03253069623765289,
+        "object_id": "1845335",
+        "triangles": 201,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.2857142857142858,
+        "betweenness centrality": 0.5625,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ADULTERER",
+        "name": "ADULTERER",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 23,
+        "pagerank": 0.06107616339002946,
+        "object_id": "1845152",
+        "triangles": 214,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.2142857142857142,
+        "betweenness centrality": 8.062499999999998,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BEER GUY",
+        "name": "BEER GUY",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 22,
+        "pagerank": 0.048112743761501875,
+        "object_id": "1844990",
+        "triangles": 212,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.25,
+        "betweenness centrality": 1.3958333333333337,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAIN BAR",
+        "name": "MAIN BAR",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 24,
+        "pagerank": 0.041740241017211965,
+        "object_id": "1845554",
+        "triangles": 223,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.1785714285714286,
+        "betweenness centrality": 7.288690476190476,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "EDGY CAT",
+        "name": "EDGY CAT",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 8,
+        "pagerank": 0.01294402163628642,
+        "object_id": "1844959",
+        "triangles": 26,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.75,
+        "betweenness centrality": 0.3333333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CHARLIE",
+        "name": "CHARLIE",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.007517734932733581,
+        "object_id": "1849510",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9285714285714286,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BELLE",
+        "name": "BELLE",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 21,
+        "pagerank": 0.033975950420621584,
+        "object_id": "1845205",
+        "triangles": 201,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.2857142857142858,
+        "betweenness centrality": 0.5625,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TRAMPY",
+        "name": "TRAMPY",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 22,
+        "pagerank": 0.04421457614288263,
+        "object_id": "1845143",
+        "triangles": 212,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.25,
+        "betweenness centrality": 1.3958333333333337,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THE MAN IN TAN",
+        "name": "THE MAN IN TAN",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.016274882777295926,
+        "object_id": "1849559",
+        "triangles": 0,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9285714285714286,
+        "betweenness centrality": 27.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TECH",
+        "name": "TECH",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.012093522659541164,
+        "object_id": "1849564",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.892857142857143,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": -204.83752,
+        "y": 144.13737,
+        "name": "NEWSCASTER"
+      },
+      {
+        "x": -70.09042,
+        "y": 63.507587,
+        "name": "BOZO"
+      },
+      {
+        "x": 158.72285,
+        "y": -151.10522,
+        "name": "TUBBS"
+      },
+      {
+        "x": 23.606388,
+        "y": 176.0642,
+        "name": "BASEMENT"
+      },
+      {
+        "x": -115.198204,
+        "y": 35.26238,
+        "name": "COACH"
+      },
+      {
+        "x": -68.8083,
+        "y": 13.888851,
+        "name": "BARTENDER"
+      },
+      {
+        "x": 25.313356,
+        "y": -21.049044,
+        "name": "TUFFY"
+      },
+      {
+        "x": -163.66452,
+        "y": -30.950132,
+        "name": "SECOND FLOOR"
+      },
+      {
+        "x": -96.015076,
+        "y": -24.56867,
+        "name": "BOSS MAN"
+      },
+      {
+        "x": -156.37395,
+        "y": -112.52906,
+        "name": "INSIDE"
+      },
+      {
+        "x": 100.07323,
+        "y": 70.13869,
+        "name": "CODY"
+      },
+      {
+        "x": -35.326664,
+        "y": 106.38194,
+        "name": "PARA"
+      },
+      {
+        "x": -23.01832,
+        "y": -0.254724,
+        "name": "HEROINE"
+      },
+      {
+        "x": -55.462154,
+        "y": 200.14583,
+        "name": "REPORTER"
+      },
+      {
+        "x": 34.76262,
+        "y": 31.786076,
+        "name": "ROADIE"
+      },
+      {
+        "x": 23.288145,
+        "y": -127.37672,
+        "name": "INSIDE KEG ELEVATOR"
+      },
+      {
+        "x": -187.03264,
+        "y": 31.817997,
+        "name": "GRANDPA"
+      },
+      {
+        "x": 66.37864,
+        "y": -99.563866,
+        "name": "HERO"
+      },
+      {
+        "x": -135.75201,
+        "y": 186.50224,
+        "name": "LITTLE GIRL"
+      },
+      {
+        "x": -166.06955,
+        "y": 84.77311,
+        "name": "GRANDMA"
+      },
+      {
+        "x": -15.145797,
+        "y": 50.962353,
+        "name": "ADULTERER"
+      },
+      {
+        "x": -27.076614,
+        "y": -50.7949,
+        "name": "BEER GUY"
+      },
+      {
+        "x": -106.69329,
+        "y": 111.3821,
+        "name": "MAIN BAR"
+      },
+      {
+        "x": -233.98743,
+        "y": -7.191426,
+        "name": "EDGY CAT"
+      },
+      {
+        "x": 151.85991,
+        "y": -59.427082,
+        "name": "CHARLIE"
+      },
+      {
+        "x": -80.86922,
+        "y": -79.895996,
+        "name": "BELLE"
+      },
+      {
+        "x": 23.142384,
+        "y": 92.33901,
+        "name": "TRAMPY"
+      },
+      {
+        "x": -116.80507,
+        "y": -251.43747,
+        "name": "THE MAN IN TAN"
+      },
+      {
+        "x": -249.87685,
+        "y": -236.6871,
+        "name": "TECH"
+      }
+    ]
+  }
+}

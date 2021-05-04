@@ -1,0 +1,1491 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "ADMIRAL",
+        "target": "AIR BOSS",
+        "weight": 2
+      },
+      {
+        "source": "ADMIRAL",
+        "target": "MAVERICK",
+        "weight": 1
+      },
+      {
+        "source": "ADMIRAL",
+        "target": "FUNGUS",
+        "weight": 1
+      },
+      {
+        "source": "ADMIRAL",
+        "target": "OFFICER",
+        "weight": 1
+      },
+      {
+        "source": "ADMIRAL",
+        "target": "XO",
+        "weight": 1
+      },
+      {
+        "source": "COUGAR",
+        "target": "STINGER",
+        "weight": 1
+      },
+      {
+        "source": "COUGAR",
+        "target": "GOOSE",
+        "weight": 4
+      },
+      {
+        "source": "COUGAR",
+        "target": "XO",
+        "weight": 1
+      },
+      {
+        "source": "COUGAR",
+        "target": "WIZARD",
+        "weight": 1
+      },
+      {
+        "source": "COUGAR",
+        "target": "MAVERICK",
+        "weight": 3
+      },
+      {
+        "source": "COUGAR",
+        "target": "LSO",
+        "weight": 1
+      },
+      {
+        "source": "COUGAR",
+        "target": "SURGEON",
+        "weight": 1
+      },
+      {
+        "source": "GIRL",
+        "target": "ICE",
+        "weight": 1
+      },
+      {
+        "source": "GIRL",
+        "target": "WOLFMAN",
+        "weight": 1
+      },
+      {
+        "source": "GIRL",
+        "target": "SLIDER",
+        "weight": 1
+      },
+      {
+        "source": "GIRL",
+        "target": "BUGS",
+        "weight": 1
+      },
+      {
+        "source": "GIRL",
+        "target": "GOOSE",
+        "weight": 1
+      },
+      {
+        "source": "GIRL",
+        "target": "ICEMAN",
+        "weight": 1
+      },
+      {
+        "source": "GIRL",
+        "target": "MAVERICK",
+        "weight": 1
+      },
+      {
+        "source": "GIRL",
+        "target": "FIRST GIRL",
+        "weight": 1
+      },
+      {
+        "source": "GIRL",
+        "target": "SECOND GIRL",
+        "weight": 1
+      },
+      {
+        "source": "GIRL",
+        "target": "HOLLYWOOD",
+        "weight": 1
+      },
+      {
+        "source": "GIRL",
+        "target": "SUNDOWN",
+        "weight": 1
+      },
+      {
+        "source": "GOOSE",
+        "target": "FLEX",
+        "weight": 1
+      },
+      {
+        "source": "GOOSE",
+        "target": "TECH",
+        "weight": 1
+      },
+      {
+        "source": "GOOSE",
+        "target": "FIRST GIRL",
+        "weight": 1
+      },
+      {
+        "source": "GOOSE",
+        "target": "SECOND GIRL",
+        "weight": 1
+      },
+      {
+        "source": "GOOSE",
+        "target": "STINGER",
+        "weight": 1
+      },
+      {
+        "source": "GOOSE",
+        "target": "SURGEON",
+        "weight": 1
+      },
+      {
+        "source": "GOOSE",
+        "target": "BUGS",
+        "weight": 1
+      },
+      {
+        "source": "GOOSE",
+        "target": "AIR BOSS",
+        "weight": 1
+      },
+      {
+        "source": "GOOSE",
+        "target": "CHARLIE",
+        "weight": 2
+      },
+      {
+        "source": "GOOSE",
+        "target": "SLIDER",
+        "weight": 1
+      },
+      {
+        "source": "GOOSE",
+        "target": "PORK",
+        "weight": 1
+      },
+      {
+        "source": "GOOSE",
+        "target": "LSO",
+        "weight": 2
+      },
+      {
+        "source": "GOOSE",
+        "target": "ICEMAN",
+        "weight": 1
+      },
+      {
+        "source": "GOOSE",
+        "target": "WIZARD",
+        "weight": 1
+      },
+      {
+        "source": "GOOSE",
+        "target": "JESTER",
+        "weight": 5
+      },
+      {
+        "source": "GOOSE",
+        "target": "SILVER SUIT",
+        "weight": 1
+      },
+      {
+        "source": "GOOSE",
+        "target": "HOLLYWOOD",
+        "weight": 4
+      },
+      {
+        "source": "GOOSE",
+        "target": "ICE",
+        "weight": 2
+      },
+      {
+        "source": "GOOSE",
+        "target": "WOLFMAN",
+        "weight": 3
+      },
+      {
+        "source": "GOOSE",
+        "target": "XO",
+        "weight": 1
+      },
+      {
+        "source": "GOOSE",
+        "target": "CAROL",
+        "weight": 1
+      },
+      {
+        "source": "GOOSE",
+        "target": "VIPER",
+        "weight": 3
+      },
+      {
+        "source": "GOOSE",
+        "target": "MAVERICK",
+        "weight": 11
+      },
+      {
+        "source": "GOOSE",
+        "target": "SUNDOWN",
+        "weight": 1
+      },
+      {
+        "source": "FLEX",
+        "target": "PORK",
+        "weight": 1
+      },
+      {
+        "source": "FLEX",
+        "target": "SUNDOWN",
+        "weight": 1
+      },
+      {
+        "source": "FLEX",
+        "target": "VIPER",
+        "weight": 1
+      },
+      {
+        "source": "FLEX",
+        "target": "JESTER",
+        "weight": 1
+      },
+      {
+        "source": "FLEX",
+        "target": "MAVERICK",
+        "weight": 1
+      },
+      {
+        "source": "FLEX",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "TIM",
+        "target": "VIPER",
+        "weight": 1
+      },
+      {
+        "source": "TIM",
+        "target": "MAVERICK",
+        "weight": 1
+      },
+      {
+        "source": "TECH",
+        "target": "MAVERICK",
+        "weight": 1
+      },
+      {
+        "source": "TECH",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "FIRST GIRL",
+        "target": "ICE",
+        "weight": 1
+      },
+      {
+        "source": "FIRST GIRL",
+        "target": "WOLFMAN",
+        "weight": 1
+      },
+      {
+        "source": "FIRST GIRL",
+        "target": "BUGS",
+        "weight": 1
+      },
+      {
+        "source": "FIRST GIRL",
+        "target": "ICEMAN",
+        "weight": 1
+      },
+      {
+        "source": "FIRST GIRL",
+        "target": "SECOND GIRL",
+        "weight": 1
+      },
+      {
+        "source": "FIRST GIRL",
+        "target": "SLIDER",
+        "weight": 1
+      },
+      {
+        "source": "FIRST GIRL",
+        "target": "MAVERICK",
+        "weight": 1
+      },
+      {
+        "source": "FIRST GIRL",
+        "target": "HOLLYWOOD",
+        "weight": 1
+      },
+      {
+        "source": "FIRST GIRL",
+        "target": "SUNDOWN",
+        "weight": 1
+      },
+      {
+        "source": "SECOND GIRL",
+        "target": "ICE",
+        "weight": 1
+      },
+      {
+        "source": "SECOND GIRL",
+        "target": "WOLFMAN",
+        "weight": 1
+      },
+      {
+        "source": "SECOND GIRL",
+        "target": "BUGS",
+        "weight": 1
+      },
+      {
+        "source": "SECOND GIRL",
+        "target": "ICEMAN",
+        "weight": 1
+      },
+      {
+        "source": "SECOND GIRL",
+        "target": "SLIDER",
+        "weight": 1
+      },
+      {
+        "source": "SECOND GIRL",
+        "target": "MAVERICK",
+        "weight": 1
+      },
+      {
+        "source": "SECOND GIRL",
+        "target": "HOLLYWOOD",
+        "weight": 1
+      },
+      {
+        "source": "SECOND GIRL",
+        "target": "SUNDOWN",
+        "weight": 1
+      },
+      {
+        "source": "LSO",
+        "target": "AIR BOSS",
+        "weight": 1
+      },
+      {
+        "source": "LSO",
+        "target": "WIZARD",
+        "weight": 1
+      },
+      {
+        "source": "LSO",
+        "target": "MAVERICK",
+        "weight": 1
+      },
+      {
+        "source": "LSO",
+        "target": "SILVER SUIT",
+        "weight": 1
+      },
+      {
+        "source": "SURGEON",
+        "target": "MAVERICK",
+        "weight": 1
+      },
+      {
+        "source": "SURGEON",
+        "target": "STINGER",
+        "weight": 1
+      },
+      {
+        "source": "SURGEON",
+        "target": "XO",
+        "weight": 1
+      },
+      {
+        "source": "BUGS",
+        "target": "ICE",
+        "weight": 1
+      },
+      {
+        "source": "BUGS",
+        "target": "WOLFMAN",
+        "weight": 1
+      },
+      {
+        "source": "BUGS",
+        "target": "SLIDER",
+        "weight": 1
+      },
+      {
+        "source": "BUGS",
+        "target": "ICEMAN",
+        "weight": 1
+      },
+      {
+        "source": "BUGS",
+        "target": "MAVERICK",
+        "weight": 1
+      },
+      {
+        "source": "BUGS",
+        "target": "HOLLYWOOD",
+        "weight": 1
+      },
+      {
+        "source": "BUGS",
+        "target": "SUNDOWN",
+        "weight": 1
+      },
+      {
+        "source": "AIR BOSS",
+        "target": "SILVER SUIT",
+        "weight": 1
+      },
+      {
+        "source": "AIR BOSS",
+        "target": "XO",
+        "weight": 1
+      },
+      {
+        "source": "AIR BOSS",
+        "target": "MAVERICK",
+        "weight": 1
+      },
+      {
+        "source": "AIR BOSS",
+        "target": "FUNGUS",
+        "weight": 1
+      },
+      {
+        "source": "AIR BOSS",
+        "target": "OFFICER",
+        "weight": 1
+      },
+      {
+        "source": "MARINE",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "SLIDER",
+        "target": "STRIKE",
+        "weight": 1
+      },
+      {
+        "source": "SLIDER",
+        "target": "ICEMAN",
+        "weight": 1
+      },
+      {
+        "source": "SLIDER",
+        "target": "HOLLYWOOD",
+        "weight": 2
+      },
+      {
+        "source": "SLIDER",
+        "target": "ICE",
+        "weight": 4
+      },
+      {
+        "source": "SLIDER",
+        "target": "WOLFMAN",
+        "weight": 1
+      },
+      {
+        "source": "SLIDER",
+        "target": "SUNDOWN",
+        "weight": 1
+      },
+      {
+        "source": "SLIDER",
+        "target": "VIPER",
+        "weight": 1
+      },
+      {
+        "source": "SLIDER",
+        "target": "MAVERICK",
+        "weight": 4
+      },
+      {
+        "source": "SLIDER",
+        "target": "FUNGUS",
+        "weight": 1
+      },
+      {
+        "source": "STRIKE",
+        "target": "ICE",
+        "weight": 1
+      },
+      {
+        "source": "STRIKE",
+        "target": "MAVERICK",
+        "weight": 2
+      },
+      {
+        "source": "STRIKE",
+        "target": "FUNGUS",
+        "weight": 1
+      },
+      {
+        "source": "PORK",
+        "target": "WOLFMAN",
+        "weight": 1
+      },
+      {
+        "source": "PORK",
+        "target": "SUNDOWN",
+        "weight": 1
+      },
+      {
+        "source": "PORK",
+        "target": "VIPER",
+        "weight": 1
+      },
+      {
+        "source": "PORK",
+        "target": "JESTER",
+        "weight": 1
+      },
+      {
+        "source": "PORK",
+        "target": "MAVERICK",
+        "weight": 1
+      },
+      {
+        "source": "PORK",
+        "target": "FUNGUS",
+        "weight": 1
+      },
+      {
+        "source": "PORK",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "PORK",
+        "target": "HOLLYWOOD",
+        "weight": 1
+      },
+      {
+        "source": "STINGER",
+        "target": "ICE",
+        "weight": 1
+      },
+      {
+        "source": "STINGER",
+        "target": "WOLFMAN",
+        "weight": 1
+      },
+      {
+        "source": "STINGER",
+        "target": "HOLLYWOOD",
+        "weight": 1
+      },
+      {
+        "source": "STINGER",
+        "target": "XO",
+        "weight": 1
+      },
+      {
+        "source": "STINGER",
+        "target": "MAVERICK",
+        "weight": 2
+      },
+      {
+        "source": "STINGER",
+        "target": "FUNGUS",
+        "weight": 1
+      },
+      {
+        "source": "CHP",
+        "target": "ICE",
+        "weight": 1
+      },
+      {
+        "source": "CHP",
+        "target": "VIPER",
+        "weight": 1
+      },
+      {
+        "source": "CHP",
+        "target": "MAVERICK",
+        "weight": 2
+      },
+      {
+        "source": "ICEMAN",
+        "target": "ICE",
+        "weight": 1
+      },
+      {
+        "source": "ICEMAN",
+        "target": "WOLFMAN",
+        "weight": 1
+      },
+      {
+        "source": "ICEMAN",
+        "target": "SUNDOWN",
+        "weight": 1
+      },
+      {
+        "source": "ICEMAN",
+        "target": "MAVERICK",
+        "weight": 1
+      },
+      {
+        "source": "ICEMAN",
+        "target": "HOLLYWOOD",
+        "weight": 1
+      },
+      {
+        "source": "WIZARD",
+        "target": "MAVERICK",
+        "weight": 1
+      },
+      {
+        "source": "JESTER",
+        "target": "ICE",
+        "weight": 1
+      },
+      {
+        "source": "JESTER",
+        "target": "VIPER",
+        "weight": 5
+      },
+      {
+        "source": "JESTER",
+        "target": "SUNDOWN",
+        "weight": 1
+      },
+      {
+        "source": "JESTER",
+        "target": "MAVERICK",
+        "weight": 5
+      },
+      {
+        "source": "JESTER",
+        "target": "WOLFMAN",
+        "weight": 1
+      },
+      {
+        "source": "JESTER",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "JESTER",
+        "target": "HOLLYWOOD",
+        "weight": 2
+      },
+      {
+        "source": "OFFICER",
+        "target": "MAVERICK",
+        "weight": 1
+      },
+      {
+        "source": "OFFICER",
+        "target": "FUNGUS",
+        "weight": 1
+      },
+      {
+        "source": "OFFICER",
+        "target": "XO",
+        "weight": 1
+      },
+      {
+        "source": "HOLLYWOOD",
+        "target": "ICE",
+        "weight": 5
+      },
+      {
+        "source": "HOLLYWOOD",
+        "target": "WOLFMAN",
+        "weight": 5
+      },
+      {
+        "source": "HOLLYWOOD",
+        "target": "SUNDOWN",
+        "weight": 1
+      },
+      {
+        "source": "HOLLYWOOD",
+        "target": "VIPER",
+        "weight": 3
+      },
+      {
+        "source": "HOLLYWOOD",
+        "target": "MAVERICK",
+        "weight": 5
+      },
+      {
+        "source": "HOLLYWOOD",
+        "target": "FUNGUS",
+        "weight": 2
+      },
+      {
+        "source": "ICE",
+        "target": "WOLFMAN",
+        "weight": 2
+      },
+      {
+        "source": "ICE",
+        "target": "SUNDOWN",
+        "weight": 1
+      },
+      {
+        "source": "ICE",
+        "target": "FUNGUS",
+        "weight": 3
+      },
+      {
+        "source": "ICE",
+        "target": "VIPER",
+        "weight": 1
+      },
+      {
+        "source": "ICE",
+        "target": "MAVERICK",
+        "weight": 7
+      },
+      {
+        "source": "WOLFMAN",
+        "target": "SUNDOWN",
+        "weight": 1
+      },
+      {
+        "source": "WOLFMAN",
+        "target": "VIPER",
+        "weight": 1
+      },
+      {
+        "source": "WOLFMAN",
+        "target": "MAVERICK",
+        "weight": 3
+      },
+      {
+        "source": "WOLFMAN",
+        "target": "FUNGUS",
+        "weight": 2
+      },
+      {
+        "source": "CHARLIE",
+        "target": "CAROL",
+        "weight": 1
+      },
+      {
+        "source": "CHARLIE",
+        "target": "VIPER",
+        "weight": 1
+      },
+      {
+        "source": "CHARLIE",
+        "target": "SUNDOWN",
+        "weight": 1
+      },
+      {
+        "source": "CHARLIE",
+        "target": "MAVERICK",
+        "weight": 5
+      },
+      {
+        "source": "XO",
+        "target": "MAVERICK",
+        "weight": 1
+      },
+      {
+        "source": "XO",
+        "target": "FUNGUS",
+        "weight": 1
+      },
+      {
+        "source": "CAROL",
+        "target": "VIPER",
+        "weight": 1
+      },
+      {
+        "source": "CAROL",
+        "target": "MAVERICK",
+        "weight": 1
+      },
+      {
+        "source": "VIPER",
+        "target": "SUNDOWN",
+        "weight": 1
+      },
+      {
+        "source": "VIPER",
+        "target": "MAVERICK",
+        "weight": 7
+      },
+      {
+        "source": "VIPER",
+        "target": "FUNGUS",
+        "weight": 1
+      },
+      {
+        "source": "MAVERICK",
+        "target": "FUNGUS",
+        "weight": 6
+      },
+      {
+        "source": "MAVERICK",
+        "target": "SUNDOWN",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "ADMIRAL",
+        "name": "ADMIRAL",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 5,
+        "pagerank": 0.01627715011387687,
+        "object_id": "5141323",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.878787878787879,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COUGAR",
+        "name": "COUGAR",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 7,
+        "pagerank": 0.025607205842113023,
+        "object_id": "5135074",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8181818181818181,
+        "betweenness centrality": 1.9166666666666665,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GIRL",
+        "name": "GIRL",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 11,
+        "pagerank": 0.021362089551512642,
+        "object_id": "5136565",
+        "triangles": 55,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.696969696969697,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GOOSE",
+        "name": "GOOSE",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 26,
+        "pagerank": 0.09433701288875618,
+        "object_id": "5135042",
+        "triangles": 112,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.2121212121212122,
+        "betweenness centrality": 103.3416666666667,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FLEX",
+        "name": "FLEX",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 7,
+        "pagerank": 0.015580855871500734,
+        "object_id": "5137099",
+        "triangles": 21,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7878787878787878,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TIM",
+        "name": "TIM",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.007408566407077621,
+        "object_id": "5140260",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TECH",
+        "name": "TECH",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.009299403077464196,
+        "object_id": "5137987",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9090909090909092,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FIRST GIRL",
+        "name": "FIRST GIRL",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 11,
+        "pagerank": 0.021362089551512642,
+        "object_id": "5136793",
+        "triangles": 55,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.696969696969697,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SECOND GIRL",
+        "name": "SECOND GIRL",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 11,
+        "pagerank": 0.021362089551512642,
+        "object_id": "5136800",
+        "triangles": 55,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.696969696969697,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LSO",
+        "name": "LSO",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 6,
+        "pagerank": 0.01828676994113671,
+        "object_id": "5134994",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8484848484848484,
+        "betweenness centrality": 2.5333333333333328,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SURGEON",
+        "name": "SURGEON",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 5,
+        "pagerank": 0.013040331897309854,
+        "object_id": "5135720",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.878787878787879,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BUGS",
+        "name": "BUGS",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 11,
+        "pagerank": 0.021362089551512642,
+        "object_id": "5136714",
+        "triangles": 55,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.696969696969697,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "AIR BOSS",
+        "name": "AIR BOSS",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 8,
+        "pagerank": 0.023173544412484946,
+        "object_id": "5135596",
+        "triangles": 16,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7878787878787878,
+        "betweenness centrality": 7.133333333333334,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SILVER SUIT",
+        "name": "SILVER SUIT",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.01033413358855757,
+        "object_id": "5135606",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0303030303030303,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MARINE",
+        "name": "MARINE",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.006300380465825484,
+        "object_id": "5137078",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.6666666666666665,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SLIDER",
+        "name": "SLIDER",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 14,
+        "pagerank": 0.03677254205746492,
+        "object_id": "5136405",
+        "triangles": 69,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.606060606060606,
+        "betweenness centrality": 5.207142857142857,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "STRIKE",
+        "name": "STRIKE",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.011875658778983774,
+        "object_id": "5140750",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9393939393939394,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PORK",
+        "name": "PORK",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 10,
+        "pagerank": 0.020173830619404587,
+        "object_id": "5137145",
+        "triangles": 36,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.696969696969697,
+        "betweenness centrality": 2.40952380952381,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "STINGER",
+        "name": "STINGER",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 9,
+        "pagerank": 0.02081925063798359,
+        "object_id": "5135755",
+        "triangles": 24,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7575757575757576,
+        "betweenness centrality": 3.5166666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CHP",
+        "name": "CHP",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.010324436236665372,
+        "object_id": "5136021",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9696969696969697,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ICEMAN",
+        "name": "ICEMAN",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 11,
+        "pagerank": 0.021362089551512642,
+        "object_id": "5136625",
+        "triangles": 55,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.696969696969697,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WIZARD",
+        "name": "WIZARD",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.011445329791555773,
+        "object_id": "5135252",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9090909090909092,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JESTER",
+        "name": "JESTER",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 10,
+        "pagerank": 0.03971358580378684,
+        "object_id": "5137111",
+        "triangles": 38,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.696969696969697,
+        "betweenness centrality": 1.725,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OFFICER",
+        "name": "OFFICER",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 5,
+        "pagerank": 0.01401224316950982,
+        "object_id": "5141319",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.878787878787879,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HOLLYWOOD",
+        "name": "HOLLYWOOD",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 16,
+        "pagerank": 0.05918451748441827,
+        "object_id": "5136331",
+        "triangles": 84,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.5454545454545454,
+        "betweenness centrality": 6.301190476190477,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ICE",
+        "name": "ICE",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 17,
+        "pagerank": 0.0571933667717537,
+        "object_id": "5136141",
+        "triangles": 82,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.5151515151515151,
+        "betweenness centrality": 14.949999999999998,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WOLFMAN",
+        "name": "WOLFMAN",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 16,
+        "pagerank": 0.04419532093720635,
+        "object_id": "5136328",
+        "triangles": 84,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.5454545454545454,
+        "betweenness centrality": 6.301190476190477,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CHARLIE",
+        "name": "CHARLIE",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 10,
+        "pagerank": 0.03332867561042348,
+        "object_id": "5136866",
+        "triangles": 26,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.696969696969697,
+        "betweenness centrality": 35.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "XO",
+        "name": "XO",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 9,
+        "pagerank": 0.0216619653126258,
+        "object_id": "5135723",
+        "triangles": 22,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7575757575757576,
+        "betweenness centrality": 4.933333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CAROL",
+        "name": "CAROL",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.010810143576315403,
+        "object_id": "5139114",
+        "triangles": 6,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.878787878787879,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "VIPER",
+        "name": "VIPER",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 15,
+        "pagerank": 0.051543446222283254,
+        "object_id": "5136154",
+        "triangles": 56,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.5454545454545454,
+        "betweenness centrality": 19.28690476190476,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAVERICK",
+        "name": "MAVERICK",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 31,
+        "pagerank": 0.13986429833313269,
+        "object_id": "5135055",
+        "triangles": 132,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.0606060606060606,
+        "betweenness centrality": 179.91785714285712,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FUNGUS",
+        "name": "FUNGUS",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 13,
+        "pagerank": 0.04072742374725563,
+        "object_id": "5140021",
+        "triangles": 37,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.6363636363636365,
+        "betweenness centrality": 15.217857142857143,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SUNDOWN",
+        "name": "SUNDOWN",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 16,
+        "pagerank": 0.029898162645564448,
+        "object_id": "5136517",
+        "triangles": 84,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.5151515151515151,
+        "betweenness centrality": 10.308333333333332,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": -155.6532,
+        "y": 102.30673,
+        "name": "ADMIRAL"
+      },
+      {
+        "x": -111.50148,
+        "y": -69.02376,
+        "name": "COUGAR"
+      },
+      {
+        "x": 217.30983,
+        "y": 79.899475,
+        "name": "GIRL"
+      },
+      {
+        "x": -16.566229,
+        "y": -58.91316,
+        "name": "GOOSE"
+      },
+      {
+        "x": 97.50402,
+        "y": -179.64185,
+        "name": "FLEX"
+      },
+      {
+        "x": 142.77876,
+        "y": -175.92924,
+        "name": "TIM"
+      },
+      {
+        "x": -24.667978,
+        "y": -194.17775,
+        "name": "TECH"
+      },
+      {
+        "x": 144.70631,
+        "y": 178.86528,
+        "name": "FIRST GIRL"
+      },
+      {
+        "x": 206.12001,
+        "y": 141.99481,
+        "name": "SECOND GIRL"
+      },
+      {
+        "x": -184.34842,
+        "y": -68.557236,
+        "name": "LSO"
+      },
+      {
+        "x": -133.63304,
+        "y": -117.83425,
+        "name": "SURGEON"
+      },
+      {
+        "x": 155.07283,
+        "y": 120.45765,
+        "name": "BUGS"
+      },
+      {
+        "x": -203.04123,
+        "y": 60.634323,
+        "name": "AIR BOSS"
+      },
+      {
+        "x": -242.83658,
+        "y": -23.356583,
+        "name": "SILVER SUIT"
+      },
+      {
+        "x": -74.00751,
+        "y": -92.34644,
+        "name": "MARINE"
+      },
+      {
+        "x": 144.79527,
+        "y": 47.63411,
+        "name": "SLIDER"
+      },
+      {
+        "x": 131.28925,
+        "y": -7.341384,
+        "name": "STRIKE"
+      },
+      {
+        "x": 140.6356,
+        "y": -115.07978,
+        "name": "PORK"
+      },
+      {
+        "x": -96.86693,
+        "y": 9.026873,
+        "name": "STINGER"
+      },
+      {
+        "x": -46.759567,
+        "y": 17.702839,
+        "name": "CHP"
+      },
+      {
+        "x": 89.14336,
+        "y": 155.54036,
+        "name": "ICEMAN"
+      },
+      {
+        "x": -174.98164,
+        "y": -134.27023,
+        "name": "WIZARD"
+      },
+      {
+        "x": 87.00908,
+        "y": -60.78062,
+        "name": "JESTER"
+      },
+      {
+        "x": -191.24661,
+        "y": 127.83182,
+        "name": "OFFICER"
+      },
+      {
+        "x": 83.083435,
+        "y": 12.0319,
+        "name": "HOLLYWOOD"
+      },
+      {
+        "x": 42.409534,
+        "y": 69.7193,
+        "name": "ICE"
+      },
+      {
+        "x": 93.59384,
+        "y": 70.24522,
+        "name": "WOLFMAN"
+      },
+      {
+        "x": 22.268059,
+        "y": -147.08492,
+        "name": "CHARLIE"
+      },
+      {
+        "x": -176.88678,
+        "y": 10.829966,
+        "name": "XO"
+      },
+      {
+        "x": -58.225315,
+        "y": -155.13554,
+        "name": "CAROL"
+      },
+      {
+        "x": 55.705467,
+        "y": -90.531685,
+        "name": "VIPER"
+      },
+      {
+        "x": 16.320272,
+        "y": -9.698556,
+        "name": "MAVERICK"
+      },
+      {
+        "x": -30.614107,
+        "y": 67.76316,
+        "name": "FUNGUS"
+      },
+      {
+        "x": 199.11752,
+        "y": -20.844042,
+        "name": "SUNDOWN"
+      }
+    ]
+  }
+}

@@ -1,0 +1,501 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "TRENCH",
+        "target": "HARRY",
+        "weight": 2
+      },
+      {
+        "source": "ABOU FATMA",
+        "target": "DERVISH CAPTAIN",
+        "weight": 1
+      },
+      {
+        "source": "ABOU FATMA",
+        "target": "EGYPTIAN OVERSEER",
+        "weight": 1
+      },
+      {
+        "source": "ABOU FATMA",
+        "target": "CORPORAL",
+        "weight": 1
+      },
+      {
+        "source": "ABOU FATMA",
+        "target": "EGYPTIAN CORPORAL",
+        "weight": 1
+      },
+      {
+        "source": "ABOU FATMA",
+        "target": "DURRANCE",
+        "weight": 1
+      },
+      {
+        "source": "AIDE-DE-CAMP",
+        "target": "HARRY",
+        "weight": 1
+      },
+      {
+        "source": "AIDE-DE-CAMP",
+        "target": "GENERAL WOLSELEY",
+        "weight": 1
+      },
+      {
+        "source": "AIDE-DE-CAMP",
+        "target": "WOUNDED CAPTAIN",
+        "weight": 1
+      },
+      {
+        "source": "COLONEL SUTCH",
+        "target": "HARRY",
+        "weight": 2
+      },
+      {
+        "source": "COLONEL SUTCH",
+        "target": "GENERAL FEVERSHAM",
+        "weight": 1
+      },
+      {
+        "source": "CASTELTON",
+        "target": "DURRANCE",
+        "weight": 5
+      },
+      {
+        "source": "CASTELTON",
+        "target": "WILLOUGHBY",
+        "weight": 1
+      },
+      {
+        "source": "COLONEL HAMILTON",
+        "target": "HARRY",
+        "weight": 1
+      },
+      {
+        "source": "COLONEL HAMILTON",
+        "target": "DURRANCE",
+        "weight": 2
+      },
+      {
+        "source": "WOUNDED CAPTAIN",
+        "target": "GENERAL WOLSELEY",
+        "weight": 1
+      },
+      {
+        "source": "EGYPTIAN CORPORAL",
+        "target": "CORPORAL",
+        "weight": 1
+      },
+      {
+        "source": "EGYPTIAN CORPORAL",
+        "target": "DURRANCE",
+        "weight": 1
+      },
+      {
+        "source": "GENERAL FEVERSHAM",
+        "target": "HARRY",
+        "weight": 2
+      },
+      {
+        "source": "WILLOUGHBY",
+        "target": "HARRY",
+        "weight": 1
+      },
+      {
+        "source": "WILLOUGHBY",
+        "target": "DURRANCE",
+        "weight": 2
+      },
+      {
+        "source": "HARRY",
+        "target": "ETHNE",
+        "weight": 3
+      },
+      {
+        "source": "CAROLINE",
+        "target": "ETHNE",
+        "weight": 3
+      },
+      {
+        "source": "CAROLINE",
+        "target": "DURRANCE",
+        "weight": 3
+      },
+      {
+        "source": "DURRANCE",
+        "target": "ETHNE",
+        "weight": 6
+      },
+      {
+        "source": "DURRANCE",
+        "target": "CAPTAIN CALDER",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "TRENCH",
+        "name": "TRENCH",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.02492131689937663,
+        "object_id": "1913195",
+        "triangles": 0,
+        "eccentricity": 5.0,
+        "closeness centrality": 3.0555555555555554,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ABOU FATMA",
+        "name": "ABOU FATMA",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.07679338829478344,
+        "object_id": "1912108",
+        "triangles": 2,
+        "eccentricity": 5.0,
+        "closeness centrality": 2.5555555555555554,
+        "betweenness centrality": 40.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "AIDE-DE-CAMP",
+        "name": "AIDE-DE-CAMP",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.04831754949707767,
+        "object_id": "1911208",
+        "triangles": 1,
+        "eccentricity": 5.0,
+        "closeness centrality": 2.8333333333333335,
+        "betweenness centrality": 32.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COLONEL SUTCH",
+        "name": "COLONEL SUTCH",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.0347738018979388,
+        "object_id": "1910904",
+        "triangles": 1,
+        "eccentricity": 5.0,
+        "closeness centrality": 3.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CASTELTON",
+        "name": "CASTELTON",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.05266744719198143,
+        "object_id": "1910835",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COLONEL HAMILTON",
+        "name": "COLONEL HAMILTON",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.031044218069614195,
+        "object_id": "1910922",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1666666666666665,
+        "betweenness centrality": 16.33333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WOUNDED CAPTAIN",
+        "name": "WOUNDED CAPTAIN",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.037539655662046215,
+        "object_id": "1912170",
+        "triangles": 1,
+        "eccentricity": 6.0,
+        "closeness centrality": 3.7222222222222223,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "EGYPTIAN CORPORAL",
+        "name": "EGYPTIAN CORPORAL",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.0422600719502067,
+        "object_id": "1912433",
+        "triangles": 2,
+        "eccentricity": 5.0,
+        "closeness centrality": 2.6666666666666665,
+        "betweenness centrality": 7.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CORPORAL",
+        "name": "CORPORAL",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.032923161067602374,
+        "object_id": "1912424",
+        "triangles": 1,
+        "eccentricity": 6.0,
+        "closeness centrality": 3.4444444444444446,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GENERAL FEVERSHAM",
+        "name": "GENERAL FEVERSHAM",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.0347738018979388,
+        "object_id": "1910897",
+        "triangles": 1,
+        "eccentricity": 5.0,
+        "closeness centrality": 3.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WILLOUGHBY",
+        "name": "WILLOUGHBY",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.03850526975512652,
+        "object_id": "1910892",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.111111111111111,
+        "betweenness centrality": 23.333333333333336,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DERVISH CAPTAIN",
+        "name": "DERVISH CAPTAIN",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 1,
+        "pagerank": 0.020949527738300267,
+        "object_id": "1912349",
+        "triangles": 0,
+        "eccentricity": 6.0,
+        "closeness centrality": 3.5,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HARRY",
+        "name": "HARRY",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 7,
+        "pagerank": 0.12018532307526819,
+        "object_id": "1910915",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.111111111111111,
+        "betweenness centrality": 84.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "EGYPTIAN OVERSEER",
+        "name": "EGYPTIAN OVERSEER",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 1,
+        "pagerank": 0.020949527738300267,
+        "object_id": "1912201",
+        "triangles": 0,
+        "eccentricity": 6.0,
+        "closeness centrality": 3.5,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CAROLINE",
+        "name": "CAROLINE",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.05087889764509448,
+        "object_id": "1911006",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DURRANCE",
+        "name": "DURRANCE",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 8,
+        "pagerank": 0.18079799971166438,
+        "object_id": "1910826",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 83.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ETHNE",
+        "name": "ETHNE",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.09896655380409122,
+        "object_id": "1910956",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.111111111111111,
+        "betweenness centrality": 23.333333333333336,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GENERAL WOLSELEY",
+        "name": "GENERAL WOLSELEY",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.037539655662046215,
+        "object_id": "1912167",
+        "triangles": 1,
+        "eccentricity": 6.0,
+        "closeness centrality": 3.7222222222222223,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CAPTAIN CALDER",
+        "name": "CAPTAIN CALDER",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.015212832441541889,
+        "object_id": "1912618",
+        "triangles": 0,
+        "eccentricity": 5.0,
+        "closeness centrality": 2.9444444444444446,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": 101.60004,
+        "y": 53.732296,
+        "name": "TRENCH"
+      },
+      {
+        "x": -160.5142,
+        "y": -24.93321,
+        "name": "ABOU FATMA"
+      },
+      {
+        "x": 36.927364,
+        "y": -97.65701,
+        "name": "AIDE-DE-CAMP"
+      },
+      {
+        "x": 124.92111,
+        "y": 15.907427,
+        "name": "COLONEL SUTCH"
+      },
+      {
+        "x": -20.434582,
+        "y": 88.887634,
+        "name": "CASTELTON"
+      },
+      {
+        "x": 15.330212,
+        "y": 103.29162,
+        "name": "COLONEL HAMILTON"
+      },
+      {
+        "x": -6.308617,
+        "y": -134.02867,
+        "name": "WOUNDED CAPTAIN"
+      },
+      {
+        "x": -146.4734,
+        "y": 30.818213,
+        "name": "EGYPTIAN CORPORAL"
+      },
+      {
+        "x": -199.93704,
+        "y": 11.209674,
+        "name": "CORPORAL"
+      },
+      {
+        "x": 104.817566,
+        "y": -15.332063,
+        "name": "GENERAL FEVERSHAM"
+      },
+      {
+        "x": 25.967382,
+        "y": 67.50653,
+        "name": "WILLOUGHBY"
+      },
+      {
+        "x": -160.62788,
+        "y": -81.91803,
+        "name": "DERVISH CAPTAIN"
+      },
+      {
+        "x": 66.47566,
+        "y": 21.889465,
+        "name": "HARRY"
+      },
+      {
+        "x": -205.01608,
+        "y": -67.117165,
+        "name": "EGYPTIAN OVERSEER"
+      },
+      {
+        "x": -55.029655,
+        "y": 88.1086,
+        "name": "CAROLINE"
+      },
+      {
+        "x": -41.2117,
+        "y": 55.354458,
+        "name": "DURRANCE"
+      },
+      {
+        "x": -5.897025,
+        "y": 43.444626,
+        "name": "ETHNE"
+      },
+      {
+        "x": 25.30094,
+        "y": -156.05086,
+        "name": "GENERAL WOLSELEY"
+      },
+      {
+        "x": -55.1326,
+        "y": 0.49058056,
+        "name": "CAPTAIN CALDER"
+      }
+    ]
+  }
+}

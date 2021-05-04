@@ -1,0 +1,850 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "HOUSEWIFE",
+        "target": "ANDY",
+        "weight": 2
+      },
+      {
+        "source": "HOUSEWIFE",
+        "target": "STORM",
+        "weight": 1
+      },
+      {
+        "source": "ESPOSITO",
+        "target": "TRENT",
+        "weight": 1
+      },
+      {
+        "source": "TRENT",
+        "target": "HOLLAND",
+        "weight": 2
+      },
+      {
+        "source": "TRENT",
+        "target": "AD",
+        "weight": 1
+      },
+      {
+        "source": "TRENT",
+        "target": "TV REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "TRENT",
+        "target": "FORD",
+        "weight": 1
+      },
+      {
+        "source": "TRENT",
+        "target": "DUNNE",
+        "weight": 1
+      },
+      {
+        "source": "TRENT",
+        "target": "CALABRESE",
+        "weight": 1
+      },
+      {
+        "source": "TRENT",
+        "target": "STORM",
+        "weight": 3
+      },
+      {
+        "source": "TRENT",
+        "target": "ANNOUNCER",
+        "weight": 1
+      },
+      {
+        "source": "TRENT",
+        "target": "SHADOW MAN WITH HAT",
+        "weight": 1
+      },
+      {
+        "source": "ANDY",
+        "target": "STORM",
+        "weight": 7
+      },
+      {
+        "source": "ANDY",
+        "target": "MRS WADE",
+        "weight": 1
+      },
+      {
+        "source": "ANDY",
+        "target": "JONES",
+        "weight": 1
+      },
+      {
+        "source": "ANDY",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "ANDY",
+        "target": "DRIVER",
+        "weight": 1
+      },
+      {
+        "source": "ANDY",
+        "target": "NEIGHBOR",
+        "weight": 1
+      },
+      {
+        "source": "ANDY",
+        "target": "SONNY",
+        "weight": 1
+      },
+      {
+        "source": "ANDY",
+        "target": "FORD",
+        "weight": 1
+      },
+      {
+        "source": "ANDY",
+        "target": "MARTHA",
+        "weight": 3
+      },
+      {
+        "source": "ANDY",
+        "target": "OLD LADY",
+        "weight": 2
+      },
+      {
+        "source": "NOLAN",
+        "target": "SONNY",
+        "weight": 2
+      },
+      {
+        "source": "NOLAN",
+        "target": "TURNER",
+        "weight": 3
+      },
+      {
+        "source": "JONES",
+        "target": "DESK CLERK",
+        "weight": 1
+      },
+      {
+        "source": "DETECTIVE #1",
+        "target": "STORM",
+        "weight": 1
+      },
+      {
+        "source": "ANNOUNCER",
+        "target": "AD",
+        "weight": 1
+      },
+      {
+        "source": "ANNOUNCER",
+        "target": "STORM",
+        "weight": 1
+      },
+      {
+        "source": "TURNER",
+        "target": "SONNY",
+        "weight": 2
+      },
+      {
+        "source": "MAN",
+        "target": "STORM",
+        "weight": 1
+      },
+      {
+        "source": "NEIGHBOR",
+        "target": "FORD",
+        "weight": 1
+      },
+      {
+        "source": "FELICIA",
+        "target": "SONNY",
+        "weight": 1
+      },
+      {
+        "source": "FELICIA",
+        "target": "STORM",
+        "weight": 2
+      },
+      {
+        "source": "DOCTOR",
+        "target": "STORM",
+        "weight": 1
+      },
+      {
+        "source": "MARTHA",
+        "target": "FORD",
+        "weight": 1
+      },
+      {
+        "source": "MARTHA",
+        "target": "DUNNE",
+        "weight": 1
+      },
+      {
+        "source": "AD",
+        "target": "STORM",
+        "weight": 1
+      },
+      {
+        "source": "KARL",
+        "target": "STORM",
+        "weight": 2
+      },
+      {
+        "source": "KARL",
+        "target": "DUNNE",
+        "weight": 1
+      },
+      {
+        "source": "CALABRESE",
+        "target": "STORM",
+        "weight": 1
+      },
+      {
+        "source": "CALABRESE",
+        "target": "SHADOW MAN WITH HAT",
+        "weight": 1
+      },
+      {
+        "source": "SONNY",
+        "target": "STORM",
+        "weight": 1
+      },
+      {
+        "source": "SONNY",
+        "target": "DRIVER",
+        "weight": 1
+      },
+      {
+        "source": "STORM",
+        "target": "SHADOW MAN WITH HAT",
+        "weight": 1
+      },
+      {
+        "source": "STORM",
+        "target": "COUNTER MAN",
+        "weight": 1
+      },
+      {
+        "source": "STORM",
+        "target": "DUNNE",
+        "weight": 2
+      },
+      {
+        "source": "STORM",
+        "target": "OLD LADY",
+        "weight": 1
+      },
+      {
+        "source": "STORM",
+        "target": "HOLLAND",
+        "weight": 2
+      },
+      {
+        "source": "STORM",
+        "target": "YOUTH #1",
+        "weight": 1
+      },
+      {
+        "source": "STORM",
+        "target": "FORD",
+        "weight": 1
+      },
+      {
+        "source": "HOLLAND",
+        "target": "TV REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "HOLLAND",
+        "target": "DUNNE",
+        "weight": 1
+      },
+      {
+        "source": "HOLLAND",
+        "target": "FORD",
+        "weight": 1
+      },
+      {
+        "source": "FORD",
+        "target": "DUNNE",
+        "weight": 2
+      }
+    ],
+    "nodes": [
+      {
+        "id": "HOUSEWIFE",
+        "name": "HOUSEWIFE",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.020460027710474626,
+        "object_id": "2341220",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.103448275862069,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ESPOSITO",
+        "name": "ESPOSITO",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.01024135400044829,
+        "object_id": "2339713",
+        "triangles": 0,
+        "eccentricity": 5.0,
+        "closeness centrality": 2.8620689655172415,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TRENT",
+        "name": "TRENT",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 10,
+        "pagerank": 0.08016238575106434,
+        "object_id": "2337301",
+        "triangles": 13,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.896551724137931,
+        "betweenness centrality": 53.93333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANDY",
+        "name": "ANDY",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 11,
+        "pagerank": 0.12757946962052918,
+        "object_id": "2338476",
+        "triangles": 8,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.6896551724137931,
+        "betweenness centrality": 123.71666666666668,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NOLAN",
+        "name": "NOLAN",
+        "color": "#F2A468",
+        "group": 4,
+        "degree": 2,
+        "pagerank": 0.03145917018959262,
+        "object_id": "2341727",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.8275862068965516,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JONES",
+        "name": "JONES",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.022570419250527836,
+        "object_id": "2338732",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.586206896551724,
+        "betweenness centrality": 28.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DETECTIVE #1",
+        "name": "DETECTIVE #1",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.01013158606460619,
+        "object_id": "2337684",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.3448275862068964,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANNOUNCER",
+        "name": "ANNOUNCER",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.021450580197920194,
+        "object_id": "2339344",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.206896551724138,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TURNER",
+        "name": "TURNER",
+        "color": "#F2A468",
+        "group": 4,
+        "degree": 2,
+        "pagerank": 0.03145917018959262,
+        "object_id": "2341738",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.8275862068965516,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAN",
+        "name": "MAN",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.01013158606460619,
+        "object_id": "2340525",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.3448275862068964,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NEIGHBOR",
+        "name": "NEIGHBOR",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.015178120594817672,
+        "object_id": "2340468",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.4482758620689653,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FELICIA",
+        "name": "FELICIA",
+        "color": "#F2A468",
+        "group": 4,
+        "degree": 2,
+        "pagerank": 0.02047125977349229,
+        "object_id": "2336924",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.206896551724138,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOCTOR",
+        "name": "DOCTOR",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.015295806887540408,
+        "object_id": "2338793",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.103448275862069,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MARTHA",
+        "name": "MARTHA",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.030454132611609324,
+        "object_id": "2338473",
+        "triangles": 2,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.3793103448275863,
+        "betweenness centrality": 1.5833333333333335,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MRS WADE",
+        "name": "MRS WADE",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.010164220822934219,
+        "object_id": "2340112",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.6551724137931036,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "AD",
+        "name": "AD",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.02145058019792019,
+        "object_id": "2339363",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.206896551724138,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KARL",
+        "name": "KARL",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.020210742500135596,
+        "object_id": "2337029",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2758620689655173,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CALABRESE",
+        "name": "CALABRESE",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.021450580197920194,
+        "object_id": "2337177",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.206896551724138,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SONNY",
+        "name": "SONNY",
+        "color": "#F2A468",
+        "group": 4,
+        "degree": 6,
+        "pagerank": 0.04901973383369149,
+        "object_id": "2336907",
+        "triangles": 4,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.896551724137931,
+        "betweenness centrality": 64.16666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "STORM",
+        "name": "STORM",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 19,
+        "pagerank": 0.18715563485756187,
+        "object_id": "2336933",
+        "triangles": 19,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.3793103448275863,
+        "betweenness centrality": 250.14999999999995,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OLD LADY",
+        "name": "OLD LADY",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.020460027710474626,
+        "object_id": "2340019",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.103448275862069,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SHADOW MAN WITH HAT",
+        "name": "SHADOW MAN WITH HAT",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.021450580197920194,
+        "object_id": "2337181",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.206896551724138,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HOLLAND",
+        "name": "HOLLAND",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.04223968665635877,
+        "object_id": "2338237",
+        "triangles": 7,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0689655172413794,
+        "betweenness centrality": 11.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COUNTER MAN",
+        "name": "COUNTER MAN",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.01013158606460619,
+        "object_id": "2337504",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.3448275862068964,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TV REPORTER",
+        "name": "TV REPORTER",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.015370460949663602,
+        "object_id": "2338199",
+        "triangles": 1,
+        "eccentricity": 5.0,
+        "closeness centrality": 2.8275862068965516,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "YOUTH #1",
+        "name": "YOUTH #1",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.01013158606460619,
+        "object_id": "2341414",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.3448275862068964,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DRIVER",
+        "name": "DRIVER",
+        "color": "#F2A468",
+        "group": 4,
+        "degree": 2,
+        "pagerank": 0.01537230846721413,
+        "object_id": "2342395",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5172413793103448,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FORD",
+        "name": "FORD",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 7,
+        "pagerank": 0.04718921359722827,
+        "object_id": "2339809",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8620689655172413,
+        "betweenness centrality": 28.1,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DUNNE",
+        "name": "DUNNE",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.04656504024567057,
+        "object_id": "2337407",
+        "triangles": 8,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0344827586206895,
+        "betweenness centrality": 9.349999999999998,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DESK CLERK",
+        "name": "DESK CLERK",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.014592948729272064,
+        "object_id": "2341916",
+        "triangles": 0,
+        "eccentricity": 5.0,
+        "closeness centrality": 3.5517241379310347,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": 93.80163,
+        "y": 46.452232,
+        "name": "HOUSEWIFE"
+      },
+      {
+        "x": -207.1092,
+        "y": -11.136395,
+        "name": "ESPOSITO"
+      },
+      {
+        "x": -113.84504,
+        "y": 2.312191,
+        "name": "TRENT"
+      },
+      {
+        "x": 69.382996,
+        "y": -3.2811806,
+        "name": "ANDY"
+      },
+      {
+        "x": 247.20691,
+        "y": 58.493256,
+        "name": "NOLAN"
+      },
+      {
+        "x": 11.162852,
+        "y": -175.01477,
+        "name": "JONES"
+      },
+      {
+        "x": -29.996845,
+        "y": 118.81693,
+        "name": "DETECTIVE #1"
+      },
+      {
+        "x": -149.41711,
+        "y": 66.67122,
+        "name": "ANNOUNCER"
+      },
+      {
+        "x": 254.64488,
+        "y": 28.099909,
+        "name": "TURNER"
+      },
+      {
+        "x": -77.287506,
+        "y": 119.440254,
+        "name": "MAN"
+      },
+      {
+        "x": 94.03145,
+        "y": -86.1594,
+        "name": "NEIGHBOR"
+      },
+      {
+        "x": 101.68647,
+        "y": -36.648888,
+        "name": "FELICIA"
+      },
+      {
+        "x": -5.115681,
+        "y": -72.65948,
+        "name": "DOCTOR"
+      },
+      {
+        "x": 110.10768,
+        "y": 8.12433,
+        "name": "MARTHA"
+      },
+      {
+        "x": 149.36331,
+        "y": -69.15993,
+        "name": "MRS WADE"
+      },
+      {
+        "x": -113.85397,
+        "y": 84.43134,
+        "name": "AD"
+      },
+      {
+        "x": 25.530258,
+        "y": 63.39993,
+        "name": "KARL"
+      },
+      {
+        "x": -107.00682,
+        "y": -89.0275,
+        "name": "CALABRESE"
+      },
+      {
+        "x": 193.76224,
+        "y": 26.158457,
+        "name": "SONNY"
+      },
+      {
+        "x": -10.262379,
+        "y": 9.700075,
+        "name": "STORM"
+      },
+      {
+        "x": 64.186844,
+        "y": 64.06146,
+        "name": "OLD LADY"
+      },
+      {
+        "x": -77.29577,
+        "y": -55.828354,
+        "name": "SHADOW MAN WITH HAT"
+      },
+      {
+        "x": -76.4741,
+        "y": 36.426785,
+        "name": "HOLLAND"
+      },
+      {
+        "x": 5.351092,
+        "y": -107.951355,
+        "name": "COUNTER MAN"
+      },
+      {
+        "x": -175.02306,
+        "y": 26.117537,
+        "name": "TV REPORTER"
+      },
+      {
+        "x": -122.45504,
+        "y": -52.128765,
+        "name": "YOUTH #1"
+      },
+      {
+        "x": 163.60118,
+        "y": 69.667206,
+        "name": "DRIVER"
+      },
+      {
+        "x": 22.289785,
+        "y": -37.63109,
+        "name": "FORD"
+      },
+      {
+        "x": -14.386206,
+        "y": 64.84386,
+        "name": "DUNNE"
+      },
+      {
+        "x": -32.43705,
+        "y": -238.1001,
+        "name": "DESK CLERK"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1576 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "ROTELLI",
+        "target": "JOKER",
+        "weight": 1
+      },
+      {
+        "source": "ROTELLI",
+        "target": "GANG BOSS",
+        "weight": 1
+      },
+      {
+        "source": "DENT",
+        "target": "VICKI",
+        "weight": 1
+      },
+      {
+        "source": "DENT",
+        "target": "POLITICO",
+        "weight": 1
+      },
+      {
+        "source": "DENT",
+        "target": "ALFRED",
+        "weight": 1
+      },
+      {
+        "source": "DENT",
+        "target": "ADVISER",
+        "weight": 1
+      },
+      {
+        "source": "DENT",
+        "target": "BRUCE",
+        "weight": 1
+      },
+      {
+        "source": "DENT",
+        "target": "KNOX",
+        "weight": 1
+      },
+      {
+        "source": "DENT",
+        "target": "JACK",
+        "weight": 1
+      },
+      {
+        "source": "DENT",
+        "target": "GORDON",
+        "weight": 1
+      },
+      {
+        "source": "DENT",
+        "target": "ALICIA",
+        "weight": 1
+      },
+      {
+        "source": "KNOX",
+        "target": "JOKER",
+        "weight": 1
+      },
+      {
+        "source": "KNOX",
+        "target": "COPY BOY",
+        "weight": 1
+      },
+      {
+        "source": "KNOX",
+        "target": "MIRANDA",
+        "weight": 1
+      },
+      {
+        "source": "KNOX",
+        "target": "VICKI",
+        "weight": 10
+      },
+      {
+        "source": "KNOX",
+        "target": "GORDON",
+        "weight": 2
+      },
+      {
+        "source": "KNOX",
+        "target": "PATROLMAN",
+        "weight": 1
+      },
+      {
+        "source": "KNOX",
+        "target": "NICK",
+        "weight": 1
+      },
+      {
+        "source": "KNOX",
+        "target": "COLLEAGUE",
+        "weight": 1
+      },
+      {
+        "source": "KNOX",
+        "target": "ALFRED",
+        "weight": 2
+      },
+      {
+        "source": "KNOX",
+        "target": "ECKHARDT",
+        "weight": 1
+      },
+      {
+        "source": "KNOX",
+        "target": "BRUCE",
+        "weight": 1
+      },
+      {
+        "source": "KNOX",
+        "target": "MEDIC",
+        "weight": 1
+      },
+      {
+        "source": "DIRECTOR",
+        "target": "JOKER",
+        "weight": 1
+      },
+      {
+        "source": "DIRECTOR",
+        "target": "TECHNICIAN",
+        "weight": 1
+      },
+      {
+        "source": "ANCHORWOMAN",
+        "target": "JOKER",
+        "weight": 1
+      },
+      {
+        "source": "ANCHORWOMAN",
+        "target": "VICKI",
+        "weight": 1
+      },
+      {
+        "source": "ANCHORWOMAN",
+        "target": "ALFRED",
+        "weight": 1
+      },
+      {
+        "source": "ANCHORWOMAN",
+        "target": "ANCHORMAN",
+        "weight": 1
+      },
+      {
+        "source": "ANCHORWOMAN",
+        "target": "BRUCE",
+        "weight": 1
+      },
+      {
+        "source": "COMPUTER",
+        "target": "JOKER",
+        "weight": 1
+      },
+      {
+        "source": "COMPUTER",
+        "target": "COP",
+        "weight": 1
+      },
+      {
+        "source": "COMPUTER",
+        "target": "BATMAN",
+        "weight": 2
+      },
+      {
+        "source": "COMPUTER",
+        "target": "VICKI",
+        "weight": 2
+      },
+      {
+        "source": "ALICIA",
+        "target": "VICKI",
+        "weight": 1
+      },
+      {
+        "source": "ALICIA",
+        "target": "JOKER",
+        "weight": 1
+      },
+      {
+        "source": "ALICIA",
+        "target": "JACK",
+        "weight": 1
+      },
+      {
+        "source": "ALICIA",
+        "target": "DOORMAN",
+        "weight": 1
+      },
+      {
+        "source": "ALICIA",
+        "target": "BRUCE",
+        "weight": 1
+      },
+      {
+        "source": "NICK",
+        "target": "ECKHARDT",
+        "weight": 1
+      },
+      {
+        "source": "NICK",
+        "target": "MEDIC",
+        "weight": 1
+      },
+      {
+        "source": "NICK",
+        "target": "BATMAN",
+        "weight": 1
+      },
+      {
+        "source": "NICK",
+        "target": "EDDIE",
+        "weight": 1
+      },
+      {
+        "source": "NICK",
+        "target": "PATROLMAN",
+        "weight": 1
+      },
+      {
+        "source": "GOON I",
+        "target": "GOON II",
+        "weight": 2
+      },
+      {
+        "source": "GOON I",
+        "target": "JOKER",
+        "weight": 1
+      },
+      {
+        "source": "GOON I",
+        "target": "GOON IV",
+        "weight": 2
+      },
+      {
+        "source": "GOON I",
+        "target": "GOON III",
+        "weight": 2
+      },
+      {
+        "source": "GOON I",
+        "target": "VICKI",
+        "weight": 1
+      },
+      {
+        "source": "GOON I",
+        "target": "BATMAN",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER I",
+        "target": "JOKER",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER I",
+        "target": "MAYOR",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER I",
+        "target": "REPORTER II",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER",
+        "target": "JOKER",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER",
+        "target": "MY",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER",
+        "target": "BATMAN",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER",
+        "target": "DICK",
+        "weight": 1
+      },
+      {
+        "source": "COP",
+        "target": "JACK",
+        "weight": 1
+      },
+      {
+        "source": "COP",
+        "target": "HOOD V",
+        "weight": 1
+      },
+      {
+        "source": "COP",
+        "target": "ECKHARDT",
+        "weight": 1
+      },
+      {
+        "source": "COP",
+        "target": "BATMAN",
+        "weight": 1
+      },
+      {
+        "source": "COP",
+        "target": "GORDON",
+        "weight": 2
+      },
+      {
+        "source": "VOICE ON PHONE",
+        "target": "JOKER",
+        "weight": 1
+      },
+      {
+        "source": "POLITICO",
+        "target": "ADVISER",
+        "weight": 1
+      },
+      {
+        "source": "POLITICO",
+        "target": "GORDON",
+        "weight": 1
+      },
+      {
+        "source": "LIEUTENANT",
+        "target": "JACK",
+        "weight": 1
+      },
+      {
+        "source": "LIEUTENANT",
+        "target": "GRISSOM",
+        "weight": 1
+      },
+      {
+        "source": "ADVISER",
+        "target": "GORDON",
+        "weight": 1
+      },
+      {
+        "source": "MIRANDA",
+        "target": "VICKI",
+        "weight": 1
+      },
+      {
+        "source": "GANG BOSS",
+        "target": "JOKER",
+        "weight": 1
+      },
+      {
+        "source": "DICK",
+        "target": "JOKER",
+        "weight": 1
+      },
+      {
+        "source": "DICK",
+        "target": "MY",
+        "weight": 1
+      },
+      {
+        "source": "DICK",
+        "target": "ALFRED",
+        "weight": 1
+      },
+      {
+        "source": "DICK",
+        "target": "BRUCE",
+        "weight": 3
+      },
+      {
+        "source": "DICK",
+        "target": "PILOT",
+        "weight": 1
+      },
+      {
+        "source": "DICK",
+        "target": "BATMAN",
+        "weight": 2
+      },
+      {
+        "source": "MEDIC",
+        "target": "ECKHARDT",
+        "weight": 1
+      },
+      {
+        "source": "MEDIC",
+        "target": "PATROLMAN",
+        "weight": 1
+      },
+      {
+        "source": "CLAIRE",
+        "target": "VICKI",
+        "weight": 1
+      },
+      {
+        "source": "CLAIRE",
+        "target": "TONY",
+        "weight": 1
+      },
+      {
+        "source": "JOKER",
+        "target": "VICKI",
+        "weight": 2
+      },
+      {
+        "source": "JOKER",
+        "target": "GOON",
+        "weight": 1
+      },
+      {
+        "source": "JOKER",
+        "target": "REPORTER II",
+        "weight": 1
+      },
+      {
+        "source": "JOKER",
+        "target": "BATMAN",
+        "weight": 2
+      },
+      {
+        "source": "JOKER",
+        "target": "BRUCE",
+        "weight": 1
+      },
+      {
+        "source": "JOKER",
+        "target": "DRIVER",
+        "weight": 1
+      },
+      {
+        "source": "JOKER",
+        "target": "ANCHORMAN",
+        "weight": 1
+      },
+      {
+        "source": "JOKER",
+        "target": "TECHNICIAN",
+        "weight": 1
+      },
+      {
+        "source": "JOKER",
+        "target": "MY",
+        "weight": 1
+      },
+      {
+        "source": "JOKER",
+        "target": "ALFRED",
+        "weight": 1
+      },
+      {
+        "source": "JOKER",
+        "target": "MAYOR",
+        "weight": 1
+      },
+      {
+        "source": "GOON",
+        "target": "BRUCE",
+        "weight": 1
+      },
+      {
+        "source": "MAYOR",
+        "target": "REPORTER II",
+        "weight": 1
+      },
+      {
+        "source": "BATMAN",
+        "target": "GOON II",
+        "weight": 1
+      },
+      {
+        "source": "BATMAN",
+        "target": "GOON III",
+        "weight": 1
+      },
+      {
+        "source": "BATMAN",
+        "target": "VICKI",
+        "weight": 4
+      },
+      {
+        "source": "BATMAN",
+        "target": "EDDIE",
+        "weight": 1
+      },
+      {
+        "source": "BATMAN",
+        "target": "MY",
+        "weight": 1
+      },
+      {
+        "source": "BATMAN",
+        "target": "BRUCE",
+        "weight": 1
+      },
+      {
+        "source": "BATMAN",
+        "target": "GOON IV",
+        "weight": 1
+      },
+      {
+        "source": "GORDON",
+        "target": "VICKI",
+        "weight": 2
+      },
+      {
+        "source": "GORDON",
+        "target": "JACK",
+        "weight": 1
+      },
+      {
+        "source": "GORDON",
+        "target": "HOOD V",
+        "weight": 1
+      },
+      {
+        "source": "GORDON",
+        "target": "PATROLMAN",
+        "weight": 1
+      },
+      {
+        "source": "GORDON",
+        "target": "ALFRED",
+        "weight": 2
+      },
+      {
+        "source": "GORDON",
+        "target": "ECKHARDT",
+        "weight": 2
+      },
+      {
+        "source": "GORDON",
+        "target": "BRUCE",
+        "weight": 1
+      },
+      {
+        "source": "PATROLMAN",
+        "target": "VICKI",
+        "weight": 1
+      },
+      {
+        "source": "PATROLMAN",
+        "target": "ALFRED",
+        "weight": 1
+      },
+      {
+        "source": "PATROLMAN",
+        "target": "ECKHARDT",
+        "weight": 1
+      },
+      {
+        "source": "PATROLMAN",
+        "target": "BRUCE",
+        "weight": 1
+      },
+      {
+        "source": "COLLEAGUE",
+        "target": "VICKI",
+        "weight": 1
+      },
+      {
+        "source": "JACK",
+        "target": "ECKHARDT",
+        "weight": 1
+      },
+      {
+        "source": "JACK",
+        "target": "HOOD V",
+        "weight": 1
+      },
+      {
+        "source": "JACK",
+        "target": "GRISSOM",
+        "weight": 2
+      },
+      {
+        "source": "JACK",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "ANCHORMAN",
+        "target": "ALFRED",
+        "weight": 1
+      },
+      {
+        "source": "VICKI",
+        "target": "GOON IV",
+        "weight": 1
+      },
+      {
+        "source": "VICKI",
+        "target": "GOON II",
+        "weight": 1
+      },
+      {
+        "source": "VICKI",
+        "target": "GOON III",
+        "weight": 1
+      },
+      {
+        "source": "VICKI",
+        "target": "ALFRED",
+        "weight": 1
+      },
+      {
+        "source": "VICKI",
+        "target": "BRUCE",
+        "weight": 7
+      },
+      {
+        "source": "VICKI",
+        "target": "TONY",
+        "weight": 1
+      },
+      {
+        "source": "GOON III",
+        "target": "GOON II",
+        "weight": 2
+      },
+      {
+        "source": "GOON III",
+        "target": "GOON IV",
+        "weight": 2
+      },
+      {
+        "source": "GOON II",
+        "target": "GOON IV",
+        "weight": 2
+      },
+      {
+        "source": "ALFRED",
+        "target": "BRUCE",
+        "weight": 2
+      }
+    ],
+    "nodes": [
+      {
+        "id": "ROTELLI",
+        "name": "ROTELLI",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.010122234877774411,
+        "object_id": "634615",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.6041666666666665,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DENT",
+        "name": "DENT",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 9,
+        "pagerank": 0.02589825181445761,
+        "object_id": "632600",
+        "triangles": 17,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0833333333333335,
+        "betweenness centrality": 67.14920634920637,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KNOX",
+        "name": "KNOX",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 13,
+        "pagerank": 0.060529448323217674,
+        "object_id": "632735",
+        "triangles": 26,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8333333333333333,
+        "betweenness centrality": 146.52380952380958,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DIRECTOR",
+        "name": "DIRECTOR",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.010122234877774411,
+        "object_id": "635217",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.6041666666666665,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANCHORWOMAN",
+        "name": "ANCHORWOMAN",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 5,
+        "pagerank": 0.015224019589257828,
+        "object_id": "634839",
+        "triangles": 8,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2708333333333335,
+        "betweenness centrality": 2.3333333333333335,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COMPUTER",
+        "name": "COMPUTER",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.016841352474138697,
+        "object_id": "635803",
+        "triangles": 4,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1041666666666665,
+        "betweenness centrality": 8.661904761904758,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ALICIA",
+        "name": "ALICIA",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.020557221646216737,
+        "object_id": "632669",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9791666666666667,
+        "betweenness centrality": 115.31428571428569,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NICK",
+        "name": "NICK",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 6,
+        "pagerank": 0.018039197430037276,
+        "object_id": "632404",
+        "triangles": 7,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.375,
+        "betweenness centrality": 17.05,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GOON I",
+        "name": "GOON I",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 6,
+        "pagerank": 0.02301277350746966,
+        "object_id": "635944",
+        "triangles": 12,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1875,
+        "betweenness centrality": 11.2,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REPORTER I",
+        "name": "REPORTER I",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.013432917487591872,
+        "object_id": "636958",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5833333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REPORTER",
+        "name": "REPORTER",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.013305493153761856,
+        "object_id": "637827",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.3958333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COP",
+        "name": "COP",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.02060522187308439,
+        "object_id": "633615",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.2708333333333335,
+        "betweenness centrality": 36.42222222222224,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOORMAN",
+        "name": "DOORMAN",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 1,
+        "pagerank": 0.005973555563258979,
+        "object_id": "634555",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.9583333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "VOICE ON PHONE",
+        "name": "VOICE ON PHONE",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.005820033513452515,
+        "object_id": "635043",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.625,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "POLITICO",
+        "name": "POLITICO",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.010809004351724974,
+        "object_id": "636919",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.9375,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LIEUTENANT",
+        "name": "LIEUTENANT",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.009844387301084185,
+        "object_id": "633066",
+        "triangles": 1,
+        "eccentricity": 5.0,
+        "closeness centrality": 3.3333333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ADVISER",
+        "name": "ADVISER",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.010809004351724976,
+        "object_id": "636904",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.9375,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MIRANDA",
+        "name": "MIRANDA",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.007280628368044795,
+        "object_id": "633948",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5625,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GANG BOSS",
+        "name": "GANG BOSS",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.010122234877774411,
+        "object_id": "634599",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.6041666666666665,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DICK",
+        "name": "DICK",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 7,
+        "pagerank": 0.029106928757678705,
+        "object_id": "637651",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2291666666666665,
+        "betweenness centrality": 51.30555555555556,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MEDIC",
+        "name": "MEDIC",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.012450020321745893,
+        "object_id": "632719",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.6041666666666665,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CLAIRE",
+        "name": "CLAIRE",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.008933583796016152,
+        "object_id": "635075",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.6458333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PILOT",
+        "name": "PILOT",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.005535316558946904,
+        "object_id": "637648",
+        "triangles": 0,
+        "eccentricity": 5.0,
+        "closeness centrality": 3.2083333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JOKER",
+        "name": "JOKER",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 23,
+        "pagerank": 0.08113752275091811,
+        "object_id": "634428",
+        "triangles": 33,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.6458333333333333,
+        "betweenness centrality": 471.85317460317464,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GOON",
+        "name": "GOON",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.00793874050490456,
+        "object_id": "635849",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.4791666666666665,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TECHNICIAN",
+        "name": "TECHNICIAN",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.010122234877774411,
+        "object_id": "635220",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.6041666666666665,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAYOR",
+        "name": "MAYOR",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.013432917487591874,
+        "object_id": "636981",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5833333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BATMAN",
+        "name": "BATMAN",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 14,
+        "pagerank": 0.051387670264163396,
+        "object_id": "632564",
+        "triangles": 25,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8541666666666667,
+        "betweenness centrality": 132.49563492063496,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GORDON",
+        "name": "GORDON",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 12,
+        "pagerank": 0.04478533385170744,
+        "object_id": "633244",
+        "triangles": 25,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0416666666666665,
+        "betweenness centrality": 106.62500000000001,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DRIVER",
+        "name": "DRIVER",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.005820033513452515,
+        "object_id": "637528",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.625,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PATROLMAN",
+        "name": "PATROLMAN",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 8,
+        "pagerank": 0.021452947764511714,
+        "object_id": "632731",
+        "triangles": 17,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1666666666666665,
+        "betweenness centrality": 15.533333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COLLEAGUE",
+        "name": "COLLEAGUE",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.007280628368044795,
+        "object_id": "632915",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5625,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JACK",
+        "name": "JACK",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 9,
+        "pagerank": 0.03551799591830562,
+        "object_id": "632672",
+        "triangles": 8,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.375,
+        "betweenness centrality": 147.4476190476191,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "EDDIE",
+        "name": "EDDIE",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.007800621785033246,
+        "object_id": "632415",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.7083333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GRISSOM",
+        "name": "GRISSOM",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.01328375315195506,
+        "object_id": "633054",
+        "triangles": 1,
+        "eccentricity": 5.0,
+        "closeness centrality": 3.3333333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANCHORMAN",
+        "name": "ANCHORMAN",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.010611159929112988,
+        "object_id": "635344",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.4583333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOCTOR",
+        "name": "DOCTOR",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 1,
+        "pagerank": 0.006080419388367505,
+        "object_id": "634236",
+        "triangles": 0,
+        "eccentricity": 5.0,
+        "closeness centrality": 3.3541666666666665,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "VICKI",
+        "name": "VICKI",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 19,
+        "pagerank": 0.09768291988852355,
+        "object_id": "632939",
+        "triangles": 41,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.6875,
+        "betweenness centrality": 256.3408730158731,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COPY BOY",
+        "name": "COPY BOY",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.0052049263584580145,
+        "object_id": "634512",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.8125,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TONY",
+        "name": "TONY",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.008933583796016152,
+        "object_id": "635100",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.6458333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HOOD V",
+        "name": "HOOD V",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.01082177167248068,
+        "object_id": "633781",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.7708333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GOON III",
+        "name": "GOON III",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.02028939322221782,
+        "object_id": "636030",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.4375,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REPORTER II",
+        "name": "REPORTER II",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.013432917487591874,
+        "object_id": "636962",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5833333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GOON II",
+        "name": "GOON II",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.020289393222217816,
+        "object_id": "636027",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.4375,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MY",
+        "name": "MY",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.013305493153761854,
+        "object_id": "637814",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.3958333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ALFRED",
+        "name": "ALFRED",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 10,
+        "pagerank": 0.033693142195096004,
+        "object_id": "633195",
+        "triangles": 24,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8958333333333333,
+        "betweenness centrality": 49.17341269841269,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ECKHARDT",
+        "name": "ECKHARDT",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 7,
+        "pagerank": 0.022685122098716697,
+        "object_id": "632723",
+        "triangles": 11,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.3541666666666665,
+        "betweenness centrality": 23.241269841269844,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GOON IV",
+        "name": "GOON IV",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.020289393222217816,
+        "object_id": "636036",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.4375,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BRUCE",
+        "name": "BRUCE",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 12,
+        "pagerank": 0.052344899310623534,
+        "object_id": "633377",
+        "triangles": 29,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8125,
+        "betweenness centrality": 69.32936507936508,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": 203.90965,
+        "y": 235.29767,
+        "name": "ROTELLI"
+      },
+      {
+        "x": 41.79826,
+        "y": -156.77766,
+        "name": "DENT"
+      },
+      {
+        "x": -21.278418,
+        "y": -58.16574,
+        "name": "KNOX"
+      },
+      {
+        "x": -39.718742,
+        "y": 352.0139,
+        "name": "DIRECTOR"
+      },
+      {
+        "x": 114.02959,
+        "y": 64.87115,
+        "name": "ANCHORWOMAN"
+      },
+      {
+        "x": 43.84355,
+        "y": 58.691578,
+        "name": "COMPUTER"
+      },
+      {
+        "x": 139.32114,
+        "y": -41.659294,
+        "name": "ALICIA"
+      },
+      {
+        "x": 136.09897,
+        "y": -103.60425,
+        "name": "NICK"
+      },
+      {
+        "x": 27.50698,
+        "y": 269.7507,
+        "name": "GOON I"
+      },
+      {
+        "x": -146.69371,
+        "y": 243.70662,
+        "name": "REPORTER I"
+      },
+      {
+        "x": -77.59774,
+        "y": 156.08577,
+        "name": "REPORTER"
+      },
+      {
+        "x": 14.490538,
+        "y": -207.31248,
+        "name": "COP"
+      },
+      {
+        "x": 252.51682,
+        "y": 0.2872685,
+        "name": "DOORMAN"
+      },
+      {
+        "x": 176.77051,
+        "y": 171.9193,
+        "name": "VOICE ON PHONE"
+      },
+      {
+        "x": -30.518867,
+        "y": -269.29132,
+        "name": "POLITICO"
+      },
+      {
+        "x": 184.66212,
+        "y": -363.26642,
+        "name": "LIEUTENANT"
+      },
+      {
+        "x": -69.61613,
+        "y": -254.41193,
+        "name": "ADVISER"
+      },
+      {
+        "x": -122.251564,
+        "y": -22.860983,
+        "name": "MIRANDA"
+      },
+      {
+        "x": 181.47307,
+        "y": 267.44925,
+        "name": "GANG BOSS"
+      },
+      {
+        "x": -67.24346,
+        "y": 88.443436,
+        "name": "DICK"
+      },
+      {
+        "x": 126.87484,
+        "y": -166.85498,
+        "name": "MEDIC"
+      },
+      {
+        "x": -110.87144,
+        "y": 202.00739,
+        "name": "CLAIRE"
+      },
+      {
+        "x": -187.70818,
+        "y": 42.9359,
+        "name": "PILOT"
+      },
+      {
+        "x": 45.84781,
+        "y": 172.49077,
+        "name": "JOKER"
+      },
+      {
+        "x": -96.408714,
+        "y": 56.759796,
+        "name": "GOON"
+      },
+      {
+        "x": -65.35754,
+        "y": 324.72443,
+        "name": "TECHNICIAN"
+      },
+      {
+        "x": -99.18697,
+        "y": 271.84412,
+        "name": "MAYOR"
+      },
+      {
+        "x": 0.9782001,
+        "y": 107.33977,
+        "name": "BATMAN"
+      },
+      {
+        "x": -15.112221,
+        "y": -158.96768,
+        "name": "GORDON"
+      },
+      {
+        "x": 145.96582,
+        "y": 220.59496,
+        "name": "DRIVER"
+      },
+      {
+        "x": 67.206955,
+        "y": -105.84493,
+        "name": "PATROLMAN"
+      },
+      {
+        "x": -113.662186,
+        "y": -64.475685,
+        "name": "COLLEAGUE"
+      },
+      {
+        "x": 94.69963,
+        "y": -286.37198,
+        "name": "JACK"
+      },
+      {
+        "x": 177.76283,
+        "y": -4.974801,
+        "name": "EDDIE"
+      },
+      {
+        "x": 151.83664,
+        "y": -338.62744,
+        "name": "GRISSOM"
+      },
+      {
+        "x": 160.87149,
+        "y": 90.41138,
+        "name": "ANCHORMAN"
+      },
+      {
+        "x": -45.347343,
+        "y": -225.18605,
+        "name": "DOCTOR"
+      },
+      {
+        "x": -23.314882,
+        "y": 28.992796,
+        "name": "VICKI"
+      },
+      {
+        "x": -109.700386,
+        "y": -159.18979,
+        "name": "COPY BOY"
+      },
+      {
+        "x": -70.38916,
+        "y": 193.2909,
+        "name": "TONY"
+      },
+      {
+        "x": 18.860909,
+        "y": -301.10342,
+        "name": "HOOD V"
+      },
+      {
+        "x": -33.21892,
+        "y": 236.36029,
+        "name": "GOON III"
+      },
+      {
+        "x": -138.65341,
+        "y": 285.45023,
+        "name": "REPORTER II"
+      },
+      {
+        "x": 7.413657,
+        "y": 234.04085,
+        "name": "GOON II"
+      },
+      {
+        "x": -117.89181,
+        "y": 147.25682,
+        "name": "MY"
+      },
+      {
+        "x": 59.99963,
+        "y": -35.25295,
+        "name": "ALFRED"
+      },
+      {
+        "x": 76.94782,
+        "y": -211.33546,
+        "name": "ECKHARDT"
+      },
+      {
+        "x": -17.958635,
+        "y": 274.93753,
+        "name": "GOON IV"
+      },
+      {
+        "x": 21.837498,
+        "y": 5.1107,
+        "name": "BRUCE"
+      }
+    ]
+  }
+}

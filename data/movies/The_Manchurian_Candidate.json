@@ -1,0 +1,1425 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "MARCO",
+        "target": "ANDERSON",
+        "weight": 3
+      },
+      {
+        "source": "MARCO",
+        "target": "MIRELLA",
+        "weight": 1
+      },
+      {
+        "source": "MARCO",
+        "target": "MARCO LT COL HOWARD",
+        "weight": 2
+      },
+      {
+        "source": "MARCO",
+        "target": "AGENT JONAS",
+        "weight": 1
+      },
+      {
+        "source": "MARCO",
+        "target": "ROSIE",
+        "weight": 6
+      },
+      {
+        "source": "MARCO",
+        "target": "JORDAN",
+        "weight": 1
+      },
+      {
+        "source": "MARCO",
+        "target": "DELP",
+        "weight": 2
+      },
+      {
+        "source": "MARCO",
+        "target": "BLINK",
+        "weight": 2
+      },
+      {
+        "source": "MARCO",
+        "target": "AGENT RAMIREZ",
+        "weight": 1
+      },
+      {
+        "source": "MARCO",
+        "target": "LT COL HOWARD",
+        "weight": 3
+      },
+      {
+        "source": "MARCO",
+        "target": "GENERAL WILSON",
+        "weight": 1
+      },
+      {
+        "source": "MARCO",
+        "target": "COLONEL GARRET",
+        "weight": 3
+      },
+      {
+        "source": "MARCO",
+        "target": "JOHNSTON",
+        "weight": 1
+      },
+      {
+        "source": "MARCO",
+        "target": "RAYMOND",
+        "weight": 6
+      },
+      {
+        "source": "MARCO",
+        "target": "MYSTERIOUS WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "MARCO",
+        "target": "MELVIN",
+        "weight": 1
+      },
+      {
+        "source": "MARCO",
+        "target": "WOMAN",
+        "weight": 3
+      },
+      {
+        "source": "MARCO",
+        "target": "JOCELYN",
+        "weight": 1
+      },
+      {
+        "source": "MARCO",
+        "target": "LAURENT",
+        "weight": 2
+      },
+      {
+        "source": "MARCO",
+        "target": "NOYLE",
+        "weight": 2
+      },
+      {
+        "source": "MARCO",
+        "target": "WHITING",
+        "weight": 1
+      },
+      {
+        "source": "MARCO",
+        "target": "REPORTER #1",
+        "weight": 1
+      },
+      {
+        "source": "MARCO",
+        "target": "MEDIA ICON",
+        "weight": 1
+      },
+      {
+        "source": "MARCO",
+        "target": "ELLIE",
+        "weight": 3
+      },
+      {
+        "source": "MARCO",
+        "target": "GENERAL SLOAN",
+        "weight": 1
+      },
+      {
+        "source": "MARCO",
+        "target": "DONOVAN",
+        "weight": 1
+      },
+      {
+        "source": "MARCO",
+        "target": "REPORTER #2",
+        "weight": 1
+      },
+      {
+        "source": "MARCO",
+        "target": "SCOUTMASTER",
+        "weight": 1
+      },
+      {
+        "source": "MARCO",
+        "target": "AGENT GOLDRING",
+        "weight": 1
+      },
+      {
+        "source": "MARCO",
+        "target": "WHIP PAN",
+        "weight": 1
+      },
+      {
+        "source": "MARCO",
+        "target": "MAVOLE",
+        "weight": 1
+      },
+      {
+        "source": "MARCO",
+        "target": "SCREEN GOES BLACK",
+        "weight": 2
+      },
+      {
+        "source": "MIRELLA",
+        "target": "RAYMOND",
+        "weight": 2
+      },
+      {
+        "source": "MIRELLA",
+        "target": "ANDERSON",
+        "weight": 1
+      },
+      {
+        "source": "MARCO LT COL HOWARD",
+        "target": "COLONEL GARRET",
+        "weight": 1
+      },
+      {
+        "source": "MARCO LT COL HOWARD",
+        "target": "LT COL HOWARD",
+        "weight": 2
+      },
+      {
+        "source": "AGENT JONAS",
+        "target": "AGENT RAMIREZ",
+        "weight": 1
+      },
+      {
+        "source": "AGENT JONAS",
+        "target": "LT COL HOWARD",
+        "weight": 1
+      },
+      {
+        "source": "AGENT JONAS",
+        "target": "AGENT GOLDRING",
+        "weight": 1
+      },
+      {
+        "source": "AGENT JONAS",
+        "target": "COLONEL GARRET",
+        "weight": 1
+      },
+      {
+        "source": "AGENT JONAS",
+        "target": "ELLIE",
+        "weight": 1
+      },
+      {
+        "source": "UTLY",
+        "target": "SENATOR WELLS",
+        "weight": 1
+      },
+      {
+        "source": "UTLY",
+        "target": "ELLIE",
+        "weight": 1
+      },
+      {
+        "source": "GENERAL WILSON",
+        "target": "DONOVAN",
+        "weight": 1
+      },
+      {
+        "source": "GENERAL WILSON",
+        "target": "RAYMOND",
+        "weight": 1
+      },
+      {
+        "source": "GENERAL WILSON",
+        "target": "JOHNSTON",
+        "weight": 1
+      },
+      {
+        "source": "GENERAL WILSON",
+        "target": "JORDAN",
+        "weight": 1
+      },
+      {
+        "source": "GENERAL WILSON",
+        "target": "WHITING",
+        "weight": 1
+      },
+      {
+        "source": "GENERAL WILSON",
+        "target": "ELLIE",
+        "weight": 1
+      },
+      {
+        "source": "GENERAL WILSON",
+        "target": "GENERAL SLOAN",
+        "weight": 1
+      },
+      {
+        "source": "JORDAN",
+        "target": "DONOVAN",
+        "weight": 1
+      },
+      {
+        "source": "JORDAN",
+        "target": "JOHNSTON",
+        "weight": 1
+      },
+      {
+        "source": "JORDAN",
+        "target": "RAYMOND",
+        "weight": 2
+      },
+      {
+        "source": "JORDAN",
+        "target": "WHITING",
+        "weight": 1
+      },
+      {
+        "source": "JORDAN",
+        "target": "ELLIE",
+        "weight": 3
+      },
+      {
+        "source": "JORDAN",
+        "target": "GENERAL SLOAN",
+        "weight": 1
+      },
+      {
+        "source": "DELP",
+        "target": "COLONEL GARRET",
+        "weight": 1
+      },
+      {
+        "source": "DELP",
+        "target": "LT COL HOWARD",
+        "weight": 1
+      },
+      {
+        "source": "DELP",
+        "target": "AGENT GOLDRING",
+        "weight": 1
+      },
+      {
+        "source": "MEDIA ICON",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "MEDIA ICON",
+        "target": "MYSTERIOUS WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "MEDIA ICON",
+        "target": "NOYLE",
+        "weight": 1
+      },
+      {
+        "source": "MEDIA ICON",
+        "target": "REPORTER #1",
+        "weight": 1
+      },
+      {
+        "source": "MEDIA ICON",
+        "target": "RAYMOND",
+        "weight": 1
+      },
+      {
+        "source": "MEDIA ICON",
+        "target": "MAVOLE",
+        "weight": 1
+      },
+      {
+        "source": "BLINK",
+        "target": "RAYMOND",
+        "weight": 1
+      },
+      {
+        "source": "BLINK",
+        "target": "TAPED VOICE",
+        "weight": 1
+      },
+      {
+        "source": "BLINK",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "BLINK",
+        "target": "ROSIE",
+        "weight": 1
+      },
+      {
+        "source": "TAPED VOICE",
+        "target": "RAYMOND",
+        "weight": 1
+      },
+      {
+        "source": "LT COL HOWARD",
+        "target": "AGENT RAMIREZ",
+        "weight": 1
+      },
+      {
+        "source": "LT COL HOWARD",
+        "target": "COLONEL GARRET",
+        "weight": 2
+      },
+      {
+        "source": "LT COL HOWARD",
+        "target": "AGENT GOLDRING",
+        "weight": 2
+      },
+      {
+        "source": "LT COL HOWARD",
+        "target": "ELLIE",
+        "weight": 1
+      },
+      {
+        "source": "ROSIE",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "ROSIE",
+        "target": "SCREEN GOES BLACK",
+        "weight": 2
+      },
+      {
+        "source": "ROSIE",
+        "target": "NOYLE",
+        "weight": 2
+      },
+      {
+        "source": "COLONEL GARRET",
+        "target": "JOCELYN",
+        "weight": 1
+      },
+      {
+        "source": "COLONEL GARRET",
+        "target": "AGENT RAMIREZ",
+        "weight": 1
+      },
+      {
+        "source": "COLONEL GARRET",
+        "target": "ANDERSON",
+        "weight": 1
+      },
+      {
+        "source": "COLONEL GARRET",
+        "target": "RAYMOND",
+        "weight": 1
+      },
+      {
+        "source": "COLONEL GARRET",
+        "target": "ELLIE",
+        "weight": 1
+      },
+      {
+        "source": "COLONEL GARRET",
+        "target": "AGENT GOLDRING",
+        "weight": 2
+      },
+      {
+        "source": "SENATOR WELLS",
+        "target": "ELLIE",
+        "weight": 1
+      },
+      {
+        "source": "JOHNSTON",
+        "target": "DONOVAN",
+        "weight": 1
+      },
+      {
+        "source": "JOHNSTON",
+        "target": "RAYMOND",
+        "weight": 1
+      },
+      {
+        "source": "JOHNSTON",
+        "target": "WHITING",
+        "weight": 1
+      },
+      {
+        "source": "JOHNSTON",
+        "target": "GENERAL SLOAN",
+        "weight": 1
+      },
+      {
+        "source": "JOHNSTON",
+        "target": "ELLIE",
+        "weight": 1
+      },
+      {
+        "source": "JOHNSTON",
+        "target": "SCREEN GOES BLACK",
+        "weight": 1
+      },
+      {
+        "source": "GENERAL SLOAN",
+        "target": "DONOVAN",
+        "weight": 1
+      },
+      {
+        "source": "GENERAL SLOAN",
+        "target": "RAYMOND",
+        "weight": 1
+      },
+      {
+        "source": "GENERAL SLOAN",
+        "target": "WHITING",
+        "weight": 1
+      },
+      {
+        "source": "GENERAL SLOAN",
+        "target": "ELLIE",
+        "weight": 1
+      },
+      {
+        "source": "RAYMOND",
+        "target": "REPORTER #1",
+        "weight": 1
+      },
+      {
+        "source": "RAYMOND",
+        "target": "MYSTERIOUS WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "RAYMOND",
+        "target": "DONOVAN",
+        "weight": 1
+      },
+      {
+        "source": "RAYMOND",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "RAYMOND",
+        "target": "JOCELYN",
+        "weight": 2
+      },
+      {
+        "source": "RAYMOND",
+        "target": "LAURENT",
+        "weight": 1
+      },
+      {
+        "source": "RAYMOND",
+        "target": "NOYLE",
+        "weight": 3
+      },
+      {
+        "source": "RAYMOND",
+        "target": "WHITING",
+        "weight": 1
+      },
+      {
+        "source": "RAYMOND",
+        "target": "ELLIE",
+        "weight": 4
+      },
+      {
+        "source": "RAYMOND",
+        "target": "VOICE ON THE PHONE",
+        "weight": 1
+      },
+      {
+        "source": "RAYMOND",
+        "target": "REPORTER #2",
+        "weight": 1
+      },
+      {
+        "source": "RAYMOND",
+        "target": "ANDERSON",
+        "weight": 5
+      },
+      {
+        "source": "RAYMOND",
+        "target": "WHIP PAN",
+        "weight": 1
+      },
+      {
+        "source": "RAYMOND",
+        "target": "MAVOLE",
+        "weight": 1
+      },
+      {
+        "source": "RAYMOND",
+        "target": "DESK CLERK",
+        "weight": 1
+      },
+      {
+        "source": "MYSTERIOUS WOMAN",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "MYSTERIOUS WOMAN",
+        "target": "REPORTER #1",
+        "weight": 1
+      },
+      {
+        "source": "MYSTERIOUS WOMAN",
+        "target": "NOYLE",
+        "weight": 1
+      },
+      {
+        "source": "MYSTERIOUS WOMAN",
+        "target": "MAVOLE",
+        "weight": 1
+      },
+      {
+        "source": "GILLESPIE",
+        "target": "ELLIE",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "REPORTER #1",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "MAVOLE",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "NOYLE",
+        "weight": 1
+      },
+      {
+        "source": "JOCELYN",
+        "target": "ANDERSON",
+        "weight": 1
+      },
+      {
+        "source": "LAURENT",
+        "target": "WHIP PAN",
+        "weight": 1
+      },
+      {
+        "source": "LAURENT",
+        "target": "SKIP",
+        "weight": 1
+      },
+      {
+        "source": "MELVIN",
+        "target": "SCOUTMASTER",
+        "weight": 1
+      },
+      {
+        "source": "WHITING",
+        "target": "DONOVAN",
+        "weight": 1
+      },
+      {
+        "source": "WHITING",
+        "target": "ELLIE",
+        "weight": 2
+      },
+      {
+        "source": "NOYLE",
+        "target": "REPORTER #1",
+        "weight": 1
+      },
+      {
+        "source": "NOYLE",
+        "target": "MAVOLE",
+        "weight": 1
+      },
+      {
+        "source": "ELLIE",
+        "target": "AGENT RAMIREZ",
+        "weight": 1
+      },
+      {
+        "source": "ELLIE",
+        "target": "AGENT GOLDRING",
+        "weight": 1
+      },
+      {
+        "source": "ELLIE",
+        "target": "ANDERSON",
+        "weight": 2
+      },
+      {
+        "source": "ELLIE",
+        "target": "DONOVAN",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER #1",
+        "target": "MAVOLE",
+        "weight": 1
+      },
+      {
+        "source": "AGENT RAMIREZ",
+        "target": "AGENT GOLDRING",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "MARCO",
+        "name": "MARCO",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 32,
+        "pagerank": 0.14488090326485684,
+        "object_id": "3311069",
+        "triangles": 90,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.1794871794871795,
+        "betweenness centrality": 348.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MIRELLA",
+        "name": "MIRELLA",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.012450786897830225,
+        "object_id": "3315553",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0256410256410255,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MARCO LT COL HOWARD",
+        "name": "MARCO LT COL HOWARD",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.014540075087076077,
+        "object_id": "3313118",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1025641025641026,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "AGENT JONAS",
+        "name": "AGENT JONAS",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.01720553696131877,
+        "object_id": "3316324",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9487179487179487,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "UTLY",
+        "name": "UTLY",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.01045480316253907,
+        "object_id": "3312404",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5384615384615383,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GENERAL WILSON",
+        "name": "GENERAL WILSON",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 8,
+        "pagerank": 0.02172712073492811,
+        "object_id": "3313227",
+        "triangles": 28,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8205128205128205,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JORDAN",
+        "name": "JORDAN",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 8,
+        "pagerank": 0.028561145094678372,
+        "object_id": "3312074",
+        "triangles": 28,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8205128205128205,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DELP",
+        "name": "DELP",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.014630448595913944,
+        "object_id": "3315238",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.076923076923077,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MEDIA ICON",
+        "name": "MEDIA ICON",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 7,
+        "pagerank": 0.01963976982106151,
+        "object_id": "3312633",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9230769230769231,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BLINK",
+        "name": "BLINK",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 5,
+        "pagerank": 0.018232252758188353,
+        "object_id": "3314307",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9743589743589745,
+        "betweenness centrality": 5.916666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TAPED VOICE",
+        "name": "TAPED VOICE",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.008543510261420167,
+        "object_id": "3314504",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.282051282051282,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LT COL HOWARD",
+        "name": "LT COL HOWARD",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 8,
+        "pagerank": 0.03356482568246666,
+        "object_id": "3313024",
+        "triangles": 20,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8974358974358974,
+        "betweenness centrality": 4.166666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ROSIE",
+        "name": "ROSIE",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 5,
+        "pagerank": 0.030622466772661543,
+        "object_id": "3314650",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0256410256410255,
+        "betweenness centrality": 2.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COLONEL GARRET",
+        "name": "COLONEL GARRET",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 11,
+        "pagerank": 0.038022841029628655,
+        "object_id": "3313703",
+        "triangles": 28,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7435897435897436,
+        "betweenness centrality": 19.166666666666668,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SENATOR WELLS",
+        "name": "SENATOR WELLS",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.01045480316253907,
+        "object_id": "3312430",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5384615384615383,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JOHNSTON",
+        "name": "JOHNSTON",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 9,
+        "pagerank": 0.024232897655034755,
+        "object_id": "3313413",
+        "triangles": 29,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.794871794871795,
+        "betweenness centrality": 6.25,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GENERAL SLOAN",
+        "name": "GENERAL SLOAN",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 8,
+        "pagerank": 0.02172712073492811,
+        "object_id": "3313207",
+        "triangles": 28,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8205128205128205,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RAYMOND",
+        "name": "RAYMOND",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 25,
+        "pagerank": 0.10923022311919214,
+        "object_id": "3311186",
+        "triangles": 66,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.358974358974359,
+        "betweenness centrality": 211.91666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MYSTERIOUS WOMAN",
+        "name": "MYSTERIOUS WOMAN",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 7,
+        "pagerank": 0.019639769821061505,
+        "object_id": "3312741",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9230769230769231,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GILLESPIE",
+        "name": "GILLESPIE",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.0060109317712108935,
+        "object_id": "3312362",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5641025641025643,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WOMAN",
+        "name": "WOMAN",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 9,
+        "pagerank": 0.028797663201666764,
+        "object_id": "3311952",
+        "triangles": 26,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8717948717948718,
+        "betweenness centrality": 3.6666666666666665,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JOCELYN",
+        "name": "JOCELYN",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.014605346326511334,
+        "object_id": "3313563",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LAURENT",
+        "name": "LAURENT",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.019428806707914595,
+        "object_id": "3311114",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9743589743589745,
+        "betweenness centrality": 38.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MELVIN",
+        "name": "MELVIN",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.010214733127061677,
+        "object_id": "3311403",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.128205128205128,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WHITING",
+        "name": "WHITING",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 8,
+        "pagerank": 0.024027304868452618,
+        "object_id": "3313347",
+        "triangles": 28,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8205128205128205,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NOYLE",
+        "name": "NOYLE",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 8,
+        "pagerank": 0.030730491651629048,
+        "object_id": "3312820",
+        "triangles": 23,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8974358974358974,
+        "betweenness centrality": 2.083333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SKIP",
+        "name": "SKIP",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.007053395579404105,
+        "object_id": "3314607",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.948717948717949,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ELLIE",
+        "name": "ELLIE",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 17,
+        "pagerank": 0.06915514236765595,
+        "object_id": "3312121",
+        "triangles": 48,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.5897435897435896,
+        "betweenness centrality": 132.33333333333334,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "VOICE ON THE PHONE",
+        "name": "VOICE ON THE PHONE",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.005960652603550538,
+        "object_id": "3314159",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.3333333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REPORTER #1",
+        "name": "REPORTER #1",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 7,
+        "pagerank": 0.01963976982106151,
+        "object_id": "3312625",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9230769230769231,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DONOVAN",
+        "name": "DONOVAN",
+        "color": "#5E3C99",
+        "group": 3,
+        "degree": 8,
+        "pagerank": 0.02172712073492811,
+        "object_id": "3313422",
+        "triangles": 28,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8205128205128205,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REPORTER #2",
+        "name": "REPORTER #2",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.008083875406149865,
+        "object_id": "3315464",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.051282051282051,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "AGENT RAMIREZ",
+        "name": "AGENT RAMIREZ",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.017205536961318775,
+        "object_id": "3316367",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9487179487179487,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SCOUTMASTER",
+        "name": "SCOUTMASTER",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.010214733127061677,
+        "object_id": "3311701",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.128205128205128,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANDERSON",
+        "name": "ANDERSON",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.03297801238660142,
+        "object_id": "3313682",
+        "triangles": 11,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8717948717948718,
+        "betweenness centrality": 2.9999999999999996,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WHIP PAN",
+        "name": "WHIP PAN",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.01138727098555397,
+        "object_id": "3311339",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "AGENT GOLDRING",
+        "name": "AGENT GOLDRING",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 7,
+        "pagerank": 0.024194189776353934,
+        "object_id": "3316304",
+        "triangles": 18,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9230769230769231,
+        "betweenness centrality": 1.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAVOLE",
+        "name": "MAVOLE",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 7,
+        "pagerank": 0.019639769821061505,
+        "object_id": "3311226",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9230769230769231,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SCREEN GOES BLACK",
+        "name": "SCREEN GOES BLACK",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.014623299553977221,
+        "object_id": "3316934",
+        "triangles": 2,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1025641025641026,
+        "betweenness centrality": 0.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DESK CLERK",
+        "name": "DESK CLERK",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.005960652603550538,
+        "object_id": "3314008",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.3333333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": 20.885683,
+        "y": -20.937859,
+        "name": "MARCO"
+      },
+      {
+        "x": -118.29629,
+        "y": 15.224607,
+        "name": "MIRELLA"
+      },
+      {
+        "x": 167.84108,
+        "y": 40.759296,
+        "name": "MARCO LT COL HOWARD"
+      },
+      {
+        "x": 135.48358,
+        "y": -98.3421,
+        "name": "AGENT JONAS"
+      },
+      {
+        "x": 119.16159,
+        "y": 258.25668,
+        "name": "UTLY"
+      },
+      {
+        "x": -110.216705,
+        "y": 174.34554,
+        "name": "GENERAL WILSON"
+      },
+      {
+        "x": -61.233482,
+        "y": 137.83206,
+        "name": "JORDAN"
+      },
+      {
+        "x": 177.26347,
+        "y": -85.4185,
+        "name": "DELP"
+      },
+      {
+        "x": -177.01675,
+        "y": -140.20743,
+        "name": "MEDIA ICON"
+      },
+      {
+        "x": 9.74357,
+        "y": -150.98004,
+        "name": "BLINK"
+      },
+      {
+        "x": 27.257286,
+        "y": -196.8763,
+        "name": "TAPED VOICE"
+      },
+      {
+        "x": 158.7151,
+        "y": -0.26223797,
+        "name": "LT COL HOWARD"
+      },
+      {
+        "x": -17.092855,
+        "y": -94.37654,
+        "name": "ROSIE"
+      },
+      {
+        "x": 111.188484,
+        "y": 24.120699,
+        "name": "COLONEL GARRET"
+      },
+      {
+        "x": 87.48697,
+        "y": 274.29974,
+        "name": "SENATOR WELLS"
+      },
+      {
+        "x": -112.6345,
+        "y": 107.59065,
+        "name": "JOHNSTON"
+      },
+      {
+        "x": -153.4832,
+        "y": 153.32329,
+        "name": "GENERAL SLOAN"
+      },
+      {
+        "x": -64.18184,
+        "y": 12.163146,
+        "name": "RAYMOND"
+      },
+      {
+        "x": -161.7479,
+        "y": -94.850525,
+        "name": "MYSTERIOUS WOMAN"
+      },
+      {
+        "x": -119.86004,
+        "y": 254.56499,
+        "name": "GILLESPIE"
+      },
+      {
+        "x": -63.32031,
+        "y": -150.22601,
+        "name": "WOMAN"
+      },
+      {
+        "x": 39.99353,
+        "y": 55.63227,
+        "name": "JOCELYN"
+      },
+      {
+        "x": 191.90227,
+        "y": -41.67981,
+        "name": "LAURENT"
+      },
+      {
+        "x": 164.19995,
+        "y": 129.80353,
+        "name": "MELVIN"
+      },
+      {
+        "x": -35.36517,
+        "y": 190.37796,
+        "name": "WHITING"
+      },
+      {
+        "x": -94.344795,
+        "y": -92.20526,
+        "name": "NOYLE"
+      },
+      {
+        "x": 277.94693,
+        "y": -85.511215,
+        "name": "SKIP"
+      },
+      {
+        "x": 9.87555,
+        "y": 119.549644,
+        "name": "ELLIE"
+      },
+      {
+        "x": -204.4798,
+        "y": -28.859446,
+        "name": "VOICE ON THE PHONE"
+      },
+      {
+        "x": -124.48014,
+        "y": -145.42665,
+        "name": "REPORTER #1"
+      },
+      {
+        "x": -84.30267,
+        "y": 215.04419,
+        "name": "DONOVAN"
+      },
+      {
+        "x": 73.44581,
+        "y": 93.11642,
+        "name": "REPORTER #2"
+      },
+      {
+        "x": 104.330124,
+        "y": -67.89332,
+        "name": "AGENT RAMIREZ"
+      },
+      {
+        "x": 192.9613,
+        "y": 103.25718,
+        "name": "SCOUTMASTER"
+      },
+      {
+        "x": -14.489679,
+        "y": 49.26969,
+        "name": "ANDERSON"
+      },
+      {
+        "x": 96.395096,
+        "y": -26.799301,
+        "name": "WHIP PAN"
+      },
+      {
+        "x": 151.88063,
+        "y": -44.13047,
+        "name": "AGENT GOLDRING"
+      },
+      {
+        "x": -136.68103,
+        "y": -190.49834,
+        "name": "MAVOLE"
+      },
+      {
+        "x": 19.480639,
+        "y": -86.43614,
+        "name": "SCREEN GOES BLACK"
+      },
+      {
+        "x": -202.49783,
+        "y": 15.269887,
+        "name": "DESK CLERK"
+      }
+    ]
+  }
+}

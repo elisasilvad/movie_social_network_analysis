@@ -1,0 +1,749 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "AGENT",
+        "target": "PRESIDENT",
+        "weight": 1
+      },
+      {
+        "source": "AGENT",
+        "target": "REBEL",
+        "weight": 1
+      },
+      {
+        "source": "HAUK",
+        "target": "MEDIC",
+        "weight": 2
+      },
+      {
+        "source": "HAUK",
+        "target": "REHME",
+        "weight": 7
+      },
+      {
+        "source": "HAUK",
+        "target": "VICE PRESIDENT",
+        "weight": 2
+      },
+      {
+        "source": "HAUK",
+        "target": "SNAKE",
+        "weight": 5
+      },
+      {
+        "source": "HAUK",
+        "target": "WEIRDO",
+        "weight": 1
+      },
+      {
+        "source": "HAUK",
+        "target": "CONTROLLER",
+        "weight": 1
+      },
+      {
+        "source": "FIRST GUARD",
+        "target": "PRESIDENT",
+        "weight": 1
+      },
+      {
+        "source": "FIRST GUARD",
+        "target": "SECOND GUARD",
+        "weight": 1
+      },
+      {
+        "source": "FIRST GUARD",
+        "target": "SNAKE",
+        "weight": 1
+      },
+      {
+        "source": "CABBIE",
+        "target": "BRAIN",
+        "weight": 3
+      },
+      {
+        "source": "CABBIE",
+        "target": "MAGGIE",
+        "weight": 4
+      },
+      {
+        "source": "CABBIE",
+        "target": "PRESIDENT",
+        "weight": 1
+      },
+      {
+        "source": "CABBIE",
+        "target": "SNAKE",
+        "weight": 5
+      },
+      {
+        "source": "CONTROLLER",
+        "target": "REHME",
+        "weight": 1
+      },
+      {
+        "source": "REHME",
+        "target": "AIDE",
+        "weight": 1
+      },
+      {
+        "source": "REHME",
+        "target": "SECURITY",
+        "weight": 1
+      },
+      {
+        "source": "REHME",
+        "target": "SNAKE",
+        "weight": 1
+      },
+      {
+        "source": "REHME",
+        "target": "COMPUTER",
+        "weight": 1
+      },
+      {
+        "source": "REHME",
+        "target": "VICE PRESIDENT",
+        "weight": 1
+      },
+      {
+        "source": "REHME",
+        "target": "HELICOPTER PILOT",
+        "weight": 1
+      },
+      {
+        "source": "REHME",
+        "target": "PRESIDENT",
+        "weight": 1
+      },
+      {
+        "source": "PRESIDENT",
+        "target": "EXPERT",
+        "weight": 1
+      },
+      {
+        "source": "PRESIDENT",
+        "target": "AIDE",
+        "weight": 1
+      },
+      {
+        "source": "PRESIDENT",
+        "target": "REBEL",
+        "weight": 1
+      },
+      {
+        "source": "PRESIDENT",
+        "target": "DUKE",
+        "weight": 1
+      },
+      {
+        "source": "PRESIDENT",
+        "target": "SNAKE",
+        "weight": 2
+      },
+      {
+        "source": "PRESIDENT",
+        "target": "BRAIN",
+        "weight": 3
+      },
+      {
+        "source": "PRESIDENT",
+        "target": "MAGGIE",
+        "weight": 1
+      },
+      {
+        "source": "PRESIDENT",
+        "target": "SECOND GUARD",
+        "weight": 1
+      },
+      {
+        "source": "BRAIN",
+        "target": "SNAKE",
+        "weight": 5
+      },
+      {
+        "source": "BRAIN",
+        "target": "MAGGIE",
+        "weight": 7
+      },
+      {
+        "source": "BRAIN",
+        "target": "HEAD DUDE",
+        "weight": 1
+      },
+      {
+        "source": "BRAIN",
+        "target": "WEIRDO",
+        "weight": 1
+      },
+      {
+        "source": "BRAIN",
+        "target": "DUKE",
+        "weight": 2
+      },
+      {
+        "source": "MAGGIE",
+        "target": "DUKE",
+        "weight": 1
+      },
+      {
+        "source": "MAGGIE",
+        "target": "SNAKE",
+        "weight": 5
+      },
+      {
+        "source": "HEAD DUDE",
+        "target": "SNAKE",
+        "weight": 1
+      },
+      {
+        "source": "MEDIC",
+        "target": "OFFICIAL",
+        "weight": 1
+      },
+      {
+        "source": "MEDIC",
+        "target": "SNAKE",
+        "weight": 1
+      },
+      {
+        "source": "AIDE",
+        "target": "SNAKE",
+        "weight": 1
+      },
+      {
+        "source": "DRUNK",
+        "target": "BUM",
+        "weight": 1
+      },
+      {
+        "source": "DRUNK",
+        "target": "SNAKE",
+        "weight": 1
+      },
+      {
+        "source": "GIRL IN CHOCK FULL O' NUTS",
+        "target": "SNAKE",
+        "weight": 1
+      },
+      {
+        "source": "HELICOPTER PILOT",
+        "target": "SECURITY",
+        "weight": 1
+      },
+      {
+        "source": "DUKE",
+        "target": "SNAKE",
+        "weight": 1
+      },
+      {
+        "source": "SNAKE",
+        "target": "BUM",
+        "weight": 1
+      },
+      {
+        "source": "SNAKE",
+        "target": "SECOND GUARD",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "AGENT",
+        "name": "AGENT",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.018355191529463896,
+        "object_id": "1736504",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.48,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HAUK",
+        "name": "HAUK",
+        "color": "#A795C7",
+        "group": 4,
+        "degree": 6,
+        "pagerank": 0.09967433028539151,
+        "object_id": "1736403",
+        "triangles": 4,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.88,
+        "betweenness centrality": 29.000000000000004,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FIRST GUARD",
+        "name": "FIRST GUARD",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.020555461779660715,
+        "object_id": "1737917",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.16,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CABBIE",
+        "name": "CABBIE",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.057542265015807094,
+        "object_id": "1737173",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.08,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CONTROLLER",
+        "name": "CONTROLLER",
+        "color": "#A795C7",
+        "group": 4,
+        "degree": 2,
+        "pagerank": 0.015644422696675896,
+        "object_id": "1736426",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.48,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REHME",
+        "name": "REHME",
+        "color": "#A795C7",
+        "group": 4,
+        "degree": 9,
+        "pagerank": 0.0912003815351787,
+        "object_id": "1736329",
+        "triangles": 7,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.68,
+        "betweenness centrality": 93.91666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PRESIDENT",
+        "name": "PRESIDENT",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 12,
+        "pagerank": 0.08444455484474758,
+        "object_id": "1736515",
+        "triangles": 16,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.56,
+        "betweenness centrality": 92.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BRAIN",
+        "name": "BRAIN",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 7,
+        "pagerank": 0.09872154149441739,
+        "object_id": "1737581",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.96,
+        "betweenness centrality": 15.583333333333332,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAGGIE",
+        "name": "MAGGIE",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.07761236351249481,
+        "object_id": "1737507",
+        "triangles": 9,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.04,
+        "betweenness centrality": 0.25,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HEAD DUDE",
+        "name": "HEAD DUDE",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.01376052466494922,
+        "object_id": "1737873",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.28,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WEIRDO",
+        "name": "WEIRDO",
+        "color": "#A795C7",
+        "group": 4,
+        "degree": 2,
+        "pagerank": 0.014290305254313535,
+        "object_id": "1736599",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.44,
+        "betweenness centrality": 1.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MEDIC",
+        "name": "MEDIC",
+        "color": "#F2A468",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.02961318628794831,
+        "object_id": "1736857",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.12,
+        "betweenness centrality": 24.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "EXPERT",
+        "name": "EXPERT",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.010554348357303664,
+        "object_id": "1736540",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.52,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OFFICIAL",
+        "name": "OFFICIAL",
+        "color": "#F2A468",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.012062253745685505,
+        "object_id": "1737232",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.08,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "AIDE",
+        "name": "AIDE",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.01989975969538447,
+        "object_id": "1738865",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.96,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "VICE PRESIDENT",
+        "name": "VICE PRESIDENT",
+        "color": "#A795C7",
+        "group": 4,
+        "degree": 2,
+        "pagerank": 0.020351350626287575,
+        "object_id": "1738034",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.48,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REBEL",
+        "name": "REBEL",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.018355191529463896,
+        "object_id": "1736484",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.48,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DRUNK",
+        "name": "DRUNK",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.017297926767754938,
+        "object_id": "1737215",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.32,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GIRL IN CHOCK FULL O' NUTS",
+        "name": "GIRL IN CHOCK FULL O' NUTS",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.009946378109478134,
+        "object_id": "1737305",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.36,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HELICOPTER PILOT",
+        "name": "HELICOPTER PILOT",
+        "color": "#A795C7",
+        "group": 4,
+        "degree": 2,
+        "pagerank": 0.019022262881414086,
+        "object_id": "1736305",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.6,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DUKE",
+        "name": "DUKE",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.026024723881206534,
+        "object_id": "1737964",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.08,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SNAKE",
+        "name": "SNAKE",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 15,
+        "pagerank": 0.1572581293090787,
+        "object_id": "1736675",
+        "triangles": 19,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.4,
+        "betweenness centrality": 146.25,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BUM",
+        "name": "BUM",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.017297926767754938,
+        "object_id": "1737197",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.32,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SECURITY",
+        "name": "SECURITY",
+        "color": "#A795C7",
+        "group": 4,
+        "degree": 2,
+        "pagerank": 0.019022262881414082,
+        "object_id": "1736339",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.6,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SECOND GUARD",
+        "name": "SECOND GUARD",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.020555461779660715,
+        "object_id": "1737913",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.16,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COMPUTER",
+        "name": "COMPUTER",
+        "color": "#A795C7",
+        "group": 4,
+        "degree": 1,
+        "pagerank": 0.010937494767064217,
+        "object_id": "1737030",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.64,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": -111.66859,
+        "y": 145.54439,
+        "name": "AGENT"
+      },
+      {
+        "x": 18.339323,
+        "y": -101.88257,
+        "name": "HAUK"
+      },
+      {
+        "x": 29.073841,
+        "y": 136.90456,
+        "name": "FIRST GUARD"
+      },
+      {
+        "x": 62.842514,
+        "y": 28.322075,
+        "name": "CABBIE"
+      },
+      {
+        "x": -17.052948,
+        "y": -182.97803,
+        "name": "CONTROLLER"
+      },
+      {
+        "x": -34.47959,
+        "y": -114.7267,
+        "name": "REHME"
+      },
+      {
+        "x": -24.917131,
+        "y": 87.09023,
+        "name": "PRESIDENT"
+      },
+      {
+        "x": 15.535161,
+        "y": 33.93185,
+        "name": "BRAIN"
+      },
+      {
+        "x": 42.38436,
+        "y": 55.912754,
+        "name": "MAGGIE"
+      },
+      {
+        "x": 105.48619,
+        "y": 6.3572636,
+        "name": "HEAD DUDE"
+      },
+      {
+        "x": 93.43114,
+        "y": -82.38275,
+        "name": "WEIRDO"
+      },
+      {
+        "x": 86.64238,
+        "y": -128.11264,
+        "name": "MEDIC"
+      },
+      {
+        "x": -41.378284,
+        "y": 162.57251,
+        "name": "EXPERT"
+      },
+      {
+        "x": 159.56322,
+        "y": -154.96866,
+        "name": "OFFICIAL"
+      },
+      {
+        "x": -46.219967,
+        "y": -34.55485,
+        "name": "AIDE"
+      },
+      {
+        "x": 19.440107,
+        "y": -155.01932,
+        "name": "VICE PRESIDENT"
+      },
+      {
+        "x": -89.00679,
+        "y": 177.27696,
+        "name": "REBEL"
+      },
+      {
+        "x": 102.43865,
+        "y": -45.129097,
+        "name": "DRUNK"
+      },
+      {
+        "x": -77.88864,
+        "y": -11.502584,
+        "name": "GIRL IN CHOCK FULL O' NUTS"
+      },
+      {
+        "x": -123.86447,
+        "y": -167.06633,
+        "name": "HELICOPTER PILOT"
+      },
+      {
+        "x": -36.34705,
+        "y": 34.141052,
+        "name": "DUKE"
+      },
+      {
+        "x": 34.211308,
+        "y": -11.771938,
+        "name": "SNAKE"
+      },
+      {
+        "x": 141.01405,
+        "y": -34.30849,
+        "name": "BUM"
+      },
+      {
+        "x": -128.92377,
+        "y": -129.36838,
+        "name": "SECURITY"
+      },
+      {
+        "x": 67.44054,
+        "y": 118.846756,
+        "name": "SECOND GUARD"
+      },
+      {
+        "x": -74.27872,
+        "y": -181.55283,
+        "name": "COMPUTER"
+      }
+    ]
+  }
+}

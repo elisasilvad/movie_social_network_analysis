@@ -1,0 +1,1587 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "COMMENDATORE",
+        "target": "SOPRANO",
+        "weight": 1
+      },
+      {
+        "source": "COMMENDATORE",
+        "target": "FIRST LADY",
+        "weight": 1
+      },
+      {
+        "source": "COMMENDATORE",
+        "target": "CONSTANZE",
+        "weight": 1
+      },
+      {
+        "source": "COMMENDATORE",
+        "target": "DWARVES",
+        "weight": 1
+      },
+      {
+        "source": "COMMENDATORE",
+        "target": "MOZART",
+        "weight": 1
+      },
+      {
+        "source": "COMMENDATORE",
+        "target": "HORSE",
+        "weight": 1
+      },
+      {
+        "source": "COMMENDATORE",
+        "target": "THREE LADIES",
+        "weight": 1
+      },
+      {
+        "source": "COMMENDATORE",
+        "target": "SCHIKANEDER",
+        "weight": 1
+      },
+      {
+        "source": "COMMENDATORE",
+        "target": "SECOND LADY",
+        "weight": 1
+      },
+      {
+        "source": "COMMENDATORE",
+        "target": "OTTAVIO",
+        "weight": 1
+      },
+      {
+        "source": "COMMENDATORE",
+        "target": "THIRD LADY",
+        "weight": 1
+      },
+      {
+        "source": "FIRST PRIEST",
+        "target": "ANDANTE",
+        "weight": 1
+      },
+      {
+        "source": "FIRST PRIEST",
+        "target": "ALLEGRO",
+        "weight": 1
+      },
+      {
+        "source": "FIRST PRIEST",
+        "target": "PAPAGENO",
+        "weight": 1
+      },
+      {
+        "source": "VOGLER",
+        "target": "DOCTOR GULDEN",
+        "weight": 1
+      },
+      {
+        "source": "VOGLER",
+        "target": "OLD SALIERI",
+        "weight": 4
+      },
+      {
+        "source": "COLLOREDO",
+        "target": "LEOPOLD",
+        "weight": 1
+      },
+      {
+        "source": "COLLOREDO",
+        "target": "MOZART",
+        "weight": 1
+      },
+      {
+        "source": "COLLOREDO",
+        "target": "ARCO",
+        "weight": 2
+      },
+      {
+        "source": "SCHLUMBERG",
+        "target": "GERTRUDE",
+        "weight": 1
+      },
+      {
+        "source": "SCHLUMBERG",
+        "target": "MOZART",
+        "weight": 3
+      },
+      {
+        "source": "SCHLUMBERG",
+        "target": "FRAU SCHLUMBERG",
+        "weight": 2
+      },
+      {
+        "source": "SECOND LADY",
+        "target": "SOPRANO",
+        "weight": 1
+      },
+      {
+        "source": "SECOND LADY",
+        "target": "CONSTANZE",
+        "weight": 1
+      },
+      {
+        "source": "SECOND LADY",
+        "target": "DWARVES",
+        "weight": 1
+      },
+      {
+        "source": "SECOND LADY",
+        "target": "THIRD LADY",
+        "weight": 1
+      },
+      {
+        "source": "SECOND LADY",
+        "target": "HORSE",
+        "weight": 1
+      },
+      {
+        "source": "SECOND LADY",
+        "target": "THREE LADIES",
+        "weight": 1
+      },
+      {
+        "source": "SECOND LADY",
+        "target": "SCHIKANEDER",
+        "weight": 1
+      },
+      {
+        "source": "SECOND LADY",
+        "target": "FIRST LADY",
+        "weight": 1
+      },
+      {
+        "source": "SECOND LADY",
+        "target": "OTTAVIO",
+        "weight": 1
+      },
+      {
+        "source": "SECOND LADY",
+        "target": "MOZART",
+        "weight": 1
+      },
+      {
+        "source": "OFFICER",
+        "target": "CONSTANZE",
+        "weight": 1
+      },
+      {
+        "source": "LORL",
+        "target": "LEOPOLD",
+        "weight": 1
+      },
+      {
+        "source": "LORL",
+        "target": "CONSTANZE",
+        "weight": 1
+      },
+      {
+        "source": "LORL",
+        "target": "MOZART",
+        "weight": 1
+      },
+      {
+        "source": "LORL",
+        "target": "SALIERI",
+        "weight": 3
+      },
+      {
+        "source": "FRAU SCHLUMBERG",
+        "target": "GERTRUDE",
+        "weight": 1
+      },
+      {
+        "source": "FRAU SCHLUMBERG",
+        "target": "MOZART",
+        "weight": 2
+      },
+      {
+        "source": "MOZART",
+        "target": "CAVALIERI",
+        "weight": 1
+      },
+      {
+        "source": "MOZART",
+        "target": "LEOPOLD",
+        "weight": 3
+      },
+      {
+        "source": "MOZART",
+        "target": "HORSE",
+        "weight": 1
+      },
+      {
+        "source": "MOZART",
+        "target": "MADAME WEBER",
+        "weight": 1
+      },
+      {
+        "source": "MOZART",
+        "target": "ORSINI-ROSENBERG",
+        "weight": 3
+      },
+      {
+        "source": "MOZART",
+        "target": "JOSEPH",
+        "weight": 6
+      },
+      {
+        "source": "MOZART",
+        "target": "GERTRUDE",
+        "weight": 1
+      },
+      {
+        "source": "MOZART",
+        "target": "BONNO",
+        "weight": 1
+      },
+      {
+        "source": "MOZART",
+        "target": "OTTAVIO",
+        "weight": 1
+      },
+      {
+        "source": "MOZART",
+        "target": "SOPRANO",
+        "weight": 1
+      },
+      {
+        "source": "MOZART",
+        "target": "CONSTANZE",
+        "weight": 12
+      },
+      {
+        "source": "MOZART",
+        "target": "PRIEST",
+        "weight": 1
+      },
+      {
+        "source": "MOZART",
+        "target": "BYSTANDERS",
+        "weight": 1
+      },
+      {
+        "source": "MOZART",
+        "target": "SCHIKANEDER",
+        "weight": 3
+      },
+      {
+        "source": "MOZART",
+        "target": "VON STRACK",
+        "weight": 2
+      },
+      {
+        "source": "MOZART",
+        "target": "OLD SALIERI",
+        "weight": 2
+      },
+      {
+        "source": "MOZART",
+        "target": "DWARVES",
+        "weight": 1
+      },
+      {
+        "source": "MOZART",
+        "target": "SERVANT",
+        "weight": 1
+      },
+      {
+        "source": "MOZART",
+        "target": "THIRD LADY",
+        "weight": 1
+      },
+      {
+        "source": "MOZART",
+        "target": "THREE LADIES",
+        "weight": 1
+      },
+      {
+        "source": "MOZART",
+        "target": "FIRST LADY",
+        "weight": 1
+      },
+      {
+        "source": "MOZART",
+        "target": "SALIERI",
+        "weight": 9
+      },
+      {
+        "source": "MOZART",
+        "target": "VON SWIETEN",
+        "weight": 3
+      },
+      {
+        "source": "MOZART",
+        "target": "ARCO",
+        "weight": 2
+      },
+      {
+        "source": "HORSE",
+        "target": "SOPRANO",
+        "weight": 1
+      },
+      {
+        "source": "HORSE",
+        "target": "CONSTANZE",
+        "weight": 1
+      },
+      {
+        "source": "HORSE",
+        "target": "DWARVES",
+        "weight": 1
+      },
+      {
+        "source": "HORSE",
+        "target": "THIRD LADY",
+        "weight": 1
+      },
+      {
+        "source": "HORSE",
+        "target": "THREE LADIES",
+        "weight": 1
+      },
+      {
+        "source": "HORSE",
+        "target": "SCHIKANEDER",
+        "weight": 1
+      },
+      {
+        "source": "HORSE",
+        "target": "FIRST LADY",
+        "weight": 1
+      },
+      {
+        "source": "HORSE",
+        "target": "OTTAVIO",
+        "weight": 1
+      },
+      {
+        "source": "MADAME WEBER",
+        "target": "CONSTANZE",
+        "weight": 2
+      },
+      {
+        "source": "MADAME WEBER",
+        "target": "JOSEPH",
+        "weight": 1
+      },
+      {
+        "source": "MADAME WEBER",
+        "target": "SALIERI",
+        "weight": 1
+      },
+      {
+        "source": "MADAME WEBER",
+        "target": "ORSINI-ROSENBERG",
+        "weight": 1
+      },
+      {
+        "source": "MADAME WEBER",
+        "target": "FLUNKY",
+        "weight": 1
+      },
+      {
+        "source": "ORSINI-ROSENBERG",
+        "target": "BONNO",
+        "weight": 4
+      },
+      {
+        "source": "ORSINI-ROSENBERG",
+        "target": "CONSTANZE",
+        "weight": 1
+      },
+      {
+        "source": "ORSINI-ROSENBERG",
+        "target": "JOSEPH",
+        "weight": 4
+      },
+      {
+        "source": "ORSINI-ROSENBERG",
+        "target": "VON STRACK",
+        "weight": 3
+      },
+      {
+        "source": "ORSINI-ROSENBERG",
+        "target": "SALIERI",
+        "weight": 5
+      },
+      {
+        "source": "ORSINI-ROSENBERG",
+        "target": "VON SWIETEN",
+        "weight": 2
+      },
+      {
+        "source": "PRIEST",
+        "target": "LEOPOLD",
+        "weight": 1
+      },
+      {
+        "source": "PRIEST",
+        "target": "CONSTANZE",
+        "weight": 1
+      },
+      {
+        "source": "OLD SALIERI",
+        "target": "ATTENDANT",
+        "weight": 1
+      },
+      {
+        "source": "OLD SALIERI",
+        "target": "CONSTANZE",
+        "weight": 1
+      },
+      {
+        "source": "OLD SALIERI",
+        "target": "CAVALIERI",
+        "weight": 2
+      },
+      {
+        "source": "OLD SALIERI",
+        "target": "SALIERI",
+        "weight": 2
+      },
+      {
+        "source": "OLD SALIERI",
+        "target": "SERVANT",
+        "weight": 1
+      },
+      {
+        "source": "OLD SALIERI",
+        "target": "ARCO",
+        "weight": 1
+      },
+      {
+        "source": "OLD SALIERI",
+        "target": "VALET",
+        "weight": 2
+      },
+      {
+        "source": "ALLEGRO",
+        "target": "PAPAGENO",
+        "weight": 1
+      },
+      {
+        "source": "ALLEGRO",
+        "target": "ANDANTE",
+        "weight": 1
+      },
+      {
+        "source": "BONNO",
+        "target": "JOSEPH",
+        "weight": 3
+      },
+      {
+        "source": "BONNO",
+        "target": "SALIERI",
+        "weight": 2
+      },
+      {
+        "source": "BONNO",
+        "target": "VON STRACK",
+        "weight": 1
+      },
+      {
+        "source": "BONNO",
+        "target": "VON SWIETEN",
+        "weight": 2
+      },
+      {
+        "source": "OTTAVIO",
+        "target": "SOPRANO",
+        "weight": 1
+      },
+      {
+        "source": "OTTAVIO",
+        "target": "CONSTANZE",
+        "weight": 1
+      },
+      {
+        "source": "OTTAVIO",
+        "target": "DWARVES",
+        "weight": 1
+      },
+      {
+        "source": "OTTAVIO",
+        "target": "THIRD LADY",
+        "weight": 1
+      },
+      {
+        "source": "OTTAVIO",
+        "target": "THREE LADIES",
+        "weight": 1
+      },
+      {
+        "source": "OTTAVIO",
+        "target": "FIRST LADY",
+        "weight": 1
+      },
+      {
+        "source": "OTTAVIO",
+        "target": "SCHIKANEDER",
+        "weight": 1
+      },
+      {
+        "source": "SOPRANO",
+        "target": "FIRST LADY",
+        "weight": 1
+      },
+      {
+        "source": "SOPRANO",
+        "target": "CONSTANZE",
+        "weight": 1
+      },
+      {
+        "source": "SOPRANO",
+        "target": "DWARVES",
+        "weight": 1
+      },
+      {
+        "source": "SOPRANO",
+        "target": "THREE LADIES",
+        "weight": 1
+      },
+      {
+        "source": "SOPRANO",
+        "target": "SCHIKANEDER",
+        "weight": 1
+      },
+      {
+        "source": "SOPRANO",
+        "target": "THIRD LADY",
+        "weight": 1
+      },
+      {
+        "source": "CONSTANZE",
+        "target": "CAVALIERI",
+        "weight": 1
+      },
+      {
+        "source": "CONSTANZE",
+        "target": "LEOPOLD",
+        "weight": 3
+      },
+      {
+        "source": "CONSTANZE",
+        "target": "JOSEPH",
+        "weight": 1
+      },
+      {
+        "source": "CONSTANZE",
+        "target": "SCHIKANEDER",
+        "weight": 2
+      },
+      {
+        "source": "CONSTANZE",
+        "target": "FLUNKY",
+        "weight": 1
+      },
+      {
+        "source": "CONSTANZE",
+        "target": "DWARVES",
+        "weight": 1
+      },
+      {
+        "source": "CONSTANZE",
+        "target": "THIRD LADY",
+        "weight": 1
+      },
+      {
+        "source": "CONSTANZE",
+        "target": "THREE LADIES",
+        "weight": 1
+      },
+      {
+        "source": "CONSTANZE",
+        "target": "FIRST LADY",
+        "weight": 1
+      },
+      {
+        "source": "CONSTANZE",
+        "target": "BYSTANDERS",
+        "weight": 1
+      },
+      {
+        "source": "CONSTANZE",
+        "target": "SALIERI",
+        "weight": 4
+      },
+      {
+        "source": "PAPAGENO",
+        "target": "SALIERI",
+        "weight": 1
+      },
+      {
+        "source": "PAPAGENO",
+        "target": "ANDANTE",
+        "weight": 1
+      },
+      {
+        "source": "PAPAGENO",
+        "target": "UGLY OLD WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "JOSEPH",
+        "target": "SALIERI",
+        "weight": 8
+      },
+      {
+        "source": "JOSEPH",
+        "target": "LEOPOLD",
+        "weight": 1
+      },
+      {
+        "source": "JOSEPH",
+        "target": "VON STRACK",
+        "weight": 3
+      },
+      {
+        "source": "JOSEPH",
+        "target": "CAVALIERI",
+        "weight": 1
+      },
+      {
+        "source": "JOSEPH",
+        "target": "VON SWIETEN",
+        "weight": 4
+      },
+      {
+        "source": "BYSTANDERS",
+        "target": "SCHIKANEDER",
+        "weight": 1
+      },
+      {
+        "source": "BYSTANDERS",
+        "target": "LEOPOLD",
+        "weight": 1
+      },
+      {
+        "source": "ACTRESSES",
+        "target": "SCHIKANEDER",
+        "weight": 1
+      },
+      {
+        "source": "ACTRESSES",
+        "target": "SALIERI",
+        "weight": 1
+      },
+      {
+        "source": "SCHIKANEDER",
+        "target": "DWARVES",
+        "weight": 1
+      },
+      {
+        "source": "SCHIKANEDER",
+        "target": "SALIERI",
+        "weight": 1
+      },
+      {
+        "source": "SCHIKANEDER",
+        "target": "THREE LADIES",
+        "weight": 1
+      },
+      {
+        "source": "SCHIKANEDER",
+        "target": "THIRD LADY",
+        "weight": 1
+      },
+      {
+        "source": "SCHIKANEDER",
+        "target": "FIRST LADY",
+        "weight": 1
+      },
+      {
+        "source": "SCHIKANEDER",
+        "target": "LEOPOLD",
+        "weight": 1
+      },
+      {
+        "source": "VON STRACK",
+        "target": "SALIERI",
+        "weight": 3
+      },
+      {
+        "source": "VON STRACK",
+        "target": "VON SWIETEN",
+        "weight": 2
+      },
+      {
+        "source": "CAVALIERI",
+        "target": "SALIERI",
+        "weight": 2
+      },
+      {
+        "source": "DWARVES",
+        "target": "THIRD LADY",
+        "weight": 1
+      },
+      {
+        "source": "DWARVES",
+        "target": "THREE LADIES",
+        "weight": 1
+      },
+      {
+        "source": "DWARVES",
+        "target": "FIRST LADY",
+        "weight": 1
+      },
+      {
+        "source": "SERVANT",
+        "target": "SALIERI",
+        "weight": 2
+      },
+      {
+        "source": "THIRD LADY",
+        "target": "THREE LADIES",
+        "weight": 1
+      },
+      {
+        "source": "THIRD LADY",
+        "target": "FIRST LADY",
+        "weight": 1
+      },
+      {
+        "source": "THREE LADIES",
+        "target": "FIRST LADY",
+        "weight": 1
+      },
+      {
+        "source": "LEOPOLD",
+        "target": "VON SWIETEN",
+        "weight": 1
+      },
+      {
+        "source": "SALIERI",
+        "target": "UGLY OLD WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "SALIERI",
+        "target": "VON SWIETEN",
+        "weight": 3
+      }
+    ],
+    "nodes": [
+      {
+        "id": "COMMENDATORE",
+        "name": "COMMENDATORE",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 11,
+        "pagerank": 0.021117638241962937,
+        "object_id": "285467",
+        "triangles": 55,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0476190476190474,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FIRST PRIEST",
+        "name": "FIRST PRIEST",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.01724948035882638,
+        "object_id": "286869",
+        "triangles": 3,
+        "eccentricity": 5.0,
+        "closeness centrality": 3.380952380952381,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "VOGLER",
+        "name": "VOGLER",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.01830693486185165,
+        "object_id": "279331",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.7857142857142856,
+        "betweenness centrality": 41.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COLLOREDO",
+        "name": "COLLOREDO",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.011184057319168491,
+        "object_id": "279818",
+        "triangles": 2,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.3095238095238093,
+        "betweenness centrality": 0.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SCHLUMBERG",
+        "name": "SCHLUMBERG",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.015059441092329862,
+        "object_id": "282921",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.3095238095238093,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SECOND LADY",
+        "name": "SECOND LADY",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 11,
+        "pagerank": 0.02111763824196294,
+        "object_id": "285534",
+        "triangles": 55,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0476190476190474,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OFFICER",
+        "name": "OFFICER",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.005014174985626186,
+        "object_id": "287377",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5238095238095237,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LORL",
+        "name": "LORL",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.012557949747662306,
+        "object_id": "280348",
+        "triangles": 5,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0952380952380953,
+        "betweenness centrality": 1.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FRAU SCHLUMBERG",
+        "name": "FRAU SCHLUMBERG",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.01333074114021792,
+        "object_id": "282965",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.3095238095238093,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MOZART",
+        "name": "MOZART",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 30,
+        "pagerank": 0.11704978088822339,
+        "object_id": "279847",
+        "triangles": 104,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.380952380952381,
+        "betweenness centrality": 340.25555555555553,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HORSE",
+        "name": "HORSE",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 11,
+        "pagerank": 0.021117638241962937,
+        "object_id": "285756",
+        "triangles": 55,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0476190476190474,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MADAME WEBER",
+        "name": "MADAME WEBER",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 6,
+        "pagerank": 0.01507366985003288,
+        "object_id": "281108",
+        "triangles": 11,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0476190476190474,
+        "betweenness centrality": 8.844444444444443,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ORSINI-ROSENBERG",
+        "name": "ORSINI-ROSENBERG",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 8,
+        "pagerank": 0.03653364320323041,
+        "object_id": "280238",
+        "triangles": 22,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 2.872222222222222,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PRIEST",
+        "name": "PRIEST",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.008130241436110712,
+        "object_id": "281667",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.261904761904762,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OLD SALIERI",
+        "name": "OLD SALIERI",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 9,
+        "pagerank": 0.04333146181804766,
+        "object_id": "279105",
+        "triangles": 9,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8571428571428572,
+        "betweenness centrality": 163.86666666666667,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ALLEGRO",
+        "name": "ALLEGRO",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.01724948035882638,
+        "object_id": "286934",
+        "triangles": 3,
+        "eccentricity": 5.0,
+        "closeness centrality": 3.380952380952381,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BONNO",
+        "name": "BONNO",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 6,
+        "pagerank": 0.021472110721390488,
+        "object_id": "280293",
+        "triangles": 15,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0952380952380953,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OTTAVIO",
+        "name": "OTTAVIO",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 11,
+        "pagerank": 0.021117638241962937,
+        "object_id": "285553",
+        "triangles": 55,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0476190476190474,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SOPRANO",
+        "name": "SOPRANO",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 11,
+        "pagerank": 0.021117638241962937,
+        "object_id": "285620",
+        "triangles": 55,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0476190476190474,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CONSTANZE",
+        "name": "CONSTANZE",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 23,
+        "pagerank": 0.07359929296674401,
+        "object_id": "279855",
+        "triangles": 84,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.5476190476190477,
+        "betweenness centrality": 175.6388888888889,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PAPAGENO",
+        "name": "PAPAGENO",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.02343297821419982,
+        "object_id": "286846",
+        "triangles": 4,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.4523809523809526,
+        "betweenness centrality": 117.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JOSEPH",
+        "name": "JOSEPH",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 10,
+        "pagerank": 0.050284667847349716,
+        "object_id": "280230",
+        "triangles": 28,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.9523809523809523,
+        "betweenness centrality": 6.955555555555555,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BYSTANDERS",
+        "name": "BYSTANDERS",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.009716516215977111,
+        "object_id": "283612",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2142857142857144,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ACTRESSES",
+        "name": "ACTRESSES",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 2,
+        "pagerank": 0.006550549643406853,
+        "object_id": "287290",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.3333333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOCTOR GULDEN",
+        "name": "DOCTOR GULDEN",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.006600466722585135,
+        "object_id": "279320",
+        "triangles": 0,
+        "eccentricity": 5.0,
+        "closeness centrality": 3.761904761904762,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SCHIKANEDER",
+        "name": "SCHIKANEDER",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 15,
+        "pagerank": 0.03359267028484581,
+        "object_id": "282550",
+        "triangles": 63,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.8333333333333333,
+        "betweenness centrality": 42.93333333333334,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANDANTE",
+        "name": "ANDANTE",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.01724948035882638,
+        "object_id": "286926",
+        "triangles": 3,
+        "eccentricity": 5.0,
+        "closeness centrality": 3.380952380952381,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "VON STRACK",
+        "name": "VON STRACK",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 6,
+        "pagerank": 0.023064562263414978,
+        "object_id": "280260",
+        "triangles": 15,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0952380952380953,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CAVALIERI",
+        "name": "CAVALIERI",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 5,
+        "pagerank": 0.015368776516575089,
+        "object_id": "280868",
+        "triangles": 9,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9761904761904763,
+        "betweenness centrality": 1.25,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GERTRUDE",
+        "name": "GERTRUDE",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.009351033819356381,
+        "object_id": "283075",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.3095238095238093,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FLUNKY",
+        "name": "FLUNKY",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.006844523197098258,
+        "object_id": "281112",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DWARVES",
+        "name": "DWARVES",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 11,
+        "pagerank": 0.021117638241962937,
+        "object_id": "285697",
+        "triangles": 55,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0476190476190474,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ATTENDANT",
+        "name": "ATTENDANT",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.0057903894014948235,
+        "object_id": "288098",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.8333333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SERVANT",
+        "name": "SERVANT",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.01020528621920989,
+        "object_id": "281974",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0714285714285716,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THIRD LADY",
+        "name": "THIRD LADY",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 11,
+        "pagerank": 0.021117638241962937,
+        "object_id": "285538",
+        "triangles": 55,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0476190476190474,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THREE LADIES",
+        "name": "THREE LADIES",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 11,
+        "pagerank": 0.02111763824196294,
+        "object_id": "285574",
+        "triangles": 55,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0476190476190474,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FIRST LADY",
+        "name": "FIRST LADY",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 11,
+        "pagerank": 0.02111763824196294,
+        "object_id": "285530",
+        "triangles": 55,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0476190476190474,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LEOPOLD",
+        "name": "LEOPOLD",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 9,
+        "pagerank": 0.025281344400691887,
+        "object_id": "281576",
+        "triangles": 15,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0952380952380953,
+        "betweenness centrality": 9.794444444444443,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SALIERI",
+        "name": "SALIERI",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 16,
+        "pagerank": 0.08334493855849917,
+        "object_id": "280304",
+        "triangles": 36,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.6428571428571428,
+        "betweenness centrality": 234.67222222222216,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "UGLY OLD WOMAN",
+        "name": "UGLY OLD WOMAN",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.00894864084521605,
+        "object_id": "287022",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5238095238095237,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "VON SWIETEN",
+        "name": "VON SWIETEN",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 7,
+        "pagerank": 0.027609808090187978,
+        "object_id": "280233",
+        "triangles": 17,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0714285714285716,
+        "betweenness centrality": 1.9166666666666665,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ARCO",
+        "name": "ARCO",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.01346975576514303,
+        "object_id": "279815",
+        "triangles": 2,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2142857142857144,
+        "betweenness centrality": 2.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "VALET",
+        "name": "VALET",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.008092406709966391,
+        "object_id": "279133",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.8333333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": -41.933083,
+        "y": -183.98749,
+        "name": "COMMENDATORE"
+      },
+      {
+        "x": 297.01562,
+        "y": -332.72476,
+        "name": "FIRST PRIEST"
+      },
+      {
+        "x": 107.16642,
+        "y": 263.21292,
+        "name": "VOGLER"
+      },
+      {
+        "x": 54.232162,
+        "y": 216.50845,
+        "name": "COLLOREDO"
+      },
+      {
+        "x": -140.03702,
+        "y": 21.749954,
+        "name": "SCHLUMBERG"
+      },
+      {
+        "x": -170.39528,
+        "y": -126.31771,
+        "name": "SECOND LADY"
+      },
+      {
+        "x": -173.99998,
+        "y": 32.124146,
+        "name": "OFFICER"
+      },
+      {
+        "x": -91.27174,
+        "y": 87.76633,
+        "name": "LORL"
+      },
+      {
+        "x": -138.8388,
+        "y": -11.82376,
+        "name": "FRAU SCHLUMBERG"
+      },
+      {
+        "x": -52.3252,
+        "y": 37.151886,
+        "name": "MOZART"
+      },
+      {
+        "x": -203.08685,
+        "y": -181.01575,
+        "name": "HORSE"
+      },
+      {
+        "x": 79.35822,
+        "y": 82.2088,
+        "name": "MADAME WEBER"
+      },
+      {
+        "x": -24.868046,
+        "y": 156.66843,
+        "name": "ORSINI-ROSENBERG"
+      },
+      {
+        "x": 107.9865,
+        "y": 13.402884,
+        "name": "PRIEST"
+      },
+      {
+        "x": 103.432434,
+        "y": 187.10588,
+        "name": "OLD SALIERI"
+      },
+      {
+        "x": 334.77878,
+        "y": -305.2017,
+        "name": "ALLEGRO"
+      },
+      {
+        "x": -55.720203,
+        "y": 200.63162,
+        "name": "BONNO"
+      },
+      {
+        "x": -96.81536,
+        "y": -201.44366,
+        "name": "OTTAVIO"
+      },
+      {
+        "x": -163.48459,
+        "y": -238.0182,
+        "name": "SOPRANO"
+      },
+      {
+        "x": -18.28273,
+        "y": -24.73516,
+        "name": "CONSTANZE"
+      },
+      {
+        "x": 256.21393,
+        "y": -226.38469,
+        "name": "PAPAGENO"
+      },
+      {
+        "x": -48.64357,
+        "y": 119.447685,
+        "name": "JOSEPH"
+      },
+      {
+        "x": 66.82424,
+        "y": -21.13465,
+        "name": "BYSTANDERS"
+      },
+      {
+        "x": 91.63364,
+        "y": -52.519215,
+        "name": "ACTRESSES"
+      },
+      {
+        "x": 33.26782,
+        "y": 362.29315,
+        "name": "DOCTOR GULDEN"
+      },
+      {
+        "x": -33.693882,
+        "y": -109.99223,
+        "name": "SCHIKANEDER"
+      },
+      {
+        "x": 336.40802,
+        "y": -349.0982,
+        "name": "ANDANTE"
+      },
+      {
+        "x": -101.52468,
+        "y": 148.35422,
+        "name": "VON STRACK"
+      },
+      {
+        "x": 63.02025,
+        "y": 135.22261,
+        "name": "CAVALIERI"
+      },
+      {
+        "x": -160.79672,
+        "y": -42.143864,
+        "name": "GERTRUDE"
+      },
+      {
+        "x": 151.43181,
+        "y": 64.872246,
+        "name": "FLUNKY"
+      },
+      {
+        "x": -45.72136,
+        "y": -240.6457,
+        "name": "DWARVES"
+      },
+      {
+        "x": 213.11633,
+        "y": 112.42654,
+        "name": "ATTENDANT"
+      },
+      {
+        "x": 35.9178,
+        "y": 172.071,
+        "name": "SERVANT"
+      },
+      {
+        "x": -106.561264,
+        "y": -140.90158,
+        "name": "THIRD LADY"
+      },
+      {
+        "x": -147.5365,
+        "y": -182.49727,
+        "name": "THREE LADIES"
+      },
+      {
+        "x": -106.29361,
+        "y": -259.09116,
+        "name": "FIRST LADY"
+      },
+      {
+        "x": 27.482677,
+        "y": 39.43422,
+        "name": "LEOPOLD"
+      },
+      {
+        "x": -3.2950745,
+        "y": 97.7049,
+        "name": "SALIERI"
+      },
+      {
+        "x": 172.1306,
+        "y": -121.59373,
+        "name": "UGLY OLD WOMAN"
+      },
+      {
+        "x": -66.91615,
+        "y": 160.1952,
+        "name": "VON SWIETEN"
+      },
+      {
+        "x": 17.939524,
+        "y": 215.71275,
+        "name": "ARCO"
+      },
+      {
+        "x": 167.54057,
+        "y": 219.89763,
+        "name": "VALET"
+      }
+    ]
+  }
+}

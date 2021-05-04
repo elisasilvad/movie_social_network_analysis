@@ -1,0 +1,965 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "CHANG",
+        "target": "SONDRA",
+        "weight": 1
+      },
+      {
+        "source": "CHANG",
+        "target": "LOVETT",
+        "weight": 3
+      },
+      {
+        "source": "CHANG",
+        "target": "GEORGE",
+        "weight": 4
+      },
+      {
+        "source": "CHANG",
+        "target": "BARNARD",
+        "weight": 2
+      },
+      {
+        "source": "CHANG",
+        "target": "GLORIA",
+        "weight": 1
+      },
+      {
+        "source": "CHANG",
+        "target": "CONWAY",
+        "weight": 6
+      },
+      {
+        "source": "CHANG",
+        "target": "MARIA",
+        "weight": 2
+      },
+      {
+        "source": "COLONEL",
+        "target": "CONWAY",
+        "weight": 1
+      },
+      {
+        "source": "COLONEL",
+        "target": "OPERATOR",
+        "weight": 1
+      },
+      {
+        "source": "COLONEL",
+        "target": "RADIO SPEAKER",
+        "weight": 1
+      },
+      {
+        "source": "COLONEL",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "COLONEL",
+        "target": "RADIO OPERATOR",
+        "weight": 1
+      },
+      {
+        "source": "LOVETT",
+        "target": "NATIVE GIRL",
+        "weight": 1
+      },
+      {
+        "source": "LOVETT",
+        "target": "AD-LIB",
+        "weight": 1
+      },
+      {
+        "source": "LOVETT",
+        "target": "GEORGE",
+        "weight": 6
+      },
+      {
+        "source": "LOVETT",
+        "target": "GLORIA",
+        "weight": 4
+      },
+      {
+        "source": "LOVETT",
+        "target": "CONWAY",
+        "weight": 7
+      },
+      {
+        "source": "LOVETT",
+        "target": "BARNARD",
+        "weight": 9
+      },
+      {
+        "source": "MAN",
+        "target": "CONWAY",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "GLORIA",
+        "target": "OLD MAN",
+        "weight": 1
+      },
+      {
+        "source": "GLORIA",
+        "target": "GEORGE",
+        "weight": 5
+      },
+      {
+        "source": "GLORIA",
+        "target": "BARNARD",
+        "weight": 6
+      },
+      {
+        "source": "GLORIA",
+        "target": "AD-LIB",
+        "weight": 1
+      },
+      {
+        "source": "GLORIA",
+        "target": "PRIEST",
+        "weight": 1
+      },
+      {
+        "source": "GLORIA",
+        "target": "CONWAY",
+        "weight": 6
+      },
+      {
+        "source": "OFFICIAL",
+        "target": "HIGH OFFICIAL",
+        "weight": 1
+      },
+      {
+        "source": "OFFICIAL",
+        "target": "ROBERTSON",
+        "weight": 1
+      },
+      {
+        "source": "HIGH LAMA",
+        "target": "CONWAY",
+        "weight": 1
+      },
+      {
+        "source": "HIGH LAMA",
+        "target": "LAMA",
+        "weight": 1
+      },
+      {
+        "source": "CARSTAIRS",
+        "target": "MEEKER",
+        "weight": 1
+      },
+      {
+        "source": "CARSTAIRS",
+        "target": "AD-LIB",
+        "weight": 1
+      },
+      {
+        "source": "CARSTAIRS",
+        "target": "ROBERTSON",
+        "weight": 1
+      },
+      {
+        "source": "CARSTAIRS",
+        "target": "WYNANT",
+        "weight": 1
+      },
+      {
+        "source": "CARSTAIRS",
+        "target": "GAINSFORD",
+        "weight": 1
+      },
+      {
+        "source": "MEN",
+        "target": "ONE OF THE MEN",
+        "weight": 1
+      },
+      {
+        "source": "MEN",
+        "target": "CONWAY",
+        "weight": 1
+      },
+      {
+        "source": "GAINSFORD",
+        "target": "MEEKER",
+        "weight": 1
+      },
+      {
+        "source": "GAINSFORD",
+        "target": "AD-LIB",
+        "weight": 1
+      },
+      {
+        "source": "GAINSFORD",
+        "target": "ROBERTSON",
+        "weight": 1
+      },
+      {
+        "source": "GAINSFORD",
+        "target": "WYNANT",
+        "weight": 1
+      },
+      {
+        "source": "HIGH OFFICIAL",
+        "target": "ROBERTSON",
+        "weight": 1
+      },
+      {
+        "source": "RADIO SPEAKER",
+        "target": "RADIO OPERATOR",
+        "weight": 1
+      },
+      {
+        "source": "RADIO SPEAKER",
+        "target": "CONWAY",
+        "weight": 1
+      },
+      {
+        "source": "RADIO SPEAKER",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "RADIO SPEAKER",
+        "target": "OPERATOR",
+        "weight": 1
+      },
+      {
+        "source": "SONDRA",
+        "target": "CHILDREN",
+        "weight": 1
+      },
+      {
+        "source": "SONDRA",
+        "target": "GEORGE",
+        "weight": 1
+      },
+      {
+        "source": "SONDRA",
+        "target": "MARIA",
+        "weight": 1
+      },
+      {
+        "source": "SONDRA",
+        "target": "CONWAY",
+        "weight": 4
+      },
+      {
+        "source": "NATIVE GIRL",
+        "target": "BARNARD",
+        "weight": 2
+      },
+      {
+        "source": "PRIEST",
+        "target": "OLD MAN",
+        "weight": 1
+      },
+      {
+        "source": "PRIEST",
+        "target": "CONWAY",
+        "weight": 1
+      },
+      {
+        "source": "BARNARD",
+        "target": "GEORGE",
+        "weight": 7
+      },
+      {
+        "source": "BARNARD",
+        "target": "AD-LIB",
+        "weight": 2
+      },
+      {
+        "source": "BARNARD",
+        "target": "CONWAY",
+        "weight": 7
+      },
+      {
+        "source": "MEEKER",
+        "target": "AD-LIB",
+        "weight": 1
+      },
+      {
+        "source": "MEEKER",
+        "target": "ROBERTSON",
+        "weight": 1
+      },
+      {
+        "source": "MEEKER",
+        "target": "WYNANT",
+        "weight": 1
+      },
+      {
+        "source": "CONWAY",
+        "target": "PILOT",
+        "weight": 1
+      },
+      {
+        "source": "CONWAY",
+        "target": "CHILDREN",
+        "weight": 1
+      },
+      {
+        "source": "CONWAY",
+        "target": "RADIO OPERATOR",
+        "weight": 1
+      },
+      {
+        "source": "CONWAY",
+        "target": "OLD MAN",
+        "weight": 1
+      },
+      {
+        "source": "CONWAY",
+        "target": "GEORGE",
+        "weight": 12
+      },
+      {
+        "source": "CONWAY",
+        "target": "MARIA",
+        "weight": 3
+      },
+      {
+        "source": "CONWAY",
+        "target": "OPERATOR",
+        "weight": 1
+      },
+      {
+        "source": "CONWAY",
+        "target": "AD-LIB",
+        "weight": 4
+      },
+      {
+        "source": "CONWAY",
+        "target": "ONE OF THE MEN",
+        "weight": 1
+      },
+      {
+        "source": "CONWAY",
+        "target": "LAMA",
+        "weight": 1
+      },
+      {
+        "source": "AD-LIB",
+        "target": "ROBERTSON",
+        "weight": 1
+      },
+      {
+        "source": "AD-LIB",
+        "target": "GEORGE",
+        "weight": 3
+      },
+      {
+        "source": "AD-LIB",
+        "target": "WYNANT",
+        "weight": 1
+      },
+      {
+        "source": "WYNANT",
+        "target": "ROBERTSON",
+        "weight": 1
+      },
+      {
+        "source": "GEORGE",
+        "target": "MARIA",
+        "weight": 3
+      },
+      {
+        "source": "GEORGE",
+        "target": "OPERATOR",
+        "weight": 1
+      },
+      {
+        "source": "GEORGE",
+        "target": "RADIO OPERATOR",
+        "weight": 1
+      },
+      {
+        "source": "OPERATOR",
+        "target": "RADIO OPERATOR",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "CHANG",
+        "name": "CHANG",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 7,
+        "pagerank": 0.04595652261331569,
+        "object_id": "3207540",
+        "triangles": 15,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0689655172413794,
+        "betweenness centrality": 2.6666666666666665,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COLONEL",
+        "name": "COLONEL",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 5,
+        "pagerank": 0.019024551710676733,
+        "object_id": "3204881",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1724137931034484,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LOVETT",
+        "name": "LOVETT",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 7,
+        "pagerank": 0.07100546742889607,
+        "object_id": "3205330",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8275862068965518,
+        "betweenness centrality": 15.1,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAN",
+        "name": "MAN",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.009322172069694705,
+        "object_id": "3205198",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2758620689655173,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GLORIA",
+        "name": "GLORIA",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 8,
+        "pagerank": 0.060543872380876405,
+        "object_id": "3205024",
+        "triangles": 17,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.793103448275862,
+        "betweenness centrality": 14.599999999999998,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OFFICIAL",
+        "name": "OFFICIAL",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.017023977514768696,
+        "object_id": "3206583",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.2758620689655173,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HIGH LAMA",
+        "name": "HIGH LAMA",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.012652910277100951,
+        "object_id": "3210265",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2758620689655173,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CARSTAIRS",
+        "name": "CARSTAIRS",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.025425835852613793,
+        "object_id": "3214016",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.413793103448276,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MEN",
+        "name": "MEN",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.012652910277100951,
+        "object_id": "3209399",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2758620689655173,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GAINSFORD",
+        "name": "GAINSFORD",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.025425835852613793,
+        "object_id": "3214050",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.413793103448276,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HIGH OFFICIAL",
+        "name": "HIGH OFFICIAL",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.017023977514768696,
+        "object_id": "3206558",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.2758620689655173,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RADIO SPEAKER",
+        "name": "RADIO SPEAKER",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 5,
+        "pagerank": 0.019024551710676733,
+        "object_id": "3204852",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1724137931034484,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SONDRA",
+        "name": "SONDRA",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.024747467849687288,
+        "object_id": "3210759",
+        "triangles": 7,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1724137931034484,
+        "betweenness centrality": 1.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NATIVE GIRL",
+        "name": "NATIVE GIRL",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.010868354662978762,
+        "object_id": "3211313",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.7586206896551726,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PRIEST",
+        "name": "PRIEST",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.013024023830586,
+        "object_id": "3204990",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2413793103448274,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BARNARD",
+        "name": "BARNARD",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 7,
+        "pagerank": 0.08073739702984407,
+        "object_id": "3205398",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8275862068965518,
+        "betweenness centrality": 15.1,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MEEKER",
+        "name": "MEEKER",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.025425835852613793,
+        "object_id": "3214041",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.413793103448276,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CONWAY",
+        "name": "CONWAY",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 21,
+        "pagerank": 0.16597782843733325,
+        "object_id": "3204794",
+        "triangles": 36,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.3448275862068966,
+        "betweenness centrality": 227.26666666666662,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PILOT",
+        "name": "PILOT",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.007275467954751754,
+        "object_id": "3204786",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.310344827586207,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CHILDREN",
+        "name": "CHILDREN",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.009904844907362865,
+        "object_id": "3210768",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2758620689655173,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "AD-LIB",
+        "name": "AD-LIB",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 10,
+        "pagerank": 0.05024780223659618,
+        "object_id": "3204820",
+        "triangles": 20,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.6551724137931034,
+        "betweenness centrality": 154.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WYNANT",
+        "name": "WYNANT",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.025425835852613793,
+        "object_id": "3214099",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.413793103448276,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OLD MAN",
+        "name": "OLD MAN",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.013024023830586,
+        "object_id": "3205010",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2413793103448274,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GEORGE",
+        "name": "GEORGE",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 13,
+        "pagerank": 0.11076462185247488,
+        "object_id": "3204835",
+        "triangles": 30,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.6206896551724137,
+        "betweenness centrality": 51.766666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ROBERTSON",
+        "name": "ROBERTSON",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 7,
+        "pagerank": 0.03943127323046251,
+        "object_id": "3206604",
+        "triangles": 11,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.3448275862068964,
+        "betweenness centrality": 54.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MARIA",
+        "name": "MARIA",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.024707713293450274,
+        "object_id": "3208815",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.206896551724138,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OPERATOR",
+        "name": "OPERATOR",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 5,
+        "pagerank": 0.019024551710676733,
+        "object_id": "3204860",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1724137931034484,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LAMA",
+        "name": "LAMA",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.01265291027710095,
+        "object_id": "3212297",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2758620689655173,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ONE OF THE MEN",
+        "name": "ONE OF THE MEN",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.012652910277100951,
+        "object_id": "3209411",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2758620689655173,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RADIO OPERATOR",
+        "name": "RADIO OPERATOR",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 5,
+        "pagerank": 0.019024551710676733,
+        "object_id": "3204847",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1724137931034484,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": 84.33289,
+        "y": 31.233915,
+        "name": "CHANG"
+      },
+      {
+        "x": 201.26982,
+        "y": 140.15529,
+        "name": "COLONEL"
+      },
+      {
+        "x": 42.914017,
+        "y": 51.912968,
+        "name": "LOVETT"
+      },
+      {
+        "x": 185.53351,
+        "y": 63.00301,
+        "name": "MAN"
+      },
+      {
+        "x": 23.430992,
+        "y": 116.57188,
+        "name": "GLORIA"
+      },
+      {
+        "x": -117.09582,
+        "y": -174.86198,
+        "name": "OFFICIAL"
+      },
+      {
+        "x": 224.25319,
+        "y": 20.022022,
+        "name": "HIGH LAMA"
+      },
+      {
+        "x": -150.19284,
+        "y": -43.95982,
+        "name": "CARSTAIRS"
+      },
+      {
+        "x": -53.476772,
+        "y": 221.85484,
+        "name": "MEN"
+      },
+      {
+        "x": -171.09381,
+        "y": -0.35559446,
+        "name": "GAINSFORD"
+      },
+      {
+        "x": -147.36246,
+        "y": -197.02863,
+        "name": "HIGH OFFICIAL"
+      },
+      {
+        "x": 231.41531,
+        "y": 171.67871,
+        "name": "RADIO SPEAKER"
+      },
+      {
+        "x": 147.42014,
+        "y": 91.14532,
+        "name": "SONDRA"
+      },
+      {
+        "x": -29.97894,
+        "y": 84.99689,
+        "name": "NATIVE GIRL"
+      },
+      {
+        "x": -50.540146,
+        "y": 153.16582,
+        "name": "PRIEST"
+      },
+      {
+        "x": 27.576294,
+        "y": 80.33941,
+        "name": "BARNARD"
+      },
+      {
+        "x": -215.13333,
+        "y": -17.36711,
+        "name": "MEEKER"
+      },
+      {
+        "x": 79.27251,
+        "y": 112.806625,
+        "name": "CONWAY"
+      },
+      {
+        "x": 38.798737,
+        "y": 222.42224,
+        "name": "PILOT"
+      },
+      {
+        "x": 162.69908,
+        "y": 15.485716,
+        "name": "CHILDREN"
+      },
+      {
+        "x": -37.516678,
+        "y": 28.648912,
+        "name": "AD-LIB"
+      },
+      {
+        "x": -199.07683,
+        "y": -60.839664,
+        "name": "WYNANT"
+      },
+      {
+        "x": -16.68803,
+        "y": 181.62674,
+        "name": "OLD MAN"
+      },
+      {
+        "x": 84.56442,
+        "y": 71.43252,
+        "name": "GEORGE"
+      },
+      {
+        "x": -160.40474,
+        "y": -106.651924,
+        "name": "ROBERTSON"
+      },
+      {
+        "x": 129.35788,
+        "y": 49.493713,
+        "name": "MARIA"
+      },
+      {
+        "x": 168.81299,
+        "y": 187.437,
+        "name": "OPERATOR"
+      },
+      {
+        "x": 201.04448,
+        "y": -12.6516,
+        "name": "LAMA"
+      },
+      {
+        "x": -17.105555,
+        "y": 239.33417,
+        "name": "ONE OF THE MEN"
+      },
+      {
+        "x": 201.52876,
+        "y": 212.59973,
+        "name": "RADIO OPERATOR"
+      }
+    ]
+  }
+}
