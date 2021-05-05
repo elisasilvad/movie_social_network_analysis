@@ -1,0 +1,1710 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "POLISH MAN",
+        "target": "HATE COUNSELOR",
+        "weight": 1
+      },
+      {
+        "source": "POLISH MAN",
+        "target": "ANCIENT JEW",
+        "weight": 1
+      },
+      {
+        "source": "POLISH MAN",
+        "target": "RUMANIAN WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "POLISH MAN",
+        "target": "BILLINGS",
+        "weight": 1
+      },
+      {
+        "source": "POLISH MAN",
+        "target": "DANNY",
+        "weight": 1
+      },
+      {
+        "source": "OFF-SCREEN VOICE",
+        "target": "BILLINGS",
+        "weight": 1
+      },
+      {
+        "source": "OFF-SCREEN VOICE",
+        "target": "CARLA",
+        "weight": 1
+      },
+      {
+        "source": "OFF-SCREEN VOICE",
+        "target": "DANNY",
+        "weight": 1
+      },
+      {
+        "source": "RUMANIAN WOMAN",
+        "target": "HATE COUNSELOR",
+        "weight": 1
+      },
+      {
+        "source": "RUMANIAN WOMAN",
+        "target": "BILLINGS",
+        "weight": 1
+      },
+      {
+        "source": "RUMANIAN WOMAN",
+        "target": "ANCIENT JEW",
+        "weight": 1
+      },
+      {
+        "source": "RUMANIAN WOMAN",
+        "target": "DANNY",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "STUART",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "MIRIAM",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "CARLA",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "DANNY",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "AVI",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "LINDA",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "LINA",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "ANOTHER VOICE",
+        "weight": 1
+      },
+      {
+        "source": "OLD COOT",
+        "target": "CURTIS",
+        "weight": 1
+      },
+      {
+        "source": "OLD COOT",
+        "target": "DANNY",
+        "weight": 1
+      },
+      {
+        "source": "OLD COOT",
+        "target": "MRS MOEBIUS",
+        "weight": 1
+      },
+      {
+        "source": "OLD COOT",
+        "target": "CARLA",
+        "weight": 1
+      },
+      {
+        "source": "OLD COOT",
+        "target": "GUY DANIELSEN",
+        "weight": 1
+      },
+      {
+        "source": "RAV ZINGESSER",
+        "target": "AVI",
+        "weight": 1
+      },
+      {
+        "source": "RAV ZINGESSER",
+        "target": "BLACK SCREEN",
+        "weight": 1
+      },
+      {
+        "source": "THE DOOR",
+        "target": "STUART",
+        "weight": 1
+      },
+      {
+        "source": "THE DOOR",
+        "target": "PEOPLE",
+        "weight": 1
+      },
+      {
+        "source": "THE DOOR",
+        "target": "CARLA",
+        "weight": 1
+      },
+      {
+        "source": "THE DOOR",
+        "target": "AVI",
+        "weight": 1
+      },
+      {
+        "source": "THE DOOR",
+        "target": "ENRAGED MAN",
+        "weight": 1
+      },
+      {
+        "source": "THE DOOR",
+        "target": "DANNY",
+        "weight": 1
+      },
+      {
+        "source": "THE DOOR",
+        "target": "ENRAGED WIFE",
+        "weight": 1
+      },
+      {
+        "source": "CONGREGATION",
+        "target": "RABBI'S AMPLIFIED VOICE",
+        "weight": 1
+      },
+      {
+        "source": "CONGREGATION",
+        "target": "LARGE WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "CONGREGATION",
+        "target": "DANNY",
+        "weight": 1
+      },
+      {
+        "source": "FIRST WAITER",
+        "target": "STEVE",
+        "weight": 1
+      },
+      {
+        "source": "FIRST WAITER",
+        "target": "BILLINGS",
+        "weight": 1
+      },
+      {
+        "source": "FIRST WAITER",
+        "target": "DANNY",
+        "weight": 1
+      },
+      {
+        "source": "VARIOUS VOICES",
+        "target": "KYLE",
+        "weight": 1
+      },
+      {
+        "source": "VARIOUS VOICES",
+        "target": "WHIT",
+        "weight": 1
+      },
+      {
+        "source": "VARIOUS VOICES",
+        "target": "DANNY",
+        "weight": 1
+      },
+      {
+        "source": "LINDA",
+        "target": "LINA",
+        "weight": 1
+      },
+      {
+        "source": "LINDA",
+        "target": "CARLA",
+        "weight": 1
+      },
+      {
+        "source": "LINDA",
+        "target": "DANNY",
+        "weight": 1
+      },
+      {
+        "source": "MRS MOEBIUS",
+        "target": "CURTIS",
+        "weight": 3
+      },
+      {
+        "source": "MRS MOEBIUS",
+        "target": "LINA",
+        "weight": 1
+      },
+      {
+        "source": "MRS MOEBIUS",
+        "target": "REPORTER",
+        "weight": 2
+      },
+      {
+        "source": "MRS MOEBIUS",
+        "target": "CARLA",
+        "weight": 2
+      },
+      {
+        "source": "MRS MOEBIUS",
+        "target": "DANNY",
+        "weight": 3
+      },
+      {
+        "source": "MRS MOEBIUS",
+        "target": "ANCHOR",
+        "weight": 1
+      },
+      {
+        "source": "MRS MOEBIUS",
+        "target": "GUY DANIELSEN",
+        "weight": 1
+      },
+      {
+        "source": "PEOPLE",
+        "target": "STUART",
+        "weight": 1
+      },
+      {
+        "source": "PEOPLE",
+        "target": "CARLA",
+        "weight": 1
+      },
+      {
+        "source": "PEOPLE",
+        "target": "ENRAGED MAN",
+        "weight": 1
+      },
+      {
+        "source": "PEOPLE",
+        "target": "AVI",
+        "weight": 1
+      },
+      {
+        "source": "PEOPLE",
+        "target": "DANNY",
+        "weight": 1
+      },
+      {
+        "source": "PEOPLE",
+        "target": "ENRAGED WIFE",
+        "weight": 1
+      },
+      {
+        "source": "WHIT",
+        "target": "KYLE",
+        "weight": 2
+      },
+      {
+        "source": "WHIT",
+        "target": "DANNY",
+        "weight": 1
+      },
+      {
+        "source": "DRAKE",
+        "target": "BILLINGS",
+        "weight": 1
+      },
+      {
+        "source": "DRAKE",
+        "target": "CURTIS",
+        "weight": 1
+      },
+      {
+        "source": "DRAKE",
+        "target": "LINA",
+        "weight": 1
+      },
+      {
+        "source": "DRAKE",
+        "target": "KYLE",
+        "weight": 1
+      },
+      {
+        "source": "DRAKE",
+        "target": "DANNY",
+        "weight": 1
+      },
+      {
+        "source": "DANNY",
+        "target": "ANCHOR",
+        "weight": 1
+      },
+      {
+        "source": "DANNY",
+        "target": "LINA",
+        "weight": 3
+      },
+      {
+        "source": "DANNY",
+        "target": "STUART",
+        "weight": 4
+      },
+      {
+        "source": "DANNY",
+        "target": "PHOTOGRAPHER",
+        "weight": 1
+      },
+      {
+        "source": "DANNY",
+        "target": "KYLE",
+        "weight": 6
+      },
+      {
+        "source": "DANNY",
+        "target": "YOUNG MAN",
+        "weight": 1
+      },
+      {
+        "source": "DANNY",
+        "target": "HATE COUNSELOR",
+        "weight": 1
+      },
+      {
+        "source": "DANNY",
+        "target": "CARLA",
+        "weight": 10
+      },
+      {
+        "source": "DANNY",
+        "target": "STEROID",
+        "weight": 1
+      },
+      {
+        "source": "DANNY",
+        "target": "FATHER",
+        "weight": 1
+      },
+      {
+        "source": "DANNY",
+        "target": "GUY DANIELSEN",
+        "weight": 2
+      },
+      {
+        "source": "DANNY",
+        "target": "LINA MOEBIUS",
+        "weight": 1
+      },
+      {
+        "source": "DANNY",
+        "target": "BRAND",
+        "weight": 1
+      },
+      {
+        "source": "DANNY",
+        "target": "REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "DANNY",
+        "target": "CARLETON",
+        "weight": 4
+      },
+      {
+        "source": "DANNY",
+        "target": "AVI",
+        "weight": 2
+      },
+      {
+        "source": "DANNY",
+        "target": "GUY",
+        "weight": 2
+      },
+      {
+        "source": "DANNY",
+        "target": "ENRAGED WIFE",
+        "weight": 2
+      },
+      {
+        "source": "DANNY",
+        "target": "NEWSCASTER VOICE",
+        "weight": 1
+      },
+      {
+        "source": "DANNY",
+        "target": "LARGE WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "DANNY",
+        "target": "RABBI",
+        "weight": 2
+      },
+      {
+        "source": "DANNY",
+        "target": "ANOTHER VOICE",
+        "weight": 2
+      },
+      {
+        "source": "DANNY",
+        "target": "FUCK YOU",
+        "weight": 1
+      },
+      {
+        "source": "DANNY",
+        "target": "CURTIS",
+        "weight": 4
+      },
+      {
+        "source": "DANNY",
+        "target": "ANCIENT JEW",
+        "weight": 1
+      },
+      {
+        "source": "DANNY",
+        "target": "STEVE",
+        "weight": 1
+      },
+      {
+        "source": "DANNY",
+        "target": "MIRIAM",
+        "weight": 3
+      },
+      {
+        "source": "DANNY",
+        "target": "BILLINGS",
+        "weight": 6
+      },
+      {
+        "source": "DANNY",
+        "target": "RABBI'S AMPLIFIED VOICE",
+        "weight": 2
+      },
+      {
+        "source": "DANNY",
+        "target": "ENRAGED MAN",
+        "weight": 2
+      },
+      {
+        "source": "DANNY",
+        "target": "CINDY",
+        "weight": 1
+      },
+      {
+        "source": "DANNY",
+        "target": "BLACK VOICE",
+        "weight": 1
+      },
+      {
+        "source": "PHOTOGRAPHER",
+        "target": "GUY",
+        "weight": 1
+      },
+      {
+        "source": "KYLE",
+        "target": "NEWSCASTER VOICE",
+        "weight": 1
+      },
+      {
+        "source": "KYLE",
+        "target": "CARLETON",
+        "weight": 2
+      },
+      {
+        "source": "KYLE",
+        "target": "BILLINGS",
+        "weight": 2
+      },
+      {
+        "source": "YOUNG MAN",
+        "target": "STUART",
+        "weight": 1
+      },
+      {
+        "source": "YOUNG MAN",
+        "target": "MIRIAM",
+        "weight": 1
+      },
+      {
+        "source": "HATE COUNSELOR",
+        "target": "ANCIENT JEW",
+        "weight": 1
+      },
+      {
+        "source": "HATE COUNSELOR",
+        "target": "BILLINGS",
+        "weight": 1
+      },
+      {
+        "source": "CARLA",
+        "target": "CARLETON",
+        "weight": 1
+      },
+      {
+        "source": "CARLA",
+        "target": "LINA MOEBIUS",
+        "weight": 1
+      },
+      {
+        "source": "CARLA",
+        "target": "ENRAGED WIFE",
+        "weight": 1
+      },
+      {
+        "source": "CARLA",
+        "target": "STUART",
+        "weight": 1
+      },
+      {
+        "source": "CARLA",
+        "target": "CURTIS",
+        "weight": 3
+      },
+      {
+        "source": "CARLA",
+        "target": "MIRIAM",
+        "weight": 1
+      },
+      {
+        "source": "CARLA",
+        "target": "LINA",
+        "weight": 2
+      },
+      {
+        "source": "CARLA",
+        "target": "AVI",
+        "weight": 1
+      },
+      {
+        "source": "CARLA",
+        "target": "ENRAGED MAN",
+        "weight": 1
+      },
+      {
+        "source": "CARLA",
+        "target": "GUY DANIELSEN",
+        "weight": 1
+      },
+      {
+        "source": "CARLA",
+        "target": "BILLINGS",
+        "weight": 1
+      },
+      {
+        "source": "AVI",
+        "target": "ENRAGED MAN",
+        "weight": 1
+      },
+      {
+        "source": "AVI",
+        "target": "MIRIAM",
+        "weight": 1
+      },
+      {
+        "source": "AVI",
+        "target": "ANOTHER VOICE",
+        "weight": 1
+      },
+      {
+        "source": "AVI",
+        "target": "STUART",
+        "weight": 1
+      },
+      {
+        "source": "AVI",
+        "target": "ENRAGED WIFE",
+        "weight": 1
+      },
+      {
+        "source": "FATHER",
+        "target": "DANNY/NAZI SERGEANT",
+        "weight": 1
+      },
+      {
+        "source": "GUY DANIELSEN",
+        "target": "GUY",
+        "weight": 1
+      },
+      {
+        "source": "GUY DANIELSEN",
+        "target": "CURTIS",
+        "weight": 1
+      },
+      {
+        "source": "GUY",
+        "target": "ANOTHER VOICE",
+        "weight": 1
+      },
+      {
+        "source": "STEVE",
+        "target": "BILLINGS",
+        "weight": 1
+      },
+      {
+        "source": "REPORTER",
+        "target": "ANCHOR",
+        "weight": 1
+      },
+      {
+        "source": "CARLETON",
+        "target": "BILLINGS",
+        "weight": 4
+      },
+      {
+        "source": "LINA MOEBIUS",
+        "target": "CURTIS",
+        "weight": 1
+      },
+      {
+        "source": "LINA MOEBIUS",
+        "target": "LINA",
+        "weight": 1
+      },
+      {
+        "source": "ENRAGED WIFE",
+        "target": "STUART",
+        "weight": 2
+      },
+      {
+        "source": "ENRAGED WIFE",
+        "target": "ENRAGED MAN",
+        "weight": 2
+      },
+      {
+        "source": "MIRIAM",
+        "target": "STUART",
+        "weight": 3
+      },
+      {
+        "source": "MIRIAM",
+        "target": "ANOTHER VOICE",
+        "weight": 1
+      },
+      {
+        "source": "LARGE WOMAN",
+        "target": "RABBI'S AMPLIFIED VOICE",
+        "weight": 1
+      },
+      {
+        "source": "LARGE WOMAN",
+        "target": "RABBI",
+        "weight": 1
+      },
+      {
+        "source": "RABBI",
+        "target": "RABBI'S AMPLIFIED VOICE",
+        "weight": 1
+      },
+      {
+        "source": "RABBI",
+        "target": "NEWSCASTER VOICE",
+        "weight": 1
+      },
+      {
+        "source": "RABBI",
+        "target": "CINDY",
+        "weight": 1
+      },
+      {
+        "source": "ANOTHER VOICE",
+        "target": "STUART",
+        "weight": 1
+      },
+      {
+        "source": "FUCK YOU",
+        "target": "BILLINGS",
+        "weight": 1
+      },
+      {
+        "source": "FUCK YOU",
+        "target": "BLACK VOICE",
+        "weight": 1
+      },
+      {
+        "source": "NEWSCASTER VOICE",
+        "target": "CINDY",
+        "weight": 1
+      },
+      {
+        "source": "CURTIS",
+        "target": "LINA",
+        "weight": 4
+      },
+      {
+        "source": "CURTIS",
+        "target": "BILLINGS",
+        "weight": 1
+      },
+      {
+        "source": "ANCIENT JEW",
+        "target": "BILLINGS",
+        "weight": 1
+      },
+      {
+        "source": "STUART",
+        "target": "ENRAGED MAN",
+        "weight": 2
+      },
+      {
+        "source": "LINA",
+        "target": "BILLINGS",
+        "weight": 1
+      },
+      {
+        "source": "BILLINGS",
+        "target": "BLACK VOICE",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "POLISH MAN",
+        "name": "POLISH MAN",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.013501903584640325,
+        "object_id": "695507",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.9795918367346939,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OFF-SCREEN VOICE",
+        "name": "OFF-SCREEN VOICE",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.008256844425188637,
+        "object_id": "694153",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.020408163265306,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RUMANIAN WOMAN",
+        "name": "RUMANIAN WOMAN",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.013501903584640325,
+        "object_id": "695458",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.9795918367346939,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WOMAN",
+        "name": "WOMAN",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 8,
+        "pagerank": 0.017756090797897223,
+        "object_id": "693521",
+        "triangles": 19,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8775510204081634,
+        "betweenness centrality": 4.533333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OLD COOT",
+        "name": "OLD COOT",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.01182925991261842,
+        "object_id": "693767",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.9795918367346939,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RAV ZINGESSER",
+        "name": "RAV ZINGESSER",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.011796741243716869,
+        "object_id": "693245",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.7346938775510203,
+        "betweenness centrality": 48.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THE DOOR",
+        "name": "THE DOOR",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 7,
+        "pagerank": 0.015606450472131122,
+        "object_id": "698974",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8979591836734695,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CONGREGATION",
+        "name": "CONGREGATION",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.009899237029239612,
+        "object_id": "695949",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.020408163265306,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FIRST WAITER",
+        "name": "FIRST WAITER",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.009231612089070914,
+        "object_id": "695328",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.020408163265306,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "VARIOUS VOICES",
+        "name": "VARIOUS VOICES",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.00899787106666706,
+        "object_id": "695107",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.020408163265306,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LINDA",
+        "name": "LINDA",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.010025408144793796,
+        "object_id": "694381",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MRS MOEBIUS",
+        "name": "MRS MOEBIUS",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 8,
+        "pagerank": 0.029461435897189664,
+        "object_id": "693792",
+        "triangles": 16,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.9183673469387754,
+        "betweenness centrality": 5.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PEOPLE",
+        "name": "PEOPLE",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 7,
+        "pagerank": 0.01560645047213112,
+        "object_id": "698980",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8979591836734695,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WHIT",
+        "name": "WHIT",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.01105207706892349,
+        "object_id": "695051",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.020408163265306,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DRAKE",
+        "name": "DRAKE",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.011833190926026058,
+        "object_id": "695212",
+        "triangles": 8,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.9795918367346939,
+        "betweenness centrality": 0.6666666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DANNY",
+        "name": "DANNY",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 46,
+        "pagerank": 0.18593702956315067,
+        "object_id": "693541",
+        "triangles": 101,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.0816326530612246,
+        "betweenness centrality": 900.3666666666667,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PHOTOGRAPHER",
+        "name": "PHOTOGRAPHER",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.007095567132215472,
+        "object_id": "698087",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0408163265306123,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BLACK SCREEN",
+        "name": "BLACK SCREEN",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.008017340256233508,
+        "object_id": "693243",
+        "triangles": 0,
+        "eccentricity": 5.0,
+        "closeness centrality": 3.7142857142857144,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KYLE",
+        "name": "KYLE",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 7,
+        "pagerank": 0.03270700260048071,
+        "object_id": "695086",
+        "triangles": 9,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.9387755102040816,
+        "betweenness centrality": 5.833333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "YOUNG MAN",
+        "name": "YOUNG MAN",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.008321696868593345,
+        "object_id": "697149",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.020408163265306,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HATE COUNSELOR",
+        "name": "HATE COUNSELOR",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.013501903584640325,
+        "object_id": "695481",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.9795918367346939,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CARLA",
+        "name": "CARLA",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 19,
+        "pagerank": 0.06177310301921968,
+        "object_id": "693789",
+        "triangles": 55,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.653061224489796,
+        "betweenness centrality": 60.25000000000001,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "AVI",
+        "name": "AVI",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 11,
+        "pagerank": 0.02800328827767608,
+        "object_id": "693307",
+        "triangles": 32,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7959183673469388,
+        "betweenness centrality": 97.53333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FATHER",
+        "name": "FATHER",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.011503475927916822,
+        "object_id": "694476",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.020408163265306,
+        "betweenness centrality": 48.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GUY DANIELSEN",
+        "name": "GUY DANIELSEN",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.01599369449437463,
+        "object_id": "693715",
+        "triangles": 11,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.9591836734693877,
+        "betweenness centrality": 2.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DANNY/NAZI SERGEANT",
+        "name": "DANNY/NAZI SERGEANT",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.007890449404004244,
+        "object_id": "697098",
+        "triangles": 0,
+        "eccentricity": 5.0,
+        "closeness centrality": 3.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GUY",
+        "name": "GUY",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.01352736225360746,
+        "object_id": "694641",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 1.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BRAND",
+        "name": "BRAND",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.004795961575363062,
+        "object_id": "697266",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.061224489795918,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "STEVE",
+        "name": "STEVE",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.009231612089070914,
+        "object_id": "695407",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.020408163265306,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REPORTER",
+        "name": "REPORTER",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.010894761226559364,
+        "object_id": "698010",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.020408163265306,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CARLETON",
+        "name": "CARLETON",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.022811658586570173,
+        "object_id": "693601",
+        "triangles": 5,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.3333333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANCHOR",
+        "name": "ANCHOR",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.008899666837686643,
+        "object_id": "698031",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.020408163265306,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LINA MOEBIUS",
+        "name": "LINA MOEBIUS",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.009800578166308476,
+        "object_id": "694322",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "STEROID",
+        "name": "STEROID",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.004795961575363062,
+        "object_id": "696179",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.061224489795918,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ENRAGED WIFE",
+        "name": "ENRAGED WIFE",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 7,
+        "pagerank": 0.021015884010670713,
+        "object_id": "698865",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8979591836734695,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MIRIAM",
+        "name": "MIRIAM",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 7,
+        "pagerank": 0.02338937123121026,
+        "object_id": "697201",
+        "triangles": 16,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8979591836734695,
+        "betweenness centrality": 2.2,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LARGE WOMAN",
+        "name": "LARGE WOMAN",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.012458308235653403,
+        "object_id": "695936",
+        "triangles": 5,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.3333333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RABBI",
+        "name": "RABBI",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.01695277933531943,
+        "object_id": "696002",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.9795918367346939,
+        "betweenness centrality": 2.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANOTHER VOICE",
+        "name": "ANOTHER VOICE",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 6,
+        "pagerank": 0.016287302486381813,
+        "object_id": "697451",
+        "triangles": 11,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9183673469387754,
+        "betweenness centrality": 3.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FUCK YOU",
+        "name": "FUCK YOU",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.009231612089070914,
+        "object_id": "694120",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.020408163265306,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NEWSCASTER VOICE",
+        "name": "NEWSCASTER VOICE",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.011800889222100625,
+        "object_id": "696427",
+        "triangles": 4,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 1.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CURTIS",
+        "name": "CURTIS",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 9,
+        "pagerank": 0.03714743004153173,
+        "object_id": "693665",
+        "triangles": 22,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.8979591836734695,
+        "betweenness centrality": 4.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANCIENT JEW",
+        "name": "ANCIENT JEW",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.013501903584640325,
+        "object_id": "695629",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.9795918367346939,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "STUART",
+        "name": "STUART",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 11,
+        "pagerank": 0.03638831283664156,
+        "object_id": "697155",
+        "triangles": 34,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.816326530612245,
+        "betweenness centrality": 7.533333333333334,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LINA",
+        "name": "LINA",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 9,
+        "pagerank": 0.030036517607993675,
+        "object_id": "693971",
+        "triangles": 20,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.8979591836734695,
+        "betweenness centrality": 5.333333333333332,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BILLINGS",
+        "name": "BILLINGS",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 16,
+        "pagerank": 0.053532388716312315,
+        "object_id": "693596",
+        "triangles": 32,
+        "eccentricity": 4.0,
+        "closeness centrality": 1.7551020408163265,
+        "betweenness centrality": 42.25,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RABBI'S AMPLIFIED VOICE",
+        "name": "RABBI'S AMPLIFIED VOICE",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.014445869369113637,
+        "object_id": "695955",
+        "triangles": 5,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.3333333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ENRAGED MAN",
+        "name": "ENRAGED MAN",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 7,
+        "pagerank": 0.02101588401067071,
+        "object_id": "698854",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8979591836734695,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CINDY",
+        "name": "CINDY",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.009705344979708675,
+        "object_id": "696451",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.020408163265306,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BLACK VOICE",
+        "name": "BLACK VOICE",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.009231612089070914,
+        "object_id": "694122",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.020408163265306,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": -89.0156,
+        "y": 138.2733,
+        "name": "POLISH MAN"
+      },
+      {
+        "x": 142.5096,
+        "y": -73.915344,
+        "name": "OFF-SCREEN VOICE"
+      },
+      {
+        "x": -140.53882,
+        "y": 129.36688,
+        "name": "RUMANIAN WOMAN"
+      },
+      {
+        "x": 104.70657,
+        "y": 134.25821,
+        "name": "WOMAN"
+      },
+      {
+        "x": 280.74374,
+        "y": 88.0784,
+        "name": "OLD COOT"
+      },
+      {
+        "x": -117.63397,
+        "y": 251.23932,
+        "name": "RAV ZINGESSER"
+      },
+      {
+        "x": 51.967937,
+        "y": -182.16423,
+        "name": "THE DOOR"
+      },
+      {
+        "x": -209.70616,
+        "y": 27.120398,
+        "name": "CONGREGATION"
+      },
+      {
+        "x": -94.410904,
+        "y": -107.75017,
+        "name": "FIRST WAITER"
+      },
+      {
+        "x": 12.396316,
+        "y": 236.76466,
+        "name": "VARIOUS VOICES"
+      },
+      {
+        "x": 162.86061,
+        "y": 153.60448,
+        "name": "LINDA"
+      },
+      {
+        "x": 212.1439,
+        "y": 128.18033,
+        "name": "MRS MOEBIUS"
+      },
+      {
+        "x": -22.449364,
+        "y": -148.31209,
+        "name": "PEOPLE"
+      },
+      {
+        "x": 29.215237,
+        "y": 200.13145,
+        "name": "WHIT"
+      },
+      {
+        "x": 209.17996,
+        "y": 89.07691,
+        "name": "DRAKE"
+      },
+      {
+        "x": 58.417797,
+        "y": 24.885086,
+        "name": "DANNY"
+      },
+      {
+        "x": 173.44507,
+        "y": -148.16525,
+        "name": "PHOTOGRAPHER"
+      },
+      {
+        "x": -119.09357,
+        "y": 346.73676,
+        "name": "BLACK SCREEN"
+      },
+      {
+        "x": 22.467588,
+        "y": 132.47043,
+        "name": "KYLE"
+      },
+      {
+        "x": 97.26578,
+        "y": -75.161766,
+        "name": "YOUNG MAN"
+      },
+      {
+        "x": -111.415955,
+        "y": 97.08908,
+        "name": "HATE COUNSELOR"
+      },
+      {
+        "x": 139.78253,
+        "y": -2.4104602,
+        "name": "CARLA"
+      },
+      {
+        "x": -22.004978,
+        "y": -51.139008,
+        "name": "AVI"
+      },
+      {
+        "x": -250.50093,
+        "y": -62.902763,
+        "name": "FATHER"
+      },
+      {
+        "x": 256.69678,
+        "y": 32.090263,
+        "name": "GUY DANIELSEN"
+      },
+      {
+        "x": -364.92462,
+        "y": -86.016235,
+        "name": "DANNY/NAZI SERGEANT"
+      },
+      {
+        "x": 201.41599,
+        "y": -55.02024,
+        "name": "GUY"
+      },
+      {
+        "x": 187.84258,
+        "y": -115.02976,
+        "name": "BRAND"
+      },
+      {
+        "x": -103.31034,
+        "y": -67.755844,
+        "name": "STEVE"
+      },
+      {
+        "x": 223.41336,
+        "y": 194.14603,
+        "name": "REPORTER"
+      },
+      {
+        "x": 33.314842,
+        "y": 83.05287,
+        "name": "CARLETON"
+      },
+      {
+        "x": 188.78105,
+        "y": 224.31857,
+        "name": "ANCHOR"
+      },
+      {
+        "x": 248.71039,
+        "y": -19.449759,
+        "name": "LINA MOEBIUS"
+      },
+      {
+        "x": -47.425022,
+        "y": 98.88132,
+        "name": "STEROID"
+      },
+      {
+        "x": 21.748766,
+        "y": -118.69916,
+        "name": "ENRAGED WIFE"
+      },
+      {
+        "x": 9.22575,
+        "y": 54.008957,
+        "name": "MIRIAM"
+      },
+      {
+        "x": -205.20828,
+        "y": -12.267019,
+        "name": "LARGE WOMAN"
+      },
+      {
+        "x": -171.38293,
+        "y": 80.228264,
+        "name": "RABBI"
+      },
+      {
+        "x": 99.70291,
+        "y": 82.066956,
+        "name": "ANOTHER VOICE"
+      },
+      {
+        "x": 95.95761,
+        "y": -157.56891,
+        "name": "FUCK YOU"
+      },
+      {
+        "x": -120.91022,
+        "y": 183.60669,
+        "name": "NEWSCASTER VOICE"
+      },
+      {
+        "x": 170.76912,
+        "y": 70.9973,
+        "name": "CURTIS"
+      },
+      {
+        "x": -123.76986,
+        "y": 56.42165,
+        "name": "ANCIENT JEW"
+      },
+      {
+        "x": 45.311028,
+        "y": -61.54252,
+        "name": "STUART"
+      },
+      {
+        "x": 197.74399,
+        "y": 38.517895,
+        "name": "LINA"
+      },
+      {
+        "x": -26.628893,
+        "y": 25.520313,
+        "name": "BILLINGS"
+      },
+      {
+        "x": -150.93233,
+        "y": 2.4763744,
+        "name": "RABBI'S AMPLIFIED VOICE"
+      },
+      {
+        "x": 67.70253,
+        "y": -125.25057,
+        "name": "ENRAGED MAN"
+      },
+      {
+        "x": -184.4236,
+        "y": 150.86823,
+        "name": "CINDY"
+      },
+      {
+        "x": 6.0488105,
+        "y": -178.0548,
+        "name": "BLACK VOICE"
+      }
+    ]
+  }
+}

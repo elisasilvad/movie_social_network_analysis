@@ -1,0 +1,906 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "INTERVIEWER ON TV",
+        "target": "OLDER MAN ON TV",
+        "weight": 1
+      },
+      {
+        "source": "INTERVIEWER ON TV",
+        "target": "DAVID",
+        "weight": 1
+      },
+      {
+        "source": "INTERVIEWER ON TV",
+        "target": "SOFIA",
+        "weight": 1
+      },
+      {
+        "source": "OTHER DOCTOR",
+        "target": "DAVID",
+        "weight": 1
+      },
+      {
+        "source": "OTHER DOCTOR",
+        "target": "DR POMERANZ",
+        "weight": 1
+      },
+      {
+        "source": "LIBBY",
+        "target": "MCCABE",
+        "weight": 1
+      },
+      {
+        "source": "LIBBY",
+        "target": "DAVID",
+        "weight": 1
+      },
+      {
+        "source": "NARRATION",
+        "target": "DAVID",
+        "weight": 1
+      },
+      {
+        "source": "NARRATION",
+        "target": "MCCABE",
+        "weight": 1
+      },
+      {
+        "source": "NARRATION",
+        "target": "DEARBORN",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "JULIANNA",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "DAVID",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "SOFIA",
+        "weight": 1
+      },
+      {
+        "source": "TIPP",
+        "target": "EMMA THE CATERER",
+        "weight": 1
+      },
+      {
+        "source": "TIPP",
+        "target": "DAVID",
+        "weight": 2
+      },
+      {
+        "source": "TIPP",
+        "target": "PETER BROWN",
+        "weight": 1
+      },
+      {
+        "source": "TIPP",
+        "target": "BRIAN",
+        "weight": 1
+      },
+      {
+        "source": "TIPP",
+        "target": "SOFIA",
+        "weight": 1
+      },
+      {
+        "source": "TIPP",
+        "target": "ON DAVID",
+        "weight": 1
+      },
+      {
+        "source": "ON DAVID",
+        "target": "EMMA THE CATERER",
+        "weight": 1
+      },
+      {
+        "source": "ON DAVID",
+        "target": "SOFIA",
+        "weight": 1
+      },
+      {
+        "source": "ON DAVID",
+        "target": "DAVID",
+        "weight": 1
+      },
+      {
+        "source": "ON DAVID",
+        "target": "BRIAN",
+        "weight": 1
+      },
+      {
+        "source": "ON DAVID",
+        "target": "PETER BROWN",
+        "weight": 1
+      },
+      {
+        "source": "BARMAN",
+        "target": "BRIAN",
+        "weight": 1
+      },
+      {
+        "source": "BARMAN",
+        "target": "DAVID",
+        "weight": 1
+      },
+      {
+        "source": "BARMAN",
+        "target": "SOFIA",
+        "weight": 1
+      },
+      {
+        "source": "EMMA THE CATERER",
+        "target": "SOFIA",
+        "weight": 1
+      },
+      {
+        "source": "EMMA THE CATERER",
+        "target": "DAVID",
+        "weight": 1
+      },
+      {
+        "source": "EMMA THE CATERER",
+        "target": "PETER BROWN",
+        "weight": 1
+      },
+      {
+        "source": "EMMA THE CATERER",
+        "target": "BRIAN",
+        "weight": 1
+      },
+      {
+        "source": "JULIANNA",
+        "target": "JUL IANNA",
+        "weight": 1
+      },
+      {
+        "source": "JULIANNA",
+        "target": "DAVID",
+        "weight": 6
+      },
+      {
+        "source": "JULIANNA",
+        "target": "SOFIA",
+        "weight": 2
+      },
+      {
+        "source": "JULIANNA",
+        "target": "TO BLACK",
+        "weight": 1
+      },
+      {
+        "source": "MCCABE",
+        "target": "GUARD",
+        "weight": 1
+      },
+      {
+        "source": "MCCABE",
+        "target": "AARON",
+        "weight": 1
+      },
+      {
+        "source": "MCCABE",
+        "target": "SOFIA",
+        "weight": 1
+      },
+      {
+        "source": "MCCABE",
+        "target": "DAVID",
+        "weight": 8
+      },
+      {
+        "source": "MCCABE",
+        "target": "DR POMERANZ",
+        "weight": 1
+      },
+      {
+        "source": "MCCABE",
+        "target": "DEARBORN",
+        "weight": 1
+      },
+      {
+        "source": "DAVID",
+        "target": "SOFIA",
+        "weight": 12
+      },
+      {
+        "source": "DAVID",
+        "target": "DEARBORN",
+        "weight": 1
+      },
+      {
+        "source": "DAVID",
+        "target": "CONAN",
+        "weight": 1
+      },
+      {
+        "source": "DAVID",
+        "target": "GUARD",
+        "weight": 1
+      },
+      {
+        "source": "DAVID",
+        "target": "BEATRICE",
+        "weight": 1
+      },
+      {
+        "source": "DAVID",
+        "target": "JUL IANNA",
+        "weight": 1
+      },
+      {
+        "source": "DAVID",
+        "target": "DR POMERANZ",
+        "weight": 1
+      },
+      {
+        "source": "DAVID",
+        "target": "OLDER MAN ON TV",
+        "weight": 1
+      },
+      {
+        "source": "DAVID",
+        "target": "ON BRIAN",
+        "weight": 1
+      },
+      {
+        "source": "DAVID",
+        "target": "FLASHBACK",
+        "weight": 1
+      },
+      {
+        "source": "DAVID",
+        "target": "RACHEL",
+        "weight": 1
+      },
+      {
+        "source": "DAVID",
+        "target": "AARON",
+        "weight": 1
+      },
+      {
+        "source": "DAVID",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "DAVID",
+        "target": "VENTURA",
+        "weight": 7
+      },
+      {
+        "source": "DAVID",
+        "target": "BRIAN",
+        "weight": 5
+      },
+      {
+        "source": "DAVID",
+        "target": "TO BLACK",
+        "weight": 2
+      },
+      {
+        "source": "DAVID",
+        "target": "PETER BROWN",
+        "weight": 1
+      },
+      {
+        "source": "CONAN",
+        "target": "TO BLACK",
+        "weight": 1
+      },
+      {
+        "source": "BEATRICE",
+        "target": "RACHEL",
+        "weight": 1
+      },
+      {
+        "source": "BEATRICE",
+        "target": "FLASHBACK",
+        "weight": 1
+      },
+      {
+        "source": "OLDER MAN ON TV",
+        "target": "SOFIA",
+        "weight": 1
+      },
+      {
+        "source": "ON BRIAN",
+        "target": "SOFIA",
+        "weight": 1
+      },
+      {
+        "source": "FLASHBACK",
+        "target": "RACHEL",
+        "weight": 1
+      },
+      {
+        "source": "RACHEL",
+        "target": "BRIAN",
+        "weight": 1
+      },
+      {
+        "source": "SOFIA",
+        "target": "VENTURA",
+        "weight": 1
+      },
+      {
+        "source": "SOFIA",
+        "target": "BRIAN",
+        "weight": 3
+      },
+      {
+        "source": "SOFIA",
+        "target": "PETER BROWN",
+        "weight": 1
+      },
+      {
+        "source": "BRIAN",
+        "target": "PETER BROWN",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "INTERVIEWER ON TV",
+        "name": "INTERVIEWER ON TV",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.016991622436199345,
+        "object_id": "5316003",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8928571428571428,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OTHER DOCTOR",
+        "name": "OTHER DOCTOR",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.014030953536612701,
+        "object_id": "5316779",
+        "triangles": 1,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9285714285714286,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LIBBY",
+        "name": "LIBBY",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.012649211787536597,
+        "object_id": "5319261",
+        "triangles": 1,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9285714285714286,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NARRATION",
+        "name": "NARRATION",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.017650097443698932,
+        "object_id": "5319443",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8928571428571428,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WOMAN",
+        "name": "WOMAN",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.015881574202872326,
+        "object_id": "5317663",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8928571428571428,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TIPP",
+        "name": "TIPP",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 6,
+        "pagerank": 0.03080990673656038,
+        "object_id": "5314831",
+        "triangles": 15,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7857142857142858,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ON DAVID",
+        "name": "ON DAVID",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 6,
+        "pagerank": 0.027123585652594845,
+        "object_id": "5314821",
+        "triangles": 15,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7857142857142858,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BARMAN",
+        "name": "BARMAN",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.015697453628475834,
+        "object_id": "5317259",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8928571428571428,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "EMMA THE CATERER",
+        "name": "EMMA THE CATERER",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 6,
+        "pagerank": 0.027123585652594845,
+        "object_id": "5314651",
+        "triangles": 15,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7857142857142858,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JULIANNA",
+        "name": "JULIANNA",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.047936410236707486,
+        "object_id": "5313983",
+        "triangles": 5,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8214285714285714,
+        "betweenness centrality": 2.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MCCABE",
+        "name": "MCCABE",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 8,
+        "pagerank": 0.06867575354157435,
+        "object_id": "5314369",
+        "triangles": 8,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7142857142857142,
+        "betweenness centrality": 10.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DAVID",
+        "name": "DAVID",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 28,
+        "pagerank": 0.2657231507654517,
+        "object_id": "5313931",
+        "triangles": 41,
+        "eccentricity": 1.0,
+        "closeness centrality": 1.0,
+        "betweenness centrality": 286.33333333333326,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DEARBORN",
+        "name": "DEARBORN",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.017650097443698932,
+        "object_id": "5319353",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8928571428571428,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CONAN",
+        "name": "CONAN",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.013375420154537424,
+        "object_id": "5317045",
+        "triangles": 1,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9285714285714286,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GUARD",
+        "name": "GUARD",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.012649211787536595,
+        "object_id": "5319223",
+        "triangles": 1,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9285714285714286,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BEATRICE",
+        "name": "BEATRICE",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.019063701398407896,
+        "object_id": "5314356",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8928571428571428,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JUL IANNA",
+        "name": "JUL IANNA",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.012461725749122481,
+        "object_id": "5316160",
+        "triangles": 1,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9285714285714286,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DR POMERANZ",
+        "name": "DR POMERANZ",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.018612564350183672,
+        "object_id": "5316665",
+        "triangles": 2,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8928571428571428,
+        "betweenness centrality": 0.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OLDER MAN ON TV",
+        "name": "OLDER MAN ON TV",
+        "color": "#A795C7",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.016991622436199345,
+        "object_id": "5316007",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8928571428571428,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ON BRIAN",
+        "name": "ON BRIAN",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.012177317743844606,
+        "object_id": "5315167",
+        "triangles": 1,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9285714285714286,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FLASHBACK",
+        "name": "FLASHBACK",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.019063701398407896,
+        "object_id": "5314352",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8928571428571428,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RACHEL",
+        "name": "RACHEL",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.02308065909140689,
+        "object_id": "5314115",
+        "triangles": 4,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8571428571428572,
+        "betweenness centrality": 1.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SOFIA",
+        "name": "SOFIA",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 14,
+        "pagerank": 0.11265319735058048,
+        "object_id": "5314717",
+        "triangles": 26,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.5,
+        "betweenness centrality": 31.833333333333336,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "AARON",
+        "name": "AARON",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.012649211787536595,
+        "object_id": "5314448",
+        "triangles": 1,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9285714285714286,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOCTOR",
+        "name": "DOCTOR",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.00875746929009476,
+        "object_id": "5317993",
+        "triangles": 0,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9642857142857142,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "VENTURA",
+        "name": "VENTURA",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.033687650725792474,
+        "object_id": "5318706",
+        "triangles": 1,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.9285714285714286,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BRIAN",
+        "name": "BRIAN",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 8,
+        "pagerank": 0.05797814891052431,
+        "object_id": "5314098",
+        "triangles": 18,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7142857142857142,
+        "betweenness centrality": 4.333333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TO BLACK",
+        "name": "TO BLACK",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.021731409108651154,
+        "object_id": "5316368",
+        "triangles": 2,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8928571428571428,
+        "betweenness centrality": 0.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PETER BROWN",
+        "name": "PETER BROWN",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 6,
+        "pagerank": 0.027123585652594845,
+        "object_id": "5314672",
+        "triangles": 15,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7857142857142858,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": 94.094795,
+        "y": 12.473438,
+        "name": "INTERVIEWER ON TV"
+      },
+      {
+        "x": 121.91905,
+        "y": 71.76844,
+        "name": "OTHER DOCTOR"
+      },
+      {
+        "x": 149.84451,
+        "y": -40.072227,
+        "name": "LIBBY"
+      },
+      {
+        "x": 85.67102,
+        "y": -142.08842,
+        "name": "NARRATION"
+      },
+      {
+        "x": -11.656221,
+        "y": -152.47292,
+        "name": "WOMAN"
+      },
+      {
+        "x": -89.968124,
+        "y": -76.335434,
+        "name": "TIPP"
+      },
+      {
+        "x": -111.63565,
+        "y": -25.014635,
+        "name": "ON DAVID"
+      },
+      {
+        "x": -81.06602,
+        "y": 38.334023,
+        "name": "BARMAN"
+      },
+      {
+        "x": -82.91562,
+        "y": -133.90117,
+        "name": "EMMA THE CATERER"
+      },
+      {
+        "x": -49.0438,
+        "y": -54.010838,
+        "name": "JULIANNA"
+      },
+      {
+        "x": 87.64973,
+        "y": -64.18947,
+        "name": "MCCABE"
+      },
+      {
+        "x": 14.942186,
+        "y": -33.504284,
+        "name": "DAVID"
+      },
+      {
+        "x": 145.58977,
+        "y": -90.9092,
+        "name": "DEARBORN"
+      },
+      {
+        "x": -173.7745,
+        "y": -75.99332,
+        "name": "CONAN"
+      },
+      {
+        "x": 116.62029,
+        "y": -160.55421,
+        "name": "GUARD"
+      },
+      {
+        "x": -34.32788,
+        "y": 146.27002,
+        "name": "BEATRICE"
+      },
+      {
+        "x": -148.05673,
+        "y": -3.9079013,
+        "name": "JUL IANNA"
+      },
+      {
+        "x": 146.84396,
+        "y": 26.647152,
+        "name": "DR POMERANZ"
+      },
+      {
+        "x": 60.40602,
+        "y": 44.245934,
+        "name": "OLDER MAN ON TV"
+      },
+      {
+        "x": 42.337986,
+        "y": -123.87332,
+        "name": "ON BRIAN"
+      },
+      {
+        "x": 6.6947227,
+        "y": 129.07497,
+        "name": "FLASHBACK"
+      },
+      {
+        "x": -39.87826,
+        "y": 99.852165,
+        "name": "RACHEL"
+      },
+      {
+        "x": -12.311771,
+        "y": -81.24788,
+        "name": "SOFIA"
+      },
+      {
+        "x": 111.507385,
+        "y": -112.68746,
+        "name": "AARON"
+      },
+      {
+        "x": 151.90797,
+        "y": -128.87503,
+        "name": "DOCTOR"
+      },
+      {
+        "x": 51.294125,
+        "y": -9.922915,
+        "name": "VENTURA"
+      },
+      {
+        "x": -54.40122,
+        "y": -7.7318606,
+        "name": "BRIAN"
+      },
+      {
+        "x": -133.22385,
+        "y": -57.46921,
+        "name": "TO BLACK"
+      },
+      {
+        "x": -125.347115,
+        "y": -109.16617,
+        "name": "PETER BROWN"
+      }
+    ]
+  }
+}

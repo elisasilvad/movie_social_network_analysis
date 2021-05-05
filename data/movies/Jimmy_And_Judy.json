@@ -1,0 +1,581 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "HAZEL",
+        "target": "OK",
+        "weight": 1
+      },
+      {
+        "source": "HAZEL",
+        "target": "JIMMY",
+        "weight": 2
+      },
+      {
+        "source": "HAZEL",
+        "target": "DINKO",
+        "weight": 1
+      },
+      {
+        "source": "HAZEL",
+        "target": "UNCLE RODNEY",
+        "weight": 1
+      },
+      {
+        "source": "HAZEL",
+        "target": "JUDY",
+        "weight": 1
+      },
+      {
+        "source": "RODNEY'S BIG GUY #1",
+        "target": "JIMMY",
+        "weight": 2
+      },
+      {
+        "source": "RODNEY'S BIG GUY #1",
+        "target": "BUDDY",
+        "weight": 1
+      },
+      {
+        "source": "RODNEY'S BIG GUY #1",
+        "target": "JUDY",
+        "weight": 1
+      },
+      {
+        "source": "UNCLE RODNEY",
+        "target": "BUDDY",
+        "weight": 1
+      },
+      {
+        "source": "UNCLE RODNEY",
+        "target": "OK",
+        "weight": 1
+      },
+      {
+        "source": "UNCLE RODNEY",
+        "target": "JIMMY",
+        "weight": 1
+      },
+      {
+        "source": "UNCLE RODNEY",
+        "target": "JUDY",
+        "weight": 1
+      },
+      {
+        "source": "JUDY",
+        "target": "ELVIS",
+        "weight": 1
+      },
+      {
+        "source": "JUDY",
+        "target": "JAMES",
+        "weight": 1
+      },
+      {
+        "source": "JUDY",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "JUDY",
+        "target": "ANCHORMAN",
+        "weight": 1
+      },
+      {
+        "source": "JUDY",
+        "target": "DINKO",
+        "weight": 2
+      },
+      {
+        "source": "JUDY",
+        "target": "JIMMY",
+        "weight": 30
+      },
+      {
+        "source": "JUDY",
+        "target": "JUDY'S DAD",
+        "weight": 1
+      },
+      {
+        "source": "JUDY",
+        "target": "JIMMY'S MOM",
+        "weight": 2
+      },
+      {
+        "source": "JUDY",
+        "target": "STORE MANAGER",
+        "weight": 1
+      },
+      {
+        "source": "JUDY",
+        "target": "JIMMY'S DAD",
+        "weight": 1
+      },
+      {
+        "source": "JUDY",
+        "target": "BUDDY",
+        "weight": 2
+      },
+      {
+        "source": "JUDY",
+        "target": "ATTORNEY",
+        "weight": 1
+      },
+      {
+        "source": "JUDY",
+        "target": "OK",
+        "weight": 2
+      },
+      {
+        "source": "DINKO",
+        "target": "JIMMY",
+        "weight": 2
+      },
+      {
+        "source": "ELVIS",
+        "target": "JIMMY",
+        "weight": 1
+      },
+      {
+        "source": "ANCHORMAN",
+        "target": "JIMMY",
+        "weight": 1
+      },
+      {
+        "source": "JAMES",
+        "target": "JIMMY",
+        "weight": 1
+      },
+      {
+        "source": "COP",
+        "target": "JIMMY",
+        "weight": 1
+      },
+      {
+        "source": "JIMMY",
+        "target": "OK",
+        "weight": 3
+      },
+      {
+        "source": "JIMMY",
+        "target": "JUDY'S DAD",
+        "weight": 1
+      },
+      {
+        "source": "JIMMY",
+        "target": "JIMMY'S MOM",
+        "weight": 2
+      },
+      {
+        "source": "JIMMY",
+        "target": "STORE MANAGER",
+        "weight": 1
+      },
+      {
+        "source": "JIMMY",
+        "target": "JIMMY'S DAD",
+        "weight": 2
+      },
+      {
+        "source": "JIMMY",
+        "target": "BUDDY",
+        "weight": 3
+      },
+      {
+        "source": "JIMMY",
+        "target": "PROSTITUTE",
+        "weight": 3
+      },
+      {
+        "source": "JIMMY",
+        "target": "MAN",
+        "weight": 1
+      },
+      {
+        "source": "JUDY'S DAD",
+        "target": "JIMMY'S MOM",
+        "weight": 2
+      },
+      {
+        "source": "JUDY'S DAD",
+        "target": "JIMMY'S DAD",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "STORE MANAGER",
+        "weight": 1
+      },
+      {
+        "source": "JIMMY'S MOM",
+        "target": "JIMMY'S DAD",
+        "weight": 2
+      }
+    ],
+    "nodes": [
+      {
+        "id": "HAZEL",
+        "name": "HAZEL",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.036288858416915065,
+        "object_id": "2838668",
+        "triangles": 8,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7222222222222223,
+        "betweenness centrality": 0.6666666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RODNEY'S BIG GUY #1",
+        "name": "RODNEY'S BIG GUY #1",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.02581690729218595,
+        "object_id": "2840757",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8333333333333333,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "UNCLE RODNEY",
+        "name": "UNCLE RODNEY",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.0314760020183852,
+        "object_id": "2840324",
+        "triangles": 8,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7222222222222223,
+        "betweenness centrality": 0.6666666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JUDY",
+        "name": "JUDY",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 16,
+        "pagerank": 0.24902874786033896,
+        "object_id": "2834863",
+        "triangles": 24,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.1111111111111112,
+        "betweenness centrality": 56.666666666666664,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DINKO",
+        "name": "DINKO",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.030370434347972524,
+        "object_id": "2838361",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8333333333333333,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ELVIS",
+        "name": "ELVIS",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.016562108242151104,
+        "object_id": "2838927",
+        "triangles": 1,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8888888888888888,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANCHORMAN",
+        "name": "ANCHORMAN",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.016562108242151104,
+        "object_id": "2839076",
+        "triangles": 1,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8888888888888888,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JAMES",
+        "name": "JAMES",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.016562108242151104,
+        "object_id": "2837255",
+        "triangles": 1,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8888888888888888,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COP",
+        "name": "COP",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.012242109804470313,
+        "object_id": "2838066",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JIMMY",
+        "name": "JIMMY",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 17,
+        "pagerank": 0.2915377288709153,
+        "object_id": "2834513",
+        "triangles": 24,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.0555555555555556,
+        "betweenness centrality": 72.66666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JUDY'S DAD",
+        "name": "JUDY'S DAD",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.03147901758967564,
+        "object_id": "2834855",
+        "triangles": 6,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7777777777777777,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAN",
+        "name": "MAN",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.023109922039972135,
+        "object_id": "2837088",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8333333333333333,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JIMMY'S MOM",
+        "name": "JIMMY'S MOM",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.04615172072981435,
+        "object_id": "2834842",
+        "triangles": 6,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7777777777777777,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "STORE MANAGER",
+        "name": "STORE MANAGER",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.023109922039972135,
+        "object_id": "2837098",
+        "triangles": 3,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8333333333333333,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JIMMY'S DAD",
+        "name": "JIMMY'S DAD",
+        "color": "#A795C7",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.03606813005901641,
+        "object_id": "2834850",
+        "triangles": 6,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7777777777777777,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BUDDY",
+        "name": "BUDDY",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.04041387994681407,
+        "object_id": "2839830",
+        "triangles": 5,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7777777777777777,
+        "betweenness centrality": 0.3333333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PROSTITUTE",
+        "name": "PROSTITUTE",
+        "color": "#E66101",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.020936855729200413,
+        "object_id": "2834571",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ATTORNEY",
+        "name": "ATTORNEY",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.012214735279786056,
+        "object_id": "2839252",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0555555555555554,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OK",
+        "name": "OK",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.040068703248111875,
+        "object_id": "2835484",
+        "triangles": 6,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7777777777777777,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": -13.232628,
+        "y": 99.08787,
+        "name": "HAZEL"
+      },
+      {
+        "x": 3.2878187,
+        "y": 30.876183,
+        "name": "RODNEY'S BIG GUY #1"
+      },
+      {
+        "x": 25.112738,
+        "y": 142.49962,
+        "name": "UNCLE RODNEY"
+      },
+      {
+        "x": 87.60735,
+        "y": 49.631733,
+        "name": "JUDY"
+      },
+      {
+        "x": 40.246567,
+        "y": 97.01445,
+        "name": "DINKO"
+      },
+      {
+        "x": 72.36779,
+        "y": -58.893597,
+        "name": "ELVIS"
+      },
+      {
+        "x": 109.14419,
+        "y": 133.60039,
+        "name": "ANCHORMAN"
+      },
+      {
+        "x": 155.02951,
+        "y": 80.12269,
+        "name": "JAMES"
+      },
+      {
+        "x": 202.55634,
+        "y": -11.807557,
+        "name": "COP"
+      },
+      {
+        "x": 60.9541,
+        "y": 20.673723,
+        "name": "JIMMY"
+      },
+      {
+        "x": 165.0478,
+        "y": -30.745615,
+        "name": "JUDY'S DAD"
+      },
+      {
+        "x": 4.8865066,
+        "y": -34.879917,
+        "name": "MAN"
+      },
+      {
+        "x": 138.63974,
+        "y": 1.7904228,
+        "name": "JIMMY'S MOM"
+      },
+      {
+        "x": -28.238499,
+        "y": -6.5841956,
+        "name": "STORE MANAGER"
+      },
+      {
+        "x": 119.364815,
+        "y": -36.260544,
+        "name": "JIMMY'S DAD"
+      },
+      {
+        "x": 77.4429,
+        "y": 99.25831,
+        "name": "BUDDY"
+      },
+      {
+        "x": 47.379295,
+        "y": -25.815857,
+        "name": "PROSTITUTE"
+      },
+      {
+        "x": -18.82968,
+        "y": -64.34209,
+        "name": "ATTORNEY"
+      },
+      {
+        "x": 18.55689,
+        "y": 67.38471,
+        "name": "OK"
+      }
+    ]
+  }
+}

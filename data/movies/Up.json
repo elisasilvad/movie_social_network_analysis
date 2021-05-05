@@ -1,0 +1,673 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "CALL",
+        "target": "RUSSELL",
+        "weight": 1
+      },
+      {
+        "source": "CALL",
+        "target": "CARL",
+        "weight": 1
+      },
+      {
+        "source": "CALL",
+        "target": "CAMP MASTER STRAUCH",
+        "weight": 1
+      },
+      {
+        "source": "YOUNG ELLIE",
+        "target": "YOUNG CARL",
+        "weight": 1
+      },
+      {
+        "source": "KNOCK KNOCK KNOCK",
+        "target": "CARL",
+        "weight": 1
+      },
+      {
+        "source": "OFFICER EDITH",
+        "target": "CARL",
+        "weight": 1
+      },
+      {
+        "source": "YOUNG CARL",
+        "target": "MUNTZ",
+        "weight": 1
+      },
+      {
+        "source": "YOUNG CARL",
+        "target": "NEWSREEL ANNOUNCER",
+        "weight": 1
+      },
+      {
+        "source": "CONSTRUCTION WORKER STEVE",
+        "target": "RUSSELL",
+        "weight": 1
+      },
+      {
+        "source": "CONSTRUCTION WORKER STEVE",
+        "target": "CARL",
+        "weight": 1
+      },
+      {
+        "source": "UP",
+        "target": "NEWSREEL ANNOUNCER",
+        "weight": 1
+      },
+      {
+        "source": "BETA",
+        "target": "ALPHA",
+        "weight": 2
+      },
+      {
+        "source": "BETA",
+        "target": "OMEGA",
+        "weight": 1
+      },
+      {
+        "source": "BETA",
+        "target": "CARL",
+        "weight": 1
+      },
+      {
+        "source": "BETA",
+        "target": "MUNTZ",
+        "weight": 2
+      },
+      {
+        "source": "BETA",
+        "target": "DUG",
+        "weight": 1
+      },
+      {
+        "source": "BETA",
+        "target": "RUSSELL",
+        "weight": 1
+      },
+      {
+        "source": "BETA",
+        "target": "GAMMA",
+        "weight": 3
+      },
+      {
+        "source": "CONSTRUCTION FOREMAN TOM",
+        "target": "CARL",
+        "weight": 1
+      },
+      {
+        "source": "DOG WALLA",
+        "target": "ALPHA",
+        "weight": 1
+      },
+      {
+        "source": "DOG WALLA",
+        "target": "MUNTZ",
+        "weight": 2
+      },
+      {
+        "source": "DOG WALLA",
+        "target": "CARL",
+        "weight": 2
+      },
+      {
+        "source": "DOG WALLA",
+        "target": "DUG",
+        "weight": 1
+      },
+      {
+        "source": "DOG WALLA",
+        "target": "RUSSELL",
+        "weight": 2
+      },
+      {
+        "source": "DUG",
+        "target": "CARL",
+        "weight": 13
+      },
+      {
+        "source": "DUG",
+        "target": "ALPHA",
+        "weight": 3
+      },
+      {
+        "source": "DUG",
+        "target": "RUSSELL",
+        "weight": 7
+      },
+      {
+        "source": "DUG",
+        "target": "GAMMA",
+        "weight": 1
+      },
+      {
+        "source": "DUG",
+        "target": "MUNTZ",
+        "weight": 1
+      },
+      {
+        "source": "RUSSELL",
+        "target": "OMEGA",
+        "weight": 1
+      },
+      {
+        "source": "RUSSELL",
+        "target": "ALPHA",
+        "weight": 2
+      },
+      {
+        "source": "RUSSELL",
+        "target": "CARL",
+        "weight": 19
+      },
+      {
+        "source": "RUSSELL",
+        "target": "CAMP MASTER STRAUCH",
+        "weight": 1
+      },
+      {
+        "source": "RUSSELL",
+        "target": "MUNTZ",
+        "weight": 4
+      },
+      {
+        "source": "RUSSELL",
+        "target": "GAMMA",
+        "weight": 2
+      },
+      {
+        "source": "MUNTZ",
+        "target": "ALPHA",
+        "weight": 3
+      },
+      {
+        "source": "MUNTZ",
+        "target": "NEWSREEL ANNOUNCER",
+        "weight": 1
+      },
+      {
+        "source": "MUNTZ",
+        "target": "CARL",
+        "weight": 4
+      },
+      {
+        "source": "MUNTZ",
+        "target": "GAMMA",
+        "weight": 2
+      },
+      {
+        "source": "NEWSREEL ANNOUNCER",
+        "target": "GIRL",
+        "weight": 1
+      },
+      {
+        "source": "CAMP MASTER STRAUCH",
+        "target": "CARL",
+        "weight": 1
+      },
+      {
+        "source": "NURSE GEORGE",
+        "target": "CARL",
+        "weight": 1
+      },
+      {
+        "source": "OMEGA",
+        "target": "GAMMA",
+        "weight": 2
+      },
+      {
+        "source": "OMEGA",
+        "target": "CARL",
+        "weight": 1
+      },
+      {
+        "source": "CARL",
+        "target": "ALPHA",
+        "weight": 4
+      },
+      {
+        "source": "CARL",
+        "target": "GAMMA",
+        "weight": 2
+      },
+      {
+        "source": "CARL",
+        "target": "DOGS",
+        "weight": 1
+      },
+      {
+        "source": "ALPHA",
+        "target": "GAMMA",
+        "weight": 2
+      },
+      {
+        "source": "DOGS",
+        "target": "GAMMA",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "CALL",
+        "name": "CALL",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.01835475581140561,
+        "object_id": "5286864",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.238095238095238,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "YOUNG ELLIE",
+        "name": "YOUNG ELLIE",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.016877201725362636,
+        "object_id": "5279546",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.238095238095238,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KNOCK KNOCK KNOCK",
+        "name": "KNOCK KNOCK KNOCK",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 1,
+        "pagerank": 0.010090850489165613,
+        "object_id": "5281158",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.3333333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OFFICER EDITH",
+        "name": "OFFICER EDITH",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 1,
+        "pagerank": 0.010090850489165613,
+        "object_id": "5280873",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.3333333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "YOUNG CARL",
+        "name": "YOUNG CARL",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.035497587336911725,
+        "object_id": "5279362",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.2857142857142856,
+        "betweenness centrality": 20.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CONSTRUCTION WORKER STEVE",
+        "name": "CONSTRUCTION WORKER STEVE",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.01315427993017819,
+        "object_id": "5280763",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2857142857142856,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "UP",
+        "name": "UP",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.01750328630986335,
+        "object_id": "5279194",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.1904761904761907,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BETA",
+        "name": "BETA",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 7,
+        "pagerank": 0.043856373097857476,
+        "object_id": "5282935",
+        "triangles": 18,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8095238095238095,
+        "betweenness centrality": 2.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CONSTRUCTION FOREMAN TOM",
+        "name": "CONSTRUCTION FOREMAN TOM",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 1,
+        "pagerank": 0.010090850489165613,
+        "object_id": "5280403",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.3333333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOG WALLA",
+        "name": "DOG WALLA",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.03290073422694502,
+        "object_id": "5284020",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9047619047619047,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DUG",
+        "name": "DUG",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 7,
+        "pagerank": 0.094174374090763,
+        "object_id": "5282746",
+        "triangles": 19,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8095238095238095,
+        "betweenness centrality": 0.4,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RUSSELL",
+        "name": "RUSSELL",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 11,
+        "pagerank": 0.14776682645387676,
+        "object_id": "5280519",
+        "triangles": 26,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.619047619047619,
+        "betweenness centrality": 21.9,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MUNTZ",
+        "name": "MUNTZ",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 9,
+        "pagerank": 0.08586706721448228,
+        "object_id": "5279314",
+        "triangles": 20,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.5714285714285714,
+        "betweenness centrality": 80.4,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NEWSREEL ANNOUNCER",
+        "name": "NEWSREEL ANNOUNCER",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.05028629948328112,
+        "object_id": "5279211",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.238095238095238,
+        "betweenness centrality": 39.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GIRL",
+        "name": "GIRL",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.01750328630986335,
+        "object_id": "5279481",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.1904761904761907,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CAMP MASTER STRAUCH",
+        "name": "CAMP MASTER STRAUCH",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.01835475581140561,
+        "object_id": "5286775",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.238095238095238,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NURSE GEORGE",
+        "name": "NURSE GEORGE",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 1,
+        "pagerank": 0.010090850489165613,
+        "object_id": "5280974",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.3333333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OMEGA",
+        "name": "OMEGA",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.023329133786219643,
+        "object_id": "5286031",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1904761904761907,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CARL",
+        "name": "CARL",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 16,
+        "pagerank": 0.20791265457495983,
+        "object_id": "5280360",
+        "triangles": 27,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.380952380952381,
+        "betweenness centrality": 105.4,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ALPHA",
+        "name": "ALPHA",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 7,
+        "pagerank": 0.06293746839690631,
+        "object_id": "5282954",
+        "triangles": 19,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8095238095238095,
+        "betweenness centrality": 0.4,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOGS",
+        "name": "DOGS",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.01348383751122522,
+        "object_id": "5285849",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.2857142857142856,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GAMMA",
+        "name": "GAMMA",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 8,
+        "pagerank": 0.05987667597183034,
+        "object_id": "5282928",
+        "triangles": 19,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7619047619047619,
+        "betweenness centrality": 7.5,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": -162.27191,
+        "y": 17.682657,
+        "name": "CALL"
+      },
+      {
+        "x": 252.90395,
+        "y": -89.640656,
+        "name": "YOUNG ELLIE"
+      },
+      {
+        "x": -123.79923,
+        "y": 84.06672,
+        "name": "KNOCK KNOCK KNOCK"
+      },
+      {
+        "x": -61.073612,
+        "y": 109.00564,
+        "name": "OFFICER EDITH"
+      },
+      {
+        "x": 190.12473,
+        "y": -63.317776,
+        "name": "YOUNG CARL"
+      },
+      {
+        "x": -136.94919,
+        "y": -74.121735,
+        "name": "CONSTRUCTION WORKER STEVE"
+      },
+      {
+        "x": 245.51251,
+        "y": -10.127277,
+        "name": "UP"
+      },
+      {
+        "x": 14.541155,
+        "y": -84.251915,
+        "name": "BETA"
+      },
+      {
+        "x": -84.16661,
+        "y": 80.5837,
+        "name": "CONSTRUCTION FOREMAN TOM"
+      },
+      {
+        "x": 24.746962,
+        "y": 23.274086,
+        "name": "DOG WALLA"
+      },
+      {
+        "x": -39.920727,
+        "y": -48.457798,
+        "name": "DUG"
+      },
+      {
+        "x": -75.616005,
+        "y": -40.19507,
+        "name": "RUSSELL"
+      },
+      {
+        "x": 37.83864,
+        "y": -30.569544,
+        "name": "MUNTZ"
+      },
+      {
+        "x": 193.65852,
+        "y": -3.6000667,
+        "name": "NEWSREEL ANNOUNCER"
+      },
+      {
+        "x": 219.07538,
+        "y": 48.83684,
+        "name": "GIRL"
+      },
+      {
+        "x": -167.77179,
+        "y": -24.378342,
+        "name": "CAMP MASTER STRAUCH"
+      },
+      {
+        "x": -32.082542,
+        "y": -134.71959,
+        "name": "NURSE GEORGE"
+      },
+      {
+        "x": -21.711784,
+        "y": 50.53714,
+        "name": "OMEGA"
+      },
+      {
+        "x": -57.37752,
+        "y": -5.032486,
+        "name": "CARL"
+      },
+      {
+        "x": -2.7218013,
+        "y": -47.111633,
+        "name": "ALPHA"
+      },
+      {
+        "x": -103.990814,
+        "y": 40.491837,
+        "name": "DOGS"
+      },
+      {
+        "x": -6.3308477,
+        "y": -2.2485278,
+        "name": "GAMMA"
+      }
+    ]
+  }
+}

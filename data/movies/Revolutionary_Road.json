@@ -1,0 +1,522 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "SHEP",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "SHEP",
+        "target": "FRANK",
+        "weight": 5
+      },
+      {
+        "source": "SHEP",
+        "target": "APRIL",
+        "weight": 4
+      },
+      {
+        "source": "SHEP",
+        "target": "MILLY",
+        "weight": 5
+      },
+      {
+        "source": "BANDY",
+        "target": "BART POLLOCK",
+        "weight": 1
+      },
+      {
+        "source": "BANDY",
+        "target": "FRANK",
+        "weight": 1
+      },
+      {
+        "source": "MR GIVINGS",
+        "target": "APRIL",
+        "weight": 3
+      },
+      {
+        "source": "MR GIVINGS",
+        "target": "FRANK",
+        "weight": 2
+      },
+      {
+        "source": "MR GIVINGS",
+        "target": "JOHN",
+        "weight": 2
+      },
+      {
+        "source": "MR GIVINGS",
+        "target": "MRS GIVINGS",
+        "weight": 3
+      },
+      {
+        "source": "BART POLLOCK",
+        "target": "FRANK",
+        "weight": 2
+      },
+      {
+        "source": "CLERK",
+        "target": "APRIL",
+        "weight": 1
+      },
+      {
+        "source": "FRANK",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "FRANK",
+        "target": "MRS GIVINGS",
+        "weight": 4
+      },
+      {
+        "source": "FRANK",
+        "target": "ED",
+        "weight": 2
+      },
+      {
+        "source": "FRANK",
+        "target": "MICHAEL",
+        "weight": 1
+      },
+      {
+        "source": "FRANK",
+        "target": "MAUREEN",
+        "weight": 4
+      },
+      {
+        "source": "FRANK",
+        "target": "MILLY",
+        "weight": 3
+      },
+      {
+        "source": "FRANK",
+        "target": "JENNIFER",
+        "weight": 2
+      },
+      {
+        "source": "FRANK",
+        "target": "JACK",
+        "weight": 5
+      },
+      {
+        "source": "FRANK",
+        "target": "VINCE",
+        "weight": 2
+      },
+      {
+        "source": "FRANK",
+        "target": "APRIL",
+        "weight": 16
+      },
+      {
+        "source": "FRANK",
+        "target": "JOHN",
+        "weight": 2
+      },
+      {
+        "source": "RECEPTIONIST",
+        "target": "JACK",
+        "weight": 1
+      },
+      {
+        "source": "JOHN",
+        "target": "APRIL",
+        "weight": 4
+      },
+      {
+        "source": "JOHN",
+        "target": "MRS GIVINGS",
+        "weight": 3
+      },
+      {
+        "source": "ED",
+        "target": "VINCE",
+        "weight": 3
+      },
+      {
+        "source": "ED",
+        "target": "JACK",
+        "weight": 2
+      },
+      {
+        "source": "MICHAEL",
+        "target": "APRIL",
+        "weight": 1
+      },
+      {
+        "source": "MICHAEL",
+        "target": "JENNIFER",
+        "weight": 1
+      },
+      {
+        "source": "MILLY",
+        "target": "APRIL",
+        "weight": 1
+      },
+      {
+        "source": "JENNIFER",
+        "target": "APRIL",
+        "weight": 1
+      },
+      {
+        "source": "JACK",
+        "target": "VINCE",
+        "weight": 2
+      },
+      {
+        "source": "APRIL",
+        "target": "MRS GIVINGS",
+        "weight": 4
+      }
+    ],
+    "nodes": [
+      {
+        "id": "SHEP",
+        "name": "SHEP",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.07283230099329432,
+        "object_id": "4203082",
+        "triangles": 4,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8235294117647058,
+        "betweenness centrality": 1.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BANDY",
+        "name": "BANDY",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.019455686736164258,
+        "object_id": "4202015",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MR GIVINGS",
+        "name": "MR GIVINGS",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.04810900822609794,
+        "object_id": "4203588",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8235294117647058,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BART POLLOCK",
+        "name": "BART POLLOCK",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.02479582862505025,
+        "object_id": "4203498",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CLERK",
+        "name": "CLERK",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 1,
+        "pagerank": 0.012245054418102166,
+        "object_id": "4202886",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.4705882352941178,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FRANK",
+        "name": "FRANK",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 15,
+        "pagerank": 0.250631949014131,
+        "object_id": "4201365",
+        "triangles": 17,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.1176470588235294,
+        "betweenness centrality": 98.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RECEPTIONIST",
+        "name": "RECEPTIONIST",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.013503553080822881,
+        "object_id": "4204879",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.764705882352941,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JOHN",
+        "name": "JOHN",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.05214108001144639,
+        "object_id": "4203620",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8235294117647058,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ED",
+        "name": "ED",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.042264362659052736,
+        "object_id": "4202935",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8823529411764706,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MICHAEL",
+        "name": "MICHAEL",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.022010385858413674,
+        "object_id": "4203034",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8823529411764706,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAUREEN",
+        "name": "MAUREEN",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.02472096464056644,
+        "object_id": "4202110",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0588235294117645,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MILLY",
+        "name": "MILLY",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.04517153654821847,
+        "object_id": "4201487",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8823529411764706,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOCTOR",
+        "name": "DOCTOR",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.01655739289007991,
+        "object_id": "4206380",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JENNIFER",
+        "name": "JENNIFER",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.02667513022975206,
+        "object_id": "4203026",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8823529411764706,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JACK",
+        "name": "JACK",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.060825186307580145,
+        "object_id": "4201903",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8235294117647058,
+        "betweenness centrality": 16.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "VINCE",
+        "name": "VINCE",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.04226436265905274,
+        "object_id": "4202939",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8823529411764706,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "APRIL",
+        "name": "APRIL",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 9,
+        "pagerank": 0.16107357594380664,
+        "object_id": "4201368",
+        "triangles": 12,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.5294117647058822,
+        "betweenness centrality": 24.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MRS GIVINGS",
+        "name": "MRS GIVINGS",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.06472264115836797,
+        "object_id": "4201452",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8235294117647058,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": 44.65624,
+        "y": 38.011677,
+        "name": "SHEP"
+      },
+      {
+        "x": -26.25401,
+        "y": 118.47349,
+        "name": "BANDY"
+      },
+      {
+        "x": 67.18361,
+        "y": -60.181904,
+        "name": "MR GIVINGS"
+      },
+      {
+        "x": -52.624493,
+        "y": 83.37924,
+        "name": "BART POLLOCK"
+      },
+      {
+        "x": -92.79295,
+        "y": -59.787006,
+        "name": "CLERK"
+      },
+      {
+        "x": -0.37024528,
+        "y": 0.013477396,
+        "name": "FRANK"
+      },
+      {
+        "x": 104.69614,
+        "y": -105.439384,
+        "name": "RECEPTIONIST"
+      },
+      {
+        "x": 78.443535,
+        "y": -24.17732,
+        "name": "JOHN"
+      },
+      {
+        "x": -48.210484,
+        "y": -78.20568,
+        "name": "ED"
+      },
+      {
+        "x": 31.793085,
+        "y": 91.076126,
+        "name": "MICHAEL"
+      },
+      {
+        "x": -45.093304,
+        "y": 7.202079,
+        "name": "MAUREEN"
+      },
+      {
+        "x": 15.072954,
+        "y": 51.944992,
+        "name": "MILLY"
+      },
+      {
+        "x": 94.11344,
+        "y": 57.863213,
+        "name": "DOCTOR"
+      },
+      {
+        "x": -26.140446,
+        "y": 55.070744,
+        "name": "JENNIFER"
+      },
+      {
+        "x": -12.701054,
+        "y": -59.977882,
+        "name": "JACK"
+      },
+      {
+        "x": -56.49419,
+        "y": -44.611958,
+        "name": "VINCE"
+      },
+      {
+        "x": 40.731575,
+        "y": -3.5821986,
+        "name": "APRIL"
+      },
+      {
+        "x": 37.21994,
+        "y": -43.90093,
+        "name": "MRS GIVINGS"
+      }
+    ]
+  }
+}

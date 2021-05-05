@@ -1,0 +1,1242 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "CHILDREN",
+        "target": "BILL",
+        "weight": 1
+      },
+      {
+        "source": "CHILDREN",
+        "target": "MARY",
+        "weight": 1
+      },
+      {
+        "source": "CHILDREN",
+        "target": "MOTHER",
+        "weight": 1
+      },
+      {
+        "source": "CHILDREN",
+        "target": "MONTAGE",
+        "weight": 1
+      },
+      {
+        "source": "CHILDREN",
+        "target": "DENISE",
+        "weight": 1
+      },
+      {
+        "source": "CHILDREN",
+        "target": "JERRY",
+        "weight": 1
+      },
+      {
+        "source": "BELA LUGOSI",
+        "target": "TV SCREEN",
+        "weight": 1
+      },
+      {
+        "source": "BELA LUGOSI",
+        "target": "GRAMPA",
+        "weight": 1
+      },
+      {
+        "source": "HUSTON",
+        "target": "WYDELL",
+        "weight": 2
+      },
+      {
+        "source": "HUSTON",
+        "target": "NAISH",
+        "weight": 1
+      },
+      {
+        "source": "MELVYN DOUGLAS",
+        "target": "BILL",
+        "weight": 1
+      },
+      {
+        "source": "MELVYN DOUGLAS",
+        "target": "DR WOLFENSTEIN",
+        "weight": 1
+      },
+      {
+        "source": "MELVYN DOUGLAS",
+        "target": "MARY",
+        "weight": 1
+      },
+      {
+        "source": "MELVYN DOUGLAS",
+        "target": "BABY",
+        "weight": 1
+      },
+      {
+        "source": "MELVYN DOUGLAS",
+        "target": "DENISE",
+        "weight": 1
+      },
+      {
+        "source": "MELVYN DOUGLAS",
+        "target": "JERRY",
+        "weight": 1
+      },
+      {
+        "source": "MELVYN DOUGLAS",
+        "target": "GLORIA STUART",
+        "weight": 1
+      },
+      {
+        "source": "DR WOLFENSTEIN",
+        "target": "GLORIA STUART",
+        "weight": 1
+      },
+      {
+        "source": "DR WOLFENSTEIN",
+        "target": "BILL",
+        "weight": 2
+      },
+      {
+        "source": "DR WOLFENSTEIN",
+        "target": "RUFUS JR",
+        "weight": 1
+      },
+      {
+        "source": "DR WOLFENSTEIN",
+        "target": "GRAMPA",
+        "weight": 1
+      },
+      {
+        "source": "DR WOLFENSTEIN",
+        "target": "MARY",
+        "weight": 2
+      },
+      {
+        "source": "DR WOLFENSTEIN",
+        "target": "MOTHER",
+        "weight": 1
+      },
+      {
+        "source": "DR WOLFENSTEIN",
+        "target": "BABY",
+        "weight": 2
+      },
+      {
+        "source": "DR WOLFENSTEIN",
+        "target": "DENISE",
+        "weight": 2
+      },
+      {
+        "source": "DR WOLFENSTEIN",
+        "target": "JERRY",
+        "weight": 2
+      },
+      {
+        "source": "DR WOLFENSTEIN",
+        "target": "OTIS",
+        "weight": 1
+      },
+      {
+        "source": "WYDELL",
+        "target": "MR WILLIS",
+        "weight": 1
+      },
+      {
+        "source": "WYDELL",
+        "target": "CAPT SPAULDING",
+        "weight": 1
+      },
+      {
+        "source": "WYDELL",
+        "target": "MOTHER",
+        "weight": 1
+      },
+      {
+        "source": "WYDELL",
+        "target": "NAISH",
+        "weight": 6
+      },
+      {
+        "source": "MONTAGE",
+        "target": "BILL",
+        "weight": 1
+      },
+      {
+        "source": "MONTAGE",
+        "target": "MARY",
+        "weight": 1
+      },
+      {
+        "source": "MONTAGE",
+        "target": "MOTHER",
+        "weight": 1
+      },
+      {
+        "source": "MONTAGE",
+        "target": "DENISE",
+        "weight": 1
+      },
+      {
+        "source": "MONTAGE",
+        "target": "JERRY",
+        "weight": 1
+      },
+      {
+        "source": "DENISE",
+        "target": "LEWIS",
+        "weight": 1
+      },
+      {
+        "source": "DENISE",
+        "target": "OK",
+        "weight": 1
+      },
+      {
+        "source": "DENISE",
+        "target": "OTIS",
+        "weight": 1
+      },
+      {
+        "source": "DENISE",
+        "target": "CAPT SPAULDING",
+        "weight": 2
+      },
+      {
+        "source": "DENISE",
+        "target": "FURIOUS",
+        "weight": 1
+      },
+      {
+        "source": "DENISE",
+        "target": "MOTHER",
+        "weight": 4
+      },
+      {
+        "source": "DENISE",
+        "target": "BILL",
+        "weight": 9
+      },
+      {
+        "source": "DENISE",
+        "target": "BOOM, BOOM, BOOM",
+        "weight": 1
+      },
+      {
+        "source": "DENISE",
+        "target": "GRAMPA",
+        "weight": 1
+      },
+      {
+        "source": "DENISE",
+        "target": "RUFUS JR",
+        "weight": 1
+      },
+      {
+        "source": "DENISE",
+        "target": "MARY",
+        "weight": 8
+      },
+      {
+        "source": "DENISE",
+        "target": "BABY",
+        "weight": 5
+      },
+      {
+        "source": "DENISE",
+        "target": "GLORIA STUART",
+        "weight": 1
+      },
+      {
+        "source": "DENISE",
+        "target": "JERRY",
+        "weight": 9
+      },
+      {
+        "source": "STUCKY",
+        "target": "CAPT SPAULDING",
+        "weight": 1
+      },
+      {
+        "source": "STUCKY",
+        "target": "RADIO ANNOUNCER",
+        "weight": 1
+      },
+      {
+        "source": "STUCKY",
+        "target": "KARL",
+        "weight": 1
+      },
+      {
+        "source": "STUCKY",
+        "target": "RICH",
+        "weight": 1
+      },
+      {
+        "source": "BABY",
+        "target": "BILL",
+        "weight": 7
+      },
+      {
+        "source": "BABY",
+        "target": "OK",
+        "weight": 2
+      },
+      {
+        "source": "BABY",
+        "target": "OTIS",
+        "weight": 1
+      },
+      {
+        "source": "BABY",
+        "target": "GRAMPA",
+        "weight": 2
+      },
+      {
+        "source": "BABY",
+        "target": "MOTHER",
+        "weight": 3
+      },
+      {
+        "source": "BABY",
+        "target": "CASHIER",
+        "weight": 1
+      },
+      {
+        "source": "BABY",
+        "target": "RUFUS JR",
+        "weight": 3
+      },
+      {
+        "source": "BABY",
+        "target": "MARY",
+        "weight": 8
+      },
+      {
+        "source": "BABY",
+        "target": "FURIOUS",
+        "weight": 1
+      },
+      {
+        "source": "BABY",
+        "target": "GLORIA STUART",
+        "weight": 1
+      },
+      {
+        "source": "BABY",
+        "target": "JERRY",
+        "weight": 6
+      },
+      {
+        "source": "MOTHER",
+        "target": "BILL",
+        "weight": 5
+      },
+      {
+        "source": "MOTHER",
+        "target": "OTIS",
+        "weight": 3
+      },
+      {
+        "source": "MOTHER",
+        "target": "FURIOUS",
+        "weight": 1
+      },
+      {
+        "source": "MOTHER",
+        "target": "RUFUS JR",
+        "weight": 1
+      },
+      {
+        "source": "MOTHER",
+        "target": "MARY",
+        "weight": 3
+      },
+      {
+        "source": "MOTHER",
+        "target": "NAISH",
+        "weight": 1
+      },
+      {
+        "source": "MOTHER",
+        "target": "GRAMPA",
+        "weight": 3
+      },
+      {
+        "source": "MOTHER",
+        "target": "JERRY",
+        "weight": 6
+      },
+      {
+        "source": "MARY",
+        "target": "LEWIS",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "OK",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "OTIS",
+        "weight": 2
+      },
+      {
+        "source": "MARY",
+        "target": "CAPT SPAULDING",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "FURIOUS",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "BILL",
+        "weight": 12
+      },
+      {
+        "source": "MARY",
+        "target": "NEWS REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "GRAMPA",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "RUFUS JR",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "GLORIA STUART",
+        "weight": 1
+      },
+      {
+        "source": "MARY",
+        "target": "JERRY",
+        "weight": 10
+      },
+      {
+        "source": "FURIOUS",
+        "target": "BILL",
+        "weight": 1
+      },
+      {
+        "source": "FURIOUS",
+        "target": "RUFUS JR",
+        "weight": 1
+      },
+      {
+        "source": "FURIOUS",
+        "target": "GRAMPA",
+        "weight": 1
+      },
+      {
+        "source": "FURIOUS",
+        "target": "JERRY",
+        "weight": 1
+      },
+      {
+        "source": "GLORIA STUART",
+        "target": "BILL",
+        "weight": 1
+      },
+      {
+        "source": "GLORIA STUART",
+        "target": "JERRY",
+        "weight": 1
+      },
+      {
+        "source": "JERRY",
+        "target": "LEWIS",
+        "weight": 1
+      },
+      {
+        "source": "JERRY",
+        "target": "OK",
+        "weight": 1
+      },
+      {
+        "source": "JERRY",
+        "target": "OTIS",
+        "weight": 1
+      },
+      {
+        "source": "JERRY",
+        "target": "CAPT SPAULDING",
+        "weight": 2
+      },
+      {
+        "source": "JERRY",
+        "target": "BOOM, BOOM, BOOM",
+        "weight": 1
+      },
+      {
+        "source": "JERRY",
+        "target": "BILL",
+        "weight": 12
+      },
+      {
+        "source": "JERRY",
+        "target": "NEWS REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "JERRY",
+        "target": "GRAMPA",
+        "weight": 1
+      },
+      {
+        "source": "JERRY",
+        "target": "RUFUS JR",
+        "weight": 1
+      },
+      {
+        "source": "CAPT SPAULDING",
+        "target": "BILL",
+        "weight": 2
+      },
+      {
+        "source": "CAPT SPAULDING",
+        "target": "RADIO ANNOUNCER",
+        "weight": 1
+      },
+      {
+        "source": "CAPT SPAULDING",
+        "target": "NAISH",
+        "weight": 1
+      },
+      {
+        "source": "CAPT SPAULDING",
+        "target": "KARL",
+        "weight": 1
+      },
+      {
+        "source": "CAPT SPAULDING",
+        "target": "RICH",
+        "weight": 2
+      },
+      {
+        "source": "OK",
+        "target": "BILL",
+        "weight": 2
+      },
+      {
+        "source": "OTIS",
+        "target": "MR WILLIS",
+        "weight": 1
+      },
+      {
+        "source": "OTIS",
+        "target": "BILL",
+        "weight": 1
+      },
+      {
+        "source": "OTIS",
+        "target": "NAISH",
+        "weight": 1
+      },
+      {
+        "source": "OTIS",
+        "target": "RUFUS JR",
+        "weight": 1
+      },
+      {
+        "source": "OTIS",
+        "target": "GRAMPA",
+        "weight": 3
+      },
+      {
+        "source": "BILL",
+        "target": "NEWS REPORTER",
+        "weight": 1
+      },
+      {
+        "source": "BILL",
+        "target": "GRAMPA",
+        "weight": 1
+      },
+      {
+        "source": "BILL",
+        "target": "WIFE",
+        "weight": 1
+      },
+      {
+        "source": "BILL",
+        "target": "RUFUS JR",
+        "weight": 1
+      },
+      {
+        "source": "BILL",
+        "target": "OLD MAN",
+        "weight": 1
+      },
+      {
+        "source": "KARL",
+        "target": "RICH",
+        "weight": 3
+      },
+      {
+        "source": "TV SCREEN",
+        "target": "GRAMPA",
+        "weight": 1
+      },
+      {
+        "source": "CASHIER",
+        "target": "RUFUS JR",
+        "weight": 1
+      },
+      {
+        "source": "WIFE",
+        "target": "OLD MAN",
+        "weight": 1
+      },
+      {
+        "source": "RUFUS JR",
+        "target": "GRAMPA",
+        "weight": 2
+      },
+      {
+        "source": "NAISH",
+        "target": "MR WILLIS",
+        "weight": 3
+      }
+    ],
+    "nodes": [
+      {
+        "id": "CHILDREN",
+        "name": "CHILDREN",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 6,
+        "pagerank": 0.013537011606167045,
+        "object_id": "2533494",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.09375,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BELA LUGOSI",
+        "name": "BELA LUGOSI",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.011049162077868279,
+        "object_id": "2533879",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.71875,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HUSTON",
+        "name": "HUSTON",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 2,
+        "pagerank": 0.011822557234893533,
+        "object_id": "2535142",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.09375,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MELVYN DOUGLAS",
+        "name": "MELVYN DOUGLAS",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 7,
+        "pagerank": 0.014908270291397314,
+        "object_id": "2533251",
+        "triangles": 21,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.125,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DR WOLFENSTEIN",
+        "name": "DR WOLFENSTEIN",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 11,
+        "pagerank": 0.028792092169866296,
+        "object_id": "2533365",
+        "triangles": 47,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8125,
+        "betweenness centrality": 3.014102564102563,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WYDELL",
+        "name": "WYDELL",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 5,
+        "pagerank": 0.03182357421905535,
+        "object_id": "2534789",
+        "triangles": 4,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1875,
+        "betweenness centrality": 16.14624940277114,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MONTAGE",
+        "name": "MONTAGE",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 6,
+        "pagerank": 0.013537011606167045,
+        "object_id": "2533490",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.09375,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DENISE",
+        "name": "DENISE",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 18,
+        "pagerank": 0.08320272791345307,
+        "object_id": "2531562",
+        "triangles": 73,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.46875,
+        "betweenness centrality": 54.0658955778521,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "STUCKY",
+        "name": "STUCKY",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.018291524041973282,
+        "object_id": "2530997",
+        "triangles": 4,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.65625,
+        "betweenness centrality": 1.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BABY",
+        "name": "BABY",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 14,
+        "pagerank": 0.07086159726833838,
+        "object_id": "2532320",
+        "triangles": 59,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.71875,
+        "betweenness centrality": 22.848505600679513,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MOTHER",
+        "name": "MOTHER",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 14,
+        "pagerank": 0.058062679310929066,
+        "object_id": "2533430",
+        "triangles": 54,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.6875,
+        "betweenness centrality": 44.827700801613844,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MARY",
+        "name": "MARY",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 18,
+        "pagerank": 0.0906523593287935,
+        "object_id": "2531576",
+        "triangles": 74,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.46875,
+        "betweenness centrality": 48.39922891118541,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FURIOUS",
+        "name": "FURIOUS",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 8,
+        "pagerank": 0.016503818810352764,
+        "object_id": "2534346",
+        "triangles": 28,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9375,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GLORIA STUART",
+        "name": "GLORIA STUART",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 7,
+        "pagerank": 0.014908270291397316,
+        "object_id": "2533248",
+        "triangles": 21,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.125,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JERRY",
+        "name": "JERRY",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 19,
+        "pagerank": 0.09716619368040856,
+        "object_id": "2531336",
+        "triangles": 75,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.4375,
+        "betweenness centrality": 63.89922891118541,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CAPT SPAULDING",
+        "name": "CAPT SPAULDING",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 10,
+        "pagerank": 0.037911977559557275,
+        "object_id": "2531009",
+        "triangles": 11,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.78125,
+        "betweenness centrality": 127.09336943249986,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LEWIS",
+        "name": "LEWIS",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.008735641854916189,
+        "object_id": "2531623",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.34375,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OK",
+        "name": "OK",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.014401298928370627,
+        "object_id": "2532804",
+        "triangles": 10,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.1875,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OTIS",
+        "name": "OTIS",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 11,
+        "pagerank": 0.030960111750902505,
+        "object_id": "2533985",
+        "triangles": 38,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.78125,
+        "betweenness centrality": 33.98131071826723,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BILL",
+        "name": "BILL",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 19,
+        "pagerank": 0.10446186944790534,
+        "object_id": "2531350",
+        "triangles": 73,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.4375,
+        "betweenness centrality": 98.89922891118545,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KARL",
+        "name": "KARL",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.02078061606898696,
+        "object_id": "2531127",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.6875,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TV SCREEN",
+        "name": "TV SCREEN",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.011049162077868279,
+        "object_id": "2533885",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.71875,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CASHIER",
+        "name": "CASHIER",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.007622115163065327,
+        "object_id": "2535040",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.65625,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BOOM, BOOM, BOOM",
+        "name": "BOOM, BOOM, BOOM",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.007359698791543462,
+        "object_id": "2536351",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.375,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NEWS REPORTER",
+        "name": "NEWS REPORTER",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.008753332341802103,
+        "object_id": "2532479",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.28125,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RADIO ANNOUNCER",
+        "name": "RADIO ANNOUNCER",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.010734623358987685,
+        "object_id": "2530943",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.71875,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WIFE",
+        "name": "WIFE",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.010395694678024783,
+        "object_id": "2532192",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.375,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RUFUS JR",
+        "name": "RUFUS JR",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 11,
+        "pagerank": 0.027604323060914124,
+        "object_id": "2534395",
+        "triangles": 44,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8125,
+        "betweenness centrality": 13.850000000000001,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OLD MAN",
+        "name": "OLD MAN",
+        "color": "#FDB863",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.010395694678024783,
+        "object_id": "2532185",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.375,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NAISH",
+        "name": "NAISH",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 6,
+        "pagerank": 0.03606954054564836,
+        "object_id": "2534795",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.15625,
+        "betweenness centrality": 23.291845835324104,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GRAMPA",
+        "name": "GRAMPA",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 12,
+        "pagerank": 0.03828471164042263,
+        "object_id": "2533849",
+        "triangles": 44,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.78125,
+        "betweenness centrality": 60.349999999999994,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RICH",
+        "name": "RICH",
+        "color": "#F2A468",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.02363558478265423,
+        "object_id": "2531130",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.6875,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MR WILLIS",
+        "name": "MR WILLIS",
+        "color": "#E66101",
+        "group": 4,
+        "degree": 3,
+        "pagerank": 0.015725153419344585,
+        "object_id": "2532027",
+        "triangles": 2,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.46875,
+        "betweenness centrality": 0.3333333333333333,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": -65.427475,
+        "y": -208.36002,
+        "name": "CHILDREN"
+      },
+      {
+        "x": -128.78001,
+        "y": 179.86993,
+        "name": "BELA LUGOSI"
+      },
+      {
+        "x": 177.40222,
+        "y": 137.94106,
+        "name": "HUSTON"
+      },
+      {
+        "x": -223.73212,
+        "y": -169.88849,
+        "name": "MELVYN DOUGLAS"
+      },
+      {
+        "x": -200.93185,
+        "y": -59.31195,
+        "name": "DR WOLFENSTEIN"
+      },
+      {
+        "x": 130.96854,
+        "y": 101.71184,
+        "name": "WYDELL"
+      },
+      {
+        "x": -166.49763,
+        "y": -186.81033,
+        "name": "MONTAGE"
+      },
+      {
+        "x": -63.55214,
+        "y": -123.93376,
+        "name": "DENISE"
+      },
+      {
+        "x": 228.67467,
+        "y": 40.52489,
+        "name": "STUCKY"
+      },
+      {
+        "x": -155.83919,
+        "y": -93.433624,
+        "name": "BABY"
+      },
+      {
+        "x": -48.309193,
+        "y": -41.56388,
+        "name": "MOTHER"
+      },
+      {
+        "x": -124.754,
+        "y": -62.08561,
+        "name": "MARY"
+      },
+      {
+        "x": 0.48349708,
+        "y": -98.68584,
+        "name": "FURIOUS"
+      },
+      {
+        "x": -245.1473,
+        "y": -119.15401,
+        "name": "GLORIA STUART"
+      },
+      {
+        "x": -112.055374,
+        "y": -121.137024,
+        "name": "JERRY"
+      },
+      {
+        "x": 80.53256,
+        "y": -23.344326,
+        "name": "CAPT SPAULDING"
+      },
+      {
+        "x": -122.04331,
+        "y": -234.94783,
+        "name": "LEWIS"
+      },
+      {
+        "x": -124.2899,
+        "y": -180.9975,
+        "name": "OK"
+      },
+      {
+        "x": -37.13253,
+        "y": 24.955334,
+        "name": "OTIS"
+      },
+      {
+        "x": -84.972084,
+        "y": -76.801704,
+        "name": "BILL"
+      },
+      {
+        "x": 211.09076,
+        "y": -5.624685,
+        "name": "KARL"
+      },
+      {
+        "x": -89.21767,
+        "y": 180.59303,
+        "name": "TV SCREEN"
+      },
+      {
+        "x": -168.68143,
+        "y": 67.57058,
+        "name": "CASHIER"
+      },
+      {
+        "x": 29.130749,
+        "y": -172.48907,
+        "name": "BOOM, BOOM, BOOM"
+      },
+      {
+        "x": -214.78178,
+        "y": -1.8094803,
+        "name": "NEWS REPORTER"
+      },
+      {
+        "x": 195.1669,
+        "y": 76.283714,
+        "name": "RADIO ANNOUNCER"
+      },
+      {
+        "x": -163.24521,
+        "y": 110.93286,
+        "name": "WIFE"
+      },
+      {
+        "x": -152.67201,
+        "y": 6.862012,
+        "name": "RUFUS JR"
+      },
+      {
+        "x": -95.93218,
+        "y": 111.811195,
+        "name": "OLD MAN"
+      },
+      {
+        "x": 92.85252,
+        "y": 96.99548,
+        "name": "NAISH"
+      },
+      {
+        "x": -95.954865,
+        "y": 33.243557,
+        "name": "GRAMPA"
+      },
+      {
+        "x": 177.70108,
+        "y": 8.043794,
+        "name": "RICH"
+      },
+      {
+        "x": 84.51698,
+        "y": 140.54262,
+        "name": "MR WILLIS"
+      }
+    ]
+  }
+}

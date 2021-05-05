@@ -1,0 +1,1055 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "MAN",
+        "target": "RAE",
+        "weight": 1
+      },
+      {
+        "source": "MAN",
+        "target": "SANDY",
+        "weight": 1
+      },
+      {
+        "source": "KELL",
+        "target": "RAE",
+        "weight": 1
+      },
+      {
+        "source": "KELL",
+        "target": "JESSE",
+        "weight": 1
+      },
+      {
+        "source": "KELL",
+        "target": "CONNER",
+        "weight": 1
+      },
+      {
+        "source": "KELL",
+        "target": "BATSON",
+        "weight": 1
+      },
+      {
+        "source": "KELL",
+        "target": "GILL",
+        "weight": 1
+      },
+      {
+        "source": "ARTY",
+        "target": "RAE",
+        "weight": 1
+      },
+      {
+        "source": "ARTY",
+        "target": "RONNIE",
+        "weight": 1
+      },
+      {
+        "source": "MAYELLA",
+        "target": "LAZARUS",
+        "weight": 1
+      },
+      {
+        "source": "MAYELLA",
+        "target": "BOJO",
+        "weight": 1
+      },
+      {
+        "source": "MAYELLA",
+        "target": "DEKE",
+        "weight": 1
+      },
+      {
+        "source": "CONNER",
+        "target": "RAE",
+        "weight": 1
+      },
+      {
+        "source": "CONNER",
+        "target": "JESSE",
+        "weight": 1
+      },
+      {
+        "source": "CONNER",
+        "target": "BATSON",
+        "weight": 1
+      },
+      {
+        "source": "CONNER",
+        "target": "GILL",
+        "weight": 1
+      },
+      {
+        "source": "ARCHIE",
+        "target": "GENE",
+        "weight": 1
+      },
+      {
+        "source": "ARCHIE",
+        "target": "LAZARUS",
+        "weight": 1
+      },
+      {
+        "source": "HERMAN",
+        "target": "RONNIE",
+        "weight": 1
+      },
+      {
+        "source": "HERMAN",
+        "target": "GILL",
+        "weight": 1
+      },
+      {
+        "source": "NIGHT",
+        "target": "RAE",
+        "weight": 2
+      },
+      {
+        "source": "NIGHT",
+        "target": "JESSE",
+        "weight": 1
+      },
+      {
+        "source": "NIGHT",
+        "target": "LAZARUS",
+        "weight": 1
+      },
+      {
+        "source": "NIGHT",
+        "target": "BRYAN",
+        "weight": 1
+      },
+      {
+        "source": "NIGHT",
+        "target": "GILL",
+        "weight": 1
+      },
+      {
+        "source": "BOJO",
+        "target": "RAE",
+        "weight": 1
+      },
+      {
+        "source": "BOJO",
+        "target": "DEKE",
+        "weight": 1
+      },
+      {
+        "source": "BOJO",
+        "target": "LAZARUS",
+        "weight": 1
+      },
+      {
+        "source": "RONNIE",
+        "target": "QUICK CUTS",
+        "weight": 1
+      },
+      {
+        "source": "RONNIE",
+        "target": "RAE",
+        "weight": 3
+      },
+      {
+        "source": "RONNIE",
+        "target": "LINCOLN",
+        "weight": 1
+      },
+      {
+        "source": "RONNIE",
+        "target": "ANGELA",
+        "weight": 1
+      },
+      {
+        "source": "RONNIE",
+        "target": "LAZARUS",
+        "weight": 1
+      },
+      {
+        "source": "RONNIE",
+        "target": "GILL",
+        "weight": 4
+      },
+      {
+        "source": "RONNIE",
+        "target": "FLASH TO",
+        "weight": 1
+      },
+      {
+        "source": "ROSE",
+        "target": "LAZARUS",
+        "weight": 1
+      },
+      {
+        "source": "ROSE",
+        "target": "WAITRESS",
+        "weight": 1
+      },
+      {
+        "source": "OPERATOR",
+        "target": "LAZARUS",
+        "weight": 1
+      },
+      {
+        "source": "RED",
+        "target": "LAZARUS",
+        "weight": 1
+      },
+      {
+        "source": "SHIT",
+        "target": "RAE",
+        "weight": 1
+      },
+      {
+        "source": "SHIT",
+        "target": "LAZARUS",
+        "weight": 1
+      },
+      {
+        "source": "LINCOLN",
+        "target": "QUICK CUTS",
+        "weight": 1
+      },
+      {
+        "source": "LINCOLN",
+        "target": "RAE",
+        "weight": 1
+      },
+      {
+        "source": "LINCOLN",
+        "target": "LAZARUS",
+        "weight": 3
+      },
+      {
+        "source": "LINCOLN",
+        "target": "FLASH TO",
+        "weight": 1
+      },
+      {
+        "source": "ANGELA",
+        "target": "RAE",
+        "weight": 1
+      },
+      {
+        "source": "ANGELA",
+        "target": "GIRL",
+        "weight": 1
+      },
+      {
+        "source": "ANGELA",
+        "target": "LAZARUS",
+        "weight": 5
+      },
+      {
+        "source": "MELVIN",
+        "target": "LAZARUS",
+        "weight": 1
+      },
+      {
+        "source": "GIRL",
+        "target": "LAZARUS",
+        "weight": 1
+      },
+      {
+        "source": "DEKE",
+        "target": "TEHRONNE",
+        "weight": 1
+      },
+      {
+        "source": "DEKE",
+        "target": "LAZARUS",
+        "weight": 1
+      },
+      {
+        "source": "WAITRESS",
+        "target": "LAZARUS",
+        "weight": 1
+      },
+      {
+        "source": "QUICK CUTS",
+        "target": "RAE",
+        "weight": 1
+      },
+      {
+        "source": "QUICK CUTS",
+        "target": "LAZARUS",
+        "weight": 1
+      },
+      {
+        "source": "QUICK CUTS",
+        "target": "FLASH TO",
+        "weight": 2
+      },
+      {
+        "source": "MARK",
+        "target": "RAE",
+        "weight": 1
+      },
+      {
+        "source": "MARK",
+        "target": "SANDY",
+        "weight": 1
+      },
+      {
+        "source": "CHARLIE",
+        "target": "LAZARUS",
+        "weight": 1
+      },
+      {
+        "source": "CHARLIE",
+        "target": "TEHRONNE",
+        "weight": 1
+      },
+      {
+        "source": "MORNING",
+        "target": "LAZARUS",
+        "weight": 1
+      },
+      {
+        "source": "JESSE",
+        "target": "RAE",
+        "weight": 3
+      },
+      {
+        "source": "JESSE",
+        "target": "GILL",
+        "weight": 1
+      },
+      {
+        "source": "JESSE",
+        "target": "BRYAN",
+        "weight": 1
+      },
+      {
+        "source": "JESSE",
+        "target": "BATSON",
+        "weight": 1
+      },
+      {
+        "source": "LAZARUS",
+        "target": "RAE",
+        "weight": 12
+      },
+      {
+        "source": "LAZARUS",
+        "target": "GENE",
+        "weight": 1
+      },
+      {
+        "source": "LAZARUS",
+        "target": "TEHRONNE",
+        "weight": 4
+      },
+      {
+        "source": "LAZARUS",
+        "target": "ELLA MAE",
+        "weight": 1
+      },
+      {
+        "source": "BATSON",
+        "target": "RAE",
+        "weight": 1
+      },
+      {
+        "source": "BATSON",
+        "target": "GILL",
+        "weight": 1
+      },
+      {
+        "source": "RAE",
+        "target": "SANDY",
+        "weight": 2
+      },
+      {
+        "source": "RAE",
+        "target": "TEHRONNE",
+        "weight": 2
+      },
+      {
+        "source": "RAE",
+        "target": "BRYAN",
+        "weight": 1
+      },
+      {
+        "source": "RAE",
+        "target": "GILL",
+        "weight": 2
+      },
+      {
+        "source": "RAE",
+        "target": "FLASH TO",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "MAN",
+        "name": "MAN",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.012262852071504569,
+        "object_id": "764954",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.3529411764705883,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KELL",
+        "name": "KELL",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.022091577734372213,
+        "object_id": "765256",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.235294117647059,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ARTY",
+        "name": "ARTY",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.01109638899873582,
+        "object_id": "769613",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.323529411764706,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAYELLA",
+        "name": "MAYELLA",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.016989418207660686,
+        "object_id": "765056",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.264705882352941,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CONNER",
+        "name": "CONNER",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.022091577734372213,
+        "object_id": "765319",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.235294117647059,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ARCHIE",
+        "name": "ARCHIE",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.014057712910445632,
+        "object_id": "767356",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.2941176470588234,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HERMAN",
+        "name": "HERMAN",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.011082982636219946,
+        "object_id": "768294",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.5294117647058822,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NIGHT",
+        "name": "NIGHT",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.025996335910244858,
+        "object_id": "765425",
+        "triangles": 6,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8529411764705883,
+        "betweenness centrality": 17.316666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BOJO",
+        "name": "BOJO",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.020789947525697173,
+        "object_id": "765063",
+        "triangles": 4,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.911764705882353,
+        "betweenness centrality": 8.400000000000002,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RONNIE",
+        "name": "RONNIE",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 9,
+        "pagerank": 0.056101673766644586,
+        "object_id": "764440",
+        "triangles": 14,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7352941176470589,
+        "betweenness centrality": 43.16666666666665,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ROSE",
+        "name": "ROSE",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.014057712910445632,
+        "object_id": "764688",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.2941176470588234,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "OPERATOR",
+        "name": "OPERATOR",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.008082941770838441,
+        "object_id": "765850",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.323529411764706,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RED",
+        "name": "RED",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.008082941770838441,
+        "object_id": "767573",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.323529411764706,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SHIT",
+        "name": "SHIT",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.011487540108789975,
+        "object_id": "766293",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9705882352941178,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LINCOLN",
+        "name": "LINCOLN",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.029936951826063703,
+        "object_id": "765002",
+        "triangles": 9,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8529411764705883,
+        "betweenness centrality": 3.2333333333333334,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANGELA",
+        "name": "ANGELA",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.03510310242740221,
+        "object_id": "765912",
+        "triangles": 4,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8823529411764706,
+        "betweenness centrality": 6.4,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MELVIN",
+        "name": "MELVIN",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.008082941770838441,
+        "object_id": "765894",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.323529411764706,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GIRL",
+        "name": "GIRL",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.011812867577270658,
+        "object_id": "767495",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.2941176470588234,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DEKE",
+        "name": "DEKE",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.02112151830962982,
+        "object_id": "765151",
+        "triangles": 4,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.235294117647059,
+        "betweenness centrality": 0.8333333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WAITRESS",
+        "name": "WAITRESS",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.014057712910445632,
+        "object_id": "764698",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.2941176470588234,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "QUICK CUTS",
+        "name": "QUICK CUTS",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.026046729749726896,
+        "object_id": "767624",
+        "triangles": 9,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8529411764705883,
+        "betweenness centrality": 3.2333333333333334,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MARK",
+        "name": "MARK",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.012262852071504569,
+        "object_id": "769199",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.3529411764705883,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CHARLIE",
+        "name": "CHARLIE",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.011889590052358765,
+        "object_id": "766090",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.2941176470588234,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MORNING",
+        "name": "MORNING",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.008082941770838441,
+        "object_id": "765777",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.323529411764706,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JESSE",
+        "name": "JESSE",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 7,
+        "pagerank": 0.03705330745457621,
+        "object_id": "765244",
+        "triangles": 14,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.176470588235294,
+        "betweenness centrality": 3.0833333333333326,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LAZARUS",
+        "name": "LAZARUS",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 22,
+        "pagerank": 0.1876319055832622,
+        "object_id": "764639",
+        "triangles": 20,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.3529411764705883,
+        "betweenness centrality": 331.1333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BATSON",
+        "name": "BATSON",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.02209157773437221,
+        "object_id": "765366",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.235294117647059,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RAE",
+        "name": "RAE",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 20,
+        "pagerank": 0.1562083259183088,
+        "object_id": "764459",
+        "triangles": 33,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.411764705882353,
+        "betweenness centrality": 243.71666666666655,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GENE",
+        "name": "GENE",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.014057712910445632,
+        "object_id": "767346",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.2941176470588234,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TEHRONNE",
+        "name": "TEHRONNE",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.03582555033166115,
+        "object_id": "764867",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.911764705882353,
+        "betweenness centrality": 8.899999999999999,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SANDY",
+        "name": "SANDY",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.02151819765547908,
+        "object_id": "764966",
+        "triangles": 2,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.323529411764706,
+        "betweenness centrality": 0.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ELLA MAE",
+        "name": "ELLA MAE",
+        "color": "#A795C7",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.008082941770838441,
+        "object_id": "767412",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.323529411764706,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BRYAN",
+        "name": "BRYAN",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.014872376871496992,
+        "object_id": "765452",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.323529411764706,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GILL",
+        "name": "GILL",
+        "color": "#E66101",
+        "group": 0,
+        "degree": 8,
+        "pagerank": 0.04787758820295057,
+        "object_id": "764437",
+        "triangles": 14,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.1470588235294117,
+        "betweenness centrality": 12.08333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FLASH TO",
+        "name": "FLASH TO",
+        "color": "#FDB863",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.022111703043719295,
+        "object_id": "767622",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.264705882352941,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": 84.06285,
+        "y": 224.1723,
+        "name": "MAN"
+      },
+      {
+        "x": 172.95692,
+        "y": 183.80457,
+        "name": "KELL"
+      },
+      {
+        "x": -16.330534,
+        "y": 178.26558,
+        "name": "ARTY"
+      },
+      {
+        "x": 1.9303936,
+        "y": -170.35126,
+        "name": "MAYELLA"
+      },
+      {
+        "x": 209.24046,
+        "y": 111.77093,
+        "name": "CONNER"
+      },
+      {
+        "x": -147.15692,
+        "y": -64.79464,
+        "name": "ARCHIE"
+      },
+      {
+        "x": -9.656184,
+        "y": 222.56465,
+        "name": "HERMAN"
+      },
+      {
+        "x": 115.93436,
+        "y": 68.474495,
+        "name": "NIGHT"
+      },
+      {
+        "x": 19.792498,
+        "y": -115.171326,
+        "name": "BOJO"
+      },
+      {
+        "x": -2.2138114,
+        "y": 130.85895,
+        "name": "RONNIE"
+      },
+      {
+        "x": -90.00193,
+        "y": -146.88773,
+        "name": "ROSE"
+      },
+      {
+        "x": -91.435585,
+        "y": -44.607517,
+        "name": "OPERATOR"
+      },
+      {
+        "x": -81.96575,
+        "y": -94.64252,
+        "name": "RED"
+      },
+      {
+        "x": 83.785934,
+        "y": -8.293537,
+        "name": "SHIT"
+      },
+      {
+        "x": -50.397667,
+        "y": 61.592274,
+        "name": "LINCOLN"
+      },
+      {
+        "x": -49.462612,
+        "y": 3.6958857,
+        "name": "ANGELA"
+      },
+      {
+        "x": -102.35865,
+        "y": 0.43620098,
+        "name": "MELVIN"
+      },
+      {
+        "x": -47.66917,
+        "y": -79.95771,
+        "name": "GIRL"
+      },
+      {
+        "x": 49.080494,
+        "y": -155.68074,
+        "name": "DEKE"
+      },
+      {
+        "x": -119.69504,
+        "y": -121.537315,
+        "name": "WAITRESS"
+      },
+      {
+        "x": -88.25136,
+        "y": 96.21934,
+        "name": "QUICK CUTS"
+      },
+      {
+        "x": 33.756725,
+        "y": 235.21732,
+        "name": "MARK"
+      },
+      {
+        "x": 75.671135,
+        "y": -101.667465,
+        "name": "CHARLIE"
+      },
+      {
+        "x": 122.49351,
+        "y": -30.444563,
+        "name": "MORNING"
+      },
+      {
+        "x": 155.7439,
+        "y": 105.74996,
+        "name": "JESSE"
+      },
+      {
+        "x": -2.7456727,
+        "y": -15.454882,
+        "name": "LAZARUS"
+      },
+      {
+        "x": 210.95564,
+        "y": 158.21042,
+        "name": "BATSON"
+      },
+      {
+        "x": 46.960125,
+        "y": 69.472015,
+        "name": "RAE"
+      },
+      {
+        "x": -154.76921,
+        "y": -27.28697,
+        "name": "GENE"
+      },
+      {
+        "x": 47.232243,
+        "y": -51.060978,
+        "name": "TEHRONNE"
+      },
+      {
+        "x": 48.18295,
+        "y": 194.5939,
+        "name": "SANDY"
+      },
+      {
+        "x": 102.56448,
+        "y": -71.701645,
+        "name": "ELLA MAE"
+      },
+      {
+        "x": 135.97734,
+        "y": 143.23483,
+        "name": "BRYAN"
+      },
+      {
+        "x": 85.280945,
+        "y": 151.86545,
+        "name": "GILL"
+      },
+      {
+        "x": -81.853226,
+        "y": 139.769,
+        "name": "FLASH TO"
+      }
+    ]
+  }
+}

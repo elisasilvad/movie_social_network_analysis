@@ -1,0 +1,1018 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "HOLMSTEAD",
+        "target": "KELLY",
+        "weight": 2
+      },
+      {
+        "source": "MINER",
+        "target": "TABBY",
+        "weight": 1
+      },
+      {
+        "source": "MINER",
+        "target": "KELLY",
+        "weight": 1
+      },
+      {
+        "source": "BART",
+        "target": "GERMAN OFFICER",
+        "weight": 1
+      },
+      {
+        "source": "BART",
+        "target": "SKINNY",
+        "weight": 1
+      },
+      {
+        "source": "BART",
+        "target": "BRIDGET",
+        "weight": 1
+      },
+      {
+        "source": "BART",
+        "target": "LANCE'S MOM",
+        "weight": 1
+      },
+      {
+        "source": "BART",
+        "target": "GIRL",
+        "weight": 1
+      },
+      {
+        "source": "BART",
+        "target": "WOMAN",
+        "weight": 2
+      },
+      {
+        "source": "BART",
+        "target": "HARRISON",
+        "weight": 2
+      },
+      {
+        "source": "BART",
+        "target": "TABBY",
+        "weight": 3
+      },
+      {
+        "source": "BART",
+        "target": "SKINNY GUY",
+        "weight": 1
+      },
+      {
+        "source": "BART",
+        "target": "GI",
+        "weight": 1
+      },
+      {
+        "source": "BART",
+        "target": "NEIGHBOR",
+        "weight": 1
+      },
+      {
+        "source": "BART",
+        "target": "MAKEUP ARTIST",
+        "weight": 1
+      },
+      {
+        "source": "BART",
+        "target": "KELLY",
+        "weight": 19
+      },
+      {
+        "source": "BART",
+        "target": "EVE",
+        "weight": 1
+      },
+      {
+        "source": "BART",
+        "target": "INFANTRYMAN",
+        "weight": 1
+      },
+      {
+        "source": "BART",
+        "target": "LANCE",
+        "weight": 2
+      },
+      {
+        "source": "BART",
+        "target": "MATHILDA",
+        "weight": 1
+      },
+      {
+        "source": "BART",
+        "target": "DIRECTOR",
+        "weight": 1
+      },
+      {
+        "source": "TABBY",
+        "target": "KELLY",
+        "weight": 6
+      },
+      {
+        "source": "TABBY",
+        "target": "HARRISON",
+        "weight": 1
+      },
+      {
+        "source": "TABBY",
+        "target": "MATHILDA",
+        "weight": 1
+      },
+      {
+        "source": "GIRL",
+        "target": "KELLY",
+        "weight": 1
+      },
+      {
+        "source": "GIRL",
+        "target": "NEIGHBOR",
+        "weight": 1
+      },
+      {
+        "source": "GIRL",
+        "target": "LANCE",
+        "weight": 1
+      },
+      {
+        "source": "STUDENT 2",
+        "target": "LANCE",
+        "weight": 1
+      },
+      {
+        "source": "STUDENT 2",
+        "target": "STUDENT 1",
+        "weight": 1
+      },
+      {
+        "source": "HARRISON",
+        "target": "KELLY",
+        "weight": 2
+      },
+      {
+        "source": "HARRISON",
+        "target": "MATHILDA",
+        "weight": 1
+      },
+      {
+        "source": "EVE",
+        "target": "MR NORMAN",
+        "weight": 1
+      },
+      {
+        "source": "EVE",
+        "target": "ABE",
+        "weight": 1
+      },
+      {
+        "source": "EVE",
+        "target": "KELLY",
+        "weight": 6
+      },
+      {
+        "source": "EVE",
+        "target": "SARAH",
+        "weight": 1
+      },
+      {
+        "source": "EVE",
+        "target": "CHARLIE",
+        "weight": 1
+      },
+      {
+        "source": "EVE",
+        "target": "XIOU-XIOU",
+        "weight": 1
+      },
+      {
+        "source": "EVE",
+        "target": "MAO",
+        "weight": 1
+      },
+      {
+        "source": "BRIDGET",
+        "target": "KELLY",
+        "weight": 4
+      },
+      {
+        "source": "BRIDGET",
+        "target": "SECRETARY",
+        "weight": 1
+      },
+      {
+        "source": "BRIDGET",
+        "target": "LANCE",
+        "weight": 2
+      },
+      {
+        "source": "BRIDGET",
+        "target": "SARAH",
+        "weight": 1
+      },
+      {
+        "source": "INFANTRYMAN",
+        "target": "GERMAN OFFICER",
+        "weight": 1
+      },
+      {
+        "source": "INFANTRYMAN",
+        "target": "KELLY",
+        "weight": 1
+      },
+      {
+        "source": "INFANTRYMAN",
+        "target": "GI",
+        "weight": 1
+      },
+      {
+        "source": "MATHILDA",
+        "target": "KELLY",
+        "weight": 1
+      },
+      {
+        "source": "DIRECTOR",
+        "target": "KELLY",
+        "weight": 1
+      },
+      {
+        "source": "DIRECTOR",
+        "target": "MAKEUP ARTIST",
+        "weight": 1
+      },
+      {
+        "source": "GERMAN OFFICER",
+        "target": "KELLY",
+        "weight": 1
+      },
+      {
+        "source": "GERMAN OFFICER",
+        "target": "GI",
+        "weight": 1
+      },
+      {
+        "source": "SKINNY",
+        "target": "KELLY",
+        "weight": 1
+      },
+      {
+        "source": "SKINNY",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "SKINNY",
+        "target": "SKINNY GUY",
+        "weight": 1
+      },
+      {
+        "source": "PRINCIPAL",
+        "target": "KELLY",
+        "weight": 1
+      },
+      {
+        "source": "PRINCIPAL",
+        "target": "SARAH",
+        "weight": 1
+      },
+      {
+        "source": "LANCE'S MOM",
+        "target": "KELLY",
+        "weight": 1
+      },
+      {
+        "source": "LANCE'S MOM",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "CHARLIE",
+        "target": "KELLY",
+        "weight": 1
+      },
+      {
+        "source": "CHARLIE",
+        "target": "SARAH",
+        "weight": 1
+      },
+      {
+        "source": "CHARLIE",
+        "target": "MR NORMAN",
+        "weight": 1
+      },
+      {
+        "source": "XIOU-XIOU",
+        "target": "KELLY",
+        "weight": 2
+      },
+      {
+        "source": "XIOU-XIOU",
+        "target": "MAO",
+        "weight": 1
+      },
+      {
+        "source": "SKINNY GUY",
+        "target": "KELLY",
+        "weight": 1
+      },
+      {
+        "source": "SKINNY GUY",
+        "target": "WOMAN",
+        "weight": 1
+      },
+      {
+        "source": "WOMAN",
+        "target": "KELLY",
+        "weight": 2
+      },
+      {
+        "source": "WOMAN",
+        "target": "SARAH",
+        "weight": 1
+      },
+      {
+        "source": "GI",
+        "target": "KELLY",
+        "weight": 1
+      },
+      {
+        "source": "MAKEUP ARTIST",
+        "target": "KELLY",
+        "weight": 1
+      },
+      {
+        "source": "ABE",
+        "target": "KELLY",
+        "weight": 5
+      },
+      {
+        "source": "MR NORMAN",
+        "target": "KELLY",
+        "weight": 2
+      },
+      {
+        "source": "MR NORMAN",
+        "target": "SARAH",
+        "weight": 1
+      },
+      {
+        "source": "MR NORMAN",
+        "target": "LANCE",
+        "weight": 1
+      },
+      {
+        "source": "NEIGHBOR",
+        "target": "LANCE",
+        "weight": 1
+      },
+      {
+        "source": "NEIGHBOR",
+        "target": "KELLY",
+        "weight": 1
+      },
+      {
+        "source": "STUDENT 1",
+        "target": "LANCE",
+        "weight": 1
+      },
+      {
+        "source": "KELLY",
+        "target": "SARAH",
+        "weight": 4
+      },
+      {
+        "source": "KELLY",
+        "target": "MINNIE",
+        "weight": 1
+      },
+      {
+        "source": "KELLY",
+        "target": "LANCE",
+        "weight": 6
+      },
+      {
+        "source": "KELLY",
+        "target": "MAO",
+        "weight": 1
+      },
+      {
+        "source": "LANCE",
+        "target": "SARAH",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "HOLMSTEAD",
+        "name": "HOLMSTEAD",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.010289628421878666,
+        "object_id": "654035",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.064516129032258,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MINER",
+        "name": "MINER",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 2,
+        "pagerank": 0.010375272425037328,
+        "object_id": "656168",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.032258064516129,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BART",
+        "name": "BART",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 18,
+        "pagerank": 0.1327934154051526,
+        "object_id": "653288",
+        "triangles": 32,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.4193548387096775,
+        "betweenness centrality": 77.91666666666667,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TABBY",
+        "name": "TABBY",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 5,
+        "pagerank": 0.04075461448209136,
+        "object_id": "654332",
+        "triangles": 7,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.935483870967742,
+        "betweenness centrality": 1.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GIRL",
+        "name": "GIRL",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.016959625766672048,
+        "object_id": "655412",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.903225806451613,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "STUDENT 2",
+        "name": "STUDENT 2",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.01356879578108803,
+        "object_id": "655947",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.6451612903225805,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HARRISON",
+        "name": "HARRISON",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.022138437743902794,
+        "object_id": "656517",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.967741935483871,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "EVE",
+        "name": "EVE",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 8,
+        "pagerank": 0.04483173265169663,
+        "object_id": "653604",
+        "triangles": 11,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8387096774193548,
+        "betweenness centrality": 8.033333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BRIDGET",
+        "name": "BRIDGET",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 5,
+        "pagerank": 0.03471084092297751,
+        "object_id": "653961",
+        "triangles": 5,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.8387096774193548,
+        "betweenness centrality": 30.2,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "INFANTRYMAN",
+        "name": "INFANTRYMAN",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.017811178183764053,
+        "object_id": "653177",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.967741935483871,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MATHILDA",
+        "name": "MATHILDA",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 4,
+        "pagerank": 0.016264474463091552,
+        "object_id": "656535",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.967741935483871,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DIRECTOR",
+        "name": "DIRECTOR",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.014290442200765337,
+        "object_id": "657345",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GERMAN OFFICER",
+        "name": "GERMAN OFFICER",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.017811178183764053,
+        "object_id": "653096",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.967741935483871,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SKINNY",
+        "name": "SKINNY",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.017039983604634875,
+        "object_id": "654722",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.967741935483871,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PRINCIPAL",
+        "name": "PRINCIPAL",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.010555380438041542,
+        "object_id": "656756",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.032258064516129,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LANCE'S MOM",
+        "name": "LANCE'S MOM",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.013419035355070686,
+        "object_id": "655503",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CHARLIE",
+        "name": "CHARLIE",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.016739134507801144,
+        "object_id": "656822",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.967741935483871,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "XIOU-XIOU",
+        "name": "XIOU-XIOU",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.017209257767346567,
+        "object_id": "653625",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SKINNY GUY",
+        "name": "SKINNY GUY",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.017039983604634875,
+        "object_id": "654690",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.967741935483871,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WOMAN",
+        "name": "WOMAN",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 6,
+        "pagerank": 0.029906273755374743,
+        "object_id": "653896",
+        "triangles": 9,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.903225806451613,
+        "betweenness centrality": 2.3666666666666663,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GI",
+        "name": "GI",
+        "color": "#5E3C99",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.017811178183764053,
+        "object_id": "653234",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.967741935483871,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAKEUP ARTIST",
+        "name": "MAKEUP ARTIST",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.014290442200765337,
+        "object_id": "657386",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ABE",
+        "name": "ABE",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.02162407666907387,
+        "object_id": "653536",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.032258064516129,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MR NORMAN",
+        "name": "MR NORMAN",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.02295889514363177,
+        "object_id": "653983",
+        "triangles": 8,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8709677419354838,
+        "betweenness centrality": 1.7499999999999996,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SECRETARY",
+        "name": "SECRETARY",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.007965711350904871,
+        "object_id": "655876",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.806451612903226,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NEIGHBOR",
+        "name": "NEIGHBOR",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.016959625766672044,
+        "object_id": "655427",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.903225806451613,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "STUDENT 1",
+        "name": "STUDENT 1",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.01356879578108803,
+        "object_id": "655944",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.6451612903225805,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KELLY",
+        "name": "KELLY",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 28,
+        "pagerank": 0.2504411360687539,
+        "object_id": "653006",
+        "triangles": 48,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.096774193548387,
+        "betweenness centrality": 288.1166666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MINNIE",
+        "name": "MINNIE",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.007488564210939333,
+        "object_id": "656070",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.064516129032258,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LANCE",
+        "name": "LANCE",
+        "color": "#A795C7",
+        "group": 2,
+        "degree": 9,
+        "pagerank": 0.05861779967763424,
+        "object_id": "653935",
+        "triangles": 13,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7096774193548387,
+        "betweenness centrality": 62.53333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MAO",
+        "name": "MAO",
+        "color": "#E66101",
+        "group": 3,
+        "degree": 3,
+        "pagerank": 0.014076688891378558,
+        "object_id": "653596",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SARAH",
+        "name": "SARAH",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 8,
+        "pagerank": 0.03968840039060769,
+        "object_id": "653777",
+        "triangles": 12,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.7419354838709677,
+        "betweenness centrality": 11.583333333333334,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": -17.107912,
+        "y": -70.56605,
+        "name": "HOLMSTEAD"
+      },
+      {
+        "x": -2.4547207,
+        "y": 160.13765,
+        "name": "MINER"
+      },
+      {
+        "x": 59.15945,
+        "y": 12.932054,
+        "name": "BART"
+      },
+      {
+        "x": 29.961246,
+        "y": 62.53651,
+        "name": "TABBY"
+      },
+      {
+        "x": 73.1639,
+        "y": 121.05113,
+        "name": "GIRL"
+      },
+      {
+        "x": -187.41524,
+        "y": -70.61239,
+        "name": "STUDENT 2"
+      },
+      {
+        "x": 88.84951,
+        "y": 56.24102,
+        "name": "HARRISON"
+      },
+      {
+        "x": -67.681816,
+        "y": -49.170826,
+        "name": "EVE"
+      },
+      {
+        "x": 23.678638,
+        "y": -31.280298,
+        "name": "BRIDGET"
+      },
+      {
+        "x": 181.61105,
+        "y": -19.814157,
+        "name": "INFANTRYMAN"
+      },
+      {
+        "x": 36.748413,
+        "y": -68.71551,
+        "name": "MATHILDA"
+      },
+      {
+        "x": -52.85305,
+        "y": 123.204254,
+        "name": "DIRECTOR"
+      },
+      {
+        "x": 186.13992,
+        "y": 37.539936,
+        "name": "GERMAN OFFICER"
+      },
+      {
+        "x": 63.313305,
+        "y": -135.46735,
+        "name": "SKINNY"
+      },
+      {
+        "x": -118.91743,
+        "y": 89.14513,
+        "name": "PRINCIPAL"
+      },
+      {
+        "x": 122.900116,
+        "y": -56.825405,
+        "name": "LANCE'S MOM"
+      },
+      {
+        "x": -101.00448,
+        "y": -111.07924,
+        "name": "CHARLIE"
+      },
+      {
+        "x": -121.06726,
+        "y": 37.65622,
+        "name": "XIOU-XIOU"
+      },
+      {
+        "x": 110.76244,
+        "y": -119.456,
+        "name": "SKINNY GUY"
+      },
+      {
+        "x": 76.78865,
+        "y": -77.80733,
+        "name": "WOMAN"
+      },
+      {
+        "x": 152.10057,
+        "y": 13.188651,
+        "name": "GI"
+      },
+      {
+        "x": -13.725822,
+        "y": 118.20673,
+        "name": "MAKEUP ARTIST"
+      },
+      {
+        "x": -28.149988,
+        "y": -35.415836,
+        "name": "ABE"
+      },
+      {
+        "x": -118.335075,
+        "y": -60.04975,
+        "name": "MR NORMAN"
+      },
+      {
+        "x": 141.06926,
+        "y": 79.68111,
+        "name": "SECRETARY"
+      },
+      {
+        "x": 32.35886,
+        "y": 131.30228,
+        "name": "NEIGHBOR"
+      },
+      {
+        "x": -199.38272,
+        "y": -32.42212,
+        "name": "STUDENT 1"
+      },
+      {
+        "x": -3.4093535,
+        "y": 8.70305,
+        "name": "KELLY"
+      },
+      {
+        "x": -145.9897,
+        "y": -10.959653,
+        "name": "MINNIE"
+      },
+      {
+        "x": -54.91937,
+        "y": 42.789997,
+        "name": "LANCE"
+      },
+      {
+        "x": -165.34515,
+        "y": 28.90583,
+        "name": "MAO"
+      },
+      {
+        "x": -87.9146,
+        "y": -7.0336394,
+        "name": "SARAH"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1254 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "ADRIENNE",
+        "target": "DELONGPRE",
+        "weight": 1
+      },
+      {
+        "source": "ADRIENNE",
+        "target": "FAT LOU",
+        "weight": 2
+      },
+      {
+        "source": "ADRIENNE",
+        "target": "KAY-EM 14",
+        "weight": 2
+      },
+      {
+        "source": "ADRIENNE",
+        "target": "KKINSA",
+        "weight": 2
+      },
+      {
+        "source": "ADRIENNE",
+        "target": "COMPUTER VOICE",
+        "weight": 2
+      },
+      {
+        "source": "ADRIENNE",
+        "target": "STONEY",
+        "weight": 2
+      },
+      {
+        "source": "ADRIENNE",
+        "target": "SERGEANT BRODSKI",
+        "weight": 1
+      },
+      {
+        "source": "ADRIENNE",
+        "target": "BOEMAN",
+        "weight": 3
+      },
+      {
+        "source": "ADRIENNE",
+        "target": "JANESSA",
+        "weight": 2
+      },
+      {
+        "source": "ADRIENNE",
+        "target": "THORGAN",
+        "weight": 4
+      },
+      {
+        "source": "ADRIENNE",
+        "target": "YLLO",
+        "weight": 5
+      },
+      {
+        "source": "ADRIENNE",
+        "target": "AZRAEL",
+        "weight": 4
+      },
+      {
+        "source": "ADRIENNE",
+        "target": "DELONGPREE",
+        "weight": 3
+      },
+      {
+        "source": "ADRIENNE",
+        "target": "KICKER",
+        "weight": 3
+      },
+      {
+        "source": "KAY-EM 14",
+        "target": "DELONGPRE",
+        "weight": 9
+      },
+      {
+        "source": "KAY-EM 14",
+        "target": "FAT LOU",
+        "weight": 1
+      },
+      {
+        "source": "KAY-EM 14",
+        "target": "AZRAEL",
+        "weight": 4
+      },
+      {
+        "source": "KAY-EM 14",
+        "target": "COMPUTER VOICE",
+        "weight": 2
+      },
+      {
+        "source": "KAY-EM 14",
+        "target": "BRODSKI",
+        "weight": 5
+      },
+      {
+        "source": "KAY-EM 14",
+        "target": "CRUTCH",
+        "weight": 2
+      },
+      {
+        "source": "KAY-EM 14",
+        "target": "BOEMAN",
+        "weight": 8
+      },
+      {
+        "source": "KAY-EM 14",
+        "target": "RIZZO",
+        "weight": 8
+      },
+      {
+        "source": "KAY-EM 14",
+        "target": "THORGON",
+        "weight": 1
+      },
+      {
+        "source": "KAY-EM 14",
+        "target": "JANESSA",
+        "weight": 6
+      },
+      {
+        "source": "KAY-EM 14",
+        "target": "SERGEANT BRODSKI",
+        "weight": 1
+      },
+      {
+        "source": "KAY-EM 14",
+        "target": "THORGAN",
+        "weight": 13
+      },
+      {
+        "source": "KAY-EM 14",
+        "target": "DALLAS",
+        "weight": 1
+      },
+      {
+        "source": "KAY-EM 14",
+        "target": "YLLO",
+        "weight": 5
+      },
+      {
+        "source": "KAY-EM 14",
+        "target": "KKINSA",
+        "weight": 3
+      },
+      {
+        "source": "KAY-EM 14",
+        "target": "DELONGPREE",
+        "weight": 1
+      },
+      {
+        "source": "KAY-EM 14",
+        "target": "KICKER",
+        "weight": 2
+      },
+      {
+        "source": "BOEMEN",
+        "target": "DELONGPRE",
+        "weight": 1
+      },
+      {
+        "source": "BOEMEN",
+        "target": "THORGAN",
+        "weight": 1
+      },
+      {
+        "source": "BOEMEN",
+        "target": "KKINSA",
+        "weight": 1
+      },
+      {
+        "source": "BOEMEN",
+        "target": "BOEMAN",
+        "weight": 1
+      },
+      {
+        "source": "BOEMEN",
+        "target": "RIZZO",
+        "weight": 1
+      },
+      {
+        "source": "BOEMEN",
+        "target": "THORGON",
+        "weight": 1
+      },
+      {
+        "source": "COMPUTER VOICE",
+        "target": "DELONGPRE",
+        "weight": 2
+      },
+      {
+        "source": "COMPUTER VOICE",
+        "target": "FAT LOU",
+        "weight": 1
+      },
+      {
+        "source": "COMPUTER VOICE",
+        "target": "KKINSA",
+        "weight": 1
+      },
+      {
+        "source": "COMPUTER VOICE",
+        "target": "BOEMAN",
+        "weight": 2
+      },
+      {
+        "source": "COMPUTER VOICE",
+        "target": "RIZZO",
+        "weight": 2
+      },
+      {
+        "source": "COMPUTER VOICE",
+        "target": "JANESSA",
+        "weight": 2
+      },
+      {
+        "source": "COMPUTER VOICE",
+        "target": "THORGAN",
+        "weight": 2
+      },
+      {
+        "source": "COMPUTER VOICE",
+        "target": "YLLO",
+        "weight": 2
+      },
+      {
+        "source": "COMPUTER VOICE",
+        "target": "AZRAEL",
+        "weight": 1
+      },
+      {
+        "source": "COMPUTER VOICE",
+        "target": "DELONGPREE",
+        "weight": 1
+      },
+      {
+        "source": "COMPUTER VOICE",
+        "target": "KICKER",
+        "weight": 1
+      },
+      {
+        "source": "BRIGGS",
+        "target": "BOEMAN",
+        "weight": 1
+      },
+      {
+        "source": "BRIGGS",
+        "target": "THORGAN",
+        "weight": 1
+      },
+      {
+        "source": "BRIGGS",
+        "target": "BRODSKI",
+        "weight": 1
+      },
+      {
+        "source": "CRUTCH",
+        "target": "DELONGPRE",
+        "weight": 2
+      },
+      {
+        "source": "CRUTCH",
+        "target": "THORGAN",
+        "weight": 2
+      },
+      {
+        "source": "CRUTCH",
+        "target": "YLLO",
+        "weight": 2
+      },
+      {
+        "source": "CRUTCH",
+        "target": "KKINSA",
+        "weight": 1
+      },
+      {
+        "source": "CRUTCH",
+        "target": "BOEMAN",
+        "weight": 2
+      },
+      {
+        "source": "CRUTCH",
+        "target": "RIZZO",
+        "weight": 2
+      },
+      {
+        "source": "CRUTCH",
+        "target": "JANESSA",
+        "weight": 3
+      },
+      {
+        "source": "BOEMAN",
+        "target": "DELONGPRE",
+        "weight": 14
+      },
+      {
+        "source": "BOEMAN",
+        "target": "FAT LOU",
+        "weight": 2
+      },
+      {
+        "source": "BOEMAN",
+        "target": "KKINSA",
+        "weight": 4
+      },
+      {
+        "source": "BOEMAN",
+        "target": "RIZZO",
+        "weight": 13
+      },
+      {
+        "source": "BOEMAN",
+        "target": "BRODSKI",
+        "weight": 5
+      },
+      {
+        "source": "BOEMAN",
+        "target": "THORGON",
+        "weight": 1
+      },
+      {
+        "source": "BOEMAN",
+        "target": "JANESSA",
+        "weight": 10
+      },
+      {
+        "source": "BOEMAN",
+        "target": "SERGEANT BRODSKI",
+        "weight": 1
+      },
+      {
+        "source": "BOEMAN",
+        "target": "THORGAN",
+        "weight": 16
+      },
+      {
+        "source": "BOEMAN",
+        "target": "YLLO",
+        "weight": 6
+      },
+      {
+        "source": "BOEMAN",
+        "target": "AZRAEL",
+        "weight": 3
+      },
+      {
+        "source": "BOEMAN",
+        "target": "STONEY",
+        "weight": 1
+      },
+      {
+        "source": "BOEMAN",
+        "target": "DELONGPREE",
+        "weight": 2
+      },
+      {
+        "source": "BOEMAN",
+        "target": "KICKER",
+        "weight": 3
+      },
+      {
+        "source": "GIRL",
+        "target": "RIZZO",
+        "weight": 1
+      },
+      {
+        "source": "JANESSA",
+        "target": "DELONGPRE",
+        "weight": 7
+      },
+      {
+        "source": "JANESSA",
+        "target": "KKINSA",
+        "weight": 3
+      },
+      {
+        "source": "JANESSA",
+        "target": "BRODSKI",
+        "weight": 5
+      },
+      {
+        "source": "JANESSA",
+        "target": "RIZZO",
+        "weight": 8
+      },
+      {
+        "source": "JANESSA",
+        "target": "STONEY",
+        "weight": 1
+      },
+      {
+        "source": "JANESSA",
+        "target": "SERGEANT BRODSKI",
+        "weight": 1
+      },
+      {
+        "source": "JANESSA",
+        "target": "THORGAN",
+        "weight": 9
+      },
+      {
+        "source": "JANESSA",
+        "target": "YLLO",
+        "weight": 7
+      },
+      {
+        "source": "JANESSA",
+        "target": "AZRAEL",
+        "weight": 2
+      },
+      {
+        "source": "JANESSA",
+        "target": "DELONGPREE",
+        "weight": 2
+      },
+      {
+        "source": "JANESSA",
+        "target": "KICKER",
+        "weight": 2
+      },
+      {
+        "source": "DALLAS",
+        "target": "THORGAN",
+        "weight": 1
+      },
+      {
+        "source": "DALLAS",
+        "target": "YLLO",
+        "weight": 1
+      },
+      {
+        "source": "DALLAS",
+        "target": "AZRAEL",
+        "weight": 2
+      },
+      {
+        "source": "DALLAS",
+        "target": "BRODSKI",
+        "weight": 1
+      },
+      {
+        "source": "DALLAS",
+        "target": "RIZZO",
+        "weight": 1
+      },
+      {
+        "source": "YLLO",
+        "target": "DELONGPRE",
+        "weight": 8
+      },
+      {
+        "source": "YLLO",
+        "target": "FAT LOU",
+        "weight": 2
+      },
+      {
+        "source": "YLLO",
+        "target": "PEREZ",
+        "weight": 1
+      },
+      {
+        "source": "YLLO",
+        "target": "KKINSA",
+        "weight": 4
+      },
+      {
+        "source": "YLLO",
+        "target": "BRODSKI",
+        "weight": 10
+      },
+      {
+        "source": "YLLO",
+        "target": "RIZZO",
+        "weight": 7
+      },
+      {
+        "source": "YLLO",
+        "target": "STONEY",
+        "weight": 1
+      },
+      {
+        "source": "YLLO",
+        "target": "THORGON",
+        "weight": 1
+      },
+      {
+        "source": "YLLO",
+        "target": "SERGEANT BRODSKI",
+        "weight": 1
+      },
+      {
+        "source": "YLLO",
+        "target": "THORGAN",
+        "weight": 9
+      },
+      {
+        "source": "YLLO",
+        "target": "AZRAEL",
+        "weight": 6
+      },
+      {
+        "source": "YLLO",
+        "target": "DELONGPREE",
+        "weight": 4
+      },
+      {
+        "source": "YLLO",
+        "target": "KICKER",
+        "weight": 4
+      },
+      {
+        "source": "AZRAEL",
+        "target": "DELONGPRE",
+        "weight": 1
+      },
+      {
+        "source": "AZRAEL",
+        "target": "FAT LOU",
+        "weight": 1
+      },
+      {
+        "source": "AZRAEL",
+        "target": "BRODSKI",
+        "weight": 1
+      },
+      {
+        "source": "AZRAEL",
+        "target": "SERGEANT BRODSKI",
+        "weight": 1
+      },
+      {
+        "source": "AZRAEL",
+        "target": "RIZZO",
+        "weight": 1
+      },
+      {
+        "source": "AZRAEL",
+        "target": "STONEY",
+        "weight": 1
+      },
+      {
+        "source": "AZRAEL",
+        "target": "THORGAN",
+        "weight": 5
+      },
+      {
+        "source": "AZRAEL",
+        "target": "KKINSA",
+        "weight": 3
+      },
+      {
+        "source": "AZRAEL",
+        "target": "DELONGPREE",
+        "weight": 2
+      },
+      {
+        "source": "AZRAEL",
+        "target": "KICKER",
+        "weight": 3
+      },
+      {
+        "source": "BERNIE",
+        "target": "FAT LOU",
+        "weight": 2
+      },
+      {
+        "source": "DELONGPRE",
+        "target": "BRODSKI",
+        "weight": 6
+      },
+      {
+        "source": "DELONGPRE",
+        "target": "RIZZO",
+        "weight": 19
+      },
+      {
+        "source": "DELONGPRE",
+        "target": "THORGON",
+        "weight": 1
+      },
+      {
+        "source": "DELONGPRE",
+        "target": "THORGAN",
+        "weight": 12
+      },
+      {
+        "source": "DELONGPRE",
+        "target": "KKINSA",
+        "weight": 2
+      },
+      {
+        "source": "DELONGPRE",
+        "target": "KICKER",
+        "weight": 1
+      },
+      {
+        "source": "FAT LOU",
+        "target": "BRODSKI",
+        "weight": 1
+      },
+      {
+        "source": "FAT LOU",
+        "target": "THORGAN",
+        "weight": 2
+      },
+      {
+        "source": "FAT LOU",
+        "target": "KKINSA",
+        "weight": 1
+      },
+      {
+        "source": "FAT LOU",
+        "target": "DELONGPREE",
+        "weight": 1
+      },
+      {
+        "source": "FAT LOU",
+        "target": "KICKER",
+        "weight": 2
+      },
+      {
+        "source": "SERGEANT BRODSKI",
+        "target": "KKINSA",
+        "weight": 1
+      },
+      {
+        "source": "SERGEANT BRODSKI",
+        "target": "THORGAN",
+        "weight": 1
+      },
+      {
+        "source": "SERGEANT BRODSKI",
+        "target": "DELONGPREE",
+        "weight": 1
+      },
+      {
+        "source": "SERGEANT BRODSKI",
+        "target": "KICKER",
+        "weight": 1
+      },
+      {
+        "source": "RIZZO",
+        "target": "KKINSA",
+        "weight": 6
+      },
+      {
+        "source": "RIZZO",
+        "target": "BRODSKI",
+        "weight": 9
+      },
+      {
+        "source": "RIZZO",
+        "target": "THORGON",
+        "weight": 3
+      },
+      {
+        "source": "RIZZO",
+        "target": "THORGAN",
+        "weight": 11
+      },
+      {
+        "source": "RIZZO",
+        "target": "KICKER",
+        "weight": 1
+      },
+      {
+        "source": "BRODSKI",
+        "target": "KKINSA",
+        "weight": 1
+      },
+      {
+        "source": "BRODSKI",
+        "target": "THORGON",
+        "weight": 1
+      },
+      {
+        "source": "BRODSKI",
+        "target": "SVEN",
+        "weight": 2
+      },
+      {
+        "source": "BRODSKI",
+        "target": "THORGAN",
+        "weight": 5
+      },
+      {
+        "source": "BRODSKI",
+        "target": "KICKER",
+        "weight": 5
+      },
+      {
+        "source": "THORGON",
+        "target": "THORGAN",
+        "weight": 1
+      },
+      {
+        "source": "THORGON",
+        "target": "KKINSA",
+        "weight": 1
+      },
+      {
+        "source": "SVEN",
+        "target": "KICKER",
+        "weight": 2
+      },
+      {
+        "source": "THORGAN",
+        "target": "KKINSA",
+        "weight": 4
+      },
+      {
+        "source": "THORGAN",
+        "target": "STONEY",
+        "weight": 1
+      },
+      {
+        "source": "THORGAN",
+        "target": "DELONGPREE",
+        "weight": 3
+      },
+      {
+        "source": "THORGAN",
+        "target": "KICKER",
+        "weight": 3
+      },
+      {
+        "source": "KKINSA",
+        "target": "STONEY",
+        "weight": 2
+      },
+      {
+        "source": "KKINSA",
+        "target": "DELONGPREE",
+        "weight": 2
+      },
+      {
+        "source": "KKINSA",
+        "target": "KICKER",
+        "weight": 2
+      },
+      {
+        "source": "STONEY",
+        "target": "DELONGPREE",
+        "weight": 1
+      },
+      {
+        "source": "DELONGPREE",
+        "target": "KICKER",
+        "weight": 2
+      }
+    ],
+    "nodes": [
+      {
+        "id": "ADRIENNE",
+        "name": "ADRIENNE",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 14,
+        "pagerank": 0.03842034446461227,
+        "object_id": "2775401",
+        "triangles": 79,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.48,
+        "betweenness centrality": 1.9151515151515153,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KAY-EM 14",
+        "name": "KAY-EM 14",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 18,
+        "pagerank": 0.06851816054352416,
+        "object_id": "2775526",
+        "triangles": 110,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.28,
+        "betweenness centrality": 8.15407647907648,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BOEMEN",
+        "name": "BOEMEN",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 6,
+        "pagerank": 0.010974494425148574,
+        "object_id": "2778300",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.88,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COMPUTER VOICE",
+        "name": "COMPUTER VOICE",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 13,
+        "pagerank": 0.02359518800850727,
+        "object_id": "2775645",
+        "triangles": 72,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.48,
+        "betweenness centrality": 1.3484848484848486,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BRIGGS",
+        "name": "BRIGGS",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.008194161430732927,
+        "object_id": "2778133",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "CRUTCH",
+        "name": "CRUTCH",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 8,
+        "pagerank": 0.018534814155361918,
+        "object_id": "2778491",
+        "triangles": 28,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.76,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BOEMAN",
+        "name": "BOEMAN",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 20,
+        "pagerank": 0.09045196136513732,
+        "object_id": "2775468",
+        "triangles": 119,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.2,
+        "betweenness centrality": 19.140656565656563,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GIRL",
+        "name": "GIRL",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.006576403719515389,
+        "object_id": "2777059",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.36,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JANESSA",
+        "name": "JANESSA",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 16,
+        "pagerank": 0.06465059825957972,
+        "object_id": "2775844",
+        "triangles": 95,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.4,
+        "betweenness centrality": 3.997258297258298,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DALLAS",
+        "name": "DALLAS",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 6,
+        "pagerank": 0.011615622729515062,
+        "object_id": "2776329",
+        "triangles": 15,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "YLLO",
+        "name": "YLLO",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 20,
+        "pagerank": 0.08521642599834132,
+        "object_id": "2775460",
+        "triangles": 117,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.2,
+        "betweenness centrality": 34.50883838383839,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "AZRAEL",
+        "name": "AZRAEL",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 17,
+        "pagerank": 0.042676268858649294,
+        "object_id": "2775575",
+        "triangles": 103,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.32,
+        "betweenness centrality": 6.546933621933621,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BERNIE",
+        "name": "BERNIE",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 1,
+        "pagerank": 0.008283992860839277,
+        "object_id": "2776206",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.52,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DELONGPRE",
+        "name": "DELONGPRE",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 15,
+        "pagerank": 0.0770600442958991,
+        "object_id": "2776567",
+        "triangles": 82,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.44,
+        "betweenness centrality": 4.084632034632034,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FAT LOU",
+        "name": "FAT LOU",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 12,
+        "pagerank": 0.026625086995103103,
+        "object_id": "2775454",
+        "triangles": 52,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.56,
+        "betweenness centrality": 24.302020202020202,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PEREZ",
+        "name": "PEREZ",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.006611488989716051,
+        "object_id": "2776726",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.16,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SERGEANT BRODSKI",
+        "name": "SERGEANT BRODSKI",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 10,
+        "pagerank": 0.014308234437737431,
+        "object_id": "2775849",
+        "triangles": 45,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.68,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RIZZO",
+        "name": "RIZZO",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 16,
+        "pagerank": 0.08831517123471895,
+        "object_id": "2777077",
+        "triangles": 78,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.4,
+        "betweenness centrality": 29.208441558441557,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BRODSKI",
+        "name": "BRODSKI",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 15,
+        "pagerank": 0.05830420977163458,
+        "object_id": "2776218",
+        "triangles": 67,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.4,
+        "betweenness centrality": 18.7752886002886,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THORGON",
+        "name": "THORGON",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 9,
+        "pagerank": 0.015434624892195133,
+        "object_id": "2777977",
+        "triangles": 33,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.68,
+        "betweenness centrality": 0.7575757575757576,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SVEN",
+        "name": "SVEN",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.009340284942034541,
+        "object_id": "2777758",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.16,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "THORGAN",
+        "name": "THORGAN",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 21,
+        "pagerank": 0.09801343293767074,
+        "object_id": "2775530",
+        "triangles": 124,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.16,
+        "betweenness centrality": 23.10732323232323,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KKINSA",
+        "name": "KKINSA",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 19,
+        "pagerank": 0.04520734704634542,
+        "object_id": "2775544",
+        "triangles": 117,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.24,
+        "betweenness centrality": 11.307323232323233,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "STONEY",
+        "name": "STONEY",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 8,
+        "pagerank": 0.014370614698413695,
+        "object_id": "2775395",
+        "triangles": 28,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.8,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DELONGPREE",
+        "name": "DELONGPREE",
+        "color": "#5E3C99",
+        "group": 2,
+        "degree": 13,
+        "pagerank": 0.0281722603868766,
+        "object_id": "2775564",
+        "triangles": 70,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.52,
+        "betweenness centrality": 1.3611832611832613,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KICKER",
+        "name": "KICKER",
+        "color": "#FDB863",
+        "group": 0,
+        "degree": 16,
+        "pagerank": 0.040528762552190296,
+        "object_id": "2775488",
+        "triangles": 92,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.36,
+        "betweenness centrality": 14.48481240981241,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": -62.99417,
+        "y": -16.296257,
+        "name": "ADRIENNE"
+      },
+      {
+        "x": -18.920906,
+        "y": 11.871978,
+        "name": "KAY-EM 14"
+      },
+      {
+        "x": 182.86835,
+        "y": -43.342297,
+        "name": "BOEMEN"
+      },
+      {
+        "x": -73.50835,
+        "y": -66.98159,
+        "name": "COMPUTER VOICE"
+      },
+      {
+        "x": -128.04987,
+        "y": -51.493885,
+        "name": "BRIGGS"
+      },
+      {
+        "x": 101.69538,
+        "y": 86.75736,
+        "name": "CRUTCH"
+      },
+      {
+        "x": 62.031223,
+        "y": 41.920517,
+        "name": "BOEMAN"
+      },
+      {
+        "x": 88.42544,
+        "y": -169.88959,
+        "name": "GIRL"
+      },
+      {
+        "x": 37.12592,
+        "y": 75.33116,
+        "name": "JANESSA"
+      },
+      {
+        "x": -20.72898,
+        "y": -114.36841,
+        "name": "DALLAS"
+      },
+      {
+        "x": -17.876768,
+        "y": 54.96014,
+        "name": "YLLO"
+      },
+      {
+        "x": -73.30999,
+        "y": 28.083553,
+        "name": "AZRAEL"
+      },
+      {
+        "x": -222.89949,
+        "y": 52.85649,
+        "name": "BERNIE"
+      },
+      {
+        "x": 25.091013,
+        "y": 35.1214,
+        "name": "DELONGPRE"
+      },
+      {
+        "x": -131.92262,
+        "y": 63.44146,
+        "name": "FAT LOU"
+      },
+      {
+        "x": -5.196451,
+        "y": 230.69176,
+        "name": "PEREZ"
+      },
+      {
+        "x": -150.44592,
+        "y": -4.4841986,
+        "name": "SERGEANT BRODSKI"
+      },
+      {
+        "x": 61.076603,
+        "y": 3.0631707,
+        "name": "RIZZO"
+      },
+      {
+        "x": 0.98793775,
+        "y": 97.82936,
+        "name": "BRODSKI"
+      },
+      {
+        "x": 126.49984,
+        "y": -65.056305,
+        "name": "THORGON"
+      },
+      {
+        "x": -63.5005,
+        "y": 178.63828,
+        "name": "SVEN"
+      },
+      {
+        "x": 16.868155,
+        "y": -4.941928,
+        "name": "THORGAN"
+      },
+      {
+        "x": 43.807243,
+        "y": -52.380653,
+        "name": "KKINSA"
+      },
+      {
+        "x": 122.38074,
+        "y": -10.933921,
+        "name": "STONEY"
+      },
+      {
+        "x": -24.867462,
+        "y": -56.626785,
+        "name": "DELONGPREE"
+      },
+      {
+        "x": -63.502293,
+        "y": 94.02352,
+        "name": "KICKER"
+      }
+    ]
+  }
+}

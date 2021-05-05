@@ -1,0 +1,720 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "TEACHER",
+        "target": "TOMMY",
+        "weight": 1
+      },
+      {
+        "source": "TEACHER",
+        "target": "JACOB",
+        "weight": 1
+      },
+      {
+        "source": "JEFF",
+        "target": "KENNY",
+        "weight": 1
+      },
+      {
+        "source": "JEFF",
+        "target": "JACOB",
+        "weight": 1
+      },
+      {
+        "source": "YACCO",
+        "target": "MALEE",
+        "weight": 5
+      },
+      {
+        "source": "YACCO",
+        "target": "GUS",
+        "weight": 3
+      },
+      {
+        "source": "YACCO",
+        "target": "DEBBIE",
+        "weight": 1
+      },
+      {
+        "source": "PATRICK",
+        "target": "JACOB",
+        "weight": 1
+      },
+      {
+        "source": "PATRICK",
+        "target": "DOCTOR",
+        "weight": 1
+      },
+      {
+        "source": "PATRICK",
+        "target": "HALEY",
+        "weight": 1
+      },
+      {
+        "source": "PATRICK",
+        "target": "SARA",
+        "weight": 1
+      },
+      {
+        "source": "PATRICK",
+        "target": "LEONARD",
+        "weight": 5
+      },
+      {
+        "source": "PATRICK",
+        "target": "GRACE",
+        "weight": 4
+      },
+      {
+        "source": "NURSE",
+        "target": "LEONARD",
+        "weight": 2
+      },
+      {
+        "source": "MALEE",
+        "target": "GUS",
+        "weight": 5
+      },
+      {
+        "source": "MALEE",
+        "target": "RUDY",
+        "weight": 1
+      },
+      {
+        "source": "MALEE",
+        "target": "JACOB",
+        "weight": 2
+      },
+      {
+        "source": "MALEE",
+        "target": "WORKER",
+        "weight": 1
+      },
+      {
+        "source": "MALEE",
+        "target": "LEONARD",
+        "weight": 4
+      },
+      {
+        "source": "MALEE",
+        "target": "DEBBIE",
+        "weight": 1
+      },
+      {
+        "source": "MALEE",
+        "target": "MR FARMER",
+        "weight": 1
+      },
+      {
+        "source": "MOTHER # 1",
+        "target": "ASHLEY",
+        "weight": 1
+      },
+      {
+        "source": "GUS",
+        "target": "WORKER",
+        "weight": 1
+      },
+      {
+        "source": "GUS",
+        "target": "LEONARD",
+        "weight": 1
+      },
+      {
+        "source": "JACOB",
+        "target": "ASHLEY",
+        "weight": 4
+      },
+      {
+        "source": "JACOB",
+        "target": "KEITH",
+        "weight": 2
+      },
+      {
+        "source": "JACOB",
+        "target": "TOMMY",
+        "weight": 1
+      },
+      {
+        "source": "JACOB",
+        "target": "LEONARD",
+        "weight": 5
+      },
+      {
+        "source": "JACOB",
+        "target": "KENNY",
+        "weight": 5
+      },
+      {
+        "source": "JACOB",
+        "target": "RUDY",
+        "weight": 4
+      },
+      {
+        "source": "JACOB",
+        "target": "JIM",
+        "weight": 3
+      },
+      {
+        "source": "JACOB",
+        "target": "GRACE",
+        "weight": 1
+      },
+      {
+        "source": "HALEY",
+        "target": "SARA",
+        "weight": 1
+      },
+      {
+        "source": "HALEY",
+        "target": "LEONARD",
+        "weight": 1
+      },
+      {
+        "source": "HALEY",
+        "target": "GRACE",
+        "weight": 2
+      },
+      {
+        "source": "ASHLEY",
+        "target": "JIM",
+        "weight": 3
+      },
+      {
+        "source": "ASHLEY",
+        "target": "RUDY",
+        "weight": 1
+      },
+      {
+        "source": "COACH",
+        "target": "LEONARD",
+        "weight": 2
+      },
+      {
+        "source": "KENNY",
+        "target": "RUDY",
+        "weight": 1
+      },
+      {
+        "source": "GABE",
+        "target": "JIM",
+        "weight": 2
+      },
+      {
+        "source": "LEONARD",
+        "target": "SARA",
+        "weight": 1
+      },
+      {
+        "source": "LEONARD",
+        "target": "RUDY",
+        "weight": 2
+      },
+      {
+        "source": "LEONARD",
+        "target": "GRACE",
+        "weight": 5
+      },
+      {
+        "source": "KEITH",
+        "target": "JIM",
+        "weight": 1
+      },
+      {
+        "source": "RUDY",
+        "target": "JIM",
+        "weight": 1
+      },
+      {
+        "source": "DOCTOR",
+        "target": "GRACE",
+        "weight": 1
+      },
+      {
+        "source": "SARA",
+        "target": "GRACE",
+        "weight": 2
+      }
+    ],
+    "nodes": [
+      {
+        "id": "TEACHER",
+        "name": "TEACHER",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.0175096757436699,
+        "object_id": "11492",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.4166666666666665,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JEFF",
+        "name": "JEFF",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.014507597201824242,
+        "object_id": "10784",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.4166666666666665,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "YACCO",
+        "name": "YACCO",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 3,
+        "pagerank": 0.045099854247622785,
+        "object_id": "9996",
+        "triangles": 2,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.6666666666666665,
+        "betweenness centrality": 0.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PATRICK",
+        "name": "PATRICK",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.05907459108915142,
+        "object_id": "10475",
+        "triangles": 9,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 16.833333333333336,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "NURSE",
+        "name": "NURSE",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 1,
+        "pagerank": 0.01361653679280397,
+        "object_id": "11223",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.625,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MALEE",
+        "name": "MALEE",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 8,
+        "pagerank": 0.09634438470612801,
+        "object_id": "10009",
+        "triangles": 7,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7916666666666667,
+        "betweenness centrality": 80.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MOTHER # 1",
+        "name": "MOTHER # 1",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.010655141021099615,
+        "object_id": "11021",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.2083333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GUS",
+        "name": "GUS",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 4,
+        "pagerank": 0.04912411901805199,
+        "object_id": "10903",
+        "triangles": 3,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.3333333333333335,
+        "betweenness centrality": 7.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JACOB",
+        "name": "JACOB",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 12,
+        "pagerank": 0.1435711187729569,
+        "object_id": "9891",
+        "triangles": 13,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.5,
+        "betweenness centrality": 135.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HALEY",
+        "name": "HALEY",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.025740224853319747,
+        "object_id": "12762",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.4583333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WORKER",
+        "name": "WORKER",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.014270091740369618,
+        "object_id": "11946",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.7083333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DEBBIE",
+        "name": "DEBBIE",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 2,
+        "pagerank": 0.014353974243499521,
+        "object_id": "10186",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.7083333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MR FARMER",
+        "name": "MR FARMER",
+        "color": "#FDB863",
+        "group": 2,
+        "degree": 1,
+        "pagerank": 0.010094596579059869,
+        "object_id": "11760",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.75,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ASHLEY",
+        "name": "ASHLEY",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 4,
+        "pagerank": 0.049288011354636556,
+        "object_id": "10293",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.25,
+        "betweenness centrality": 23.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "COACH",
+        "name": "COACH",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 1,
+        "pagerank": 0.01361653679280397,
+        "object_id": "11574",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.625,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KENNY",
+        "name": "KENNY",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 3,
+        "pagerank": 0.03656109101681689,
+        "object_id": "9947",
+        "triangles": 2,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.375,
+        "betweenness centrality": 0.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TOMMY",
+        "name": "TOMMY",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.0175096757436699,
+        "object_id": "11522",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.4166666666666665,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GABE",
+        "name": "GABE",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.015269107523494432,
+        "object_id": "10409",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 3.1666666666666665,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LEONARD",
+        "name": "LEONARD",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 10,
+        "pagerank": 0.12545074564347608,
+        "object_id": "10046",
+        "triangles": 12,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.6666666666666667,
+        "betweenness centrality": 85.83333333333333,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KEITH",
+        "name": "KEITH",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 2,
+        "pagerank": 0.01877040712985389,
+        "object_id": "14132",
+        "triangles": 1,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.375,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RUDY",
+        "name": "RUDY",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 6,
+        "pagerank": 0.04771220540869491,
+        "object_id": "9894",
+        "triangles": 7,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7916666666666667,
+        "betweenness centrality": 27.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "JIM",
+        "name": "JIM",
+        "color": "#E66101",
+        "group": 1,
+        "degree": 5,
+        "pagerank": 0.05452243768567443,
+        "object_id": "10289",
+        "triangles": 4,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.2083333333333335,
+        "betweenness centrality": 24.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "DOCTOR",
+        "name": "DOCTOR",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 2,
+        "pagerank": 0.013709357805500973,
+        "object_id": "11161",
+        "triangles": 1,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.9166666666666665,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SARA",
+        "name": "SARA",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.025740224853319747,
+        "object_id": "12756",
+        "triangles": 6,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.4583333333333335,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "GRACE",
+        "name": "GRACE",
+        "color": "#5E3C99",
+        "group": 0,
+        "degree": 6,
+        "pagerank": 0.06788829303250055,
+        "object_id": "11070",
+        "triangles": 9,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 16.833333333333336,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": -162.70335,
+        "y": 10.327253,
+        "name": "TEACHER"
+      },
+      {
+        "x": -138.02345,
+        "y": 75.72548,
+        "name": "JEFF"
+      },
+      {
+        "x": 124.885056,
+        "y": 6.081393,
+        "name": "YACCO"
+      },
+      {
+        "x": -30.877577,
+        "y": -69.39546,
+        "name": "PATRICK"
+      },
+      {
+        "x": 24.958328,
+        "y": 13.527865,
+        "name": "NURSE"
+      },
+      {
+        "x": 80.348885,
+        "y": 16.1753,
+        "name": "MALEE"
+      },
+      {
+        "x": -136.23369,
+        "y": 159.51193,
+        "name": "MOTHER # 1"
+      },
+      {
+        "x": 117.02017,
+        "y": 41.025253,
+        "name": "GUS"
+      },
+      {
+        "x": -52.864895,
+        "y": 44.118416,
+        "name": "JACOB"
+      },
+      {
+        "x": -45.779823,
+        "y": -124.1291,
+        "name": "HALEY"
+      },
+      {
+        "x": 169.9601,
+        "y": 55.2507,
+        "name": "WORKER"
+      },
+      {
+        "x": 113.84597,
+        "y": -35.60426,
+        "name": "DEBBIE"
+      },
+      {
+        "x": 157.9996,
+        "y": -38.912933,
+        "name": "MR FARMER"
+      },
+      {
+        "x": -80.10569,
+        "y": 99.97049,
+        "name": "ASHLEY"
+      },
+      {
+        "x": 50.374397,
+        "y": -56.188263,
+        "name": "COACH"
+      },
+      {
+        "x": -96.75738,
+        "y": 48.64869,
+        "name": "KENNY"
+      },
+      {
+        "x": -179.30705,
+        "y": 45.680347,
+        "name": "TOMMY"
+      },
+      {
+        "x": -65.43252,
+        "y": 184.26306,
+        "name": "GABE"
+      },
+      {
+        "x": 5.713133,
+        "y": -25.40344,
+        "name": "LEONARD"
+      },
+      {
+        "x": -21.111788,
+        "y": 116.12275,
+        "name": "KEITH"
+      },
+      {
+        "x": -8.79871,
+        "y": 63.473457,
+        "name": "RUDY"
+      },
+      {
+        "x": -58.84242,
+        "y": 133.84435,
+        "name": "JIM"
+      },
+      {
+        "x": 41.379654,
+        "y": -136.87503,
+        "name": "DOCTOR"
+      },
+      {
+        "x": -4.8203197,
+        "y": -139.51886,
+        "name": "SARA"
+      },
+      {
+        "x": 2.7041166,
+        "y": -88.02007,
+        "name": "GRACE"
+      }
+    ]
+  }
+}
