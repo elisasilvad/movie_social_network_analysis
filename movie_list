@@ -2,6 +2,11 @@ import json
 import networkx as nx
 import networkx.algorithms.community as nx_comm
 import statistics
+import numpy as np
+import pandas as pd
+from matplotlib import pyplot as plt
+from matplotlib import cm
+from matplotlib.colors import ListedColormap, LinearSegmentedColormap
 
 # FOUR FEATHERS
 print("------Four Feathers------")
@@ -318,9 +323,6 @@ Movie_networks.append(White_Christmas_G)
 print(Movie_networks)
 
 
-print('------A film from the 60s-----')
-
-
 # THE MANCHURIAN CANDIDATE
 print("------The_Manchurian_Candidate------")
 
@@ -628,7 +630,7 @@ print(Movie_networks)
 
 
 # HARD TO KILL
-print("------Hard_To_Kill------")
+print("------Hard To Kill------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/Hard_To_Kill.json", "r", encoding='utf-8') as data:
@@ -679,7 +681,7 @@ print(Movie_networks)
 
 
 # TOP GUN
-print("------Top_Gun------")
+print("------Top Gun------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/Top_Gun.json", "r", encoding='utf-8') as data:
@@ -730,7 +732,7 @@ print(Movie_networks)
 
 
 # RAISING ARIZONA
-print("------Raising_Arizona------")
+print("------Raising Arizona------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/Raising_Arizona.json", "r", encoding='utf-8') as data:
@@ -781,7 +783,7 @@ print(Movie_networks)
 
 
 # BABETTE'S FEAST
-print("------Babette_Feast------")
+print("------Babette Feast------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/Babette_Feast.json", "r", encoding='utf-8') as data:
@@ -883,7 +885,7 @@ print(Movie_networks)
 
 
 # ESCAPE FROM NEW YORK
-print("------Escape_From_New_York------")
+print("------Escape From New York------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/Escape_From_New_York.json", "r", encoding='utf-8') as data:
@@ -1036,7 +1038,7 @@ print(Movie_networks)
 
 
 # LOST IN SPACE
-print("------Lost_In_Space------")
+print("------Lost In Space------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/Lost_In_Space.json", "r", encoding='utf-8') as data:
@@ -1087,7 +1089,7 @@ print(Movie_networks)
 
 
 # FRENCH KISS
-print("------French_Kiss------")
+print("------French Kiss------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/French_Kiss.json", "r", encoding='utf-8') as data:
@@ -1138,7 +1140,7 @@ print(Movie_networks)
 
 
 # JACKIE BROWN
-print("------Jackie_Brown------")
+print("------Jackie Brown------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/Jackie_Brown.json", "r", encoding='utf-8') as data:
@@ -1189,7 +1191,7 @@ print(Movie_networks)
 
 
 # THE MATRIX
-print("------The_Matrix------")
+print("------The Matrix------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/The_Matrix.json", "r", encoding='utf-8') as data:
@@ -1240,7 +1242,7 @@ print(Movie_networks)
 
 
 # ENEMY OF THE STATE
-print("------Enemy_Of_The_State------")
+print("------Enemy Of The State------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/Enemy_Of_The_State.json", "r", encoding='utf-8') as data:
@@ -1291,7 +1293,7 @@ print(Movie_networks)
 
 
 # ONE EIGHT SEVEN
-print("------One_Eight_Seven------")
+print("------One Eight Seven------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/One_Eight_Seven.json", "r", encoding='utf-8') as data:
@@ -1342,7 +1344,7 @@ print(Movie_networks)
 
 
 # THE CROW: CITY OF ANGELS
-print("------The_Crow------")
+print("------The Crow------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/The_Crow.json", "r", encoding='utf-8') as data:
@@ -1393,7 +1395,7 @@ print(Movie_networks)
 
 
 # DONNIE BRASCO
-print("------Donnie_Brasco------")
+print("------Donnie Brasco------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/Donnie_Brasco.json", "r", encoding='utf-8') as data:
@@ -1444,7 +1446,7 @@ print(Movie_networks)
 
 
 # WILD WILD WEST
-print("------Wild_Wild_West------")
+print("------Wild Wild West------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/Wild_Wild_West.json", "r", encoding='utf-8') as data:
@@ -1495,7 +1497,7 @@ print(Movie_networks)
 
 
 # BROKEN ARROW
-print("------Broken_Arrow------")
+print("------Broken Arrow------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/Broken_Arrow.json", "r", encoding='utf-8') as data:
@@ -1646,7 +1648,7 @@ print(Movie_networks)
 
 
 # SO I MARRIED AN AXE MURDERER?
-print("------Axe_Murderer------")
+print("------So I Married an Axe Murderer------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/Axe_Murderer.json", "r", encoding='utf-8') as data:
@@ -1697,7 +1699,7 @@ print(Movie_networks)
 
 
 # WONDER BOYS
-print("------Wonder_Boys------")
+print("------Wonder Boys------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/Wonder_Boys.json", "r", encoding='utf-8') as data:
@@ -1799,7 +1801,7 @@ print(Movie_networks)
 
 
 # NICK OF TIME
-print("------Nick_Of_Time------")
+print("------Nick Of Time------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/Nick_Of_Time.json", "r", encoding='utf-8') as data:
@@ -1901,7 +1903,7 @@ print(Movie_networks)
 
 
 # MY BEST FRIEND's WEDDING
-print("------Best_Friend_Wedding------")
+print("------My Best Friend Wedding------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/Best_Friend_Wedding.json", "r", encoding='utf-8') as data:
@@ -1952,7 +1954,7 @@ print(Movie_networks)
 
 
 # THE DEVIL's ADVOCATE
-print("------Devil_Advocate------")
+print("------The Devil's Advocate------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/Devil_Advocate.json", "r", encoding='utf-8') as data:
@@ -2003,7 +2005,7 @@ print(Movie_networks)
 
 
 # BEING JOHN MALKOVICH
-print("------John_Malkovich------")
+print("------John Malkovich------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/John_Malkovich.json", "r", encoding='utf-8') as data:
@@ -2054,7 +2056,7 @@ print(Movie_networks)
 
 
 # BODY OF EVIDENCE
-print("------Body_Of_Evidence------")
+print("------Body Of Evidence------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/Body_Of_Evidence.json", "r", encoding='utf-8') as data:
@@ -2105,7 +2107,7 @@ print(Movie_networks)
 
 
 # RACHEL GETTING MARRIED
-print("------Rachel_Getting_Married------")
+print("------Rachel Getting Married------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/Rachel_Getting_Married.json", "r", encoding='utf-8') as data:
@@ -2258,7 +2260,7 @@ print(Movie_networks)
 
 
 # NINJA ASSASSIN
-print("------Ninja_Assassin------")
+print("------Ninja Assassin------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/Ninja_Assassin.json", "r", encoding='utf-8') as data:
@@ -2361,7 +2363,7 @@ print(Movie_networks)
 
 
 # JASON X
-print("------Jason_X------")
+print("------Jason X------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/Jason_X.json", "r", encoding='utf-8') as data:
@@ -2413,7 +2415,7 @@ print(Movie_networks)
 
 
 # THE BATTLE OF THE SHAKER HEIGHTS
-print("------Battle_Of_Shaker_Heights------")
+print("------Battle Of Shaker Heights------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/Battle_Of_Shaker_Heights.json", "r", encoding='utf-8') as data:
@@ -2465,7 +2467,7 @@ print(Movie_networks)
 
 
 # AMERICAN GANGSTER
-print("------American_Gangster------")
+print("------American Gangster------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/American_Gangster.json", "r", encoding='utf-8') as data:
@@ -2515,9 +2517,8 @@ Movie_networks.append(American_Gangster_G)
 print(Movie_networks)
 
 
-
 # PIRATES OF CARIBBEAN - The Curse of the Black Pearl
-print("------Pirates_Of_The Caribbean------")
+print("------Pirates Of The Caribbean------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/Pirates_Of_The Caribbean.json", "r", encoding='utf-8') as data:
@@ -2568,7 +2569,7 @@ print(Movie_networks)
 
 
 # TWELVE AND HOLDING
-print("------Twelve_And_Holding------")
+print("------Twelve And Holding------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/Twelve_And_Holding.json", "r", encoding='utf-8') as data:
@@ -2620,7 +2621,7 @@ print(Movie_networks)
 
 
 # REVOLUTIONARY ROAD
-print("------Revolutionary_Road------")
+print("------Revolutionary Road------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/Revolutionary_Road.json", "r", encoding='utf-8') as data:
@@ -2671,7 +2672,7 @@ print(Movie_networks)
 
 
 # THE BELIVER
-print("------The_Believer------")
+print("------The Believer------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/The_Believer.json", "r", encoding='utf-8') as data:
@@ -2825,7 +2826,7 @@ print(Movie_networks)
 
 
 # VANILLA SKY
-print("------Vanilla_Sky------")
+print("------Vanilla Sky------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/Vanilla_Sky.json", "r", encoding='utf-8') as data:
@@ -2877,7 +2878,7 @@ print(Movie_networks)
 
 
 # JIMMY AND JUDY
-print("------Jimmy_And_Judy------")
+print("------Jimmy And Judy------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/Jimmy_And_Judy.json", "r", encoding='utf-8') as data:
@@ -2928,7 +2929,7 @@ print(Movie_networks)
 
 
 # BLACK SNAKE MOAN
-print("------Black_Snake_Moan------")
+print("------Black Snake Moan------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/Black_Snake_Moan.json", "r", encoding='utf-8') as data:
@@ -2979,7 +2980,7 @@ print(Movie_networks)
 
 
 # HOUSE OF 1000 CORPSES
-print("------House_Of_Corpses------")
+print("------House Of Corpses------")
 
 # Read the json data in Python - processed in a dictionary structure
 with open("data/movies/House_Of_Corpses.json", "r", encoding='utf-8') as data:
@@ -3047,13 +3048,57 @@ for G in Movie_networks:
             female.append(n)
         elif G.nodes[n]['gender'] == 'male':
             male.append(n)
-#print(female, male)
+            
     G_modularity = nx_comm.modularity(G, [male, female])
-    #print('Modularity: ', G_modularity)
     Movie_modularity.append(G_modularity)
-#print(Movie_modularity)
+
+print(Movie_modularity)
 
 # Use statistics module to compute modularity mean and standard deviation
 print('Modularity mean:', statistics.mean(Movie_modularity))
 print('Modularity standard deviation: ', statistics.pstdev(Movie_modularity))
+
+df = pd.DataFrame({
+      'Movie modularity': Movie_modularity,
+      'Modularity mean': statistics.mean(Movie_modularity)})
+
+df.plot(grid=False)
+plt.show()
+
+df.boxplot(grid=False)
+plt.show()
+
+
+Movies = ['Four Feathers', 'Lost Horizon', "It's a Wonderful Life", 'Mr Blandings Builds His Dream House', 'Gunsmoke', 'White_Christmas', 'The_Manchurian_Candidate', 'Planet_of_Apes', 'Rocky', 'Barry_Lyndon', 'The_Getaway', 'Gremlins', 'Hard To Kill', 'Top Gun', 'Raising Arizona', 'Babette Feast', 'Amadeus', 'Escape From New York', 'Batman', 'Kundun', 'Lost In Space', 'French Kiss', 'Jackie Brown', 'The Matrix', 'Enemy Of The State', 'One Eight Seven', 'The Crow', 'Donnie Brasco', 'Wild Wild West', 'Broken Arrow', 'Copycat', 'Bean', 'So I Married an Axe Murderer', 'Wonder Boys', 'Mumford', 'Nick Of Time', 'Life', 'My Best Friend Wedding', "The Devil's Advocate", 'Being John Malkovich', 'Body Of Evidence', 'Rachel Getting Married', 'RocknRolla', 'Ali', 'Ninja Assassin', 'Mirrors', 'Jason X', 'Battle Of Shaker Heights', 'American Gangster', 'Pirates Of The Caribbean', 'Twelve And Holding', 'Revolutionary Road', 'The Believer', 'Up', 'Orphan', 'Vanilla Sky', 'Jimmy And Judy', 'Black Snake Moan', 'House Of Corpses']
+Modularity_per_movie = dict(zip(Movies, Movie_modularity))
+print(Modularity_per_movie)
+Sorted_modularity_per_movie = {k: v for k, v in sorted(Modularity_per_movie.items(), key=lambda item: item[1])}
+print(Sorted_modularity_per_movie)
+
+color = list()
+df = pd.DataFrame.from_dict(Sorted_modularity_per_movie, orient='index')
+ax = df.plot.barh()
+
+ax.patches[df.index.get_indexer(['Four Feathers'])[0]].set_facecolor('#19004d')
+ax.patches[df.index.get_indexer(['Lost Horizon'])[0]].set_facecolor('#2a0080')
+for i in ["It's a Wonderful Life", 'Mr Blandings Builds His Dream House']:
+    ax.patches[df.index.get_indexer([i])[0]].set_facecolor('#3b00b3')
+for i in ['Gunsmoke', 'White_Christmas']:
+    ax.patches[df.index.get_indexer([i])[0]].set_facecolor('#4c00e6')
+for i in ['The_Manchurian_Candidate', 'Planet_of_Apes']:
+    ax.patches[df.index.get_indexer([i])[0]].set_facecolor('#661aff')
+for i in ['Rocky', 'Barry_Lyndon', 'The_Getaway']:
+    ax.patches[df.index.get_indexer([i])[0]].set_facecolor('#884dff')
+for i in ['Gremlins', 'Hard To Kill', 'Top Gun', 'Raising Arizona', 'Babette Feast', 'Amadeus', 'Escape From New York', 'Batman']:
+    ax.patches[df.index.get_indexer([i])[0]].set_facecolor('#aa80ff')
+for i in ['Kundun', 'Lost In Space', 'French Kiss', 'Jackie Brown', 'The Matrix', 'Enemy Of The State', 'One Eight Seven', 'The Crow', 'Donnie Brasco', 'Wild Wild West', 'Broken Arrow', 'Copycat', 'Bean', 'So I Married an Axe Murderer', 'Wonder Boys', 'Mumford', 'Nick Of Time', 'Life', 'My Best Friend Wedding', "The Devil's Advocate", 'Being John Malkovich', 'Body Of Evidence']:
+    ax.patches[df.index.get_indexer([i])[0]].set_facecolor('#ccb3ff')
+for i in ['Rachel Getting Married', 'RocknRolla', 'Ali', 'Ninja Assassin', 'Mirrors', 'Jason X', 'Battle Of Shaker Heights', 'American Gangster', 'Pirates Of The Caribbean', 'Twelve And Holding', 'Revolutionary Road', 'The Believer', 'Up', 'Orphan', 'Vanilla Sky', 'Jimmy And Judy', 'Black Snake Moan', 'House Of Corpses']:
+    ax.patches[df.index.get_indexer([i])[0]].set_facecolor('#eee6ff')
+
+plt.legend(["10s", "30s", "40s", "50s", "60s", "70s", "80s", "90s", "2000s"])
+plt.yticks(fontsize=6)
+plt.show()
+
+#print(pd.DataFrame.from_dict(Modularity_per_movie, orient='index'))
 
